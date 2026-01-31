@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" id="9cc0c248dc4b8d63" weblate-flags="md-text, safe-html, strict-same">
         <source>Adept #Type #Core</source>
-        <target></target>
+        <target>Adepte #Type #Core</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">1</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="4836fb4d8e0a6d0d" weblate-flags="md-text, safe-html, strict-same">
         <source>Fantasy/Fairy tale: wizard, mage, sorcerer, cleric, druid, seer, diabolist, fey-touched</source>
-        <target></target>
+        <target>**Fantasy/Contes:** sorcier, mage, prêtre, druide, voyant, demonologiste, béni des fées</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">3</context>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b1e80b5b37d41df7" weblate-flags="md-text, safe-html, strict-same">
         <source>Modern/Horror/Romance: psychic, occultist, witch, practitioner, medium, fringe scientist</source>
-        <target></target>
+        <target>**Moderne/Horreur/Romance:** psychic, occultiste, sorcier, medium, scientifique étrange</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">4</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="85ee492a0b7ca895" weblate-flags="md-text, safe-html, strict-same">
         <source>Science fiction: psion, psionicist, telepath, seeker, master, scanner, ESPer, abomination</source>
-        <target></target>
+        <target>**Science fiction:** psion, psionicist, telepathe, seeker, maître, scanner, ESPer, abomination</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">5</context>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="5940da35c209b87b" weblate-flags="md-text, safe-html, strict-same">
         <source>Superhero/Post-Apocalyptic: mage, sorcerer, power-wielder, master, psion, telepath</source>
-        <target></target>
+        <target>**Superhero/Post-Apocalyptic:** mage, sorcier, porteur de pouvoir, maître, psion, telepathe</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">6</context>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="c4561a7b90ad5e7b" weblate-flags="md-text, safe-html, strict-same">
         <source>You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)</source>
-        <target></target>
+        <target>Vous maîtrisez des pouvoirs ou des capacités qui sont au-delà de l'expérience, la compréhension et quelque fois les croyances de la plupart des gens. En fonction de la campagne, ces pouvoirs peuvent être magiques, psychiques, venant de mutation, ou juste d'une grande variété d'objets intriguants. (le terme "Magie" désigne ici quelque chose d'assez vague. C'est un terme générique pour toutes les choses fantastiques, et sans doute surnaturelles, que votre personnage peut faire et que d'autres ne peuvent pas. Cela peut être en fait une manifestation d'objets technologiques, d'esprits invoqués, de mutations, de pouvoirs psi, de la nanotechnologie, ou de n'importe quelle autre provenance.)</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">8</context>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e4482992d0677550" weblate-flags="md-text, safe-html, strict-same">
         <source>Individual Role: Adepts are usually thoughtful, intelligent types. They often think carefully before acting and rely heavily on their supernatural abilities.</source>
-        <target></target>
+        <target>**Rôle Individuel:** Les Adeptes sont en général des personnes assez intelligentes. ils prennent souvent le temps de réfléchir avant d'agir et dépendent beaucoup de leurs capacités surnaturelles.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">10</context>
@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="fe00efb2213f0672" weblate-flags="md-text, safe-html, strict-same">
         <source>Group Role: Adepts are not powerful in straightforward combat, although they often wield abilities that provide excellent combat support, both offensively and defensively. They sometimes possess abilities that facilitate overcoming challenges. For example, if the group must get through a locked door, an Adept might be able to destroy it or teleport everyone to the other side.</source>
-        <target></target>
+        <target>**Rôle en Groupe:** Les Adeptes ne sont pas très puissants dans un affrontement direct, bien qu'ils possèdent souvent des capacités qui fournissent un excellent soutient dans un combat, que ce soit de manière offensive ou défensive. ils possèdent quelque fois des capacités qui permettent de surmonter les défis. Par exemple, si le groupe doit passer par une porte verrouillée, un Adepte pourrait être capable de détruire la porte ou de téléporter tout le monde de l'autre côté.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">12</context>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1d02f5dd28cf6048" weblate-flags="md-text, safe-html, strict-same">
         <source>Societal Role: In settings where the supernatural is rare, strange, or feared, Adepts are likely rare and feared as well. They remain hidden, shadowy figures. When this is not the case, Adepts are more likely to be common and forthright. They might even take leadership roles.</source>
-        <target></target>
+        <target>**Rôle en société:** Dans une campagne où le surnaturel est rare, étrange, ou craint, les Adeptes sont aussi plutôt rares et craints. ils restent cachés, telles des ombres. Quand ce n'est pas le cas, les Adeptes sont plus probablement assez communs et accessibles. ils pourraient même prendre des rôles de dirigeant.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">14</context>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="190c2f38fe2c6dcc" weblate-flags="md-text, safe-html, strict-same">
         <source>Advanced Adepts: Even at low tiers, Adept powers are impressive. Higher-tier Adepts can accomplish amazing deeds that can reshape matter and the environment around them.</source>
-        <target></target>
+        <target>**Adeptes Avancés:** Même à un rang inférieur, les pouvoirs des adeptes sont impressionants. Les Adeptes de rang supérieur peuvent accomplir des exploits incroyables qui remodèle la matière et l'environement autour d'eux.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">16</context>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="0fa1894d614e80b8" weblate-flags="md-text, safe-html, strict-same">
         <source>(Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.)</source>
-        <target></target>
+        <target>(Les Adeptes sont quasiment à chaque fois les représentants du paranormal ou des sur-humains d'une certain façon, sorciers, psy, ou quelque chose d'approchant. Si la campagne dans laquelle vous jouez n'a rien de tout ça, un Adepte pourrait être un charlatan qui imite les capacités avec des trucs et des accessoires dissimulés, ou un personnage adorant les gadgets, avec une ceinture d'outils pleine d'accessoires. Ou alors c'est une campagne qui peut n'avoir aucun Adepte.)</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">18</context>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="8402efdf2e32c59f" weblate-flags="md-text, safe-html, strict-same">
         <source>ADEPT PLAYER INTRUSIONS</source>
-        <target></target>
+        <target>Intrusions de Joueur pour Adeptes</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">20</context>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1ad75bc91556f4ed" weblate-flags="md-text, safe-html, strict-same">
         <source>When playing an Adept, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.</source>
-        <target></target>
+        <target>Quand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour utiliser une des intrusions de joueur ci-dessous, du moment que la situation s'y prête que la Meneuse soit d'accord.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">22</context>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="33d794773cdc07c4" weblate-flags="md-text, safe-html, strict-same">
         <source>Advantageous Malfunction: A device being used against you malfunctions. It might harm the user or one of their allies for a round, or activate a dramatic and distracting side effect for a few rounds.</source>
-        <target></target>
+        <target>**Disfonctionnement Avantageux:** Un objet utilisé contre vous disfonctionne. Cela peut blesser son utilisateur ou l'un de ses alliés pour un round, ou cela déclenche un effet secondaire dramatique et distrayant pour quelques rounds.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">24</context>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="62c15761e328522e" weblate-flags="md-text, safe-html, strict-same">
         <source>Convenient Idea: A flash of insight provides you with a clear answer or suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.</source>
-        <target></target>
+        <target>**Une Bonne Idée:** Un élair de génie vous donne une réponse claire, ou vous suggère une piste en rapport avec une question urgente, un problème ou un obstacle auquel vous faites face.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">26</context>
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="5011f56e7ebc8ca1" weblate-flags="md-text, safe-html, strict-same">
         <source>Inexplicably Unbroken: An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.</source>
-        <target></target>
+        <target>**Il n'est pas cassé cet objet en fait** Un objet inactif, à l'abandon, ou présumé détruit, s'active temporairement et remet en route une fonction utile à la situation actuelle. C'est juste assez pour vous donner du temps pour trouver une meilleure solution, diminuer une complication qui interférait avec vos capacités, ou qui qui vous permet d'utiliser un cypher ou un artifact hors d'usage.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">28</context>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="8fa2ead9371451e1" weblate-flags="md-text, safe-html, strict-same">
         <source>ADEPT STAT POOLS</source>
-        <target></target>
+        <target>Réserves pour les Adeptes</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b7001c20bbbe74db" weblate-flags="md-text, safe-html, strict-same">
         <source>Stat</source>
-        <target></target>
+        <target>Stat</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">32</context>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1d2e0505d87c87c5" weblate-flags="md-text, safe-html, strict-same">
         <source>Pool Starting Value</source>
-        <target></target>
+        <target>Réserve initiale</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">32</context>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="06d39510070cb158" weblate-flags="md-text, safe-html, strict-same">
         <source>Might</source>
-        <target></target>
+        <target>Puissance</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">32</context>
@@ -172,7 +172,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="06c7522b6a5d3e69" weblate-flags="md-text, safe-html, strict-same">
         <source>Speed</source>
-        <target></target>
+        <target>Célérité</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">32</context>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="72eeaaa15849051b" weblate-flags="md-text, safe-html, strict-same">
         <source>Intellect</source>
-        <target></target>
+        <target>Intellect</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">32</context>
@@ -203,7 +203,7 @@
         </context-group>
       </trans-unit>
       <trans-unit xml:space="preserve" id="6c9ed52601ff3c95" weblate-flags="md-text, safe-html, strict-same">
-        <source>You get 6 additional points to divide among your stat Pools however you wish.</source>
+        <source>Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.</source>
         <target></target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7e49fba53783aa90" weblate-flags="md-text, safe-html, strict-same">
         <source>Adept Background Connection</source>
-        <target></target>
+        <target>Relation avec l'histoire passée de l'Adepte</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">40</context>
@@ -220,7 +220,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="0374e9611a8e02a3" weblate-flags="md-text, safe-html, strict-same">
         <source>Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.</source>
-        <target></target>
+        <target>Votre type vous aide à déterminer la relation que vous avez avec la campagne en cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour définir un fait spécifique à propos de votre histoire qui fournit un relation avec le reste du monde. Vous pouvez aussi créer votre propre histoire.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="dcd6345394fb7139" weblate-flags="md-text, safe-html, strict-same">
         <source>Background</source>
-        <target></target>
+        <target>Historique</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="fe366fc860ef4746" weblate-flags="md-text, safe-html, strict-same">
         <source>You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.</source>
-        <target></target>
+        <target>Vous avez servi d'apprenti à un/e Adepte respecté/e et craint/e par beaucoup. Vous portez sa marque maintenant.  </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b17e1dc4518358ea" weblate-flags="md-text, safe-html, strict-same">
         <source>You studied in a school infamous for its dark, brooding instructors and graduates.</source>
-        <target></target>
+        <target>Vous avez étudié dans une école à la mauvaise réputation à cause de ses sombres et trribles enseignants ainsi qu'à cause des anciens étudiants.  </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="a4a66ae93bd413f2" weblate-flags="md-text, safe-html, strict-same">
         <source>You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential.</source>
-        <target></target>
+        <target>Vous avez acquis vos capacités dans le temps d'un dieu obscur. Ses prêtres et croyants, bien que peu nombreux, respectent et adminrent vos talents et votre potentiel.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="3685bb926f9bc7e4" weblate-flags="md-text, safe-html, strict-same">
         <source>While traveling alone, you saved the life of a powerful person. They remain indebted to you.</source>
-        <target></target>
+        <target>Alors que vous voyagiez seul, vous avez sauvé la vie d'une personne de pouvoir. Elle a une dette envers vous. </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="626c0ab03ea7f7ef" weblate-flags="md-text, safe-html, strict-same">
         <source>Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you.</source>
-        <target></target>
+        <target>Votre mère était une Adepte puissante tant qu'elle vivait, toujours prête à aider les autres autour d'elle. Ces derniers ont une bonne image de vous mais ils attendent aussi beaucoup de vous.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b168810a420ae44a" weblate-flags="md-text, safe-html, strict-same">
         <source>You owe money to a number of people and don’t have the funds to pay your debts.</source>
-        <target></target>
+        <target>Vous devez de l'argent à de nombreuses personnes mais vous n'avez pas les moyens de payer vos dettes.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="db347a551322ec8a" weblate-flags="md-text, safe-html, strict-same">
         <source>You failed disgracefully at your initial studies with your teacher and now proceed on your own.</source>
-        <target></target>
+        <target>Vous avez échoué lamentablement dans vos premières études avec votre maître et vous avez décidé de vous passer d'enseignant à partir de maintenant.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e72e846c426615a5" weblate-flags="md-text, safe-html, strict-same">
         <source>You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention.</source>
-        <target></target>
+        <target>Vous avez appris beaucoup plus vite que ce à quoi s'attendaient vos professeurs. Les pouvoirs en place l'ont noté et vous portent leur attention.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="d86cb8bf02ec5058" weblate-flags="md-text, safe-html, strict-same">
         <source>You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few.</source>
-        <target></target>
+        <target>Vous avez tué en état de légitime défense un criminel bien connu, gagnant ainsi le respect de beaucoup mais aussi l'innimité de certains individus</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7d8ec57c3fd6e1ce" weblate-flags="md-text, safe-html, strict-same">
         <source>You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you.</source>
-        <target></target>
+        <target>Vous avez été formé en tant que Guerrier, mais vos prédilections d'Adepte ont fini par vous conduire sur une autre voie. Vos anciens compagnons ne vous comprennent pas même si ils vous respectent.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="674042b7017bbf9f" weblate-flags="md-text, safe-html, strict-same">
         <source>While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.</source>
-        <target></target>
+        <target>Pendant que vous étudiez pour devenir un Adepte vous travailliez pour une banque, vous faisant des amis parmi le propriétaire et la clientèle.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="65e9f72ccc94752d" weblate-flags="md-text, safe-html, strict-same">
         <source>Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings.</source>
-        <target></target>
+        <target>Votre famille possède un grand vignoble pas loin, connu de tous pour ses vins fins et ses bonnes affaires.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="9f72f58bcac0cd5b" weblate-flags="md-text, safe-html, strict-same">
         <source>You trained for a time with a group of influential Adepts, and they still look upon you with fondness.</source>
-        <target></target>
+        <target>Vous vous êtres entrainé pendant un temps avec un groupe d'Adeptes influents, et ils vous accordent toujours leur bienveillance.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -460,7 +460,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="15a13a9ab69a27dd" weblate-flags="md-text, safe-html, strict-same">
         <source>You worked the gardens in the palace of an influential noble or person of wealth. They wouldn’t remember you, but you made friends with their young daughter.</source>
-        <target></target>
+        <target>Vous avez travaillé dans les jardins du palace d'un noble influent ou une personne très riche. ils ne se souviennent pas de vous mais vous avez sympathisé avec leur plus jeune fille.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="dc5f03bab01a1b4a" weblate-flags="md-text, safe-html, strict-same">
         <source>An experiment you conducted in the past went horribly awry. The locals remember you as a dangerous and foolhardy individual.</source>
-        <target></target>
+        <target>Une expérimentation que vous avez mené dans le passé s'est mal passé et tout est allé de travers. Les voisins se souviennent de vous comme un individu dangeureux et téméraire.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="fcdf029b17059470" weblate-flags="md-text, safe-html, strict-same">
         <source>You hail from a distant place where you were well known and regarded, but people here treat you with suspicion.</source>
-        <target></target>
+        <target>Vous venez d'une terre lointaine où vous étiez connu et respecté, mais les gens d'ici vous traite avec suspicion.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="209b874afa50dc0d" weblate-flags="md-text, safe-html, strict-same">
         <source>People you meet seem put off by the strange birthmark on your face.</source>
-        <target></target>
+        <target>Les personnes que vous rencontrez semblent intrigués par l'étrange arque de naissane que vous avez sur le visage. </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="02838a4a94455522" weblate-flags="md-text, safe-html, strict-same">
         <source>Your best friend is also an Adept. You and your friend share discoveries and secrets readily.</source>
-        <target></target>
+        <target>Votre meilleur ami est aussi un Adepte. Vous et votre ami avez volontier partagé des découvertes et des secrets.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -540,7 +540,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1f0e6d9baa4311af" weblate-flags="md-text, safe-html, strict-same">
         <source>You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.</source>
-        <target></target>
+        <target>Vous connaissez très bien un marchand du coin. Depuis le temps que vous faites des affaires avec lui, vous avez obtenu des réductions et certains avantages.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
@@ -556,14 +556,14 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b70c47a11d762d0e" weblate-flags="md-text, safe-html, strict-same">
         <source>You belong to a secretive social club that gathers monthly to drink and talk.</source>
-        <target></target>
+        <target>Vous appartenez à une communauté secrète qui se réuni tous les mois pour boire et discuter. </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
       <trans-unit xml:space="preserve" id="116e1f61b4133e7d" weblate-flags="md-text, safe-html, strict-same">
-        <source>FIRST-TIER ADEPT</source>
+        <source>Adepte de Premier Rang</source>
         <target></target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
@@ -571,7 +571,7 @@
         </context-group>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ad3a63d9ea303add" weblate-flags="md-text, safe-html, strict-same">
-        <source>First-tier Adepts have the following abilities:</source>
+        <source>Les Adeptes de Premier Rang disposent des capacités suivantes :</source>
         <target></target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="252b50ac392dfb2a" weblate-flags="md-text, safe-html, strict-same">
         <source>Effort: Your Effort is 1.</source>
-        <target></target>
+        <target>**Effort:** Votre Effort est de 1.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">70</context>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b7792a46439daf8a" weblate-flags="md-text, safe-html, strict-same">
         <source>Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.</source>
-        <target></target>
+        <target>**Génie:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">71</context>
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="ff16145c08c787d3" weblate-flags="md-text, safe-html, strict-same">
         <source>Expert Cypher Use: You can bear three cyphers at a time.</source>
-        <target></target>
+        <target>**Expert en Utilisation de Cypher:** Vous pouvez porter trois cypher en même temps.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">72</context>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e22bae6ac20f2743" weblate-flags="md-text, safe-html, strict-same">
         <source>Starting Equipment: Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items of your choice.</source>
-        <target></target>
+        <target>**Equipement de Départ:** Des vêtements appropriés, ainsi que deux objets très chers, deux objets moyennement cher, et jusqu'à quatre objets peu chers de votre choix.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">73</context>
@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7ff263b57f4fd593" weblate-flags="md-text, safe-html, strict-same">
         <source>Weapons: You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered.</source>
-        <target></target>
+        <target>**Armes:** Vous pouvez utiliser des armes légères sans pénalité. Vous avez une inaptitude pour les armes moyennes et lourdes; vos attaques avec ces armes sont atténuées.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">74</context>
@@ -620,7 +620,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="3b2e7a595e8b5b64" weblate-flags="md-text, safe-html, strict-same">
         <source>Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)</source>
-        <target></target>
+        <target>**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la Meneuse en décide autrement.)</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">76</context>
@@ -1100,14 +1100,14 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="8e39dda8c8051e25" weblate-flags="md-text, safe-html, strict-same">
         <source>ADEPT EXAMPLE</source>
-        <target></target>
+        <target>Exemple d'Adepte</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">147</context>
         </context-group>
       </trans-unit>
       <trans-unit xml:space="preserve" id="0ce601dc65b66c8e" weblate-flags="md-text, safe-html, strict-same">
-        <source>Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.</source>
+        <source>Jeanne veut créer une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Assaut Magique et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Formation magique et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Assaut Magique, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.</source>
         <target></target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="517ba9eee42067d8" weblate-flags="md-text, safe-html, strict-same">
         <source>She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.</source>
-        <target></target>
+        <target>Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un téléporteur à courte portée, un petit charme qui redonne 5 points à sa réserve d'intelligence et une fiole remplie de liquide qui explose comme une bombe enflammée. La sorcière de Jen est douée avec les armes légères, elle choisit donc un poignard.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">151</context>
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="46b33a2484230c06" weblate-flags="md-text, safe-html, strict-same">
         <source>For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.</source>
-        <target></target>
+        <target>Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserve de Célérité, la portant à 13. Ce descripteur signifie qu'elle est formée à l'équilibre et à tout ce qui nécessite des mouvements prudents, des arts du spectacle physiques et des tâches de Défense de Célérité. Peut-être qu'elle est danseuse. En fait, elle commence à développer une histoire qui implique des mouvements gracieux et souples qu'elle intègre dans ses sorts.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">153</context>
@@ -1132,7 +1132,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="954b543d42ee7328" weblate-flags="md-text, safe-html, strict-same">
         <source>For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out—she’s good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.</source>
-        <target></target>
+        <target>Pour son focus, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">155</context>
@@ -1140,7 +1140,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e3537ae9edf52c88" weblate-flags="md-text, safe-html, strict-same">
         <source>Her spells and focus abilities cost Intellect points to activate, so she’s glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.</source>
-        <target></target>
+        <target>Ses sorts et ses capacités de concentration coûtent des points d'Intellect à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intellect. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intellect et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Assaut Magique.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">157</context>
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="30877ff8084ecba5" weblate-flags="md-text, safe-html, strict-same">
         <source>For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.</source>
-        <target></target>
+        <target>Pour son arc de personnage, Jen choisit Aid a Friend. Elle décide que lorsque son personnage de sorcier était jeune, elle avait un mentor magique. Ce mentor a ensuite été fait prisonnier par un démon, son personnage est donc toujours à la recherche d'indices pour trouver le démon et libérer son amie de l'esclavage.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">159</context>
@@ -1156,7 +1156,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="d33d3959abbf3c61" weblate-flags="md-text, safe-html, strict-same">
         <source>(GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.)</source>
-        <target></target>
+        <target>(Les MJs sont toujours libres de présélectionner les capacités spéciales d'un type à un rang donné pour renforcer la campagne. Dans le cadre fantastique de la sorcière de Jen, la Meneuse aurait pu dire que tous les sorciers (adeptes) commencent par l'entraînement magique comme l'une de leurs capacités de rang 1. Cela ne rend pas le personnage moins puissant ou spécial, mais cela en dit long sur son rôle dans le monde et ses attentes dans le jeu.)
+</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">161</context>
