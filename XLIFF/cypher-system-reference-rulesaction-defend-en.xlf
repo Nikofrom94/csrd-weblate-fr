@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0600c67a4ebfeedd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defending is a special action that only PCs can do, and only in response to being attacked. In other words, an NPC uses its action to attack, which forces a PC to make a defense roll. This is handled like any other kind of action, with circumstances, skill, assets, and Effort all potentially coming into play. Defending is a special kind of action in that it does not happen on the PC’s turn. It’s never an action that a player decides to take; it’s always a reaction to an attack. A PC can take a defense action when attacked (on the attacking NPC’s turn) and still take another action on their own turn.</source>
+        <target state="translated">Defending is a special action that only PCs can do, and only in response to being attacked. In other words, an NPC uses its action to attack, which forces a PC to make a defense roll. This is handled like any other kind of action, with circumstances, skill, assets, and Effort all potentially coming into play. Defending is a special kind of action in that it does not happen on the PC’s turn. It’s never an action that a player decides to take; it’s always a reaction to an attack. A PC can take a defense action when attacked (on the attacking NPC’s turn) and still take another action on their own turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5fb536218a3e36ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The type of defense roll depends on the type of attack. If a foe attacks a character with an axe, they can use Speed to duck or block it with what they’re holding. If they’re struck by a poisoned dart, they can use a Might action to resist its effects. If a psi-worm attempts to control their mind, they can use Intellect to fend off the intrusion.</source>
+        <target state="translated">The type of defense roll depends on the type of attack. If a foe attacks a character with an axe, they can use Speed to duck or block it with what they’re holding. If they’re struck by a poisoned dart, they can use a Might action to resist its effects. If a psi-worm attempts to control their mind, they can use Intellect to fend off the intrusion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29e231a627c757e6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes an attack provokes two defense actions. For example, a poisonous reptile tries to bite a PC. They try to dodge the bite with a Speed action. If they fail, they take damage from the bite, and they must also attempt a Might action to resist the poison’s effects.</source>
+        <target state="translated">Sometimes an attack provokes two defense actions. For example, a poisonous reptile tries to bite a PC. They try to dodge the bite with a Speed action. If they fail, they take damage from the bite, and they must also attempt a Might action to resist the poison’s effects.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c45b446766abe0b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If a character does not know an attack is coming, usually they can still make a defense roll, but they can’t add modifiers (including the modifier from a shield), and they can’t use any skill or Effort to ease the task. If circumstances warrant—such as if the attacker is right next to the character—the GM might rule that the surprise attack simply hits.</source>
+        <target state="translated">If a character does not know an attack is coming, usually they can still make a defense roll, but they can’t add modifiers (including the modifier from a shield), and they can’t use any skill or Effort to ease the task. If circumstances warrant—such as if the attacker is right next to the character—the GM might rule that the surprise attack simply hits.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4d0b149283f3caa2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character can always choose to forgo a defense action, in which case the attack automatically hits.</source>
+        <target state="translated">A character can always choose to forgo a defense action, in which case the attack automatically hits.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f8b3bac22183f14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some abilities (such as the Countermeasures special ability) may allow you to do something special as a defense action.</source>
+        <target state="translated">Some abilities (such as the Countermeasures special ability) may allow you to do something special as a defense action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

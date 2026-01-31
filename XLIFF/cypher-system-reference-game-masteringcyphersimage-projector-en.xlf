@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="574bd567b9c5b2e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>IMAGE PROJECTOR #Cypher #Fantastic #Core</source>
+        <target state="translated">IMAGE PROJECTOR #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e650b3e66a43e375" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Projects one of the following immobile images in the area described for one hour. The image appears up to a close distance from the user (long distance if the cypher level is 4 or higher, very long distance if the cypher level is 6 or higher). Scenes include movement, sound, and smell. Roll a d100 to determine the image.</source>
+        <target state="translated">Effect: Projects one of the following immobile images in the area described for one hour. The image appears up to a close distance from the user (long distance if the cypher level is 4 or higher, very long distance if the cypher level is 6 or higher). Scenes include movement, sound, and smell. Roll a d100 to determine the image.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f9d31071af6485f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–20</source>
+        <target state="translated">01–20</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c52a4d3032365273" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Terrifying creature of an unknown species, perhaps no longer alive in the world (10-foot [3 m] cube)</source>
+        <target state="translated">Terrifying creature of an unknown species, perhaps no longer alive in the world (10-foot [3 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1cc6d8b08ba815e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>21–40</source>
+        <target state="translated">21–40</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7763654a0486d531" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Huge machine that obscures sight (30-foot [9 m] cube)</source>
+        <target state="translated">Huge machine that obscures sight (30-foot [9 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ba6e720cfbceda2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>41–50</source>
+        <target state="translated">41–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfd09a6af1134d67" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Beautiful pastoral scene (50-foot [15 m] cube)</source>
+        <target state="translated">Beautiful pastoral scene (50-foot [15 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94a9e839eba00b39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–60</source>
+        <target state="translated">51–60</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="937524df5bb8a368" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Food that looks delicious but may not be familiar (10-foot [3 m] cube)</source>
+        <target state="translated">Food that looks delicious but may not be familiar (10-foot [3 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1c5d63a5d1bff50c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>61–80</source>
+        <target state="translated">61–80</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="248df8f0c0e74a99" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Solid color that obscures sight (50-foot [15 m] cube)</source>
+        <target state="translated">Solid color that obscures sight (50-foot [15 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e46f4e4110e55b3d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>81–00</source>
+        <target state="translated">81–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc2407b899ba89dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Incomprehensible scene that is disorienting and strange (20-foot [6 m] cube)</source>
+        <target state="translated">Incomprehensible scene that is disorienting and strange (20-foot [6 m] cube)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

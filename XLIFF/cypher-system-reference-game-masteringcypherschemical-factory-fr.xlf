@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="edd19b34c1bcac7c" weblate-flags="md-text, safe-html, strict-same">
+        <source>CHEMICAL FACTORY #Cypher #Fantastic #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="07de18fa0e62b8a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1593d0c3dd16e1b3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: After one hour, the sweat of the user produces 1d6 doses of a valuable liquid (these doses are not considered cyphers). They must be used within one week. Roll a d100 to determine the effect.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3bbe9c5be69bead4" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–04</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6bf109328b276fe6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Euphoric for 1d6 hours</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ff3bd15681894563" weblate-flags="md-text, safe-html, strict-same">
+        <source>05–08</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="374b44f9eb432a97" weblate-flags="md-text, safe-html, strict-same">
+        <source>Hallucinogenic for 1d6 hours</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f8a6e87cf8cfbd14" weblate-flags="md-text, safe-html, strict-same">
+        <source>09–12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5cb418240685f3b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stimulant for 1d6 hours</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10d8013181d8e5a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>13–16</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="abca2a450d8f48ec" weblate-flags="md-text, safe-html, strict-same">
+        <source>Depressant for 1d6 hours</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d97f4454d259af5" weblate-flags="md-text, safe-html, strict-same">
+        <source>17–20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edf04ae80cc41944" weblate-flags="md-text, safe-html, strict-same">
+        <source>Nutrient supplement</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="131bec63654c302c" weblate-flags="md-text, safe-html, strict-same">
+        <source>21–25</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce39090e9799f1c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Antivenom</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="12d67fbe78652b2b" weblate-flags="md-text, safe-html, strict-same">
+        <source>26–30</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0cf2befd5eabf9b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cures disease</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="49e11ee159bc6384" weblate-flags="md-text, safe-html, strict-same">
+        <source>31–35</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="61c62210e2021b4e" weblate-flags="md-text, safe-html, strict-same">
+        <source>See in the dark for one hour</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e5dcfa5e1a26a379" weblate-flags="md-text, safe-html, strict-same">
+        <source>36–45</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="081f9b0f00732978" weblate-flags="md-text, safe-html, strict-same">
+        <source>Restores a number of Might Pool points equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="54baff86023902c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>46–55</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c4858335a5b56ec7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Restores a number of Speed Pool points equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7fe97d5711d42ed3" weblate-flags="md-text, safe-html, strict-same">
+        <source>56–65</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5568cc2dd05efd5d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Restores a number of Intellect Pool points equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="14e5c8a0dd48637d" weblate-flags="md-text, safe-html, strict-same">
+        <source>66–75</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd617d84d109099e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Increases Might Edge by 1 for one hour</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bb219de66617bcde" weblate-flags="md-text, safe-html, strict-same">
+        <source>76–85</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c1c2ea58aeae530" weblate-flags="md-text, safe-html, strict-same">
+        <source>Increases Speed Edge by 1 for one hour</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="78dade82712b783d" weblate-flags="md-text, safe-html, strict-same">
+        <source>86–95</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="767210e3519fad04" weblate-flags="md-text, safe-html, strict-same">
+        <source>Increases Intellect Edge by 1 for one hour</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10bd85195332105c" weblate-flags="md-text, safe-html, strict-same">
+        <source>96–00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e0195edc51954e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Restores all Pools to full</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

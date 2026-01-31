@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="270cf4c860f399ff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Giant scorpion #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target state="translated">Giant scorpion #lvl4 (12) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0b392242b9bbe276" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task</source>
+        <target state="translated">Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c9ebe8c5fc40651" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 2</source>
+        <target state="translated">Armor: 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

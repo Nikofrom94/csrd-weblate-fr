@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="20e24792bbb2e07b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Works for a Living #Focus #BasicFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7032e477ffbadfcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>You take great satisfaction in a job well done, whether it’s coding, building houses, or mining asteroids.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a3e383be1b14a95f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Handy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0541c2bfbe4eb835" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Muscles of Iron</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="12b6577c78f8f028" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Eye for Detail or Improvise</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="50158a9f1d82c639" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Enhanced Might</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="303f5a460d9a6688" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Tough It Out</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5aefd44b17c96d42" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Expert Skill</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="044a6c2e7d722f6b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Greater Enhanced Potential or Hard-Won Resilience</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3a03652cbd3cb3ec" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

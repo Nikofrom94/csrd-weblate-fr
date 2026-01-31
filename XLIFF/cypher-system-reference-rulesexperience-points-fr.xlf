@@ -1,0 +1,2816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ca9d97361fe3a733" weblate-flags="md-text, safe-html, strict-same">
+        <source>Experience points (XP) are the currency by which players gain benefits for their characters. The most common ways to earn XP are through GM intrusions and by accomplishing things the PCs set out to do. Sometimes experience points are earned during a game session, and sometimes they’re earned between sessions. In a typical session, a player might earn 2 to 4 XP, and between sessions, perhaps another 2 XP (on average). The exact amounts depend on the events of the session.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c087b19561a56c14" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM INTRUSION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="386f22ee63545e54" weblate-flags="md-text, safe-html, strict-same">
+        <source>At any time, the GM can introduce an unexpected complication for a character. When they intrude in this way, they must give that character 2 XP. That player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a joke, or performed an action that saved a life).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c8a614892caccf1c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Often, the GM intrudes when a player attempts an action that should be an automatic success. However, the GM is free to intrude at other times. As a general rule, the GM should intrude at least once each session, but no more than once or twice each session per character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="622462c93fb31808" weblate-flags="md-text, safe-html, strict-same">
+        <source>Anytime the GM intrudes, the player can spend 1 XP to refuse the intrusion, though that also means they don’t get the 2 XP. If the player has no XP to spend, they can’t refuse.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="962cd48c917a1d5d" weblate-flags="md-text, safe-html, strict-same">
+        <source>If a player rolls a 1 on a die, the GM can intrude without giving the player any XP.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cce7aac548b413bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Example 1: Through skill and the aid of another character, a fourth-tier PC eases a wall-climbing task from difficulty 2 to difficulty 0. Normally, they would succeed at the task automatically, but the GM intrudes and says “No, a bit of the crumbling wall gives way, so you still have to make a roll.” As with any difficulty 2 task, the target number is 6. The PC attempts the roll as normal and gains 2 XP because the GM intruded. They immediately give one of those XP to another player.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b3a0ef7d922c4ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>Example 2: During a fight, a PC swings their axe and damages a foe with a slice across the shoulder. The GM intrudes by saying that the foe turned just as the axe struck, wrenching the weapon from the character’s grip and sending it clattering across the floor. The axe comes to a stop 10 feet (3 m) away. Because the GM intruded, the PC gains 2 XP, and the player immediately gives one of those XP to another player. Now the character must deal with the dropped weapon, perhaps drawing a different weapon or using their next turn to scramble after the axe.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="971955f7ff9768bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>(For much more on GM intrusions, see the Running the Cypher System chapter.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e7ef85d419759fba" weblate-flags="md-text, safe-html, strict-same">
+        <source>CHARACTER ARCS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f1099cf50286ed96" weblate-flags="md-text, safe-html, strict-same">
+        <source>Character arcs are the means by which players can invest themselves more in great stories and character depth and development.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc0c51c5ccca44b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Just like in a book or a television show, characters progress through their own personal story and change over time. A PC with a character arc decides for themselves what they do and why. Character arcs are like stated goals for a character, and by progressing toward that goal, the character advances. The key word there is _progressing_. A PC doesn’t have to succeed at achieving the goal to earn advancement—it’s not an all-or-nothing prospect. Each arc is keyed to a single character, but just like in a book or show, characters can take part in the larger story arc that the whole group participates in, while also progressing in their own personal arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="49684ca667a56411" weblate-flags="md-text, safe-html, strict-same">
+        <source>Character arcs have different steps that mark the character’s progress through the arc. Each arc eventually reaches a climax, and then finishes with a step that is a final resolution. Each step reached earns the character 2 XP. Character arcs are the most straightforward way that a character earns XP. (Typically, PCs will earn about half their total experience points from arcs or other GM awards.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df02f7d9b6836108" weblate-flags="md-text, safe-html, strict-same">
+        <source>At character creation, a player can choose one character arc for their PC at no cost. Players have the option to not choose one, but it’s probably a good idea to do so. First and foremost, it is a character-defining factor. If they begin the campaign with a desire to find the woman who killed their brother, that says a lot about the character: they had a brother, he was likely close to them, he had been in at least one dangerous situation, and the character is probably motivated by anger and hate, at least somewhat. Even after the character finishes this first arc, they’ll undoubtedly have (at least one) more because they can gain new arcs as the campaign progresses.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1f84504c77e14104" weblate-flags="md-text, safe-html, strict-same">
+        <source>Once play begins, players can take on a new arc whenever they wish, as fits the character’s ongoing story. Taking a new arc has a cost of 1 XP. While there’s no hard limit on how many arcs a character can have at one time, realistically most PCs couldn’t reasonably have more than three or four.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="71bf82952f60607e" weblate-flags="md-text, safe-html, strict-same">
+        <source>However, as mentioned above, arcs have a beginning cost that must be paid, reflecting the character’s devotion to the goal. The character will earn this investment back (probably many times over) if the arc is completed.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8154b0afe4aace91" weblate-flags="md-text, safe-html, strict-same">
+        <source>Character arcs are always player-driven. A GM cannot force one on a character. That said, the events in the narrative often present story arc opportunities and inspire character arcs for the PCs. It’s certainly in the GM’s purview to suggest possible arcs related to the events going on. For example, if the GM presents an encounter in which an NPC wishes to learn from the PC, it might make sense to suggest taking the Instruction arc. Whether or not the PC takes on the student, the player doesn’t have to adopt the Instruction arc unless they want to.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c491f8454aa2327e" weblate-flags="md-text, safe-html, strict-same">
+        <source>At the end of a session, review the actions you took and describe how they might equate to the completion of a step (or possibly more than one step) in their character arc. If the GM agrees, the character gets their reward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a4d8d1dcdd1faee" weblate-flags="md-text, safe-html, strict-same">
+        <source>(When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cc55c7608975b938" weblate-flags="md-text, safe-html, strict-same">
+        <source>This chapter presents many sample character arcs (see below).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a987db922a8646e" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM AWARDS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="369dab6cf66b291c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sometimes, a group will have an adventure that doesn’t deal primarily with a PC’s character arc. In this case, it’s a good idea for the GM to award XP to that character for accomplishing other tasks. First and foremost, awards should be based on discovery. Discovery can include finding a significant new location, such as a hidden chamber, a secret fortress, a lost land, a new planet, or an unexplored dimension. In this fashion, PCs are explorers. Discovery can also include a new significant aspect of a setting, such as a secret organization, a new religion, and so on.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d9c7dc38b81a1d07" weblate-flags="md-text, safe-html, strict-same">
+        <source>It can also mean finding a new procedure or device (something too big to be considered a piece of equipment) or even previously unknown information. This could include a source of magical power, a unique teleportation device, or the cure for a plague. These are all discoveries. The common thread is that the PCs discover something that they can understand and put to use.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aed1d3fbb38ce58d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Last, depending on the GM’s outlook and the kind of campaign the group wants to play, a discovery could be a secret, an ethical idea, an adage, or even a truth.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60d609fa8c1e44a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>(It’s a fine line, but ultimately the GM decides what constitutes a discovery as opposed to just something weird in the course of an adventure. Usually, the difference is, did the PCs successfully interact with it and learn something about it? If so, it’s probably a discovery.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52b7a9611e2f8e07" weblate-flags="md-text, safe-html, strict-same">
+        <source>Artifacts: When the group gains an artifact, award XP equal to the artifact’s level and divide it among the PCs (minimum 1 XP for each character). Round down if necessary. For example, if four PCs discover a level 5 artifact, they each get 1 XP. Money, standard equipment, and cyphers are not worth XP. (Experience point awards for artifacts should usually apply even if the artifact was given to the PCs rather than found, because often such gifts are the rewards for success.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d518ad1e5604bb08" weblate-flags="md-text, safe-html, strict-same">
+        <source>Miscellaneous Discoveries: Various other discoveries might grant 1 XP to each PC involved.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86f94ac458545068" weblate-flags="md-text, safe-html, strict-same">
+        <source>Other Awards: If a character is focused on activities that don’t relate to a character arc or a discovery, as a general rule, a mission should be worth at least 1 XP per game session involved in accomplishing it. For example, saving a family on an isolated farm beset by raiding cultists might be worth 1 XP for each character. Of course, saving the family doesn’t always mean killing the bad guys; it might mean relocating them, parlaying with the cultists, or chasing off the raiders.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db331b82e1b41b3a" weblate-flags="md-text, safe-html, strict-same">
+        <source>SPENDING EXPERIENCE POINTS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5d3ac9c3caa4b6d4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Experience points are meant to be used. Hoarding them is not a good idea; if a player accumulates more than 10 XP, the GM can require them to spend some.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d907d54058510399" weblate-flags="md-text, safe-html, strict-same">
+        <source>Generally, experience points can be spent in four ways: immediate benefits, short- and medium-term benefits, long-term benefits, and character advancement.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="636337c79ef63981" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how—through experience, time, toil, travail, and so on— characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character’s capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn’t a waste of XP—it’s what XP are for.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2581d487fac5e8e7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Immediate Benefits</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0aa69d1fd71e9897" weblate-flags="md-text, safe-html, strict-same">
+        <source>The most straightforward way for a player to use XP is to reroll any roll in the game—even one that they didn’t make. This costs 1 XP per reroll, and the player chooses the best result. They can continue to spend XP on rerolls, but this can quickly become an expensive proposition. It’s a fine way to try to prevent disaster, but it’s not a good idea to use a lot of XP to reroll a single action over and over.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1885abdc7e4a8953" weblate-flags="md-text, safe-html, strict-same">
+        <source>A player can also spend 1 XP to refuse a GM intrusion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be1ab9dd32fd6266" weblate-flags="md-text, safe-html, strict-same">
+        <source>Short- and Medium-Term Benefits</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b48d1d09e7bffe2" weblate-flags="md-text, safe-html, strict-same">
+        <source>By spending 2 XP, a character can gain a skill—or, more rarely, an ability—that provides a short-term benefit. Let’s say a character notices that the computer terminals in the facility they’re infiltrating are similar to those used by the company they once worked for. They spend 2 XP and say that they have a great deal of experience in using these. As a result, they are trained in operating (and breaking into) these computers. This is just like being trained in computer use or hacking, but it applies only to computers found in that particular location. The skill is extremely useful in the facility, but nowhere else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b57eb32e0b9f392e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Medium-term benefits are usually story based. For example, a character can spend 2 XP while climbing through mountains and say that they have experience with climbing in regions like these, or perhaps they spend the XP after they’ve been in the mountains for a while and say that they’ve picked up the feel for climbing there. Either way, from now on, they’re trained in climbing in those mountains. This helps them now and any time they return to the area, but they’re not trained in climbing everywhere.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="70613fcab5984555" weblate-flags="md-text, safe-html, strict-same">
+        <source>This method allows a character to get immediate training in a skill for half the normal cost. (Normally, it costs 4 XP to become trained in a skill.) It’s also a way to gain a new skill even if the PC has already gained a new skill as a step toward attaining the next tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="328ba0c98afcd143" weblate-flags="md-text, safe-html, strict-same">
+        <source>In rare cases, a GM might allow a character to spend 2 XP to gain an entirely new ability—such as a device, a special ability, or a special mental power—for a short time, usually no longer than the course of one scenario. The player and the GM should agree on a story-based explanation for the benefit. Perhaps the ability has a specific rare requirement, such as a tool, a battery, a drug, or some kind of treatment. For example, a character who wants to explore a submerged location has several biotech enhancements, and they spend 2 XP to cobble together a device that lets them breathe underwater. This gives them the ability for a considerable length of time, but not permanently—the device might work for only eight hours. Again, the story and the logic of the situation dictate the parameters.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c1d3a6010a132f03" weblate-flags="md-text, safe-html, strict-same">
+        <source>Long-Term Benefits</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="767e1a58544dc2a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>In many ways, the long-term benefits a PC can gain by spending XP are a means of integrating the mechanics of the game with the story. Players can codify things that happen to their characters by talking to the GM and spending 3 XP.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="14e5396d57108f1d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Things that a PC can acquire as a long-term benefit can be thought of as being story based, and they allow the player to have some narrative control over the story. In the course of play, a player might decide that their character gains a friend (a contact) or builds a log cabin (a home). Because a player spent XP, however, they should have some agency over what they’ve gained, and it shouldn’t be easily taken away. The player should help come up with the details of the contact or the design of their home.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e0084fb8e8ac0dcc" weblate-flags="md-text, safe-html, strict-same">
+        <source>It’s also possible to gain these benefits through events in the story, without spending XP. The new contact comes to the PC and starts the relationship. The new home is granted to them as a reward for service to a powerful or wealthy patron, or maybe the character inherits the home from a relative. However, because these came from the GM and not the player (and no XP were spent), the player has no narrative control over them and the GM makes up the details.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4b6d4a04293406ee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Long-term benefits can include the following.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2da603fa57b7397e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Contact: The character gains a long-term NPC contact of importance—someone who will help them with information, equipment, or physical tasks. The player and GM should work out the details of the relationship.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fb5f9095a3e27545" weblate-flags="md-text, safe-html, strict-same">
+        <source>Home: The PC acquires a full-time residence. This can be an apartment in a city, a cabin in the wilderness, a base in an ancient complex, or whatever fits the situation. It should be a secure place where the PC can leave their belongings and sleep soundly. Several characters could combine their XP and buy a home together.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b9144d529c6a85b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Title or job: The PC is granted a position of importance or authority. It might come with responsibilities, prestige, and rewards, or it might be an honorary title.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="11e079e5b2a7b105" weblate-flags="md-text, safe-html, strict-same">
+        <source>Wealth: The PC comes into a considerable amount of wealth, whether it’s a windfall, an inheritance, or a gift. It might be enough to buy a home or a title, but that’s not really the point. The main benefit is that the PC no longer needs to worry about the cost of simple equipment, lodging, food, and so on. This wealth could mean a set amount—perhaps 50,000 dollars (or whatever is appropriate in the setting)—or it could bestow the ability to ignore minor costs, as decided by the player and GM.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5febab1b1837a500" weblate-flags="md-text, safe-html, strict-same">
+        <source>(GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants’ unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cebd6644f6ba0bff" weblate-flags="md-text, safe-html, strict-same">
+        <source>Character Advancement</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="489032a8d125fffe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Progressing to the next tier involves four steps. When a PC has spent 4 XP on each of the steps, they advance to the next tier and gain all the type and focus benefits of that tier. The four steps can be purchased in any order, but each can be purchased only once per tier. In other words, a PC must buy all four steps and advance to the next tier before they can buy the same steps again.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5752e2614f8b5dad" weblate-flags="md-text, safe-html, strict-same">
+        <source>Increasing Capabilities: You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d00f454765fc248b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Moving Toward Perfection: You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0b63dbd3ff810acf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Extra Effort: Your Effort score increases by 1.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a862e943908599d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Skills: Choose one skill other than attacks or defense, such as climbing, jumping, persuading, sneaking, or history. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1c2578fccf655589" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren’t eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2a440893ffdb1830" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Once you’re specialized in a skill, you can’t improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don’t count as an asset or training.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="675f10056aa7a8bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Other Options: Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier. The other three need to be from the other categories. The special options are as follows:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b27e3a05414d71e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06c77515925abf77" weblate-flags="md-text, safe-html, strict-same">
+        <source>Add 2 to your recovery rolls.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="98850500adb9f2b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Select another focus ability available to you at tier 3. (You must be tier 3 or higher to do this. Characters advancing beyond tier 6 can use this option to select their other tier 6 focus ability.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a55fc80fd713152" weblate-flags="md-text, safe-html, strict-same">
+        <source>Select another character ability from your type, such as a tier 2 Warrior selecting Reload or Crushing Blow.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2c5516ba41006804" weblate-flags="md-text, safe-html, strict-same">
+        <source>EQUAL ADVANCEMENT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f7f98c6ae6997ac8" weblate-flags="md-text, safe-html, strict-same">
+        <source>It’s worthwhile if all characters advance through the six tiers at about the same rate—an important issue for some players. A good GM can achieve this result by carefully handing out XP rewards, some during play (which will tend to get used immediately) and some after play concludes, especially after completing a major story arc or quest so the GM can hand out 4 XP in one go (which will tend to get used for advancement). Many groups will discover while playing that equal advancement isn’t an important issue in the Cypher System, but people should get to play the game the way they want to play it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ff5ff7f2ecaaff92" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER ADVANCEMENT IN THE CYPHER SYSTEM</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7c6acfab1609d606" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tiers in the Cypher System aren’t entirely like levels in other roleplaying games. In the Cypher System, gaining tiers is not the players’ only goal or the only measure of achievement. Starting (first-tier) characters are already competent, and there are only six tiers. Character advancement has a power curve, but it’s only steep enough to keep things interesting. In other words, gaining a new tier is cool and fun, but it’s not the only path to success or power. If you spend all your XP on immediate, short-term, and medium-term benefits, you will be different from someone who spends their points on long-term benefits, but you will not be “behind” that character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ad5faf30faa639ff" weblate-flags="md-text, safe-html, strict-same">
+        <source>The general idea is that most characters will spend half their XP on tier advancement and long-term benefits, and the rest on immediate benefits and short- and medium-term benefits (which are used during gameplay). Some groups might decide that XP earned during a game is to be spent on immediate and short- and
+medium-term benefits (gameplay uses), and XP awarded between sessions for discoveries is to be spent on character advancement (long-term uses).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c14d57ddece2f6fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ultimately, the idea is to make experience points into tools that the players and the GM can use to shape the story and the characters, not just a bookkeeping hassle.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cb66def8c66a8bcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>SAMPLE CHARACTER ARCS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7df4bf97207227d" weblate-flags="md-text, safe-html, strict-same">
+        <source>The rest of this chapter presents sample character arcs for PCs. The writeup of each arc describes the parts involved in progressing through the arc:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99511d006907d301" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: This sets the stage for the rest of the arc. It involves some action, although that might just be the PC agreeing to do the task or undertake the mission. It usually has no reward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2efd5ae7de6230f4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): This is the action required to move toward the climax. In story terms, this is the movement through the bulk of the arc. It’s the journey. The rising tension. Although there might be just one step, there might also be many, depending on the story told. Each results in a reward of 2 XP.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c466d06d7e602954" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: This is the finale—the point at which the PC likely succeeds or fails at what they’ve set out to do. Not every arc ends with victory. If the character is successful, they earn a reward of 4 XP. If they fail, they still earn a reward of 2 XP. If a character fails the climax, they very likely ignore the resolution.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2452b60b4925e7d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: This is the wrap-up or denouement. It’s a time for the character to reflect on what happened, tie up any loose ends, and figure out what happens next. When things are more or less resolved, the character earns a 1 XP reward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59fd48ffe103f402" weblate-flags="md-text, safe-html, strict-same">
+        <source>Within the arc, most of the time a part is probably optional, depending on the situation—although it’s hard to envision most arcs without some kind of opening, climax, or resolution. Steps other than the opening, the climax, and the resolution can be done in any order.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcc6390ba4e6f645" weblate-flags="md-text, safe-html, strict-same">
+        <source>Character arcs should always take at least weeks in game time, and no more than two parts in an arc should be accomplished in a game session (and most of the time, it should be one part, if any). If neither of these two things is true, then it’s not really a character arc. You can’t, for example, use the Creation arc to guide you through something you can make in an hour or two.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e15cbb0ad1cc15bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>The following are common character arcs that you can choose for your character. If you and the GM want to make a new one, it should be fairly easy after looking through these models.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f31726de735ede10" weblate-flags="md-text, safe-html, strict-same">
+        <source>(This chapter has a selection of sample character arcs, but you can create your own too. The arcs are intentionally broad to encompass many different characters and stories. For example, Revenge is a very simple and straightforward character arc. The player who chooses this arc for their character decides who they want revenge on, and why. It’s up to the players and the GM to make the details fit.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef2d9ac2d4794029" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="836211a5696d8059" weblate-flags="md-text, safe-html, strict-same">
+        <source>AID A FRIEND</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="98cd814bc680c879" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone needs your help.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3ecd213e7f175a5e" weblate-flags="md-text, safe-html, strict-same">
+        <source>When a PC friend takes a character arc, you can select this arc to help them with whatever their arc is (if appropriate). The steps and climax depend entirely on their chosen arc. If the friend is an NPC, the steps and climax are lifted from another arc appropriate to whatever they seek to do.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="494dc7b7cdef73f6" weblate-flags="md-text, safe-html, strict-same">
+        <source>It’s difficult, but possible, to aid a friend with an arc even if that friend is unwilling to accept (or is ignorant of) your help.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="092e4ab33c7113a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>The cost and rewards for a character with this arc are the same as those described in the original character arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4c24329a6b81504" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Answering the Call. Offering to help (or responding to a request for help).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a62bfeba1be76785" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s) and Climax: Depends on the friend’s arc. Rewards are the same for you as for the friend.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6df3e963ada93e7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You speak with your friend and learn if they are satisfied. Together, you share what you’ve learned (if anything) and where you will go from here.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d911a4dd31274ffe" weblate-flags="md-text, safe-html, strict-same">
+        <source>ASSIST AN ORGANIZATION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b8a37d2f6c1ca82d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You set out to accomplish something that will further an organization. You’re probably allied with them or they are rewarding you for your help in some fashion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2982dbac4fe6b49" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Responding to the Call. You work out all the details of what’s expected of you, and what rewards (if any) you might get. You also get the specifics of what’s required to join and advance.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="becaf53e09e78515" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Sizing up the Task. This requires some action. A reconnaissance mission. An investigation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ed8c0568c7249dfd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Undertaking the Task. Because this arc can vary so widely based on the task involved, there might be multiple steps like this one.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c04c9410bcab9d4d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Completing the Task.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5d3ad7ad191b16be" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: Collecting your reward (if any) and conferring with the people in the organization that you spoke to. Perhaps getting access to higher-ranking people in the organization. You can choose to have your connection to the organization increase rather than take the standard reward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6edd9b61c11c0b41" weblate-flags="md-text, safe-html, strict-same">
+        <source>AVENGE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fcb34ed47022c37d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone close to you or important to you in some way has been wronged. The most overt version of this arc would be to avenge someone’s death. Avenging is different than revenge, as revenge is personal—you are the wronged party. But in the Avenge character arc, you are avenging a wrong done to someone else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dad15b9360a01010" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Declaration. You publicly declare that you are going to avenge the victim(s). This is optional.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="295d87a5df9aef4e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Tracking the Guilty. You track down the guilty party. This might not be physically finding them if you already know where they are. Instead, it might be discovering a way to get at them if they are distant, difficult to reach, or well protected. This step might be repeated multiple times, if applicable.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd32f4b57161a252" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Finding the Guilty. You finally find the guilty party, or find a path or make a plan to reach them. Now all that’s left is to confront them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":182" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Confrontation. You confront the guilty party. This might be a public accusation and demonstration of guilt, a trial, or an attack to kill, wound, or apprehend them—whatever you choose to be appropriate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="96addb34881b6ee8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You resolve the outcome and the ramifications of the confrontation and decide what to do next.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">183</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="936b165773230888" weblate-flags="md-text, safe-html, strict-same">
+        <source>BIRTH</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b557e07839aa09f5" weblate-flags="md-text, safe-html, strict-same">
+        <source>You are becoming a parent.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ecc2445a195b7e6b" weblate-flags="md-text, safe-html, strict-same">
+        <source>The Birth character arc assumes you already have a partner or a surrogate. If you want your character to find a romantic partner or spouse, you can use the Romance arc. And of course, nonhuman characters might reproduce in other ways.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7c8f499967ba7f53" weblate-flags="md-text, safe-html, strict-same">
+        <source>This arc is usually followed by the Raise a Child arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0e90e7959cf43d8b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Impregnation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">192</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b93303f9bd741675" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Finding a Caretaker. This might be a physician, midwife, doula, or similar person. This is optional.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="87d30cf8eea19c1f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Complication. A complication arises that threatens the pregnancy, the birth parent, or both.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a721905a1e6fa9a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Preparation. You prepare a place for the delivery as well as a safe place for the infant to live once born.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2742beb0498885fd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Delivery. The baby is born. Success means the child survives.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bca5b42f96db9d96" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You get the baby to the place you have prepared and settle in, deciding what to do next.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2db34957c3977a27" weblate-flags="md-text, safe-html, strict-same">
+        <source>BUILD</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a25d086d51fcff7c" weblate-flags="md-text, safe-html, strict-same">
+        <source>You are going to build a physical structure—a house, a fortress, a workshop, a defensive wall, and so on. This arc would also cover renovating an existing structure or substantially adding to one. Of course, this doesn’t have to be physical construction. You might build something with spells or other supernatural abilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d162ca0e777d0351" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Make a Plan. This almost certainly involves literally drawing up blueprints or plans.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="94300f763e240508" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Find a Site. This might be extremely straightforward—a simple examination of the site—or it might be an entire exploratory adventure. (If the latter, it might involve multiple such steps.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="48be455d0e8ca58f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Gather Materials. Depending on what you are building and what it is made out of, this could involve multiple steps. There probably are substantial costs involved as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d746f56c4981010e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Construction. Depending on what you are building, this could involve multiple steps. It might also take a considerable amount of time and work.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">205</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e9e2ef648949caf2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Completion. The structure is finished.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="46b566cb44b95f41" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You put the structure to its desired use and see if it holds up.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b8ac5fb913bb5c3b" weblate-flags="md-text, safe-html, strict-same">
+        <source>CLEANSE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a6de24b1a35042c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone or something has been contaminated, probably by evil spirits, radiation, a deadly virus, foul magic, or the like, and you want to rid them of such influences or contaminants. This could also be a curse, a possession, an infestation, or something else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ab5a66563d0075d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Analyzing the Threat. You determine the nature of the contamination.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a30907e7a9f82b3d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Find the Solution. Almost every contamination has its own particular solution, and this likely involves research and consultation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2edc55cc0c2c8e72" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Getting Ready. The solution probably involves materials, spells, or other things that you must gather and prepare.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1126f886f1b9fb2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: The Cleansing. You confront the contamination.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe43c4f741ea9a4f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on the events that have transpired and what effects they might have on the future. How can you keep this from happening again?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac35142b62540b96" weblate-flags="md-text, safe-html, strict-same">
+        <source>CREATION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0b31feff23eab9c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to make something. This might be a magic item, a painting, a novel, or a machine.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">220</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f6b634a0603f003a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Make a Plan. You figure out what you need, what you’re going to do, and how you’re going to do it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="728ca71953e7797f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Gather Materials. Depending on what you are creating and what it is made out of, this could involve multiple steps. There probably are substantial costs involved as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="404b0290b4447643" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Progress. Depending on what you are creating, this could involve multiple steps. It might also take a considerable amount of time and work.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">223</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="82965546e591e327" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Completion. It’s finished! Is it what you wanted? Does it work?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="70dcbb5162a5546c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You think about what you have learned from the process and use or enjoy the fruits of your labor.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">225</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="03ad93cb96e1b801" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEFEAT A FOE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ae1edd20385917d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone stands in your way or is threatening you. You must overcome the challenge they represent. Defeat doesn’t always mean kill or even fight. Defeating a foe could mean beating them in a chess match or in competition for a desired mentor.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="22e3cc06f962e603" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Sizing up the Competition. This requires some action. A reconnaissance mission. An investigation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6008e37897decefd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Investigation. This requires some action. A reconnaissance mission. An investigation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9166580f2e27b190" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Diving In. You travel toward your opponent, overcome their lackeys, or take steps to reach them so you can confront them. This step can take many forms, and there might be more than one such step. This step is always active.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="460993f5ee0ec331" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Confrontation. The contest, challenge, fight, or confrontation occurs.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ca73cd60a60581b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on what you’ve learned and what the consequences of your actions might be.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fa442a74b9c54068" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEFENSE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="71a6eed83544f01d" weblate-flags="md-text, safe-html, strict-same">
+        <source>A person, place, or thing is threatened, and you want to protect it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="360fb21b41fdbd91" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Analyze the Situation. What are you defending, and what threats are involved?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6963f079f19e3e13" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Account for Your Resources. How are you going to defend?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05ffb7437971c9b5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Fend Off Danger. The forces threatening what you are protecting probably make an initial threat that you’ll have to defeat. It’s not the main threat, though. There might be multiple such initial threats.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e51b5463b3918b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Protect. The true threat reveals itself and you confront it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="202d7378e654fe87" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: A time for reflection on everything that occurred, and an assessment of the person, place, or thing’s safety going forward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">243</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db13c5176ff19968" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEVELOP A BOND</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">245</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f7f1a635f6c179e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to get closer to another character. This might be to make a friend, find a mentor, or establish a contact in a position of power. It might be to turn a friend into a much closer friend. The character might be an NPC or a PC.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0ceb0ed26509e24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Getting to Know You. You learn what you can about the other character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="53c3c5845d820d51" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Initial Attempt. You attempt to make contact. This might involve sending messages or gifts through a courier, using an intermediary, or just going up and saying hello, depending on the situation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d93c834ad545880d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Building a Relationship. There might be many such steps as you develop the relationship.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="adb89f8c08e095db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Bond. You succeed or fail at forging the bond.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">251</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f444c40f61708230" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You enjoy the fruits of your new relationship.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4bd07780754b08cf" weblate-flags="md-text, safe-html, strict-same">
+        <source>ENTERPRISE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d5f4ecdacf4c3b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to create and run a business or start an organization. Maybe you’re a craftsperson who wants to sell your creations. Maybe you like baking and you want to start a catering service. Or maybe you want to start a secret society or found a school to teach young mutants how to use their powers. You’ll almost certainly have to make new connections, find (and somehow pay for) a location, and deal with all manner of administrative duties.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f643ca5e0667b514" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Drawing up a Plan. What’s your goal, and how are you going to achieve it?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b269be357dbee4d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Account for Your Resources. How much financing does the enterprise need compared to what you’ve got? If you need more, how will you get it? How many people other than yourself are needed to begin, and how many will you need to sustain things once they are up and running?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">258</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0651f7513e48c3a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Finding a Location. You probably need a place to run your enterprise—a store, a workshop, a base of operations, and so on. You find a location and look into what it will take to buy or rent it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">259</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fd1c927e14f67a26" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Building the Enterprise. You procure the needed equipment or personnel. You make the connections and deals to get things started. You obtain important permits or other legal documents. You test new products. You actually start the business. Each of these developments (and likely others) can be counted as a separate step, so there will be many steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e0dbba8e3737d879" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Profit and Loss. You determine whether your enterprise will take off and carry on into the future, or fall apart before it gets a chance to blossom. This occurs in a single dramatic moment—your first major client, your organization’s first big meeting or mission, or whatever else is appropriate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">261</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ecca196ae15d892e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: A time for reflection on everything that occurred, and how you’re going to move forward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="88cdf645a37bff13" weblate-flags="md-text, safe-html, strict-same">
+        <source>ESTABLISHMENT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">264</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ccc5d4d00ad48dbc" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to prove yourself as someone of importance. This can take many forms—socially, within your order, financially, or even romantically.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">266</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b43ccd09e711a87" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Assessment. You assess yourself as well as who you need to prove yourself to.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">267</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="586c4e277d5eed95" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Appearances Matter. You improve your look. Enhance your wardrobe. Spruce up your house. Whatever it takes to get attention from the right people. There might be many such steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="63d79afd499892fb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Self-Aggrandizement. You need to get the word out to get people talking about you. There might be many such steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">269</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="80a518d138be47a1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Grabbing Attention. You do something big, like host a party for influential people or produce a play that you wrote. You make a big splash or a big crash.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">270</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":271" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on what you did and where you go from here.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">271</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="782ba8ba68eb72cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>EXPLORE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">273</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c897c66e08f48f42" weblate-flags="md-text, safe-html, strict-same">
+        <source>Something out there is unknown and you want to explore its secrets. This is most likely an area of wilderness, a new planet, an otherworldly dimension, or something similar.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">275</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5335bdf54fed0eda" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Make a Plan. Not only do you draw up a plan for your exploration, but if appropriate, you also make a formal declaration to relevant parties of what you’re going to do.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">276</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="acc17417cd5dd5ac" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Gather Resources. You get the supplies, vehicles, and help you need. Depending on where you are going and what is required, this could involve multiple steps. There probably are substantial costs involved as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da13f0e9e172fe59" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Travel. You go where you wish to explore. There might be many such steps, depending on how long it takes to get there.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">278</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2df1f629ae609fea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Exploration. This is the meat of the arc, but it’s probably a series of small moves and minor victories. There might be many such steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">279</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7bc2b300d24d56fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Conquest. You make the big discovery or truly master the area. You might not have explored every inch of the place, but if you are successful, you can claim to be done.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0b23d10946b56356" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You return home and possibly share your findings.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cf6cc98a7a877ef4" weblate-flags="md-text, safe-html, strict-same">
+        <source>FALL FROM GRACE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">283</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="83119821f5df941f" weblate-flags="md-text, safe-html, strict-same">
+        <source>This is an odd character arc in that it’s (presumably) not something that a character would want. It is something that a player selects on a meta level for the character because it makes for an interesting story. It also sets up the potential for future arcs, such as Redemption. It’s important that this involve actions you take. For example, you fall into substance abuse. You treat people badly. You make mistakes that endanger others. In other words, the fall isn’t orchestrated by someone else—it’s all your own doing.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">285</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="53acfabffdc7f868" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: The Descent. Things go bad.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">286</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5c7a71c7c1b2f6ad" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Further Descent. Things get worse. Depending on the situation, this might involve many steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38181877ee4e11e9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Lashing Out. You treat others poorly as you descend.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">288</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8a372e9dd8518d61" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Rock Bottom. There is no chance for success here. Only failure.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">289</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="914c235ff497607f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You wallow in your own misery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">290</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fd35991ec6b60648" weblate-flags="md-text, safe-html, strict-same">
+        <source>FINISH A GREAT WORK</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bf76f4c10a4a94f4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Something that was begun in the past must now be completed. This might involve destroying an evil artifact, finishing the construction of a monument, developing the final steps of a cure for a disease, or uncovering a lost temple forgotten to the ages.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">294</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c814f6ec1d6bb5d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Assessing the Past. You look at what has come before and where it still needs to go. This almost certainly involves some real research.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">295</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="01cb77399475cb97" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Conceive a Plan. You make a plan on how to move forward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df4027fc4f2ebaac" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Progress. You make significant progress or overcome a barrier to completion. This may involve multiple such steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">297</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6716699a11f19109" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Completion. This involves the big finish to the past work.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">298</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":299" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on what you did and where you go from here.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">299</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e68cc67c4ceea7d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>GROWTH</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">301</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d3b4d2ca583effe1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Willingly or unwillingly, you are going to change. This is another meta arc. It’s less about a goal and more about character development. While it’s possible that the growth involved is intentional, in most people’s lives and stories, it is emergent. A character might become less selfish, braver, a better leader, or experience some other form of growth.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">303</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c50ed73e791ade4b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: The Beginning. Change usually begins slowly, in a small, almost imperceptible way.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">304</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c84dc90f6fa03d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Change. Growth involves many small steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">305</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bbde5cac2f50c291" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Overcoming an Obstacle. The temptation to resort to your old ways is always present.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">306</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cea6a628b7901c96" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Self-Evident Change. This is a dramatic about-face. This is the moment where you do something the “old you” would never have done, and it has a profound effect on you and those around you. With either success or failure, growth is possible.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">307</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a47efc6eca45449" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You recognize the change in yourself and move forward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7478c34fc9d23744" weblate-flags="md-text, safe-html, strict-same">
+        <source>INSTRUCTION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4978a188dc667990" weblate-flags="md-text, safe-html, strict-same">
+        <source>You teach a pupil. You have knowledge on a topic and are willing to share. This can be a skill, an area of lore, a combat style, or the use of a special ability. This is usually a fairly long-term arc. Sometimes teaching a pupil is a side matter, and sometimes the pupil takes on more of an apprentice role and spends a great deal of time with you, traveling with you and perhaps even living in your house (or you living in theirs).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">312</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7de48fac226870e3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Taking on the Student.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">313</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a912dfa5ba907103" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Getting to Know Them. You assess your pupil’s strengths and weaknesses and try to get an idea of what they need to learn and how you can teach it to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">314</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7decfdf55fff1001" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): The Lessons. Teaching is often a slow, gradual process.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">315</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="763f913c7ce4e77a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Breakdown. Many times, a student needs to have a moment of crisis to really learn something. Maybe they get dejected, or maybe they rebel against your teaching techniques.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">316</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="392ea9be069f38a7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Graduation. This is when you recognize that the pupil has learned what they need. It usually comes at a dramatic moment.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">317</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="547fcccd6f9743dc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You and the pupil say your goodbyes, and you look toward the future.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38a91e69ff763532" weblate-flags="md-text, safe-html, strict-same">
+        <source>JOIN AN ORGANIZATION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">320</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7453a0de375236a" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to join an organization. This might be a military organization, a corporation, a secret society, a religion, or something else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">322</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ed2bd99cad6a59c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Getting the Details. You learn all you can about the organization and how one becomes a member.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">323</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="138c8408d3cc6cdd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Making a Contact. Friends on the inside are always important.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">324</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6cc4297b60a6543" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Performing a Deed. The organization might want to test your worth, or this might be a ceremony you must take part in. It might include paying some sort of dues or fee. Or all of these things.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">325</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="44463ac1770686bb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Proving Your Worth. This is the point at which you attempt to show the organization that they would be better off with you as a member.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">326</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b939ef29e2aef5a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You consider your efforts and assess what your membership gets you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">327</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d4b9577a3aaede6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>JUSTICE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">329</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86119387746caba8" weblate-flags="md-text, safe-html, strict-same">
+        <source>You try to right a wrong or bring a wrongdoer to justice.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">331</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="42c7740189fee2c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Declaration. You publicly declare that you are going to bring justice in this situation. This is optional.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a65dcc4572d115da" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Tracking the Guilty. You track down the guilty party, assuming there is one. This might not be physically finding them if you already know where they are. Instead, it might be discovering a way to get at them if they are distant, difficult to reach, or well protected. This step might be repeated multiple times, if applicable.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">333</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="134c954d6c946d39" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Helping the Victim. Righting a wrong does not always involve confronting a wrongdoer. Part of it might be about helping those who were wronged.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":335" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Confrontation. You confront the guilty party. This might be a public accusation and demonstration of guilt, a trial, or an attack to kill, wound, or apprehend them—whatever you choose to be appropriate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">335</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e33dc073b8ed9d75" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You resolve the outcome and ramifications of the confrontation and decide what to do next.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">336</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3be3a6a26633c7ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>LEARN</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e387a3e74ecbf3c" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to learn something. This isn’t the same as the Uncover a Secret arc, in which you’re looking for a bit of information. This is a skill or whole area of knowledge you want to gain proficiency with. This is learning a new language, how to play an instrument, or how to be a good cook. Thus, it’s not about gaining a level or rank in climbing, but learning to be an experienced mountaineer.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">340</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="13ad2160661c9dba" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Focusing on the Problem.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">341</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="afb5ff499044da7b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Finding a Teacher or a Way to Teach Yourself. Now you can truly begin.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">342</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60016a01bde4568d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Learn. Depending on what you’re learning, this could involve one step or quite a few.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">343</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fa5cc9c975ee2ef" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: The Test. You put your new knowledge to the test in a real situation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">344</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":345" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You relax a bit and decide what to do next.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">345</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="26ca47c859678bb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>MASTER A SKILL</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">347</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ca663a49261f8b9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’re skilled, but you want to become the best. This arc might logically follow the Learn arc. As with the Learn arc, this can involve any kind of training at all, not just a skill.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">349</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4cff9e1ea1f8fb06" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Finding the Path. You’ve learned the basics. Now it’s time for the advanced material.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">350</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3561c359f011bb78" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Discovering a Master. You find a master to help you become a master.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">351</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ff7130c82c6d158" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Learn. Depending on what you’re mastering, this could involve one step or quite a few.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">352</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="561e1269d90f0f7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: The Last Step. Eventually, you realize that even a master cannot teach you the last step. You must learn it on your own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">353</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f8490430612889b5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: The Test. You put your mastery to the test in a real situation—and considering your goal, it’s probably a very important situation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">354</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":355" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You relax a bit and decide what to do next.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">355</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38a077c75c8bb786" weblate-flags="md-text, safe-html, strict-same">
+        <source>MYSTERIOUS BACKGROUND</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">357</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dd0f797f800ddaa5" weblate-flags="md-text, safe-html, strict-same">
+        <source>You don’t know who your parents were, but you want to find out. The mystery might be something other than your parentage, but that’s a common theme in this kind of arc. You want to know where you come from—there’s some kind of mystery in your past.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">359</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6527e747b73c6d27" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Beginning the Search.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">360</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b5e500ad160220b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Research. You look into your own family background, if possible.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">361</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="71a78fc26b473823" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Investigation. You talk to people who might know. You follow clues.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">362</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="237e3c5977589ed0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Discovery. You discover the secret of your own background. You determine if what you learn is good or bad, but either way discovery means success.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">363</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="364bd7383e8facf6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You contemplate how this new knowledge sits with you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">364</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72d3e854a560e4c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>NEW DISCOVERY</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">366</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b57b66be28c46697" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to invent a new device, process, spell, or something similar. A cure for a heretofore unknown disease? An invocation with a result you’ve never heard of before? A method for getting into an impregnable vault? Any of these and more could be your discovery. While similar to the Creation arc and the Learn arc, the New Discovery arc involves blazing a new trail. No one can teach you what you want to know. You’ve got to do it on your own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">368</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f96ea1197b180777" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: The Idea. You draw up plans for the thing you want to invent or discover.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">369</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="300790402034a0bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Research. You learn what people have done before and recognize where they fell short.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">370</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8603cea36586fef7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Trial and Error. You test your hypothesis. This often ends in many failures before you get a success.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">371</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="894d8b9f3c55abb7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Eureka! It’s time to put the discovery to the true test.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">372</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="348b7f3ebe8a161f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on your discovery and probably compile your notes and write it all down, for posterity’s sake if nothing else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">373</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="862616acfab600fb" weblate-flags="md-text, safe-html, strict-same">
+        <source>RAISE A CHILD</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">375</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8d1dc1284e497d88" weblate-flags="md-text, safe-html, strict-same">
+        <source>You raise a child to adulthood. It can be your biological child or one you adopt. It can even be a child taken under your wing, more a young protégé than a son or daughter. This is obviously a very long-term arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">377</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d5e382ef91a5384" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Sharing Your Home. The child now lives with you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">378</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c33dde0dbe8521c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Care and Feeding. You learn to meet the child’s basic needs.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">379</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e843c24efc781e0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Basic Instruction. You teach them to walk, talk, and read. You teach them to care for themselves.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">380</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4f639b6fcdc2d819" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): The Rewards Are Many. The child loves you. Relies on you. Trusts you. Eventually, helps you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">381</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c2f68c83148448f6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Ethical Instruction. You instill your basic ethics in the child, hoping that they will mature into an adult you can be proud of.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">382</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="41ec6932b92ece1b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Adulthood. At some point the child leaves the proverbial nest. You determine, at this point, your own success or failure.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">383</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="907734fbb38ff4bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on the memories you have made.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">384</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe11931d9768e289" weblate-flags="md-text, safe-html, strict-same">
+        <source>RECOVER FROM A WOUND (OR TRAUMA)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">386</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e601a2835e8294b" weblate-flags="md-text, safe-html, strict-same">
+        <source>You need to heal. This isn’t just for healing simple damage. This involves recovering from a major debilitating injury, illness, or shock. Severe damage, the loss of a body part, and emotional trauma all fall into this category.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">388</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="209a689424015493" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Rest. The first thing you need to do is rest.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">389</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b5ec181af302ca0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Self Care. You take care of your own needs.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">390</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="91b6f6c17fbcffa0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Getting Aid. Someone helps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">391</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="01f6b44be71a5be1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Medicine. Some kind of drug, cure, poultice, potion, or remedy aids your recovery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">392</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="74afc2adc05b732e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Therapy. With the help of someone else, you exercise your injury or cope with your trauma.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">393</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="15d1ad27cc55bec4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Acceptance or Recovery. You try to move on and use what has been damaged (or learn how to function without it).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">394</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04c3cbd965068dab" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You get on with your life.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">395</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="418203e6da2672d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>REDEMPTION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">397</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cda55f660900828f" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’ve done something very wrong, but you want to atone and make it right again. This is like the Justice arc or the Undo a Wrong arc, except you are the wrongdoer. This could be a follow-up to the Fall From Grace arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">399</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="50f845ba36fbf34b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Regret. You are determined to rebuild, recover, and restore.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">400</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7c84372832b67477" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Forgiveness. You apologize and ask for forgiveness.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">401</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="85398628652da450" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Identifying the Needs. You determine what needs to be done to atone for your transgression.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">402</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1889a3f466cac4b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Making Good. You perform an act that you hope will redeem your past misdeed.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">403</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="081403142d2037c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on what has happened but now look to the future.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">404</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db9d53ea9ee02329" weblate-flags="md-text, safe-html, strict-same">
+        <source>REPAY A DEBT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">406</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b45feeaf51d15242" weblate-flags="md-text, safe-html, strict-same">
+        <source>You owe someone something, and it’s time to make good.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">408</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ebae96d9190a2704" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Debts Come Due. You determine to do what is needed to make good on the debt. It might involve repaying money, but more appropriately it’s performing a deed or a series of deeds.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">409</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f2e10a9e098f41d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Talking It Over. You discuss the matter with the person you owe, if possible. You ensure that what you’re doing is what they want.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">410</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="672dc72550b244a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Repayment. Either you do something to earn the money or goods you owe, or you undertake a major task that will compensate the other person.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">411</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ebcdc3b8096590d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You relax knowing that your debt is repaid, and you look to the future.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">412</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="81fe43aeacf1ad53" weblate-flags="md-text, safe-html, strict-same">
+        <source>RESCUE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">414</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f3a98e305e70f83b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone or something of great importance has been taken, and you want to get them or it back.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">416</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c9aef4d60badfb34" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Heeding the Call. You determine what has happened, and who or what is missing.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">417</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="37120497cadd68e5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Tracking. You discover who has taken them, and where.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">418</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee5637a47769017e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Travel. You go to where they are being held and get information on the location and who is involved. Maybe make a plan.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">419</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c59156329cfac7fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Rescue Operation. You go in and get them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">420</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a782109917eefb3c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You return them home.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">421</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c8a561b1c3da116c" weblate-flags="md-text, safe-html, strict-same">
+        <source>RESTORATION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">423</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="01b99f654de463a1" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’re down but not out. You want to restore your good name. Recover what you’ve lost. Rebuild what has been destroyed. You’ve fallen down or have been knocked down, but either way you want to pick yourself up. This is a possible follow-up to the Fall From Grace arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">425</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5976ebfa37939c56" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Vow to Yourself. You are determined to rebuild, recover, and restore.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">426</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8afd626a468362db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Work. You rebuild, recover, and restore. If all your money was stolen, you make more. If your house was destroyed, you rebuild it. If your reputation was tarnished, you perform deeds that restore your good name.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">427</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e8d1930b168fc17" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: The Final Act. You undertake one last major task that will bring things back to where they were (or close to it). A lot is riding on this moment.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">428</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1665caefe7886ffd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You enjoy a return to things the way they were before.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">429</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7c2b24e00128e42f" weblate-flags="md-text, safe-html, strict-same">
+        <source>REVENGE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">431</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d154cd1dd2da38eb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone did something that harmed you. Unlike the Avenge arc, this arc probably isn’t about tracking down a murderer, but it might involve pursuing someone who stole from you, hurt you, or otherwise brought you grief. The key is that it’s personal. Otherwise, use the Justice arc.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">433</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e027f8edc3ec19d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Vow. You swear revenge.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">434</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d34b40c75c7fbd62" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Finding a Clue. You find a clue to tracking down the culprit.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">435</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a251cf274c80d274" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Confrontation. You confront the culprit.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">436</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8693796eda5ceda5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You deal with the aftermath of the confrontation and move on. You think about whether you are satisfied by gaining your revenge.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">437</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="148c06e7173075f8" weblate-flags="md-text, safe-html, strict-same">
+        <source>ROMANCES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">439</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6a7f04558b0a177f" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to strike up a relationship with a romantic partner. Perhaps you have a specific person in mind, or maybe you’re just interested in a relationship in general.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">441</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b61cc010d273d312" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening(s): Caught Someone’s Eye. You meet someone you are interested in. (Since this can be short-lived, it’s possible to have this opening occur more than once.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">442</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3991612c49d6060a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Courtship. You begin seeing the person regularly. Although not every “date” is a step in the arc, significant moments are, and there may be a few of them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">443</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="55a5055c9075f37a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Commitment. You may or may not be interested in a monogamous relationship. Regardless, you and your love have made some kind of commitment to each other.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">444</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c4b2a311c5ac169c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You think about the future. Marriage? Children? These are only some of the possibilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">445</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="55d0fb8205e27101" weblate-flags="md-text, safe-html, strict-same">
+        <source>SOLVE A MYSTERY</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">447</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0d9ef9998f987495" weblate-flags="md-text, safe-html, strict-same">
+        <source>Different from the Learn arc and the Uncover a Secret arc, this arc is about solving a crime or a similar action committed in the fairly recent past. It’s not about practice or study, but about questions and answers. In theory, the mystery doesn’t have to be a crime. It might be “Why is this strange caustic substance leaking into my basement?”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">449</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="228d45c90dbe499a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Pledging to Solve the Mystery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">450</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc2d704f29464b1d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Research. You get some background.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">451</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4e827fc4f1222f8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Investigation. You ask questions. You look for clues. You cast divinations. This likely encompasses many such steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">452</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a5f7d541fd20d76" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Discovery. You come upon what you believe to be the solution to the mystery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">453</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d5afbc50f16368bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: In this step, which is far more active than most resolutions, you confront the people involved in the mystery with what you’ve discovered, or you use the information in some way (such as taking it to the proper authorities).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">454</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8d8ffbdd680406c8" weblate-flags="md-text, safe-html, strict-same">
+        <source>THEFT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">456</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e1a54f9ce47027fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone else has something you want.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">458</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f34e40980f25e48" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Setting Your Sights. You make a plan.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">459</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97c5997e5f47a58b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Casing the Joint. You scout out the location of the thing (or learn its location).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">460</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="00f266d0a4278bde" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Getting to the Object. Sometimes, many steps are involved before you reach the object you wish to take. For example, if, in order to steal something from a vault, you need to approach one of the guards while they are off duty and bribe them to look the other way when you break in, that is covered in this step.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">461</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="39db966f2b11fe0c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: The Attempt. You make your heist.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">462</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a1c0c419bd852175" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You decide what to do with the thing you’ve stolen and contemplate the repercussions you might face for stealing it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">463</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2a728fef6bb0a452" weblate-flags="md-text, safe-html, strict-same">
+        <source>TRAIN A CREATURE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">465</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a54083e18726ccca" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to domesticate and train an animal or other creature. While the beast doesn’t need to be wild, it must not already be domesticated and trained.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">467</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4efc801fde77a9ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Getting Acquainted. You get to know the creature a bit, and it gets to know you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">468</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="28364d60aeb7da26" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Research. You get information on the type of creature or advice from others who have trained one.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">469</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f06d038461d3aa54" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Domestication. After some work, the creature is no longer a threat to you or anyone else, and it can live peacefully in your home or wherever you wish.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">470</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f63d0ecebbf436b3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Training. Each time you use this step, you teach the creature a new, significant command that it will obey regularly and immediately.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">471</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0377078ee31ef242" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Completion. Believing the creature’s training to be complete, you put it in a situation where that is put to the test.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">472</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0f64608b6e24e98b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on the experience.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">473</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1f075cee473f3df8" weblate-flags="md-text, safe-html, strict-same">
+        <source>TRANSFORMATION</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">475</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0cea868bb8acaad3" weblate-flags="md-text, safe-html, strict-same">
+        <source>You want to be different in a specific way. Because the Growth arc covers internal change, this one focuses primarily on external change. This could take many forms, and probably varies greatly by genre. In some settings, it could even be death, which might turn you into a ghost. For the change to be an arc, it should be difficult and perhaps risky.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">477</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df3991eb12be4706" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Deciding on the Transformation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">478</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f5afa7556aba2916" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Research. You look into how the change can be made and what it entails.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">479</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="58236fdc3de747cb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Investigation. This is an active step toward making the change. It might involve getting more information, materials or ingredients, or something else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">480</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="93fc2e6cb693cabe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Change. You make the change, with some risk of failure or disaster.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">481</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="013561aeef1c217e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You contemplate how this change affects you going forward.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">482</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="977aaaad15a9f2f9" weblate-flags="md-text, safe-html, strict-same">
+        <source>UNCOVER A SECRET</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">484</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8782eda485724dcc" weblate-flags="md-text, safe-html, strict-same">
+        <source>There is knowledge out there that you want. It could be an attempt to find and learn a specific special ability. This could also be a hunt for a lost password or a key that will open a sealed door, the true name of a devil, the secret background of an important person, or how the ancients constructed that strange monolith.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">486</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="14b703238f7ba52e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Naming the Secret. You give your goal a name. “I am seeking the lost martial art of the Khendrix, who could slice steel with their bare hands.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">487</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72030ebab8ec2b0c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Research. You scour libraries and old tomes for clues and information.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">488</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="27a816380fcbbefc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Investigation. You talk to people to gain clues and information.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">489</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f835fc40d43aca1a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Tracking. You track down the source of the secret information and travel to it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">490</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4789b5daac9b9c8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Revelation. You find and attempt to use the secret, whatever that entails.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">491</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="689a445b166eb581" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You contemplate how this secret affects you and the world.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">492</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d05262ef57981f0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>UNDO A WRONG</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">494</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef2b00c8dc42946e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone did something horrible, and its ramifications are still felt, even if it happened long ago. You seek to undo the damage, or at least stop it from continuing.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">496</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="54c07b6e7b5c75f0" weblate-flags="md-text, safe-html, strict-same">
+        <source>This is different from the Justice arc because this isn’t about justice (or even revenge)—it’s about literally undoing something bad that happened in the past, such as a great library being burned to the ground, a sovereign people being driven from their land, and so on.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">498</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3aec3a5b11bbf785" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opening: Vowing to Put Right What Once Went Wrong.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">499</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d56d0c26ef031b9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step: Make a Plan. You learn all you can about the situation and then make a plan to put things right.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">500</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="929f2633063b2c9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Step(s): Progress. This is an active step toward undoing the wrong. It might involve finding something, defeating someone, destroying something, building something, or almost anything else, depending on the circumstances.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">501</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97edf171b8d37c3f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Climax: Change. You face the challenge of the former wrong, and either overcome it or fail.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">502</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="56db8b8006733505" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resolution: You reflect on what you’ve accomplished and think about the future.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">503</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

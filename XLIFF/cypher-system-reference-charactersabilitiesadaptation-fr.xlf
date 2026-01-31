@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b4ee4bdee01d3f74" weblate-flags="md-text, safe-html, strict-same">
+        <source>Adaptation #Ability #EnvironmentAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="40d06a560449b31d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Thanks to a latent mutation, a device implanted in your spine, a ritual performed with dragon’s blood, or some other gift, you now remain at a comfortable temperature; never need to worry about dangerous radiation, diseases, or gases; and can always breathe in any environment (even the vacuum of space).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

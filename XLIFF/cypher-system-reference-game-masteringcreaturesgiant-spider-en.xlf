@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2f144f3979fccf79" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GIANT SPIDER #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target state="translated">GIANT SPIDER #lvl3 (9) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6413feef80116064" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Giant spiders result most commonly from radioactive accidents, magic, or genetic manipulation. Whatever their origin, they’re terrifying hunters large enough to predate people. The creatures range from the size of a large dog to the size of a large horse.</source>
+        <target state="translated">Giant spiders result most commonly from radioactive accidents, magic, or genetic manipulation. Whatever their origin, they’re terrifying hunters large enough to predate people. The creatures range from the size of a large dog to the size of a large horse.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f98e01e6310911f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Hungers for blood</source>
+        <target state="translated">Motive: Hungers for blood</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c05b846d9862cfc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere webs can be spun in the dark</source>
+        <target state="translated">Environment: Anywhere webs can be spun in the dark</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04d2a5112eb75996" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 3 points</source>
+        <target state="translated">Damage Inflicted: 3 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4091beda9d0d1e00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when traveling on their webs</source>
+        <target state="translated">Movement: Short; long when traveling on their webs</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be1dd0cbd7c7da82" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Perception as level 5; Speed defense as level 4 due to quickness</source>
+        <target state="translated">Modifications: Perception as level 5; Speed defense as level 4 due to quickness</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="78b6df1128819273" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: A giant spider’s envenomed fangs inflict 3 points of damage, plus 3 points of Speed damage (ignores Armor) if a victim fails a Might defense roll. Debilitated victims are not killed but instead cocooned and hung for later dining. Giant spider webs (level 4) can hold victims immobile and unable to take actions until they manage to break free.</source>
+        <target state="translated">Combat: A giant spider’s envenomed fangs inflict 3 points of damage, plus 3 points of Speed damage (ignores Armor) if a victim fails a Might defense roll. Debilitated victims are not killed but instead cocooned and hung for later dining. Giant spider webs (level 4) can hold victims immobile and unable to take actions until they manage to break free.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9819597dc8b1ba6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Giant spiders lose their perception and Speed defense modifications in bright light and thus often retreat from intense illumination.</source>
+        <target state="translated">Giant spiders lose their perception and Speed defense modifications in bright light and thus often retreat from intense illumination.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="833ae64a5650532e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Most giant spiders are simple predators and react accordingly.</source>
+        <target state="translated">Interaction: Most giant spiders are simple predators and react accordingly.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0537549bfb94ef25" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Giant spider webs can infest unlit alleys, dungeon corridors, dark forests, and darkened hallways of decommissioned genetic labs.</source>
+        <target state="translated">Use: Giant spider webs can infest unlit alleys, dungeon corridors, dark forests, and darkened hallways of decommissioned genetic labs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f48d1c672664e0dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Cocooned corpses of previous victims hanging in a giant spider’s web sometimes contain all manner of valuables, including cyphers.</source>
+        <target state="translated">Loot: Cocooned corpses of previous victims hanging in a giant spider’s web sometimes contain all manner of valuables, including cyphers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c93092f5b7e12ca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: Giant spider eggs hatch, and a level 3 swarm of tiny spiders attacks the character.</source>
+        <target state="translated">GM intrusion: Giant spider eggs hatch, and a level 3 swarm of tiny spiders attacks the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

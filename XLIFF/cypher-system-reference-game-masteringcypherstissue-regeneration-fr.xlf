@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e7d5eeff41150203" weblate-flags="md-text, safe-html, strict-same">
+        <source>TISSUE REGENERATION #Cypher #Subtle #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="20da1571bfac5b6c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ffd47103da522666" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: For the next hour, the user regains 1 point lost to damage per round, up to a total number of points equal to twice the cypher’s level. As each point is regained, they choose which Pool to add it to. If all their Pools are at maximum, the regeneration pauses until they take more damage, at which point it begins again (if any time remains in the hour) until the duration expires.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05ead0b65216df72" weblate-flags="md-text, safe-html, strict-same">
+        <source>(A tissue regeneration cypher can be used to regenerate a lost appendage (an arm, a foot, a leg, and so on) or to repair scar tissue from burns and other tissue-related disfigurements. If the cypher is used in this fashion, it restores only 1d6 points over the hour duration.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

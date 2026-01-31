@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d4d909fcafb0fa44" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Roaming Third Eye (3 Intellect points) #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Roaming Third Eye (3 Intellect points) #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3413d5dcc42bb27b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position.</source>
+        <target state="translated">When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

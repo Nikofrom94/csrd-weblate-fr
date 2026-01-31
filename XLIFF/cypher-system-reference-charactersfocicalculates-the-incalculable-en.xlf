@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="96bb35cd5c51503c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Calculates the Incalculable #Focus #EnvironmentFocus #Core</source>
+        <target state="translated">Calculates the Incalculable #Focus #EnvironmentFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f58aac8c300595a1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.</source>
+        <target state="translated">Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ced6b7fc5f164791" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Predictive Equation]{1}</source>
+        <target state="translated">Tier 1: [Predictive Equation]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a0a4f7e18382e83" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Higher Mathematics]{1}</source>
+        <target state="translated">Tier 1: [Higher Mathematics]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0af40dd4c4f56e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Predictive Model]{1}</source>
+        <target state="translated">Tier 2: [Predictive Model]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="546abb0256ef9d0a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Subconscious Defense]{1} or [Enhanced Intellect]{2}</source>
+        <target state="translated">Tier 3: [Subconscious Defense]{1} or [Enhanced Intellect]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf22152f6ae4fcfe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Cognizant Offense]{1}</source>
+        <target state="translated">Tier 4: [Cognizant Offense]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be503da2db165a97" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Greater Enhanced Intellect]{1}</source>
+        <target state="translated">Tier 5: [Greater Enhanced Intellect]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccce44fcf224c0b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Further Mathematics]{1}</source>
+        <target state="translated">Tier 5: [Further Mathematics]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2e16b005aa03c51" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Knowing the Unknown]{1} or [Greater Enhanced Intellect]{2}</source>
+        <target state="translated">Tier 6: [Knowing the Unknown]{1} or [Greater Enhanced Intellect]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f9a58b565df03fc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.</source>
+        <target state="translated">GM Intrusions: Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

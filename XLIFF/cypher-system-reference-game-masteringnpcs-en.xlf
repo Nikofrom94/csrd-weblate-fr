@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2c53c693d7833c3c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPCs in this chapter are generic examples of nonplayer characters that can be used in many genres.</source>
+        <target state="translated">The NPCs in this chapter are generic examples of nonplayer characters that can be used in many genres.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b5d88b438ff03a5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Reskinning NPCs: GMs will find that with a few tweaks, a guard can be a modern-day cop, a fantasy caravan guard, or a science fiction drone soldier. This is known as reskinning—making slight changes to existing stats to customize the NPC for your own game.</source>
+        <target state="translated">Reskinning NPCs: GMs will find that with a few tweaks, a guard can be a modern-day cop, a fantasy caravan guard, or a science fiction drone soldier. This is known as reskinning—making slight changes to existing stats to customize the NPC for your own game.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c4a5c10a72db44c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health, Not Pools: Remember that NPCs don’t have stat Pools. Instead, they have a characteristic called health. When an NPC takes damage of any kind, the amount is subtracted from its health. Unless described otherwise, an NPC’s health is always equal to its target number. Some NPCs might have special reactions to or defenses against attacks that would normally deal Speed damage or Intellect damage, but unless the NPC’s description specifically explains this, assume that all damage is subtracted from the NPC’s health.</source>
+        <target state="translated">Health, Not Pools: Remember that NPCs don’t have stat Pools. Instead, they have a characteristic called health. When an NPC takes damage of any kind, the amount is subtracted from its health. Unless described otherwise, an NPC’s health is always equal to its target number. Some NPCs might have special reactions to or defenses against attacks that would normally deal Speed damage or Intellect damage, but unless the NPC’s description specifically explains this, assume that all damage is subtracted from the NPC’s health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="45e7fc1665b34124" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Appropriate Weapons: NPCs use weapons appropriate to their situation, which might be swords and crossbows, knives and shotguns, malefic psychic weapons, blasters and grenades, and so on.</source>
+        <target state="translated">Appropriate Weapons: NPCs use weapons appropriate to their situation, which might be swords and crossbows, knives and shotguns, malefic psychic weapons, blasters and grenades, and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d716d4af94b38397" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**OTHER NPCs** Many NPCs are simple and understandable enough to be encapsulated just by their level and a few other other relevant stats.</source>
+        <target state="translated">**OTHER NPCs** Many NPCs are simple and understandable enough to be encapsulated just by their level and a few other other relevant stats.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

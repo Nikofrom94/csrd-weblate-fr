@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ce57f60e11b82e11" weblate-flags="md-text, safe-html, strict-same">
+        <source>Improved Object Bond (5 Intellect points) #Ability #CompanionAbility #SpecialAttackAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="340a58c35f5ea12f" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you manifest the ally from your Bound Magic Creature ability, it is now a level 4 creature. Also, the creature gains a pulse attack that renders all artifacts, machines, manifest cyphers, and lesser magic devices within short range inoperable for one minute. After the creature uses this ability, it must retreat to its object to rest for three hours.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

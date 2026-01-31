@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c57a3fb667f44e94" weblate-flags="md-text, safe-html, strict-same">
+        <source>FUSION HOUND #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ded9e7e9ec55910" weblate-flags="md-text, safe-html, strict-same">
+        <source>In radiation-scoured wastelands, either creatures adapt to the deadly energies of their environment, or they die. Fusion hounds are mutant canines able to absorb unbelievable amounts of radiation and thrive on it. They roam in packs, killing and devouring everything they come upon.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9834395b237d6124" weblate-flags="md-text, safe-html, strict-same">
+        <source>A fusion hound’s entire head appears to be a blast of flame, and gouts of dangerous radiation flare from its body.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7119bf5473c34a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for flesh</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e084b7ea8d035bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Packs of three to eight can be found almost anywhere.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b4f183adee4de28" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6720848b9f3a31b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Long</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5ccd32503661d464" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Speed defense as level 4; stealth and climbing as level 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0da7729863212fdc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Fusion hounds move very fast and use that speed to their advantage in combat. A hound can move a long distance and still attack as a single action. It can also use its action to run about in random patterns, hindering attacks against it by two steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4d87a341be664ccc" weblate-flags="md-text, safe-html, strict-same">
+        <source>A fusion hound’s head is completely haloed in a seething mass of radioactive energy, so unlike traditional canines, it has no bite attack. Instead, it pounces on prey with its clawed forelimbs, which causes a burst of radiation to flare from its body, burning whatever it touches.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ad6b770995e3e422" weblate-flags="md-text, safe-html, strict-same">
+        <source>Anyone within close distance of a fusion hound for more than one round suffers 1 point of damage in each round after the first.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b884f23e8af86fd0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Fusion hounds are animals. Creatures immune to radiation sometimes train the hounds to become guardians or hunting dogs, but such creatures are rare.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="58708c2e7fe2e3b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: An NPC delivering something the characters need never made it to the rendezvous. If they backtrack to where the NPC should have come from, the PCs are attacked by a pack of fusion hounds on the road. Clearly, the courier was attacked by the pack as well, and the characters must discover if the NPC is dead or merely injured, and where the package now lies.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e566804369f4ebbe" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The hound flares with energy and the character must succeed on a Might defense task or go blind for ten minutes.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

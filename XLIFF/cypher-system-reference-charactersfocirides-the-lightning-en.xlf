@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0970518f39f9a5f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rides the Lightning #Focus #EnergyFocus #Core</source>
+        <target state="translated">Rides the Lightning #Focus #EnergyFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f42f50e1ade9630" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You create and discharge electrical power.</source>
+        <target state="translated">You create and discharge electrical power.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="300412e68ceadd35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Shock</source>
+        <target state="translated">Tier 1: Shock</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2701be43902b15b5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Charge</source>
+        <target state="translated">Tier 1: Charge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9c36feadfd8da522" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Bolt Rider</source>
+        <target state="translated">Tier 2: Bolt Rider</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32a7ed2bff875d98" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Electric Armor or Drain Charge</source>
+        <target state="translated">Tier 3: Electric Armor or Drain Charge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="99ac5da52c7fcec7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Bolts of Power</source>
+        <target state="translated">Tier 4: Bolts of Power</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca65c895094e958b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Electrical Flight</source>
+        <target state="translated">Tier 5: Electrical Flight</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="de3544c17af5f1a5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Flash Across the Miles or Wall of Lightning</source>
+        <target state="translated">Tier 6: Flash Across the Miles or Wall of Lightning</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="872ebbaa168f09df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Targets other than those intended are shocked. Objects explode.</source>
+        <target state="translated">GM Intrusions: Targets other than those intended are shocked. Objects explode.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="621813ccc5064f9e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Talks to Machines #Focus #InfluenceFocus #Core</source>
+        <target state="translated">Talks to Machines #Focus #InfluenceFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35e399b4cf474b07" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You use your organic brain like a computer, interfacing “wirelessly” with any electronic device. You can control and influence them in ways that others can’t.</source>
+        <target state="translated">You use your organic brain like a computer, interfacing “wirelessly” with any electronic device. You can control and influence them in ways that others can’t.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="33566a3e7c5db4f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Machine Affinity</source>
+        <target state="translated">Tier 1: Machine Affinity</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b107a3836952a56" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Distant Interface</source>
+        <target state="translated">Tier 1: Distant Interface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="549de34b2f028207" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Coaxing Power</source>
+        <target state="translated">Tier 2: Coaxing Power</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7345267cd03bbadb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Charm Machine</source>
+        <target state="translated">Tier 2: Charm Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1196608d0c2a4cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Intelligent Interface or Command Machine</source>
+        <target state="translated">Tier 3: Intelligent Interface or Command Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4cb77f687084292e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Machine Companion</source>
+        <target state="translated">Tier 4: Machine Companion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3dd567a71919f3f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Robot Fighter</source>
+        <target state="translated">Tier 4: Robot Fighter</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4478038c1fc74bd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Information Gathering</source>
+        <target state="translated">Tier 5: Information Gathering</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd26d3090e8f0495" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Control Machine or Improved Machine Companion</source>
+        <target state="translated">Tier 6: Control Machine or Improved Machine Companion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e87b7a3ee5314c4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: The machine malfunctions or acts unpredictably.</source>
+        <target state="translated">GM Intrusions: The machine malfunctions or acts unpredictably.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

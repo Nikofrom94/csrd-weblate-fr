@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b0af4dd7fa65d6c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>ARMOR REINFORCER #Cypher #Manifest #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="53379dc3da033f62" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a57cf053a0997dc0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: The user’s Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfbd4c12eb9e51b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="086aea614f3384d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>+1 to Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="006009681cb2e26c" weblate-flags="md-text, safe-html, strict-same">
+        <source>2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7b4d916e949e5b4" weblate-flags="md-text, safe-html, strict-same">
+        <source>+2 to Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b17c7d9edacecbaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b91a407d70785e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>+3 to Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3174f6bcbef734ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1db050ba3473ab4" weblate-flags="md-text, safe-html, strict-same">
+        <source>+2 to Armor, +5 against damage from fire</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1214f1507fe8dc50" weblate-flags="md-text, safe-html, strict-same">
+        <source>5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd57d6ae9bb25516" weblate-flags="md-text, safe-html, strict-same">
+        <source>+2 to Armor, +5 against damage from cold</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c789e1896697ebbd" weblate-flags="md-text, safe-html, strict-same">
+        <source>6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac4ee8ea58b375b7" weblate-flags="md-text, safe-html, strict-same">
+        <source>+2 to Armor, +5 against damage from acid</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

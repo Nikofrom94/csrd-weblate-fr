@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="28f060114caa757a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weird Science Breakthrough (5+ Intellect points) #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Weird Science Breakthrough (5+ Intellect points) #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="67ba8485f8fcc151" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your research leads to a breakthrough, and you imbue an object with a truly amazing property, though you can use the item only once. To do so, you must buy spare parts equivalent to an expensive item, have a field science kit (or a permanent lab, if you have access to one), and succeed at a difficulty 4 Intellect-based roll to create a random manifest cypher of up to level 2. The GM decides the nature of the cypher you create. Attempting to create a specified cypher hinders the task by two steps. Creating a cypher does not allow you to surpass your normal cypher limit. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher you create; each level of Effort increases the level of the cypher and the difficulty of the Intellect task to create it.</source>
+        <target state="translated">Your research leads to a breakthrough, and you imbue an object with a truly amazing property, though you can use the item only once. To do so, you must buy spare parts equivalent to an expensive item, have a field science kit (or a permanent lab, if you have access to one), and succeed at a difficulty 4 Intellect-based roll to create a random manifest cypher of up to level 2. The GM decides the nature of the cypher you create. Attempting to create a specified cypher hinders the task by two steps. Creating a cypher does not allow you to surpass your normal cypher limit. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher you create; each level of Effort increases the level of the cypher and the difficulty of the Intellect task to create it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bd8e6ef0f20abad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, one hour to complete.</source>
+        <target state="translated">Action to initiate, one hour to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0c6b0242a6adac0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Punish the Guilty (2 Might points) #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Punish the Guilty (2 Might points) #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e2c81e3c7ef0096" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage.</source>
+        <target state="translated">For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b83fc3d4aef4212" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target state="translated">Action to initiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

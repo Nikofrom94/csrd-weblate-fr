@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="c471d7b9325e999b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Monster Lore #Ability #InformationAbility #TaskAbility #Low #Core</source>
+        <target state="translated">Monster Lore #Ability #InformationAbility #TaskAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="303dd1b5bcbd4e64" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are trained in the names, habits, suspected lairs, and related topics regarding the monsters of your world. You can make yourself understood in their languages (if they have one).</source>
+        <target state="translated">You are trained in the names, habits, suspected lairs, and related topics regarding the monsters of your world. You can make yourself understood in their languages (if they have one).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

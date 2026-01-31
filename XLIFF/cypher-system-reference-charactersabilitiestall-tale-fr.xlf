@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c818ee63027df6cb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tall Tale (3 Intellect points) #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9de49c992a4b7bf9" weblate-flags="md-text, safe-html, strict-same">
+        <source>You tell a short anecdote to a foe that can understand you about something you’ve witnessed in your life that’s so over the top yet so convincing that, if you are successful, the foe is dazed for one minute, during which time its tasks are hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

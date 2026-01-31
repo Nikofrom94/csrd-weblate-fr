@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b21b43e456cd711d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Horde Tactics (7 Might points) #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Horde Tactics (7 Might points) #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6d3ad96a0fcd088" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For up to one hour a day, you and at least three other allies can act like a single creature. Use your stats, but add +8 to your Might Pool, +1 to your Might Edge, +2 to your Speed Pool, +1 to your Speed Edge, and +1 to your Armor.</source>
+        <target state="translated">For up to one hour a day, you and at least three other allies can act like a single creature. Use your stats, but add +8 to your Might Pool, +1 to your Might Edge, +2 to your Speed Pool, +1 to your Speed Edge, and +1 to your Armor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="387ac3e7776035d4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stealthy #Descriptor #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e3f67fe1eef829e6" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’re sneaky, slippery, and fast. These talents help you hide, move quietly, and pull off tricks that require sleight of hand. Most likely, you’re wiry and small. However, you’re not much of a sprinter—you’re more dexterous than fleet of foot.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="535d070a3eaa0514" weblate-flags="md-text, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="71823c8c6b9b9d4e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Quick: +2 to your Speed Pool.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfcf1b8979cef6c8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Skill: You’re trained in all stealth tasks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4417e7a1d71e4d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Skill: You’re trained in all interactions involving lies or trickery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="841d4f3886bd0036" weblate-flags="md-text, safe-html, strict-same">
+        <source>Skill: You’re trained in all special abilities involving illusions or trickery.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3ca6f7ab90018406" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inability: You’re sneaky but not fast. All movement-related tasks are hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="76eeddc66bfda07e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06e62fb5b6c055f0" weblate-flags="md-text, safe-html, strict-same">
+        <source>You attempted to steal from one of the other PCs. That character caught you and forced you to come along with them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a31397f01004bab1" weblate-flags="md-text, safe-html, strict-same">
+        <source>You were tailing one of the other PCs for reasons of your own, which brought you into the action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="08988240919ad6aa" weblate-flags="md-text, safe-html, strict-same">
+        <source>An NPC employer secretly paid you to get involved.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0636bfc6ee860d93" weblate-flags="md-text, safe-html, strict-same">
+        <source>You overheard the other PCs talking about a topic that interested you, so you decided to approach the group.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

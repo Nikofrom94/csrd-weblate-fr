@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4f6048d46801cc87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Commands Mental Powers #Focus #InfluenceFocus #Core</source>
+        <target state="translated">Commands Mental Powers #Focus #InfluenceFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb06e38f32ddb7a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have honed the power of your mind to perform amazing psychic deeds.</source>
+        <target state="translated">You have honed the power of your mind to perform amazing psychic deeds.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfdcf2943fd323fe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Telepathic]{1}</source>
+        <target state="translated">Tier 1: [Telepathic]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="33cb1e753102423b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Mind Reading]{1}</source>
+        <target state="translated">Tier 2: [Mind Reading]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc3f760996888dbe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Psychic Burst]{1} or [Psychic Suggestion]{2}</source>
+        <target state="translated">Tier 3: [Psychic Burst]{1} or [Psychic Suggestion]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="977ab3233323ff90" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Use Senses of Others]{1}</source>
+        <target state="translated">Tier 4: [Use Senses of Others]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2f529216883bb38f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Precognition]{1}</source>
+        <target state="translated">Tier 5: [Precognition]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8be2b459cfe9c63f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Mind Control]{1} or [Telepathic Network]{2}</source>
+        <target state="translated">Tier 6: [Mind Control]{1} or [Telepathic Network]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32a86511991ee3ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.</source>
+        <target state="translated">GM Intrusions: Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

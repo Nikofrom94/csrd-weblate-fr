@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="a96855118139f07d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Have Spacesuit, Will Travel #Ability #ProtectionAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d942ffc1830d1ea8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Somehow or another, you became the legal owner of a fully functional and advanced spacesuit. The spacesuit provides +1 Armor and, more important, allows you to survive in the vacuum of space using suit reserves for up to twelve hours at a time with enough reaction mass to get around in zero gravity on jets of ionized gas for that same period. After each use, the suit must be recharged, either with already-charged cartridges of air and reaction mass or by allowing the suit to sit idle in an area with breathable atmosphere for at least two hours, during which time it will recharge both air and reaction mass using integrated solid state mechanisms. The suit’s power supply is a radioisotope thermoelectric generator, which means it’ll function for a few decades before needing to be changed out.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

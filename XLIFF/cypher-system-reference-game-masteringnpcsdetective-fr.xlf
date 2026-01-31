@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="44efe26c267c9884" weblate-flags="md-text, safe-html, strict-same">
+        <source>DETECTIVE #lvl3 (9) #Creature #Core #Modern</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ffbe2d220ad94d1c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detectives are usually veterans of their organization (such as the police, city watch, marshals, space command, and so on) with extensive experience. Some detectives are freelance sleuths whose uncanny ability to see the truth comes from personal training combined with an underlying talent for noticing clues that others miss.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac9bbdb633e4632a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Solve the crime</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="87c9a8a791257f16" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee3bbe829b11ad74" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Tasks relating to perception, intuition, initiative, and detecting falsehoods as level 6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="80b7e1b3e281f56e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Detectives prefer to outwit their foes rather than engage in a straight-up fight. Even then, most conflicts occur in a place and time of the detective’s choosing, preferably in the presence of their allies. A detective can deduce weaknesses of their enemies (if any) and exploit them in combat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aec4ca169f2b3d6c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Some detectives are insufferable
+know-it-alls. Others have learned that humility is also a useful tool for getting answers from people.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d9a5ca6041ca009" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: To the PCs, detectives can be obstacles (a detective is on their trail), allies (a detective helps them assemble clues), or both, but the sleuths are rarely a way for the characters to hand off responsibility for accomplishing a hard task.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="74d7550cf9642e10" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: Aside from their weapons, most detectives have currency equivalent to a very expensive item and a cypher.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="98d9e6913ed4975f" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The detective intuits the character’s next attack and moves perfectly so that an ally of the character takes the attack instead.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

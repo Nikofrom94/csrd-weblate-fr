@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="baec797cccbc50df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heads-Up Display (2+ Intellect points) #Ability #AttackAbility #TaskAbility #SensesAbility #Low #Core</source>
+        <target state="translated">Heads-Up Display (2+ Intellect points) #Ability #AttackAbility #TaskAbility #SensesAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abb1bf464f5cdb43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your Powered Armor ability comes with systems that help you make sense of, analyze, and use your weapons in your environment. When you trigger this ability, you gain an asset on one attack roll as the suit perfectly outlines foes and steadies your aim, regardless of whether you’re making a melee or ranged attack.</source>
+        <target state="translated">Your Powered Armor ability comes with systems that help you make sense of, analyze, and use your weapons in your environment. When you trigger this ability, you gain an asset on one attack roll as the suit perfectly outlines foes and steadies your aim, regardless of whether you’re making a melee or ranged attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d720f3fc32b72440" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Alternatively, you can use the heads-up display to magnify your vision, increasing your vision range to 5 miles (8 km) for two rounds. If you apply one level of Effort, you can also see through mundane materials (such as wood, concrete, plastic, and stone) to a short distance in false color images. If you apply two levels of Effort, you can see through special materials (such as solid lead or other substances) to an immediate distance in false color images; however, the GM might require you to succeed at an Intellect-based task first, depending on the material blocking your armor’s sensors.</source>
+        <target state="translated">Alternatively, you can use the heads-up display to magnify your vision, increasing your vision range to 5 miles (8 km) for two rounds. If you apply one level of Effort, you can also see through mundane materials (such as wood, concrete, plastic, and stone) to a short distance in false color images. If you apply two levels of Effort, you can see through special materials (such as solid lead or other substances) to an immediate distance in false color images; however, the GM might require you to succeed at an Intellect-based task first, depending on the material blocking your armor’s sensors.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

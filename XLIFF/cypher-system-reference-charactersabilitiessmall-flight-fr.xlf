@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="903874917beeb603" weblate-flags="md-text, safe-html, strict-same">
+        <source>Small Flight (3+ Intellect points) #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="28082aac27c99468" weblate-flags="md-text, safe-html, strict-same">
+        <source>For the next hour, when using Shrink, you can fly through the air. You might accomplish this flight by growing wings from your body, extending wings from your suit, calling a tiny creature to carry you, or “surfing” air currents. When flying, you can move up to a short distance as part of another action or a long distance if all you do on your turn is move.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="64d128437adb24d9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enable Others #Ability #SupportAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ffbd36b7f6b12d32" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can use the helping rules to provide a benefit to another character attempting a physical task. Unlike the normal helping rules, this doesn’t require you to use your action helping the other character with the task. This requires no action on your part. Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

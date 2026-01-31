@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ee038a71fc7aa0cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FAERIE #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target state="translated">FAERIE #lvl3 (9) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3eedf47ed5e7ded7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Faeries are magic creatures of music, mirth, tricks, and taunts. Some might only perform a silly song or follow people for a while, flitting around and asking questions like an annoying young child. Some faeries are crueler and delight in stealing clothing, equipment, or prized objects. And a few are downright malicious and, under the guise of a helpful guide or a pretty light in the distance, lure lost travelers to various dooms.</source>
+        <target state="translated">Faeries are magic creatures of music, mirth, tricks, and taunts. Some might only perform a silly song or follow people for a while, flitting around and asking questions like an annoying young child. Some faeries are crueler and delight in stealing clothing, equipment, or prized objects. And a few are downright malicious and, under the guise of a helpful guide or a pretty light in the distance, lure lost travelers to various dooms.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69f7a5c856066988" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Unpredictable</source>
+        <target state="translated">Motive: Unpredictable</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="05be6e917fa4e711" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Alone or in a flutter of three to twelve</source>
+        <target state="translated">Environment: Alone or in a flutter of three to twelve</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f830ed1ea6b1fcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target state="translated">Damage Inflicted: 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="709ad1ef8db76967" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Immediate; long when flying</source>
+        <target state="translated">Movement: Immediate; long when flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3d1cb28911d33e51" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Tasks related to performance and deception as level 5; Speed defense as level 5 due to size and quickness</source>
+        <target state="translated">Modifications: Tasks related to performance and deception as level 5; Speed defense as level 5 due to size and quickness</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1a158ce63abe9c3f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: A faerie can hurl damaging magic dust at any target within short range, but sometimes it wields tiny weapons such as bows, spears, or swords.</source>
+        <target state="translated">Combat: A faerie can hurl damaging magic dust at any target within short range, but sometimes it wields tiny weapons such as bows, spears, or swords.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f78c1fd95c8219d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If a faerie is touched or struck by a melee weapon, more magic dust puffs away from the faerie and clouds the attacker, who must make a Speed defense roll or take the same amount of damage they just dealt to the faerie.</source>
+        <target state="translated">If a faerie is touched or struck by a melee weapon, more magic dust puffs away from the faerie and clouds the attacker, who must make a Speed defense roll or take the same amount of damage they just dealt to the faerie.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="993b0baca66ed800" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A faerie can see in the dark, but it can also emit bright light and appear as a glowing humanoid or an illuminated sphere.</source>
+        <target state="translated">A faerie can see in the dark, but it can also emit bright light and appear as a glowing humanoid or an illuminated sphere.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3a40745dc40872e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Faeries regenerate 1 point of health per round while their health is above 0.</source>
+        <target state="translated">Faeries regenerate 1 point of health per round while their health is above 0.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d0718cda76045b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some faeries can attempt to use a song or light display to charm others within short range. The target must succeed on an Intellect defense roll or fall into a suggestible state for one hour. During this period, the target can be led by the faerie at their regular movement rate. The target can be brought out of the spell early if they take damage or are heartily slapped and shaken for a round or two, causing the glamour to fade. A faerie can use this power once per minute.</source>
+        <target state="translated">Some faeries can attempt to use a song or light display to charm others within short range. The target must succeed on an Intellect defense roll or fall into a suggestible state for one hour. During this period, the target can be led by the faerie at their regular movement rate. The target can be brought out of the spell early if they take damage or are heartily slapped and shaken for a round or two, causing the glamour to fade. A faerie can use this power once per minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89fe1832c4b50db5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, or other gifts. However, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment.</source>
+        <target state="translated">Interaction: Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, or other gifts. However, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b1c5f052a5d5f4cd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: The dancing light in the distance, leading curious PCs deeper and deeper into the dark woods, is a faerie. And the destination could be a wicked witch or other unpleasant location.</source>
+        <target state="translated">Use: The dancing light in the distance, leading curious PCs deeper and deeper into the dark woods, is a faerie. And the destination could be a wicked witch or other unpleasant location.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a209ac4ff5373f03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and might hold a handful of shiny coins or a cypher.</source>
+        <target state="translated">Loot: The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and might hold a handful of shiny coins or a cypher.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d6ae206ff1a60f47" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: Another faerie appears, and if the character fails a Speed defense roll, it flies off with their weapon or another
+important possession.</source>
+        <target state="translated">GM intrusion: Another faerie appears, and if the character fails a Speed defense roll, it flies off with their weapon or another
+important possession.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

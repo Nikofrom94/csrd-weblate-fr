@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="a280262b81ed80fa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Infiltrates #Focus #ExplorationFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ee2e1f17a456118" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subtlety, guile, and stealth allow you to get in where others can’t.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c9b86b57ac7e78d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Stealth Skills]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="500b99a5cf1ea646" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Sense Attitudes]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dc314ff1bac309e8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Impersonate]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be8352800531c3ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Flight Not Fight]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0e7a70a19ebfb8f5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Awareness]{1} or [Skill With Attacks]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a459cc877ade89c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Invisibility]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="805f9163f3f97e54" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Evasion]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="71df83c6e92c81d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Brainwashing]{1} or [Spring Away]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97bf94b73bd4cb60" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

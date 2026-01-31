@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="f8814590cf74a57c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Drives Like A Maniac #Focus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0586a1d30f9f56c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don’t think about the risks when you’re behind the wheel.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="318371aa38a15e57" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Someone who Drives Like a Maniac needs access to a vehicle.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0ab8f45a1f9df57" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Driver]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a3428636d5fa1502" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Driving on the Edge]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="748b06d9165fa238" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Car Surfer]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b2bdc7cd4e63ca3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Stare Them Down]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b8dd33cbc53727a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Expert Driver]{1} or [Enhanced Speed Edge]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db2669fb1741ab3e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Sharp-Eyed]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="12e1a2a7c9604467" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Enhanced Speed]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="474b4f155f5d236b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Something in the Road]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dc79195a6eec3e2d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Trick Driver]{1} or [Lethal Damage]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="299b9cb2f1454689" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

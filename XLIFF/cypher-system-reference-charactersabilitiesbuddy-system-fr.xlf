@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3595f358ac08cdf4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Buddy System (3 Intellect points) #Ability #SupportAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="953e89308a8f4a70" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose one character standing next to you. That character becomes your buddy for ten minutes. You are trained in all tasks involving finding, healing, interacting with, and protecting your buddy. Also, while you stand next to your buddy, both of you have an asset on Speed defense tasks. You can have only one buddy at a time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

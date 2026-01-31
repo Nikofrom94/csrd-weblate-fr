@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="99c05af1e666cb0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Walks the Wild Woods #Focus #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="559c1be44b6eb3c3" weblate-flags="md-text, safe-html, strict-same">
+        <source>An adherent of nature magic who draws on the power and strength of trees.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a48afb83348dd95" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Wilderness Life</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ee6d618e2a63c83" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Patient Recovery</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ef394508254c300" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Wooden Body</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5f0a981a579721d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Tree Companion or Wilderness Awareness</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="005b9a4f3a107366" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Tree Travel</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cb4401a72efcc04e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Great Tree</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="670389e6eea19b10" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Dreadwood or Restorative Bloom</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7465a0fe96503eca" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: A wooden charactercatches fire. A wild swing from a treebranch hits or trips an ally. Some treeshave evil hearts and hate all walkingthings.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

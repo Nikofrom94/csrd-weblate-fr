@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="401c51ebc0fa0b30" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shield Burst #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Shield Burst #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2c76f68f9be044f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you make a melee or ranged attack and hit with your [[Force Field Shield]], it releases an explosion of energy, inflicting an additional 2 points of damage on the target and everything within immediate range of the target. If you applied Effort to inflict additional damage as part of the attack, each level of Effort inflicts only 2 additional points to all targets instead of 3 points. If you use Shield Burst with a melee attack, you and creatures behind you are not affected by this explosion. If you use Shield Burst with a ranged attack, the shield dissipates after the attack and then reforms in your grasp.</source>
+        <target state="translated">When you make a melee or ranged attack and hit with your [[Force Field Shield]], it releases an explosion of energy, inflicting an additional 2 points of damage on the target and everything within immediate range of the target. If you applied Effort to inflict additional damage as part of the attack, each level of Effort inflicts only 2 additional points to all targets instead of 3 points. If you use Shield Burst with a melee attack, you and creatures behind you are not affected by this explosion. If you use Shield Burst with a ranged attack, the shield dissipates after the attack and then reforms in your grasp.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

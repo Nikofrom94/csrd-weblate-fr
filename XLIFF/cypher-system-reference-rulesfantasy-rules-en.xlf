@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="802c4d2dcf388379" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>AWARDING TREASURE</source>
+        <target state="translated">AWARDING TREASURE</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0c629e922d21820e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s best to think of gold and magic as two different kinds of currencies that characters have access to.</source>
+        <target state="translated">It’s best to think of gold and magic as two different kinds of currencies that characters have access to.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ab3c1221e9064e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**GOLD** The Cypher System abstracts item costs into general categories— inexpensive, moderate, expensive, and so on. Starting characters generally have access to only a few inexpensive and moderate items and perhaps one or two expensive items. In a typical fantasy campaign, the characters should become wealthier as they advance.</source>
+        <target state="translated">**GOLD** The Cypher System abstracts item costs into general categories— inexpensive, moderate, expensive, and so on. Starting characters generally have access to only a few inexpensive and moderate items and perhaps one or two expensive items. In a typical fantasy campaign, the characters should become wealthier as they advance.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18dcbd552cd39586" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**MANIFEST CYPHERS** The expectation is that PCs will use cyphers often because they’ll have many opportunities to get more; if the players can exploit this mechanic by selling off most of their cyphers in town, they’re abusing the rules to make gold. The GM might be tempted to discourage this behavior by reducing how often the PCs gain new cyphers, but that goes against the premise of cyphers in the game: they should be common enough that the PCs use them freely instead of hoarding them. The key to addressing this selling-cyphers wealth problem is to make it harder to sell or trade cyphers for gold.</source>
+        <target state="translated">**MANIFEST CYPHERS** The expectation is that PCs will use cyphers often because they’ll have many opportunities to get more; if the players can exploit this mechanic by selling off most of their cyphers in town, they’re abusing the rules to make gold. The GM might be tempted to discourage this behavior by reducing how often the PCs gain new cyphers, but that goes against the premise of cyphers in the game: they should be common enough that the PCs use them freely instead of hoarding them. The key to addressing this selling-cyphers wealth problem is to make it harder to sell or trade cyphers for gold.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6d34e7b6d38adfcb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PCs can have opportunities to trade their cyphers with NPCs in town, whether that’s at a magic item shop, the tower of a mentor wizard, a thieves’ guild, a temple, other adventurers, or the local government. The kinds of cyphers these NPCs can offer may be limited in theme (such as a benevolent church that makes healing potions and trades them for other useful cyphers) or quantity (such as having only one or two cyphers available each month). Two cyphers of the same level are generally considered to be about the same value, although local biases and NPC interests may affect their willingness to trade certain items despite or because of a level disparity</source>
+        <target state="translated">The PCs can have opportunities to trade their cyphers with NPCs in town, whether that’s at a magic item shop, the tower of a mentor wizard, a thieves’ guild, a temple, other adventurers, or the local government. The kinds of cyphers these NPCs can offer may be limited in theme (such as a benevolent church that makes healing potions and trades them for other useful cyphers) or quantity (such as having only one or two cyphers available each month). Two cyphers of the same level are generally considered to be about the same value, although local biases and NPC interests may affect their willingness to trade certain items despite or because of a level disparity</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd15f985eb79ea28" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**ARTIFACTS** Artifacts are the high end of magical currency, and in terms of buying and selling them, they’re like manifest cyphers: not something a typical NPC can use, and beyond what a typical NPC can afford, but they could be traded for a different artifact of about the same level. Unlike cyphers, the game doesn’t assume that PCs have frequent opportunities to gain new artifacts or replace the ones that deplete.</source>
+        <target state="translated">**ARTIFACTS** Artifacts are the high end of magical currency, and in terms of buying and selling them, they’re like manifest cyphers: not something a typical NPC can use, and beyond what a typical NPC can afford, but they could be traded for a different artifact of about the same level. Unlike cyphers, the game doesn’t assume that PCs have frequent opportunities to gain new artifacts or replace the ones that deplete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="52b9dccb26590996" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a pinch, an artifact is worth the equivalent of one or two very expensive items or one exorbitant item, depending on what the artifact can do. An artifact that grants an asset to one kind of roll is probably worth about as much as a very expensive item, one that adds +1 Armor might be worth two expensive items, and a strong defensive or offensive artifact could be worth about the same as an exorbitant item.</source>
+        <target state="translated">In a pinch, an artifact is worth the equivalent of one or two very expensive items or one exorbitant item, depending on what the artifact can do. An artifact that grants an asset to one kind of roll is probably worth about as much as a very expensive item, one that adds +1 Armor might be worth two expensive items, and a strong defensive or offensive artifact could be worth about the same as an exorbitant item.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="481311f8a979b2fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DUNGEONS, CASTLES, AND KEEPS</source>
+        <target state="translated">DUNGEONS, CASTLES, AND KEEPS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="82021b70efa4e81c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This section describes several kinds of common physical features and their game stats. Any of these levels can be adjusted up or down by the GM—a wall made from soft wood can have a lower level than a typical wall, stone can be reinforced by magic so its level is higher, and so on.</source>
+        <target state="translated">This section describes several kinds of common physical features and their game stats. Any of these levels can be adjusted up or down by the GM—a wall made from soft wood can have a lower level than a typical wall, stone can be reinforced by magic so its level is higher, and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fca161ca0a9155f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**WALLS**</source>
+        <target state="translated">**WALLS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0c03bf13876c2af" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Walls are generally either constructed (intentionally built by a creature) or natural (already existing without any work by a creature). Anything describing walls in this section also applies to ceilings and floors.</source>
+        <target state="translated">Walls are generally either constructed (intentionally built by a creature) or natural (already existing without any work by a creature). Anything describing walls in this section also applies to ceilings and floors.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="725e215a6210b900" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Paper wall (level 1): This thin wall only blocks sight. Creatures can attack through a paper wall as if attacking blindly (hindered by four steps), but it’s usually easier to break a hole in the wall and attack through the hole. Paper walls are vulnerable to piercing and slashing weapons (attacks are eased). A gauzy curtain is equivalent to a paper wall, and a cloth wall is probably level 2.</source>
+        <target state="translated">Paper wall (level 1): This thin wall only blocks sight. Creatures can attack through a paper wall as if attacking blindly (hindered by four steps), but it’s usually easier to break a hole in the wall and attack through the hole. Paper walls are vulnerable to piercing and slashing weapons (attacks are eased). A gauzy curtain is equivalent to a paper wall, and a cloth wall is probably level 2.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="52a74836e93db61b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wooden wall (level 4): This is a typical wall for an average wooden house. The walls of a decrepit shack or a partition within a dungeon might be only level 2 or 3, but the exterior palisade wall of a fort or a log cabin might be level 5. Wooden walls are vulnerable to fire (attacks with fire are eased) but resistant to bashing and piercing weapons (attacks are hindered).</source>
+        <target state="translated">Wooden wall (level 4): This is a typical wall for an average wooden house. The walls of a decrepit shack or a partition within a dungeon might be only level 2 or 3, but the exterior palisade wall of a fort or a log cabin might be level 5. Wooden walls are vulnerable to fire (attacks with fire are eased) but resistant to bashing and piercing weapons (attacks are hindered).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="59a0d1814916a63e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stone wall (level 6): Constructed stone walls are bricks or masonry (fitted stones), with or without mortar to hold them in place, or hewn stone (dug into existing natural rock). Natural stone walls are usually unworked stone (like a cave wall or cliff face, which tend to be uneven) but might have areas where creatures smoothed or modified them to suit their needs for a living space. Some constructed stone walls are reinforced with metal bars on the surface or built inside, increasing its level to 7. Stone walls are vulnerable to piercing weapons (attacks are eased) but resistant to bashing and slashing weapons (attacks are hindered).</source>
+        <target state="translated">Stone wall (level 6): Constructed stone walls are bricks or masonry (fitted stones), with or without mortar to hold them in place, or hewn stone (dug into existing natural rock). Natural stone walls are usually unworked stone (like a cave wall or cliff face, which tend to be uneven) but might have areas where creatures smoothed or modified them to suit their needs for a living space. Some constructed stone walls are reinforced with metal bars on the surface or built inside, increasing its level to 7. Stone walls are vulnerable to piercing weapons (attacks are eased) but resistant to bashing and slashing weapons (attacks are hindered).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc3cdb35b14f6382" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Iron wall (level 7): These expensive walls are usually reserved for protecting something important, like a vault.</source>
+        <target state="translated">Iron wall (level 7): These expensive walls are usually reserved for protecting something important, like a vault.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5be1c9046c9c18c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**DOORS**</source>
+        <target state="translated">**DOORS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae177f50d0c1d2bd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Doors are access points for encounters and (if trapped or infested with dangerous creatures) can be encounters all on their own. In most cases, trying to break through a door involves damaging its latch or hinges rather than destroying the main portion of the door (trying to destroy the door instead of the latch and hinges is a hindered task).</source>
+        <target state="translated">Doors are access points for encounters and (if trapped or infested with dangerous creatures) can be encounters all on their own. In most cases, trying to break through a door involves damaging its latch or hinges rather than destroying the main portion of the door (trying to destroy the door instead of the latch and hinges is a hindered task).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="219a2bbe09f114ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Simple wooden door (level 2): This is a fragile door meant to close off an interior space for privacy rather than to keep out a determined intruder. Instead of a single piece of wood, a simple wooden door is usually made of multiple planks nailed together on a frame or with support struts. Wooden doors of all strengths are vulnerable to fire (attacks with fire are eased) but resistant to bashing and piercing weapons (attacks are hindered).</source>
+        <target state="translated">Simple wooden door (level 2): This is a fragile door meant to close off an interior space for privacy rather than to keep out a determined intruder. Instead of a single piece of wood, a simple wooden door is usually made of multiple planks nailed together on a frame or with support struts. Wooden doors of all strengths are vulnerable to fire (attacks with fire are eased) but resistant to bashing and piercing weapons (attacks are hindered).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="21a7213ca8db3a7b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Good wooden door (level 3): This is a stronger door meant to provide some security, such as for a typical house or shop.</source>
+        <target state="translated">Good wooden door (level 3): This is a stronger door meant to provide some security, such as for a typical house or shop.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dff804e94d81e505" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Strong wooden door (level 4): This is a heavy door reinforced with wood or metal to make it difficult to break. An especially strong wooden door, such as the main entrance to a fort or castle, is probably level 5.</source>
+        <target state="translated">Strong wooden door (level 4): This is a heavy door reinforced with wood or metal to make it difficult to break. An especially strong wooden door, such as the main entrance to a fort or castle, is probably level 5.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e5ee144c9af6db3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stone door (level 5): These heavy doors are usually carved from a solid block of stone and designed to pivot on a center point. They are common in places like dungeons where wood and metal are scarce. Stone doors are vulnerable to piercing weapons (attacks are eased) but resistant to bashing and slashing weapons (attacks are hindered).</source>
+        <target state="translated">Stone door (level 5): These heavy doors are usually carved from a solid block of stone and designed to pivot on a center point. They are common in places like dungeons where wood and metal are scarce. Stone doors are vulnerable to piercing weapons (attacks are eased) but resistant to bashing and slashing weapons (attacks are hindered).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6461e984fc315f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Iron door (level 6): A solid iron door is meant to protect something very valuable or vulnerable, such as a vault or a king’s tomb. In a damp environment like a dungeon, they tend to rust and stick in place.</source>
+        <target state="translated">Iron door (level 6): A solid iron door is meant to protect something very valuable or vulnerable, such as a vault or a king’s tomb. In a damp environment like a dungeon, they tend to rust and stick in place.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3347ac6e5fd0dc5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wooden portcullis (level 3): The gaps in a portcullis present more defense opportunities than a door, such as allowing archers to fire at the creatures trapped by it. They’re also useful in closing access to a waterway without impacting its flow. A wooden portcullis is relatively fragile and usually isn’t meant to keep anyone out for long.</source>
+        <target state="translated">Wooden portcullis (level 3): The gaps in a portcullis present more defense opportunities than a door, such as allowing archers to fire at the creatures trapped by it. They’re also useful in closing access to a waterway without impacting its flow. A wooden portcullis is relatively fragile and usually isn’t meant to keep anyone out for long.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df22abe99f150e52" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Iron portcullis (level 6): Much sturdier than wood, an iron portcullis is meant to keep creatures in place as long as necessary. Often the best way to get past a portcullis is to lift it instead of breaking it, but some are designed to lock in place to prevent this. A door to a prison cell is essentially a type of iron portcullis.</source>
+        <target state="translated">Iron portcullis (level 6): Much sturdier than wood, an iron portcullis is meant to keep creatures in place as long as necessary. Often the best way to get past a portcullis is to lift it instead of breaking it, but some are designed to lock in place to prevent this. A door to a prison cell is essentially a type of iron portcullis.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bacd629909a32b87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TRAPS</source>
+        <target state="translated">TRAPS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb9f72e30506e6f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One common element of fantasy exploration—particularly for castles and dungeons—is the danger of traps.</source>
+        <target state="translated">One common element of fantasy exploration—particularly for castles and dungeons—is the danger of traps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00d9b3f3c1957f2b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**TRIGGERING TRAPS**</source>
+        <target state="translated">**TRIGGERING TRAPS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a101671aff0bf3b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mechanical traps have a triggering mechanism—something set up to react when an unauthorized creature is in the area. Magical traps have triggers that are usually based on proximity—if a creature enters the area the trap is “watching,” it activates.</source>
+        <target state="translated">Mechanical traps have a triggering mechanism—something set up to react when an unauthorized creature is in the area. Magical traps have triggers that are usually based on proximity—if a creature enters the area the trap is “watching,” it activates.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2191c8ef5f7c0f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**FINDING TRAPS**</source>
+        <target state="translated">**FINDING TRAPS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="715319e24edc7ae0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Most characters won’t notice traps unless actively looking for them; they don’t know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.</source>
+        <target state="translated">Most characters won’t notice traps unless actively looking for them; they don’t know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6828c568c18c1216" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don’t have to keep stating over and over that they’re looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).</source>
+        <target state="translated">Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don’t have to keep stating over and over that they’re looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aa66013284199ba6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don’t find it. If there is a second trap, the GM can have them make another roll after they’ve resolved the first trap.</source>
+        <target state="translated">Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don’t find it. If there is a second trap, the GM can have them make another roll after they’ve resolved the first trap.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3668f5448e67e337" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**DISABLING, DAMAGING, AND BYPASSING TRAPS**</source>
+        <target state="translated">**DISABLING, DAMAGING, AND BYPASSING TRAPS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f792862a559b3dee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character can attempt to disable a trap so it’s no longer able to activate or harm anyone. Normally this task has the same difficulty as the trap’s level, but some traps are rickety and easy to disable, while others are carefully crafted and much harder to disable. Traps are objects and use the object damage track. Characters can attack a trap with weapons or special abilities to damage or destroy it. Some traps may be vulnerable to certain attacks or unusual means of sabotage (such as hammering a piton into a groove where a blade springs out). Magical traps can be damaged or disabled with special abilities.</source>
+        <target state="translated">A character can attempt to disable a trap so it’s no longer able to activate or harm anyone. Normally this task has the same difficulty as the trap’s level, but some traps are rickety and easy to disable, while others are carefully crafted and much harder to disable. Traps are objects and use the object damage track. Characters can attack a trap with weapons or special abilities to damage or destroy it. Some traps may be vulnerable to certain attacks or unusual means of sabotage (such as hammering a piton into a groove where a blade springs out). Magical traps can be damaged or disabled with special abilities.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="48219778b2686ef8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Instead of disabling a trap, a character can try to bypass it so they and their allies can get past it without triggering it but still leave it as a danger to anyone else who passes through the area. The task to bypass a trap is hindered by two steps</source>
+        <target state="translated">Instead of disabling a trap, a character can try to bypass it so they and their allies can get past it without triggering it but still leave it as a danger to anyone else who passes through the area. The task to bypass a trap is hindered by two steps</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ad59dd1e358fb56d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Failing an attempt to disable, bypass, or sabotage a trap means it activates. Usually the trap’s target is the acting character, and the trap’s attack is eased because the character placed themselves in harm’s way</source>
+        <target state="translated">Failing an attempt to disable, bypass, or sabotage a trap means it activates. Usually the trap’s target is the acting character, and the trap’s attack is eased because the character placed themselves in harm’s way</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e647ce7826356282" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Unless a character has the ability to manipulate magic, it’s very difficult to bypass a magical trap (the attempt is hindered by two additional steps).</source>
+        <target state="translated">Unless a character has the ability to manipulate magic, it’s very difficult to bypass a magical trap (the attempt is hindered by two additional steps).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2fddb58969d072e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**UNDERSTANDING THE LISTINGS**</source>
+        <target state="translated">**UNDERSTANDING THE LISTINGS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e47657ea01a64a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The rest of the chapter presents a large number of traps with game stats. Every trap is presented by name, followed by a standard template that includes the following categories. If an entry doesn’t apply to a particular trap, it is omitted from the listing.</source>
+        <target state="translated">The rest of the chapter presents a large number of traps with game stats. Every trap is presented by name, followed by a standard template that includes the following categories. If an entry doesn’t apply to a particular trap, it is omitted from the listing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="27a22d0748f3c790" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: Like the difficulty of a task, each trap has a level. You use the level to determine the target number a PC must reach to find, evade, or disable the trap. In each entry, the difficulty number for the trap is listed after its level (always three times the trap’s level).</source>
+        <target state="translated">Level: Like the difficulty of a task, each trap has a level. You use the level to determine the target number a PC must reach to find, evade, or disable the trap. In each entry, the difficulty number for the trap is listed after its level (always three times the trap’s level).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6e91b4965985c800" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Description: This general description explains what the trap does, how it operates, whether it resets automatically, if it has a limited number of uses, and so on.</source>
+        <target state="translated">Description: This general description explains what the trap does, how it operates, whether it resets automatically, if it has a limited number of uses, and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="24e94af33985c79e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it’s the normal amount for a trap of its level.</source>
+        <target state="translated">Damage Inflicted: Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it’s the normal amount for a trap of its level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="648b9e665eacf248" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Use these numbers when a trap’s information says to use a different target number. For example, a level 4 trap might say “defends as level 5,” which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap’s attacks, defenses, and stealth (how hard or easy it is to notice the trap).</source>
+        <target state="translated">Modifications: Use these numbers when a trap’s information says to use a different target number. For example, a level 4 trap might say “defends as level 5,” which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap’s attacks, defenses, and stealth (how hard or easy it is to notice the trap).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef21e778839e887a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: This entry suggests one or more ways to use GM intrusions in an encounter with the trap. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.</source>
+        <target state="translated">GM Intrusion: This entry suggests one or more ways to use GM intrusions in an encounter with the trap. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6cb886f761fb4f2d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**COMMON TRAP POISONS**</source>
+        <target state="translated">**COMMON TRAP POISONS**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8cf9cc1e53c1dec2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Blindness: The poison blinds the creature if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour.</source>
+        <target state="translated">Blindness: The poison blinds the creature if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="847dc6261955970c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Choking: The poison makes the creature choke and cough if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour. Severe versions of choking poison might make a creature start to suffocate.</source>
+        <target state="translated">Choking: The poison makes the creature choke and cough if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour. Severe versions of choking poison might make a creature start to suffocate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c8354ae352e78e7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Track: The poison moves the creature down one step on the damage track if they fail a defense roll.</source>
+        <target state="translated">Damage Track: The poison moves the creature down one step on the damage track if they fail a defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="593881a98209e28e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Debilitating: The poison hinders all of the creature’s actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.</source>
+        <target state="translated">Debilitating: The poison hinders all of the creature’s actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6dca2231da7e069f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Instant Damage: The poison inflicts damage (Might, Speed, or Intellect) one time if the creature fails a defense roll.</source>
+        <target state="translated">Instant Damage: The poison inflicts damage (Might, Speed, or Intellect) one time if the creature fails a defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d34285dc2688543e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ongoing Damage: The poison inflicts damage (Might, Speed, or Intellect) immediately. When a certain amount of time has passed (such as every round or every minute), it inflicts damage again if the creature fails its defense roll. The ongoing damage usually ends on its own (such as after five additional rounds of damage) or after the creature makes a defense roll against it. Usually the ongoing damage is a much smaller amount than the initial damage, such as 1 point every round.</source>
+        <target state="translated">Ongoing Damage: The poison inflicts damage (Might, Speed, or Intellect) immediately. When a certain amount of time has passed (such as every round or every minute), it inflicts damage again if the creature fails its defense roll. The ongoing damage usually ends on its own (such as after five additional rounds of damage) or after the creature makes a defense roll against it. Usually the ongoing damage is a much smaller amount than the initial damage, such as 1 point every round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96e6a955cf82471e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Paralysis: The poison prevents the creature from taking any physical actions if they fail a defense roll (this might leave them standing in place like a statue, or make them go limp and collapse to the floor). Typical durations are ten minutes, one hour, and ten hours.</source>
+        <target state="translated">Paralysis: The poison prevents the creature from taking any physical actions if they fail a defense roll (this might leave them standing in place like a statue, or make them go limp and collapse to the floor). Typical durations are ten minutes, one hour, and ten hours.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c180d2dcc315021" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sleep: The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they’re awakened early).</source>
+        <target state="translated">Sleep: The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they’re awakened early).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e5d82d6e5cd78739" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ARROW</source>
+        <target state="translated">ARROW</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":112" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ecb1aa6279e88f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fires an arrow or crossbow bolt. The simplest one-use trap of this kind is an actual crossbow (perhaps hidden behind a hole in a wall or door) rigged with a tripwire to pull the trigger; a creature would need to manually reset this trap for it to be a danger again. More complex traps might automatically reload from a supply of bolts so the trap can be triggered multiple times, or fire automatically once triggered until the ammunition is expended. A variant of this trap releases a volley of arrows into the targeted area, affecting multiple creatures or the same creature more than once.</source>
+        <target state="translated">Fires an arrow or crossbow bolt. The simplest one-use trap of this kind is an actual crossbow (perhaps hidden behind a hole in a wall or door) rigged with a tripwire to pull the trigger; a creature would need to manually reset this trap for it to be a danger again. More complex traps might automatically reload from a supply of bolts so the trap can be triggered multiple times, or fire automatically once triggered until the ammunition is expended. A variant of this trap releases a volley of arrows into the targeted area, affecting multiple creatures or the same creature more than once.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f830ed1ea6b1fcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target state="translated">Damage Inflicted: 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="726d8b96df80372a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Defense and stealth as level 6 (if hidden behind a hole in the wall)</source>
+        <target state="translated">Modifications: Defense and stealth as level 6 (if hidden behind a hole in the wall)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7bd6a0e7d1cff3a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The arrow is barbed, and removing it inflicts 3 points of damage. The arrow is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock.</source>
+        <target state="translated">GM Intrusion: The arrow is barbed, and removing it inflicts 3 points of damage. The arrow is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9726f20a79f20734" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CRUSHING WALL</source>
+        <target state="translated">CRUSHING WALL</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":124" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 6 (18)</source>
+        <target state="translated">Level : 6 (18)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cec056975c1b7a4f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A section of a wall falls over onto the targeted character. This is usually a one-use trap (although a similar trap could be built in its place).</source>
+        <target state="translated">A section of a wall falls over onto the targeted character. This is usually a one-use trap (although a similar trap could be built in its place).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f1957a96ea82c0bd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this trap is a deadfall, where something heavy (such as a log, huge stone block, or cart full of rocks) falls from a higher position onto the character. Sometimes the falling block is made to exactly fit a trapped corridor so that triggering the trap makes the area impassible.</source>
+        <target state="translated">A variant of this trap is a deadfall, where something heavy (such as a log, huge stone block, or cart full of rocks) falls from a higher position onto the character. Sometimes the falling block is made to exactly fit a trapped corridor so that triggering the trap makes the area impassible.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f0f19c95b2c1b206" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A less lethal variant drops a large amount of sand or dirt, inflicting 3 points of ambient damage (ignores Armor). Another variant releases oil (perhaps burning) or marbles, inflicting 3 points of ambient damage and making the area difficult terrain.</source>
+        <target state="translated">A less lethal variant drops a large amount of sand or dirt, inflicting 3 points of ambient damage (ignores Armor). Another variant releases oil (perhaps burning) or marbles, inflicting 3 points of ambient damage and making the area difficult terrain.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="70c85c01346ee85d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points (ignores Armor)</source>
+        <target state="translated">Damage Inflicted: 6 points (ignores Armor)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0fda38fa746d836c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The fallen wall blocks access to an exit. The wall debris buries the character, who is trapped until they can dig free. Another trap, hazard, or threat is behind the fallen wall (such as arrow traps or a room full of zombies) and can now reach the characters.</source>
+        <target state="translated">GM Intrusion: The fallen wall blocks access to an exit. The wall debris buries the character, who is trapped until they can dig free. Another trap, hazard, or threat is behind the fallen wall (such as arrow traps or a room full of zombies) and can now reach the characters.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d6660ba7a27c413" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DISINTEGRATION</source>
+        <target state="translated">DISINTEGRATION</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2e8020c10c7ed8e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 7 (21)</source>
+        <target state="translated">Level : 7 (21)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0c33d1da9ccef4f1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A magical ray of eerie energy blasts the character, disrupting their physical matter. Any creature killed by the ray (or any object destroyed by it) turns to dust.</source>
+        <target state="translated">A magical ray of eerie energy blasts the character, disrupting their physical matter. Any creature killed by the ray (or any object destroyed by it) turns to dust.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6cfa990d3ad5f7b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 15 points</source>
+        <target state="translated">Damage Inflicted: 15 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95b281422691be2a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: In addition to inflicting damage, the ray moves the character one step down the damage track. Part of the ray splits or ricochets off the character and strikes a second creature, inflicting 10 points of damage.</source>
+        <target state="translated">GM Intrusion: In addition to inflicting damage, the ray moves the character one step down the damage track. Part of the ray splits or ricochets off the character and strikes a second creature, inflicting 10 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="450dbb4563115fc6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EXPLOSIVE GLYPH</source>
+        <target state="translated">EXPLOSIVE GLYPH</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":148" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4876fb79c8d3ef6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A magical rune activates when touched or passed over, exploding in an immediate or short area. Typical glyphs inflict acid, cold, electricity, or fire damage, but more unusual versions include ones that inflict holy, shadow, thorn, unholy, or stranger types of magical energy damage. A nonmagical variant of this trap sprays a mist of acid, a jet of electrified salt water, or a gout of burning oil.</source>
+        <target state="translated">A magical rune activates when touched or passed over, exploding in an immediate or short area. Typical glyphs inflict acid, cold, electricity, or fire damage, but more unusual versions include ones that inflict holy, shadow, thorn, unholy, or stranger types of magical energy damage. A nonmagical variant of this trap sprays a mist of acid, a jet of electrified salt water, or a gout of burning oil.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0f6b8e6ddaf3251" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points of energy damage (ignores Armor); all creatures in the area take 1 point of damage even if they make their defense roll.</source>
+        <target state="translated">Damage Inflicted: 4 points of energy damage (ignores Armor); all creatures in the area take 1 point of damage even if they make their defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":154" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Stealth as level 5</source>
+        <target state="translated">Modifications: Stealth as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f615d6e5f78d2462" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The glyph marks the character’s face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.</source>
+        <target state="translated">GM Intrusion: The glyph marks the character’s face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d16f3e7a64478964" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FLOODING ROOM</source>
+        <target state="translated">FLOODING ROOM</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":160" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fa4b35e4230bd0a1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Exits to the room close off and the area starts to fill with water. Within a few minutes, the entire room is flooded and creatures in it begin to drown.</source>
+        <target state="translated">Exits to the room close off and the area starts to fill with water. Within a few minutes, the entire room is flooded and creatures in it begin to drown.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6446d27d12fe8178" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this room reduces the air pressure (either by pumping it out through tiny holes or by retracting the floor or ceiling). As the air gets thinner, characters are hindered by one, two, or three steps before falling unconscious and starting to suffocate. (Restoring the air allows the characters to awaken, but doesn’t move them back up the damage track.)</source>
+        <target state="translated">A variant of this room reduces the air pressure (either by pumping it out through tiny holes or by retracting the floor or ceiling). As the air gets thinner, characters are hindered by one, two, or three steps before falling unconscious and starting to suffocate. (Restoring the air allows the characters to awaken, but doesn’t move them back up the damage track.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ed4c282fc405515" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: None until drowning starts</source>
+        <target state="translated">Damage Inflicted: None until drowning starts</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":168" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Defends as level 7</source>
+        <target state="translated">Modifications: Defends as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b51f4c6bd58c3727" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: Hostile creatures such as piranhas or electric eels are in the water and attack all creatures. The room fills with water faster than expected because the floor and/or ceiling are also moving toward each other.</source>
+        <target state="translated">GM Intrusion: Hostile creatures such as piranhas or electric eels are in the water and attack all creatures. The room fills with water faster than expected because the floor and/or ceiling are also moving toward each other.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce043dd8080356da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>MANGLER</source>
+        <target state="translated">MANGLER</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":174" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 3 (9)</source>
+        <target state="translated">Level : 3 (9)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="13e2a9aa1c394c20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A small hole in the wall extends sharp blades or weights when a creature reaches into it, mangling their hand and hindering all actions requiring that hand by one or two steps.</source>
+        <target state="translated">A small hole in the wall extends sharp blades or weights when a creature reaches into it, mangling their hand and hindering all actions requiring that hand by one or two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ad7e675ab3d525b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A floor variant is a small trapdoor over a closed compartment, which mangles the character’s foot when they step on the trapdoor, reducing their movement speed by half.</source>
+        <target state="translated">A floor variant is a small trapdoor over a closed compartment, which mangles the character’s foot when they step on the trapdoor, reducing their movement speed by half.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eaa69ccc624369f6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Another variant is a needle trap attached to a small peephole or spyhole in a door or wall. The trap springs when the character touches the area around the hole (even a slight touch with their face as they look is sufficient), inflicting lasting damage to the character’s eye and partially blinding them. A gentler variant traps the character’s limb in glue instead of inflicting damage. The character’s extremity might be glued to the hole, or they may be able to pull free but have a glue pot stuck on their hand or foot.</source>
+        <target state="translated">Another variant is a needle trap attached to a small peephole or spyhole in a door or wall. The trap springs when the character touches the area around the hole (even a slight touch with their face as they look is sufficient), inflicting lasting damage to the character’s eye and partially blinding them. A gentler variant traps the character’s limb in glue instead of inflicting damage. The character’s extremity might be glued to the hole, or they may be able to pull free but have a glue pot stuck on their hand or foot.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ad364df27c482e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 3 points, plus lasting damage</source>
+        <target state="translated">Damage Inflicted: 3 points, plus lasting damage</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32a96a0109b2d224" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Stealth as level 4</source>
+        <target state="translated">Modifications: Stealth as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0a39b8736253d47b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The trap has hooks, holding the character in place and inflicting damage when they try to escape if they fail a Speed defense roll. The glue attracts a swarm of fire ants or wasps. The glue is also a slow-acting acid or poison.</source>
+        <target state="translated">GM Intrusion: The trap has hooks, holding the character in place and inflicting damage when they try to escape if they fail a Speed defense roll. The glue attracts a swarm of fire ants or wasps. The glue is also a slow-acting acid or poison.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="325b299d0d2758f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>NET</source>
+        <target state="translated">NET</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">188</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":190" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 3 (9)</source>
+        <target state="translated">Level : 3 (9)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f7809c053406f230" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A net suspended above the character drops and constricts (and perhaps lifts the character off the ground). Large net traps can affect multiple creatures at once. This kind of trap usually requires a creature to manually reset it.</source>
+        <target state="translated">A net suspended above the character drops and constricts (and perhaps lifts the character off the ground). Large net traps can affect multiple creatures at once. This kind of trap usually requires a creature to manually reset it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">192</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32150f317ada40ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this trap is a snare made of sturdy cord or wire.</source>
+        <target state="translated">A variant of this trap is a snare made of sturdy cord or wire.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8434ceccd819291f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: Entanglement (trapped character cannot move until they use an action to make a Might or Speed defense roll to break or escape the net)</source>
+        <target state="translated">Damage Inflicted: Entanglement (trapped character cannot move until they use an action to make a Might or Speed defense roll to break or escape the net)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9333fae7a1acf23d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Attacks as level 5, defends as level 2</source>
+        <target state="translated">Modifications: Attacks as level 5, defends as level 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32797f11de46408f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The net is barbed, inflicting 1 point of damage each round that the trapped character tries to move. The net is the nesting place for biting insects, which swarm and attack the trapped character and all nearby creatures each round.</source>
+        <target state="translated">GM Intrusion: The net is barbed, inflicting 1 point of damage each round that the trapped character tries to move. The net is the nesting place for biting insects, which swarm and attack the trapped character and all nearby creatures each round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64158f4886283117" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PIT</source>
+        <target state="translated">PIT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":204" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4870bcab0a3a8c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A trapdoor in the floor opens, dropping the triggering character into a pit. Larger versions of this trap can catch multiple characters at once. The trap can be reset by moving the trapdoor back into its closed position. In outdoor areas, this trap is more likely to be a pit covered in leafy branches (or a tarp) and camouflaged by soil and other debris.</source>
+        <target state="translated">A trapdoor in the floor opens, dropping the triggering character into a pit. Larger versions of this trap can catch multiple characters at once. The trap can be reset by moving the trapdoor back into its closed position. In outdoor areas, this trap is more likely to be a pit covered in leafy branches (or a tarp) and camouflaged by soil and other debris.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="13897e0e7275b1ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this trap is a bridge over a chasm, river, or other dangerous location that is rigged to collapse when enough weight reaches the middle section.</source>
+        <target state="translated">A variant of this trap is a bridge over a chasm, river, or other dangerous location that is rigged to collapse when enough weight reaches the middle section.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5f7ac0310fb0260f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 1 point of ambient damage per 10 feet fallen (ignores Armor)</source>
+        <target state="translated">Damage Inflicted: 1 point of ambient damage per 10 feet fallen (ignores Armor)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">210</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0026da4f22ab3425" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The trapdoor is slippery with oil, hindering attempts to catch the edge and avoid falling. The trapdoor closes after the character falls through, trapping them inside in the darkness. The walls of the pit are greased, hindering attempts to climb out by two steps. A dangerous creature is at the bottom of the pit (or in a room adjacent to it). The pit is filled with poison gas. The trapdoor detaches and falls into the pit, inflicting 1 point of ambient damage per 10 feet it falls. The pit has spikes at the bottom, inflicting an additional 4 points of damage to anyone who falls in.</source>
+        <target state="translated">GM Intrusion: The trapdoor is slippery with oil, hindering attempts to catch the edge and avoid falling. The trapdoor closes after the character falls through, trapping them inside in the darkness. The walls of the pit are greased, hindering attempts to climb out by two steps. A dangerous creature is at the bottom of the pit (or in a room adjacent to it). The pit is filled with poison gas. The trapdoor detaches and falls into the pit, inflicting 1 point of ambient damage per 10 feet it falls. The pit has spikes at the bottom, inflicting an additional 4 points of damage to anyone who falls in.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3514b56dc0616bf0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>POISON GAS</source>
+        <target state="translated">POISON GAS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":216" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 3 (9)</source>
+        <target state="translated">Level : 3 (9)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6164101becb38096" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won’t realize at first that they’ve sprung a trap.</source>
+        <target state="translated">The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won’t realize at first that they’ve sprung a trap.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="83a9a3320886adf7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this trap fills the room with flammable gas, which explodes if there is an open flame (such as from a torch) or a spark (such as a metal weapon against metal armor), inflicting fire damage equal to the trap’s level.</source>
+        <target state="translated">A variant of this trap fills the room with flammable gas, which explodes if there is an open flame (such as from a torch) or a spark (such as a metal weapon against metal armor), inflicting fire damage equal to the trap’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">220</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94750a8994799c70" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A further variant fills the room with dead air (containing no oxygen), which slowly extinguishes flames and suffocates creatures.</source>
+        <target state="translated">A further variant fills the room with dead air (containing no oxygen), which slowly extinguishes flames and suffocates creatures.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="348ff99ad6484157" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: As poison</source>
+        <target state="translated">Damage Inflicted: As poison</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":226" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Stealth as level 5</source>
+        <target state="translated">Modifications: Stealth as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11c62c6a49f6504a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The character has an allergic reaction to the gas, which hinders all their actions for an hour after exposure because of sneezing, watery eyes, or itchy skin. The gas makes the character hallucinate, mistaking their companions for enemies, until they make an Intellect defense roll. The gas is flammable.</source>
+        <target state="translated">GM Intrusion: The character has an allergic reaction to the gas, which hinders all their actions for an hour after exposure because of sneezing, watery eyes, or itchy skin. The gas makes the character hallucinate, mistaking their companions for enemies, until they make an Intellect defense roll. The gas is flammable.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">228</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8a23049c615472b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>POISON NEEDLE</source>
+        <target state="translated">POISON NEEDLE</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":232" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 5 (15)</source>
+        <target state="translated">Level : 5 (15)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ae103bd9db73419" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A poisoned needle jabs at a character touching the trapped object (usually a lock or treasure chest) or is fired from a mechanism similar to an arrow trap. It may have a reservoir of poison that allows it to attack several times.</source>
+        <target state="translated">A poisoned needle jabs at a character touching the trapped object (usually a lock or treasure chest) or is fired from a mechanism similar to an arrow trap. It may have a reservoir of poison that allows it to attack several times.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0f9d1052f98a1c8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 1 point (plus poison)</source>
+        <target state="translated">Damage Inflicted: 1 point (plus poison)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e31558153fef8268" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Stealth as level 6</source>
+        <target state="translated">Modifications: Stealth as level 6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3eeaecf12f18566e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The trap releases acid into the lock mechanism, making the trapped object impossible to unlock. The trap releases acid into the container, destroying some of the valuables inside. The trap releases a puff of poison gas instead of a poisoned needle, affecting all nearby characters.</source>
+        <target state="translated">GM Intrusion: The trap releases acid into the lock mechanism, making the trapped object impossible to unlock. The trap releases acid into the container, destroying some of the valuables inside. The trap releases a puff of poison gas instead of a poisoned needle, affecting all nearby characters.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5744f4ca21078c76" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PORTCULLIS</source>
+        <target state="translated">PORTCULLIS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":244" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 5 (15)</source>
+        <target state="translated">Level : 5 (15)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd565389f24af4ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An iron portcullis drops from the ceiling to block access to an area or separate a character from others nearby. If the creature dodging the falling portcullis wants to choose which side of the trap they end up on, the Speed defense roll is hindered. Otherwise, it is even chances what side they end up on.</source>
+        <target state="translated">An iron portcullis drops from the ceiling to block access to an area or separate a character from others nearby. If the creature dodging the falling portcullis wants to choose which side of the trap they end up on, the Speed defense roll is hindered. Otherwise, it is even chances what side they end up on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aa307b89354ba624" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant of this trap is a solid wall. A magical variant is a force field.</source>
+        <target state="translated">A variant of this trap is a solid wall. A magical variant is a force field.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":250" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1389c87a38888dd3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The portcullis impales the character, trapping them beneath it until it is lifted or destroyed. The portcullis is electrified, inflicting 1 point of damage each time it is touched or attacked with flesh or a metal object. A second portcullis drops nearby, trapping a character in a small area. Murder-holes in the ceiling allow enemies to make ranged attacks on the trapped character.</source>
+        <target state="translated">GM Intrusion: The portcullis impales the character, trapping them beneath it until it is lifted or destroyed. The portcullis is electrified, inflicting 1 point of damage each time it is touched or attacked with flesh or a metal object. A second portcullis drops nearby, trapping a character in a small area. Murder-holes in the ceiling allow enemies to make ranged attacks on the trapped character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="503f1c971f2ed325" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ROLLING BOULDER</source>
+        <target state="translated">ROLLING BOULDER</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1803f81f7cc72ebe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 6 (12)</source>
+        <target state="translated">Level : 6 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2be63bd57f4fc79" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A large boulder, wheel, or barrel rolls into the area, crushing anything in its path. Depending on the configuration of the area, the boulder might follow a specific path, ricochet erratically, break open pit traps, or get stuck somewhere.</source>
+        <target state="translated">A large boulder, wheel, or barrel rolls into the area, crushing anything in its path. Depending on the configuration of the area, the boulder might follow a specific path, ricochet erratically, break open pit traps, or get stuck somewhere.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">258</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="20e4e605ceaf8b1d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A variant is a large iron weight on a chain that swings from the ceiling. The weight swings back and forth several times, giving it multiple chances to hit the characters, but decreasing its damage with each swing until it stops and becomes an obstacle.</source>
+        <target state="translated">A variant is a large iron weight on a chain that swings from the ceiling. The weight swings back and forth several times, giving it multiple chances to hit the characters, but decreasing its damage with each swing until it stops and becomes an obstacle.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":262" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points</source>
+        <target state="translated">Damage Inflicted: 6 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":264" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Defends as level 7</source>
+        <target state="translated">Modifications: Defends as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">264</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="027e480e2373b52e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The boulder crashes through a door or wall, giving other dangerous creatures access to the character’s location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.</source>
+        <target state="translated">GM Intrusion: The boulder crashes through a door or wall, giving other dangerous creatures access to the character’s location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">266</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ffe19a048da5779" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SLICING BLADE</source>
+        <target state="translated">SLICING BLADE</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":270" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 5 (15)</source>
+        <target state="translated">Level : 5 (15)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">270</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6eccacaa96c0820c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade’s reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually.</source>
+        <target state="translated">A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade’s reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">272</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":274" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">274</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57cb486112a42c87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Attacks as level 6</source>
+        <target state="translated">Modifications: Attacks as level 6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">276</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="72d9fe591a3aceb7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The blade is a magical weapon with an additional effect, such as inflicting 3 points of fire damage. The blade is rusted and breaks off when it hits the character, inflicting 1 point of damage (ignores Armor) each round after the initial attack until it is healed.</source>
+        <target state="translated">GM Intrusion: The blade is a magical weapon with an additional effect, such as inflicting 3 points of fire damage. The blade is rusted and breaks off when it hits the character, inflicting 1 point of damage (ignores Armor) each round after the initial attack until it is healed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">278</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df0d524e33d44fa7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SLIDING STAIR</source>
+        <target state="translated">SLIDING STAIR</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":282" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aca09506be43ddd1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A stairway or section of stairs unexpectedly turns into a ramp. Anyone who makes a Speed defense roll can catch hold near where they were standing; otherwise, they slide or tumble to the bottom and take damage. This kind of trap usually resets after a minute or has a manual reset lever at the top or bottom of the stairs.</source>
+        <target state="translated">A stairway or section of stairs unexpectedly turns into a ramp. Anyone who makes a Speed defense roll can catch hold near where they were standing; otherwise, they slide or tumble to the bottom and take damage. This kind of trap usually resets after a minute or has a manual reset lever at the top or bottom of the stairs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">284</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b431118180f5da6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 1 point of ambient damage per 20 feet slid (ignores Armor)</source>
+        <target state="translated">Damage Inflicted: 1 point of ambient damage per 20 feet slid (ignores Armor)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">286</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2894e9b4ff66a051" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The trap releases oil, hindering attempts to climb the ramp or stairs by two steps. Tiny blades stick out between the sections of the ramp, inflicting an additional 3 points of damage. The trap releases a boulder to roll down the stairs after the sliding character, inflicting an additional 3 points of damage.</source>
+        <target state="translated">GM Intrusion: The trap releases oil, hindering attempts to climb the ramp or stairs by two steps. Tiny blades stick out between the sections of the ramp, inflicting an additional 3 points of damage. The trap releases a boulder to roll down the stairs after the sliding character, inflicting an additional 3 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">288</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aa64039a2a4d4a5e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SNAKE PIT</source>
+        <target state="translated">SNAKE PIT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">290</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":292" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d41cc75279dfe384" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The trap drops the character into a pit full of snakes or drops a large number of snakes on the character. The snakes immediately attack the character and perhaps others in the area.</source>
+        <target state="translated">The trap drops the character into a pit full of snakes or drops a large number of snakes on the character. The snakes immediately attack the character and perhaps others in the area.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">294</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="88328a371fb299d7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: As per the swarm of snakes</source>
+        <target state="translated">Damage Inflicted: As per the swarm of snakes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fd06d9caaf04c0a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The snake poison is especially potent, moving the character one step down the damage track if they fail a Might defense roll. The snakes constrict the character, hindering their actions until the snakes are defeated.</source>
+        <target state="translated">GM Intrusion: The snake poison is especially potent, moving the character one step down the damage track if they fail a Might defense roll. The snakes constrict the character, hindering their actions until the snakes are defeated.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">298</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="03c6a3c2f2bd9bd9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SPEAR</source>
+        <target state="translated">SPEAR</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">300</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":302" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 4 (12)</source>
+        <target state="translated">Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">302</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0bfd9d63f3aa32a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The trap fires a spear, javelin, or other large projectile. (In many ways, this is a scaled-up and more dangerous version of an arrow trap, and the same suggestions for that trap apply to this one.)</source>
+        <target state="translated">The trap fires a spear, javelin, or other large projectile. (In many ways, this is a scaled-up and more dangerous version of an arrow trap, and the same suggestions for that trap apply to this one.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">304</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":306" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points</source>
+        <target state="translated">Damage Inflicted: 6 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">306</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="79254c66870b9e57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Defense and stealth as level 5 (if hidden behind a hole in a wall)</source>
+        <target state="translated">Modifications: Defense and stealth as level 5 (if hidden behind a hole in a wall)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4830c8b1143af485" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The impact of the spear knocks the character prone. The spear is barbed, and removing it inflicts 3 points of damage. The spear is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock</source>
+        <target state="translated">GM Intrusion: The impact of the spear knocks the character prone. The spear is barbed, and removing it inflicts 3 points of damage. The spear is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c496cfb2a589339" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TELEPORTER</source>
+        <target state="translated">TELEPORTER</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">312</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":314" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level : 6 (18)</source>
+        <target state="translated">Level : 6 (18)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">314</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2783f03dfee336ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It’s more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation.</source>
+        <target state="translated">The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It’s more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">316</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5f66f80fa5069985" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: None</source>
+        <target state="translated">Damage Inflicted: None</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="626b335acf1695bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion: The teleport destination is above the ground, causing the character to fall some distance and take damage (1 point of ambient damage per 10 feet fallen). The destination is dangerous, such as a tiny room lined with spikes, a shark tank, or a boulder in a lava lake.</source>
+        <target state="translated">GM Intrusion: The teleport destination is above the ground, causing the character to fall some distance and take damage (1 point of ambient damage per 10 feet fallen). The destination is dangerous, such as a tiny room lined with spikes, a shark tank, or a boulder in a lava lake.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">320</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

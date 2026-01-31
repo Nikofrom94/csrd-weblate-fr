@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="26ff829f1f344719" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ANTIVENOM #Cypher #Manifest #Core</source>
+        <target state="translated">ANTIVENOM #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7728903ca3b57808" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Renders user immune to poisons of the cypher’s level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user’s system).</source>
+        <target state="translated">Effect: Renders user immune to poisons of the cypher’s level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user’s system).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

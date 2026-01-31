@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="a96c5da9f72d659d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Absorbs Energy #Focus #EnergyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9719379201d045a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can harness kinetic energy and transform it into other kinds of energy.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="311d776cb81f2ad1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Absorb Kinetic Energy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="241bce2c7e319746" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Release Energy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="989d0e2e556a1dda" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Energize Object]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dbe4c0ad069c99aa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Absorb Pure Energy]{1} or [Improved Absorb Kinetic Energy]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c9054744636da894" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Overcharge Energy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8724600c31cb6d44" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Energize Creature]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2640019bb2fc3584" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Energize Crowd]{1} or [Overcharge Device]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="73d9e37a24af168b" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Energy goes to ground in a destructive way. Some predators feed directly on energy. An unintended item is drained of energy.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

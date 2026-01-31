@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="fdf7954c3744b52c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Automatic Glow #Ability #Core #SuperHeroes</source>
+        <target state="translated">Automatic Glow #Ability #Core #SuperHeroes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="711beb79d818bf85" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hard light objects you create with your type and focus abilities shed light, illuminating everything in immediate range. Whenever you want, your body (entirely or just part of it) sheds light, illuminating everything in short range.</source>
+        <target state="translated">Hard light objects you create with your type and focus abilities shed light, illuminating everything in immediate range. Whenever you want, your body (entirely or just part of it) sheds light, illuminating everything in short range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

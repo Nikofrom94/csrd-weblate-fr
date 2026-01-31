@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0e9f0fda6a3f931a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Game Lessons #Ability #TaskAbility #Low #Core</source>
+        <target state="translated">Game Lessons #Ability #TaskAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4505e82ba44e736c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’ve played so many games that you’ve picked up some real knowledge. Choose any two noncombat skills. You are trained in those skills.</source>
+        <target state="translated">You’ve played so many games that you’ve picked up some real knowledge. Choose any two noncombat skills. You are trained in those skills.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

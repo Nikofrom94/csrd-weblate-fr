@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="eefbcaf9de15e78e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hideous #Descriptor #Core</source>
+        <target state="translated">Hideous #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3d234ea611f99d60" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.</source>
+        <target state="translated">You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63da08e5479696dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’ve more than made up for your appearance in other ways, however. Because you have to hide your appearance, you excel at sneaking about unnoticed or disguising yourself. But perhaps most important, being ostracized while others socialized, you took the time growing up to develop yourself as you saw fit—you grew strong or quick, or you honed your mind.</source>
+        <target state="translated">You’ve more than made up for your appearance in other ways, however. Because you have to hide your appearance, you excel at sneaking about unnoticed or disguising yourself. But perhaps most important, being ostracized while others socialized, you took the time growing up to develop yourself as you saw fit—you grew strong or quick, or you honed your mind.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f2d2e2acec5b5c3e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Versatile: You get 4 additional points to divide among your stat Pools.</source>
+        <target state="translated">Versatile: You get 4 additional points to divide among your stat Pools.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c5ee40efca2baad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in intimidation and any other fear-based interactions, if you show your true face.</source>
+        <target state="translated">Skill: You are trained in intimidation and any other fear-based interactions, if you show your true face.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f9e98aad4bdfb054" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in disguise and stealth tasks.</source>
+        <target state="translated">Skill: You are trained in disguise and stealth tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be9280863c3b3281" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: All tasks relating to pleasant social interaction are hindered.</source>
+        <target state="translated">Inability: All tasks relating to pleasant social interaction are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac9e20584b28bd20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs approached you while you were in disguise, recruiting you while believing you were someone else.</source>
+        <target state="translated">One of the other PCs approached you while you were in disguise, recruiting you while believing you were someone else.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="811e3def18f3b4c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>While skulking about, you overheard the other PCs’ plans and realized you wanted in.</source>
+        <target state="translated">While skulking about, you overheard the other PCs’ plans and realized you wanted in.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11d2b748630750c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs invited you, but you wonder if it was out of pity.</source>
+        <target state="translated">One of the other PCs invited you, but you wonder if it was out of pity.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89710ae6a4742e8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You bullied your way in with intimidation and bluster.</source>
+        <target state="translated">You bullied your way in with intimidation and bluster.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

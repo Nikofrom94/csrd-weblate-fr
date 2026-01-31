@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3293237b5e2b3f28" weblate-flags="md-text, safe-html, strict-same">
+        <source>RAY EMITTER #Cypher #Fantastic #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea0ea44d5addece9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="285be9a6d41a5de7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: Allows the user to project a ray of destructive energy up to very long range that inflicts damage equal to the cypher’s level. Roll a d100 to determine the type of energy.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cc18782807d1bc8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Even weirder ray emitters:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d5153cfe9de8bae" weblate-flags="md-text, safe-html, strict-same">
+        <source>Turns target inside out</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f90c243e96edc800" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inflicts damage and turns flesh blue</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eea4cf0162ce4f60" weblate-flags="md-text, safe-html, strict-same">
+        <source>Renders target mute</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="94d7479ad63584b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damages only plants</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b95509823255966" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damages only inorganic matter</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d24ebbb79488381" weblate-flags="md-text, safe-html, strict-same">
+        <source>Turns flesh to dead, stonelike material)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4e0ee8c20c286c08" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–50</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24ecce5b039108d1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Heat/concentrated light</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="94a9e839eba00b39" weblate-flags="md-text, safe-html, strict-same">
+        <source>51–60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8a977eb8ee1bbc5e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cell-disrupting radiation</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1c5d63a5d1bff50c" weblate-flags="md-text, safe-html, strict-same">
+        <source>61–80</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2baabd9a1355710" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ab3386c7b7af340" weblate-flags="md-text, safe-html, strict-same">
+        <source>81–87</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c144eca9041896a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magnetic wave</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cc81b46a0bd8c0a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>88–93</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21ec03f6d5fec7d1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Molecular bond disruption</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a1732daa78912562" weblate-flags="md-text, safe-html, strict-same">
+        <source>94–00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b3e5770621ba01cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Concentrated cold</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

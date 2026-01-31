@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d9fc41f0474fa13f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Technology #Flavor #Core</source>
+        <target state="translated">Technology #Flavor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17ea86ae4af40c10" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters with a flavor of technology typically are from science fiction or at least modern-day
+settings (although anything is possible). They excel at using, dealing with, and building machines. An Explorer with technology flavor might be a starship pilot, and a Speaker flavored with technology could be a techno-priest.</source>
+        <target state="translated">Characters with a flavor of technology typically are from science fiction or at least modern-day
+settings (although anything is possible). They excel at using, dealing with, and building machines. An Explorer with technology flavor might be a starship pilot, and a Speaker flavored with technology could be a techno-priest.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a908cf2174a62af4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some of the less computer-oriented abilities might be appropriate for a steampunk character, while a modern-day character could use some of the abilities that don’t involve starships or ultratech.</source>
+        <target state="translated">Some of the less computer-oriented abilities might be appropriate for a steampunk character, while a modern-day character could use some of the abilities that don’t involve starships or ultratech.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="982f33773c968eed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FIRST-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">FIRST-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="26a136921656218b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Datajack</source>
+        <target state="translated">Datajack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="982d84b2f955c66c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hacker</source>
+        <target state="translated">Hacker</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a73448a96f5b52a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machine Interface</source>
+        <target state="translated">Machine Interface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="62e05890871fac49" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scramble Machine</source>
+        <target state="translated">Scramble Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0dd30b1815b60a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tech Skills</source>
+        <target state="translated">Tech Skills</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb525c469bf81d0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tinker</source>
+        <target state="translated">Tinker</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f1c77b5bd34a55c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SECOND-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">SECOND-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c10e99d277409768" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distant Interface</source>
+        <target state="translated">Distant Interface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c85f9e1c26a970d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machine Efficiency</source>
+        <target state="translated">Machine Efficiency</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6cd763a898ff1760" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Overload Machine</source>
+        <target state="translated">Overload Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4d84900dc7ce8bfc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0</source>
+        <target state="translated">Serv-0</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cb3269995f9d1cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Defender</source>
+        <target state="translated">Serv-0 Defender</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3a374d1c156c97a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Repair</source>
+        <target state="translated">Serv-0 Repair</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c9cc1e3b0f06c0f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tool Mastery</source>
+        <target state="translated">Tool Mastery</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="184f384832db2c28" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>THIRD-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">THIRD-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5f68d57bead4fa82" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mechanical Telepathy</source>
+        <target state="translated">Mechanical Telepathy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35a14bde24be60a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Scanner</source>
+        <target state="translated">Serv-0 Scanner</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2879bcc7d87107ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ship Footing</source>
+        <target state="translated">Ship Footing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e3ff819718c098c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shipspeak</source>
+        <target state="translated">Shipspeak</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1568996817fb2d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spray</source>
+        <target state="translated">Spray</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76ac60306caedf23" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FOURTH-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">FOURTH-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ab253a87fc21db4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machine Bond</source>
+        <target state="translated">Machine Bond</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce89b0af6545885b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Robot Fighter</source>
+        <target state="translated">Robot Fighter</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1de0f748585c1069" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Aim</source>
+        <target state="translated">Serv-0 Aim</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="814543c7c78dd4c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Brawler</source>
+        <target state="translated">Serv-0 Brawler</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c4ac0e920c68010" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serv-0 Spy</source>
+        <target state="translated">Serv-0 Spy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="24138ddcd104c2bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FIFTH-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">FIFTH-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a708972f7355af34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Control Machine</source>
+        <target state="translated">Control Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eef37e2a895b104c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Jury-Rig</source>
+        <target state="translated">Jury-Rig</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ce903c69c4e6c5c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machine Companion</source>
+        <target state="translated">Machine Companion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3de7a58e69cffa9b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SIXTH-TIER TECHNOLOGY ABILITIES</source>
+        <target state="translated">SIXTH-TIER TECHNOLOGY ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="182faa72700dc84a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Information Gathering</source>
+        <target state="translated">Information Gathering</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4bf6609f4fdde4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Master Machine</source>
+        <target state="translated">Master Machine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6a26bc64dc280b89" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Creative #Descriptor #Core</source>
+        <target state="translated">Creative #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a4a2717a45701a8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Maybe you have a notebook where you write down ideas so you can develop them later. Perhaps you email yourself ideas that strike you out of the blue so you can sort them in an electronic document. Or maybe you just sit down, stare at your screen and, by indomitable force of will, produce something from nothing. However your gift works, you’re creative—you code, write, compose, sculpt, design, direct, or otherwise create narratives that enthrall other people with your vision.</source>
+        <target state="translated">Maybe you have a notebook where you write down ideas so you can develop them later. Perhaps you email yourself ideas that strike you out of the blue so you can sort them in an electronic document. Or maybe you just sit down, stare at your screen and, by indomitable force of will, produce something from nothing. However your gift works, you’re creative—you code, write, compose, sculpt, design, direct, or otherwise create narratives that enthrall other people with your vision.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="755db9f1df93ad10" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inventive: +2 to your Intellect Pool.</source>
+        <target state="translated">Inventive: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55168bfaf18d75e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Original: You’re always coming up with something new. You’re trained in any task related to creating a narrative (such as a story, play, or scenario). This includes deception, if the deception involves a narrative you’re able to tell.</source>
+        <target state="translated">Original: You’re always coming up with something new. You’re trained in any task related to creating a narrative (such as a story, play, or scenario). This includes deception, if the deception involves a narrative you’re able to tell.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ad17338e2acfcf46" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are naturally inventive. You are trained in one specific creative skill of your choice: writing, computer coding, composing music, painting, drawing, and so on.</source>
+        <target state="translated">Skill: You are naturally inventive. You are trained in one specific creative skill of your choice: writing, computer coding, composing music, painting, drawing, and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf5e20348f22b293" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You love solving riddles and the like. You are trained in puzzle-solving tasks.</source>
+        <target state="translated">Skill: You love solving riddles and the like. You are trained in puzzle-solving tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="70b6e09b5b15b0e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: To be creative requires that you always be learning. You are trained in any task that involves finding out something new, such as when you’re digging through a library, data bank, news archive, or similar collection of knowledge.</source>
+        <target state="translated">Skill: To be creative requires that you always be learning. You are trained in any task that involves finding out something new, such as when you’re digging through a library, data bank, news archive, or similar collection of knowledge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="75464007ee9f50dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You’re inventive but not charming. All tasks related to pleasant social interaction are hindered.</source>
+        <target state="translated">Inability: You’re inventive but not charming. All tasks related to pleasant social interaction are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="772e792b951d3c2b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You were doing research for a project and convinced the PCs to bring you along.</source>
+        <target state="translated">You were doing research for a project and convinced the PCs to bring you along.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1421e649f1f5e4f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re looking for new markets for the results of your creative output.</source>
+        <target state="translated">You’re looking for new markets for the results of your creative output.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="31f57c52e960cd39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You fell in with the wrong crowd, but they grew on you.</source>
+        <target state="translated">You fell in with the wrong crowd, but they grew on you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64d2f570f88ef275" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A creative life is often one beset with financial hurdles. You joined the PCs because you hoped it would be profitable.</source>
+        <target state="translated">A creative life is often one beset with financial hurdles. You joined the PCs because you hoped it would be profitable.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

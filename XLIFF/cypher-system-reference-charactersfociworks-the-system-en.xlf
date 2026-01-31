@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8f930faac8f8cef5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Works the System #Focus #InfluenceFocus #Core</source>
+        <target state="translated">Works the System #Focus #InfluenceFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="674622bc0e1a6933" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can exploit flaws in artificial systems, including but not limited to computer code.</source>
+        <target state="translated">You can exploit flaws in artificial systems, including but not limited to computer code.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9633be1329bed58b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Hack the Impossible</source>
+        <target state="translated">Tier 1: Hack the Impossible</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd8d7e5967ff2339" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Computer Programming</source>
+        <target state="translated">Tier 1: Computer Programming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="10e4aea42e0f918a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Connected</source>
+        <target state="translated">Tier 2: Connected</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e01bb02bbeb4d1da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Confidence Artist or Skill With Attacks</source>
+        <target state="translated">Tier 3: Confidence Artist or Skill With Attacks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9989ddca49c740e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Confuse Enemy</source>
+        <target state="translated">Tier 4: Confuse Enemy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ce84f77212ac2a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Work the Friendship</source>
+        <target state="translated">Tier 5: Work the Friendship</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b152631031fa975" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Call in Favor or Greater Enhanced Potential</source>
+        <target state="translated">Tier 6: Call in Favor or Greater Enhanced Potential</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="58a969a5678f4e6e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.</source>
+        <target state="translated">GM Intrusions: Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

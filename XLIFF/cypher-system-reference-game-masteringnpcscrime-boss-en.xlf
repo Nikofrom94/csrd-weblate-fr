@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9eee0c2ca09afedf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CRIME BOSS #lvl3 (9) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction</source>
+        <target state="translated">CRIME BOSS #lvl3 (9) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a1794e619948c432" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A crime boss usually isn’t physically powerful but wields power through lies, bribery, and control. Rarely encountered alone, they rely on guards, thugs, and other measures to provide physical security. A crime boss could be a petty noble, a mafia king, or the captain of a pirate ship that sails the seas or glides the space lanes.</source>
+        <target state="translated">A crime boss usually isn’t physically powerful but wields power through lies, bribery, and control. Rarely encountered alone, they rely on guards, thugs, and other measures to provide physical security. A crime boss could be a petty noble, a mafia king, or the captain of a pirate ship that sails the seas or glides the space lanes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c344dee0b6823ccd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Money and power</source>
+        <target state="translated">Motive: Money and power</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a616eaf82e71880" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6dd34d8e5fc94c4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Deception, persuasion, intimidation, and tasks related to friendly interaction as level 7</source>
+        <target state="translated">Modifications: Deception, persuasion, intimidation, and tasks related to friendly interaction as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="93a9470922641e9a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Guards, thugs, and other followers deal 1 additional point of damage when the crime boss can see them and issue commands. If possible, crime bosses fight while mounted or in a vehicle, directing their followers from the rear of any conflict, concentrating first on issuing orders.</source>
+        <target state="translated">Combat: Guards, thugs, and other followers deal 1 additional point of damage when the crime boss can see them and issue commands. If possible, crime bosses fight while mounted or in a vehicle, directing their followers from the rear of any conflict, concentrating first on issuing orders.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07eb86cd603633bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Crime bosses are committed to their plans, whatever those might be. Most bosses rely on a lieutenant or trusted thug to interact with people in their place.</source>
+        <target state="translated">Interaction: Crime bosses are committed to their plans, whatever those might be. Most bosses rely on a lieutenant or trusted thug to interact with people in their place.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d8b5eee93783bcea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A crime boss and their followers execute a heist on a secure location and take hostages when things go south. Someone must go in and talk to the crime boss to defuse the situation.</source>
+        <target state="translated">Use: A crime boss and their followers execute a heist on a secure location and take hostages when things go south. Someone must go in and talk to the crime boss to defuse the situation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aca962004f141110" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A crime boss has currency equivalent to a very expensive item in addition to weapons, medium armor, and miscellaneous gear.</source>
+        <target state="translated">Loot: A crime boss has currency equivalent to a very expensive item in addition to weapons, medium armor, and miscellaneous gear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9b0060fd70af6af4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The crime boss uses a clever trick or cypher to block all incoming attacks in a given round of combat.</source>
+        <target state="translated">GM intrusion: The crime boss uses a clever trick or cypher to block all incoming attacks in a given round of combat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

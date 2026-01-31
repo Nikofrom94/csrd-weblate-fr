@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="c9254e68d46998a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Perfect Control #Ability #MetaAbility #TransformAbility #High #Core</source>
+        <target state="translated">Perfect Control #Ability #MetaAbility #TransformAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5097f121d32532e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You no longer need to make a roll to use [Beast Form]{1} or change into your normal form. You can change back and forth as your action. When you return to your normal form, you no longer take a penalty to your rolls.</source>
+        <target state="translated">You no longer need to make a roll to use [Beast Form]{1} or change into your normal form. You can change back and forth as your action. When you return to your normal form, you no longer take a penalty to your rolls.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

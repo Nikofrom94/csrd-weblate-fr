@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b4d7704c1b1b657e" weblate-flags="md-text, safe-html, strict-same">
+        <source>KAIJU #lvl10 (30) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05cca22722cdd407" weblate-flags="md-text, safe-html, strict-same">
+        <source>Kaiju come in a variety of shapes, but all share one difficult-to-ignore quality: mind-blowing size. Appearances of these colossal creatures are rare events that usually don’t last for more than a few days. In that sense, they’re akin to hundred-year storms and at least as destructive. When they emerge, they’re attracted by artificial structures, the more densely situated and elaborate the better, which they set to smashing with a vengeance. It’s hard to judge the size of things so far outside normal scale, but good estimates put most kaiju at over 300 feet (90 m) in height.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce415fa6aafc3588" weblate-flags="md-text, safe-html, strict-same">
+        <source>Kaiju rely primarily on their strength and mass, but many have some additional trick or ability that sets them apart from their kin, which usually translates into even more devastation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c58931bbaaf978ba" weblate-flags="md-text, safe-html, strict-same">
+        <source>The other quality all kaiju share is the talent of hiding after a rampage by diving into a nearby sea or burrowing deep into the earth. Sometimes the same kaiju will appear again days, months, years, or decades later, attacking the same location or someplace entirely new.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0f86cc8a51a61a57" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Destruction</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e551f6d6a36939f3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Usually near communities containing many high structures</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ad777927fbafe78" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 140</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ddd9d31e72e7a738" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 18 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e54e268d6c170603" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8e7107eebe958e68" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Speed defense as level 8 due to size</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e8b8e254b6cd20f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: A kaiju can punch, kick, or deliver a tail or tentacle lash at something within long range. Damage is inflicted on the target and everything within short range of the target, and even those that succeed on a Speed defense roll take 7 points of damage.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a110d49f8af2f250" weblate-flags="md-text, safe-html, strict-same">
+        <source>Kaiju heal quickly, usually at a rate of 2 points per round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="13543d5661e2bf0c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Kaiju are rare and devastating enough that most are dubbed with a unique identifier by survivors. The entry for each creature below notes only where it varies from the base creature described above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2c23fbbdd44bb4c7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Rampagion: This kaiju has been estimated to be almost 1,000 feet (300 m) high. Once per day, it can make a charging trample attack, dealing its damage in a line 300 feet (90 m) wide and 2 miles (3 km) long. Rampagion has 10 Armor and deals 20 points of damage with a physical attack (or 8 points if a victim makes a successful Speed defense roll).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5fb04cd9bee3a81b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Suneko: This kaiju’s body, which resembles a cross between a lion and a lizard, is so hot that its skin glows like red coals, its mane like the sun’s corona, and its eyes like beaming searchlights. Suneko automatically deals 10 points of damage to everyone within immediate range. The creature can emit twin rays of plasma from its eyes in a focused beam that can reach as far as the horizon, which from Suneko’s height above the ground is about 22 miles (35 km). When it makes its eyebeam attack, it stops emitting killing heat in immediate range for about one minute.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="247165047a3e5ca5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Most PCs can’t directly interact with a kaiju unless they have some special device or association allowing them to get the attention of one of the massive creatures. Doing so could give the characters a chance to trick or lure the beast, or maybe even persuade one kaiju to fight another.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d700f2fd9736e05e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: After seeing the devastation caused by a kaiju, the PCs might decide (or be asked) to find a way to stop a projected future appearance by the same creature.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e94b70bb0ef135da" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion:
+The character gains the direct attention of the kaiju. If the kaiju attacks the character, They are awarded 5 XP, only 1 of which they have to give to a friend.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

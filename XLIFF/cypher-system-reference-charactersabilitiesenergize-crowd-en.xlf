@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="721c56f08be6b7ba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Energize Crowd (9 Might points) #Ability #ProtectionAbility #SupportAbility #High #Core</source>
+        <target state="translated">Energize Crowd (9 Might points) #Ability #ProtectionAbility #SupportAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="203bf41bb51abd8f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You extend your [Absorb Kinetic Energy]{1} ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have [Absorb Pure Energy]{2} or [Improved Absorb Kinetic Energy]{3}, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast.</source>
+        <target state="translated">You extend your [Absorb Kinetic Energy]{1} ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have [Absorb Pure Energy]{2} or [Improved Absorb Kinetic Energy]{3}, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b83fc3d4aef4212" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target state="translated">Action to initiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

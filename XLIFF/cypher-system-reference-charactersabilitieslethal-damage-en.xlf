@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4427dccaa5eb2bbb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lethal Damage #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Lethal Damage #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b996929bed147db7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Choose one of your existing attacks that inflicts points of damage (depending on your type and focus, this might be a specific weapon, a special ability such as a blast of fire, or your unarmed attacks). When you hit with that attack, you inflict an additional 5 points of damage.</source>
+        <target state="translated">Choose one of your existing attacks that inflicts points of damage (depending on your type and focus, this might be a specific weapon, a special ability such as a blast of fire, or your unarmed attacks). When you hit with that attack, you inflict an additional 5 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

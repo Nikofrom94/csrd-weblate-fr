@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="683461f463ba6682" weblate-flags="md-text, safe-html, strict-same">
+        <source>Regenerate #Ability #CureAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="18d7c7d84b796dcc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your ability to heal (whether from a potent spell, unique mutation, or cybernetic graft) continues to function even if you die from violence, as long as your body is mostly intact. One minute after your death, this ability activates and brings you back to life; however, you come back with a permanent 2-point deduction from your Intellect Pool.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="741faeec188b8679" weblate-flags="md-text, safe-html, strict-same">
+        <source>(A character might discover that Regenerate is both a blessing and a curse, because relying on it too much leads to a kind of malaise that vitality alone can‘t fix.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

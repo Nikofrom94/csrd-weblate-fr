@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="46cf4c51ad4d49ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mechanical #Descriptor #Core</source>
+        <target state="translated">Mechanical #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="86dbd65daca81b77" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have a special talent with machines of all kinds, and you’re adept at understanding and, if need be, repairing them. Perhaps you’re a bit of an inventor, creating new machines from time to time. You get called “techie,” “tech,” “mech,” “gear-head,” “motor-head,” or any of a number of other nicknames. Mechanics usually wear practical work clothes and carry around a lot of tools.</source>
+        <target state="translated">You have a special talent with machines of all kinds, and you’re adept at understanding and, if need be, repairing them. Perhaps you’re a bit of an inventor, creating new machines from time to time. You get called “techie,” “tech,” “mech,” “gear-head,” “motor-head,” or any of a number of other nicknames. Mechanics usually wear practical work clothes and carry around a lot of tools.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="779482ce3f62357e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smart: +2 to your Intellect Pool.</source>
+        <target state="translated">Smart: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57d2bc4a3e701365" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all actions involving identifying or understanding machines.</source>
+        <target state="translated">Skill: You’re trained in all actions involving identifying or understanding machines.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="277a0d627986556b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all actions involving using, repairing, or crafting machines.</source>
+        <target state="translated">Skill: You’re trained in all actions involving using, repairing, or crafting machines.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="78432046ebdc62c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You start with a variety of machine tools.</source>
+        <target state="translated">Additional Equipment: You start with a variety of machine tools.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df09f91e90a3c88c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>While repairing a nearby machine, you overheard the other PCs talking.</source>
+        <target state="translated">While repairing a nearby machine, you overheard the other PCs talking.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60189c594573e185" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You need money to buy tools and parts.</source>
+        <target state="translated">You need money to buy tools and parts.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04349028cfc5b95a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It was clear that the mission couldn’t succeed without your skills and knowledge.</source>
+        <target state="translated">It was clear that the mission couldn’t succeed without your skills and knowledge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="462fdc67f0c4c6a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Another PC asked you to join them.</source>
+        <target state="translated">Another PC asked you to join them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

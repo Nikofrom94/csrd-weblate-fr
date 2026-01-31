@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="803eed4d93a544da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ASSASSIN #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target state="translated">ASSASSIN #lvl6 (18) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a8d9b07cddca412" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An assassin kills with poison, with high-velocity bullets from a distance, or by arranging for an unfortunate accident. Assassins accept contracts from governments, corporations, crime bosses, and aggrieved former partners, though some assassins pay themselves by tracking criminals anywhere to collect on “dead or alive” bounties.</source>
+        <target state="translated">An assassin kills with poison, with high-velocity bullets from a distance, or by arranging for an unfortunate accident. Assassins accept contracts from governments, corporations, crime bosses, and aggrieved former partners, though some assassins pay themselves by tracking criminals anywhere to collect on “dead or alive” bounties.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8a1032a3098b88a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Murder (usually for hire)</source>
+        <target state="translated">Motive: Murder (usually for hire)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0a4a22b0c4d3735a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 18</source>
+        <target state="translated">Health: 18</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dd26af7e40198787" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points</source>
+        <target state="translated">Damage Inflicted: 6 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e691744ce06b76f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Stealth and deception tasks as level 8; when attacking from hiding, melee and ranged attacks as level 7</source>
+        <target state="translated">Modifications: Stealth and deception tasks as level 8; when attacking from hiding, melee and ranged attacks as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95bf0adf863be6ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: An assortment of small weapons are hidden about an assassin’s body. They can also coat their weapons or ammo with a level 6 poison that moves victims who fail a Might defense roll one step down the damage track.</source>
+        <target state="translated">Combat: An assortment of small weapons are hidden about an assassin’s body. They can also coat their weapons or ammo with a level 6 poison that moves victims who fail a Might defense roll one step down the damage track.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bddd552024a5c6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Some assassins have a sort of integrity about their work and can’t be dissuaded from completing their contracts with bribes.</source>
+        <target state="translated">Interaction: Some assassins have a sort of integrity about their work and can’t be dissuaded from completing their contracts with bribes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d535c6d077a24c3e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: An assassin is greatly feared by anyone with powerful, wealthy enemies.</source>
+        <target state="translated">Use: An assassin is greatly feared by anyone with powerful, wealthy enemies.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1036470314cb19f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Aside from their weapons and poisons, most assassins have currency equivalent to a very expensive item and maybe one or two cyphers.</source>
+        <target state="translated">Loot: Aside from their weapons and poisons, most assassins have currency equivalent to a very expensive item and maybe one or two cyphers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2759db2f010f626c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The character loses their next turn, stunned, after recognizing the assassin to be the same murderer who killed someone important to them in the past.</source>
+        <target state="translated">GM intrusion: The character loses their next turn, stunned, after recognizing the assassin to be the same murderer who killed someone important to them in the past.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

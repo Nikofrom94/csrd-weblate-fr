@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b709bffd351b827d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wears Power Armor #Focus #Core</source>
+        <target state="translated">Wears Power Armor #Focus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb395d5d4d1f4718" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Powered Armor</source>
+        <target state="translated">Tier 1: Powered Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b25850977c80093" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Enhanced Might</source>
+        <target state="translated">Tier 1: Enhanced Might</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce61cb9e67e9620b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Heads-Up Display</source>
+        <target state="translated">Tier 2: Heads-Up Display</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c2a33136fb165f34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Fusion Armor or Incredible Health</source>
+        <target state="translated">Tier 3: Fusion Armor or Incredible Health</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e5b045e8a05f85d7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Force Blast</source>
+        <target state="translated">Tier 4: Force Blast</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b9b4698b8bf2479c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Field-Reinforced Armor</source>
+        <target state="translated">Tier 5: Field-Reinforced Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="618c93985b1fdfc2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)</source>
+        <target state="translated">Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ffec9ff61fae7d8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.</source>
+        <target state="translated">GM Intrusions: The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

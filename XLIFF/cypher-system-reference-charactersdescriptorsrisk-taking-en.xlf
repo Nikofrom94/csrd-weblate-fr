@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="e1f67e70542748ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Risk-Taking #Descriptor #Core</source>
+        <target state="translated">Risk-Taking #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="afd528ce6024e0c8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s part of your nature to question what others think can’t or shouldn’t be done. You’re not insane, of course—you wouldn’t attempt to leap across a mile-wide chasm just because you were dared. There’s impossible and then there’s the just barely possible. You like to push the latter further than others, because it gives you a rush of satisfaction and pleasure when you succeed. The more you succeed, the more you find yourself looking for that next risky challenge to try yourself against.</source>
+        <target state="translated">It’s part of your nature to question what others think can’t or shouldn’t be done. You’re not insane, of course—you wouldn’t attempt to leap across a mile-wide chasm just because you were dared. There’s impossible and then there’s the just barely possible. You like to push the latter further than others, because it gives you a rush of satisfaction and pleasure when you succeed. The more you succeed, the more you find yourself looking for that next risky challenge to try yourself against.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df99f896aca60f98" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nimble: +4 to your Speed Pool.</source>
+        <target state="translated">Nimble: +4 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="789555af8a252074" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re adept at leveraging risk, and you are trained in tasks that involve some element of chance, such as playing games or choosing between two or three apparently equal options.</source>
+        <target state="translated">Skill: You’re adept at leveraging risk, and you are trained in tasks that involve some element of chance, such as playing games or choosing between two or three apparently equal options.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e84e625eea29af9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Pressing Your Luck: You can choose to automatically succeed on one task without rolling, as long as the task’s difficulty is no higher than 6. When you do so, however, you also trigger a GM intrusion as if you had rolled a 1. The intrusion doesn’t invalidate the success, but it probably qualifies it in some fashion. You can do this one time, although the ability renews each time you make a ten-hour recovery roll.</source>
+        <target state="translated">Pressing Your Luck: You can choose to automatically succeed on one task without rolling, as long as the task’s difficulty is no higher than 6. When you do so, however, you also trigger a GM intrusion as if you had rolled a 1. The intrusion doesn’t invalidate the success, but it probably qualifies it in some fashion. You can do this one time, although the ability renews each time you make a ten-hour recovery roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="647e4972963da3fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You may be nimble, but you’re not sneaky. Tasks related to sneaking and staying quiet are hindered.</source>
+        <target state="translated">Inability: You may be nimble, but you’re not sneaky. Tasks related to sneaking and staying quiet are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="497b8aba39d135f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It seemed like there were equal odds that the other PCs wouldn’t succeed, which sounded good to you.</source>
+        <target state="translated">It seemed like there were equal odds that the other PCs wouldn’t succeed, which sounded good to you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2e342e0c790880a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You think the tasks ahead will present you with unique and fulfilling challenges.</source>
+        <target state="translated">You think the tasks ahead will present you with unique and fulfilling challenges.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="449417dc3532526a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of your biggest risks failed to go your way, and you need money to help pay that debt.</source>
+        <target state="translated">One of your biggest risks failed to go your way, and you need money to help pay that debt.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7191ff1ae977fd85" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You bragged that you never saw a risk you didn’t like, which is how you reached your current point.</source>
+        <target state="translated">You bragged that you never saw a risk you didn’t like, which is how you reached your current point.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9990717aaf9326ff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Chamber of Dreams (8 Intellect points) #Ability #MovementAbility #High #Core</source>
+        <target state="translated">Chamber of Dreams (8 Intellect points) #Ability #MovementAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19928c129b78fb3c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You and your allies can step into a chamber of dreams, decorated as you wish, that contains a number of doors. The doors correspond with other locations that you have visited or know reasonably well. Stepping through one of the doors delivers you to the desired location. This is a difficulty 2 Intellect-based task (which could be modified upward by the GM if the location is warded).</source>
+        <target state="translated">You and your allies can step into a chamber of dreams, decorated as you wish, that contains a number of doors. The doors correspond with other locations that you have visited or know reasonably well. Stepping through one of the doors delivers you to the desired location. This is a difficulty 2 Intellect-based task (which could be modified upward by the GM if the location is warded).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4180d47119a59610" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to step into chamber of dreams; action to move through a door in the chamber.</source>
+        <target state="translated">Action to step into chamber of dreams; action to move through a door in the chamber.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

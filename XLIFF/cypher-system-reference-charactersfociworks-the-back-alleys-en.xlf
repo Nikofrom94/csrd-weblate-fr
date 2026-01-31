@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6a7bd3848feff96a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Works the Back Alleys #Focus #MovementFocus #Core</source>
+        <target state="translated">Works the Back Alleys #Focus #MovementFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9190a6cff39725f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You make your way unseen, stealing from the wealthy to achieve your ends.</source>
+        <target state="translated">You make your way unseen, stealing from the wealthy to achieve your ends.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1431fb45da4f267c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Stealth Skills</source>
+        <target state="translated">Tier 1: Stealth Skills</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b5ae45509e7caf26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Underworld Contacts</source>
+        <target state="translated">Tier 2: Underworld Contacts</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4c252655ad34cc4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Pull a Fast One or Guild Training</source>
+        <target state="translated">Tier 3: Pull a Fast One or Guild Training</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f7bb8a764f2ddad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Master Thief</source>
+        <target state="translated">Tier 4: Master Thief</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dcb8637c1dbc9659" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Dirty Fighter</source>
+        <target state="translated">Tier 5: Dirty Fighter</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b1fe8230c4f29f6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Alley Rat or All-Out Con</source>
+        <target state="translated">Tier 6: Alley Rat or All-Out Con</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="93902dcbcae1123b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Thieves are thrown in jail. Powerful enemies are made.</source>
+        <target state="translated">GM Intrusions: Thieves are thrown in jail. Powerful enemies are made.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

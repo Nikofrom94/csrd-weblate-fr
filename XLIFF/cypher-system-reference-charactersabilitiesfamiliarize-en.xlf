@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8e7ece8ba0c6b469" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Familiarize #Ability #SensesAbility #Low #Core</source>
+        <target state="translated">Familiarize #Ability #SensesAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c3167eab501033b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can familiarize yourself with a new area if you spend at least one hour studying a region up to a long distance across that you are able to directly access and move about in. Once you’ve familiarized yourself with an area, all your tasks related to perception, navigation, salvaging and scavenging, defense, and moving about the area gain an asset. Each time you familiarize yourself with a new area, you lose focus on a previous area unless you spend 1 XP to retain the familiarity permanently.</source>
+        <target state="translated">You can familiarize yourself with a new area if you spend at least one hour studying a region up to a long distance across that you are able to directly access and move about in. Once you’ve familiarized yourself with an area, all your tasks related to perception, navigation, salvaging and scavenging, defense, and moving about the area gain an asset. Each time you familiarize yourself with a new area, you lose focus on a previous area unless you spend 1 XP to retain the familiarity permanently.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bd8e6ef0f20abad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, one hour to complete.</source>
+        <target state="translated">Action to initiate, one hour to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="bfba7252a5ae6e8a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Soars on Amazing Wings #Focus #Core #SuperHeroes</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a72107a0bd681465" weblate-flags="md-text, safe-html, strict-same">
+        <source>Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e04f63b218d13c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Hover</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="258860df6d9f219a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Flight Exertion</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="997c4f8bd2a92483" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Wing Weapons</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7bd8a59a19b59e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Acrobatic Attack or Flying Companion</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b320e6df95eebbb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Hard to Hit</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e56ac13183a4d8e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Up to Speed</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bf6b5a790d378a00" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Hard Target or Defense Master</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="208b89ff3468ca96" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

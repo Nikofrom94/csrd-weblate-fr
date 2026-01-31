@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d3a0f0ad86e7e1da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Robot Fighter #Ability #AttackAbility #ProtectionAbility #Mid #Core</source>
+        <target state="translated">Robot Fighter #Ability #AttackAbility #ProtectionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f328e6cbec696df0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When fighting a robot or intelligent machine, you are trained in attacks and defense.</source>
+        <target state="translated">When fighting a robot or intelligent machine, you are trained in attacks and defense.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

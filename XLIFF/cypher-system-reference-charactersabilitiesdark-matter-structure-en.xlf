@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="df9e40e6a0fcf0f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dark Matter Structure (5 Intellect points) #Ability #CraftAbility #High #Core</source>
+        <target state="translated">Dark Matter Structure (5 Intellect points) #Ability #CraftAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3223625981d1b817" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can form dark matter into a large structure consisting of up to ten 10-foot (3 m) cubes. The structure can be somewhat complex, though everything has the same matte black color from which no light shines. Otherwise, the structure can possess different densities, textures, and capacities. This means it can include windows, doors with locks, furnishings, and even decor, as long as it is all black as pitch. For example, you could shape the dark matter into a large, defensible structure; a sturdy 100-foot (30 m) bridge; or anything similar. The structure is a level 6 creation and lasts for 24 hours. You can’t keep more than one such structure solid at any one time.</source>
+        <target state="translated">You can form dark matter into a large structure consisting of up to ten 10-foot (3 m) cubes. The structure can be somewhat complex, though everything has the same matte black color from which no light shines. Otherwise, the structure can possess different densities, textures, and capacities. This means it can include windows, doors with locks, furnishings, and even decor, as long as it is all black as pitch. For example, you could shape the dark matter into a large, defensible structure; a sturdy 100-foot (30 m) bridge; or anything similar. The structure is a level 6 creation and lasts for 24 hours. You can’t keep more than one such structure solid at any one time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

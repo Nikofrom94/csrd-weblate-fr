@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4fdbc80273fef031" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inspire the Innocent (3 Intellect points) #Ability #CureAbility #High #Core</source>
+        <target state="translated">Inspire the Innocent (3 Intellect points) #Ability #CureAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c48c95ad7e239a45" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You speak words of encouragement and inspiration to everyone within immediate range whom you have designated as innocent with your Designation ability. They immediately gain a free recovery roll. One person you choose can gain an immediate free action instead of a free recovery roll. If you also have the Inspiration ability, the target who gains a free action also gains an asset on it.</source>
+        <target state="translated">You speak words of encouragement and inspiration to everyone within immediate range whom you have designated as innocent with your Designation ability. They immediately gain a free recovery roll. One person you choose can gain an immediate free action instead of a free recovery roll. If you also have the Inspiration ability, the target who gains a free action also gains an asset on it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

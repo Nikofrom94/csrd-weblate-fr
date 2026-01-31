@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="418dff7d439c4e83" weblate-flags="md-text, safe-html, strict-same">
+        <source>Wears a Sheen of Ice #Focus #EnergyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f588480508ab99e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You command the wintery power of cold and ice.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="207792fec8c9855c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Ice Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5b6e983c8f177489" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Frost Touch</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d5a82579c898d984" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Freezing Touch or Ice Creation</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24066edaf7af0d48" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Resilient Ice Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bc56b1afd72c1979" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Cold Burst</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="500c22311b853608" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Ice Storm or Winter Gauntlets</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac74b2f2e1ee15e5" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Ice makes surfaces slippery. Extreme cold causes objects to crack and break.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

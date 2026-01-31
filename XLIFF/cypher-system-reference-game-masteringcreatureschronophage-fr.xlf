@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e1d94a1a579f85df" weblate-flags="md-text, safe-html, strict-same">
+        <source>CHRONOPHAGE #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a91e2ba6e176d933" weblate-flags="md-text, safe-html, strict-same">
+        <source>These segmented, 6-foot (2 m) long creatures look partly like larvae that have grown gargantuan and vicious. They appear in places where time moves more slowly or more quickly than normal, where balls and liquids flow upslope, or where a time traveler has visited.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f7a7797ebea593ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for the flesh of those who create, or were created by, time anomalies</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe46b3aed1373333" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Clutches of four to eight fade into existence within long range of space-time fractures in almost any location.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a4a22b0c4d3735a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6730f3511f5eab4c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short; can phase into the dimension of time (and disappear) as a move. On its next action, it can phase back into the world up to 300 feet (90 m) from where it disappeared (as an action).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="96f16aac3016faaa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception as level 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b6fa637cc35ea1f3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: A chronophage attacks with its crushing mandibles.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="360835da3512bf13" weblate-flags="md-text, safe-html, strict-same">
+        <source>A chronophage can phase back and forth between its home dimension, and it uses this ability to great effect when hunting prey. For instance, it can close on prey otherwise protected by barriers or features of the landscape. It can also use the ability to draw a victim’s attention and then launch a surprise attack from behind after it has effectively teleported. However, it is an action for the creature to shift its phase between the dimension of time and normal reality.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7a99f73a7edfbf90" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Chronophages are unswerving in their drive to find prey. Once one marks its target, only killing the creature can sway it from the prey.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8f8cf4bdc0db141c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: When the PCs happen upon a location where the rules of space-time are loose and malleable, or if the PCs trigger a cypher or other device that interferes with time’s regular flow, a clutch of chronophages may soon come calling.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aab2f8fb0b57a058" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: The skin of a chronophage can be salvaged to create a silvery cloak that reflects its surroundings, but the reflection is one hour behind the present.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="059d1c857cc7c300" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: If a chronophage’s prey fails its Speed defense roll, the attack ignores Armor, and the prey must make an Intellect defense roll (difficulty 4) or be phased into the chronophage’s home dimension of time. Victims automatically phase back into reality on their next turn but are displaced by 100 feet (30 m) straight up or to the closest open space. This usually results in a fall that potentially deals 10 points of damage, knocks victims prone, and dazes them, hindering all actions for a round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

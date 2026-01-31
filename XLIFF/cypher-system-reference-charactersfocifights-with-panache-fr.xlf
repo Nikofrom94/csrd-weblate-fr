@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="6d4ed63a1e196d1c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fights With Panache #Focus #StrikerFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b3030afa757dda8" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’re a swashbuckling daredevil who fights with flamboyant style that’s entertaining to watch.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d904a2c18ecf1387" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Attack Flourish]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4b352c3f1673d573" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Quick Block]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="64e4b39c8adc064a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Acrobatic Attack]{1} or [Flamboyant Boast]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2a83f485221d2210" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Block for Another]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eb40250df9e3ec65" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Fast Kill]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b5a5636c59c7c58" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Using the Environment]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df77eba389590136" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Agile Wit]{1} or [Return to Sender]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="28947e3646305538" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The display comes off looking silly, clumsy, or unattractive.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

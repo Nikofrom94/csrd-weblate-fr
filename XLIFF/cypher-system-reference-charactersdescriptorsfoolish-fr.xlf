@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="4b97752e2d71aa77" weblate-flags="md-text, safe-html, strict-same">
+        <source>Foolish #Descriptor #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7db47c6aeb58b3bf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Not everyone can be brilliant. Oh, you don’t think of yourself as stupid, and you’re not. It’s just that others might have a bit more . . . wisdom. Insight. You prefer to barrel along headfirst through life and let other people worry about things. Worrying’s never helped you, so why bother? You take things at face value and don’t fret about what tomorrow might bring.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b970132a08b0aaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>People call you “idiot” or “numbskull,” but it doesn’t faze you much.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db8a9f1cec7a48dc" weblate-flags="md-text, safe-html, strict-same">
+        <source>(It can be liberating and really fun to play a foolish character. In some ways, the pressure to always do the right, smart thing is off. On the other hand, if you play such a character as a bumbling moron in every situation, that can become annoying to everyone else at the table. As with everything, moderation is the key.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="535d070a3eaa0514" weblate-flags="md-text, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d9905b378c538894" weblate-flags="md-text, safe-html, strict-same">
+        <source>Unwise: –4 to your Intellect Pool.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="29ad9126e4dea790" weblate-flags="md-text, safe-html, strict-same">
+        <source>Carefree: You succeed more on luck than anything. Every time you roll for a task, roll twice and take the higher result.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="07b7b7951e929cea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Intellect Weakness: Any time you spend points from your Intellect Pool, it costs you 1 more point than usual.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="afdad0466b5584e4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inability: Any Intellect defense task is hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edd149bdc871b587" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inability: Any task that involves seeing through a deception, an illusion, or a trap is hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="76eeddc66bfda07e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="380366a88aa97d32" weblate-flags="md-text, safe-html, strict-same">
+        <source>Who knows? Seemed like a good idea at the time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bf945a32ca7e2739" weblate-flags="md-text, safe-html, strict-same">
+        <source>Someone asked you to join up with the other PCs. They told you not to ask too many questions, and that seemed fine to you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c2c3f6371f3786da" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your parent (or a parental/mentor figure) got you involved to give you something to do and maybe “teach you some sense.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9e05afb80a2b929e" weblate-flags="md-text, safe-html, strict-same">
+        <source>The other PCs needed some muscle who wouldn’t overthink things.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

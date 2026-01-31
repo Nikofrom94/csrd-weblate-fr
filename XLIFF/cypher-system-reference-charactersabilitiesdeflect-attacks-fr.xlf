@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e142859e5f08c034" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deflect Attacks (1 Intellect point) #Ability #ProtectionAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ed1119ee0ba5cb1f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

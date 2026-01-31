@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="53909f7d9ca7c63c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Retinue #Ability #CompanionAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a22c8dc85e2dada1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Four level 2 followers join you (and your first follower, if you have one). One of their modifications must be for tasks related to serving as your personal assistants. In addition to other tasks they might individually take on your behalf, they can also work together to run interference if you’re trying to avoid someone, help hide you from the attention of others, help you muscle through a crowd, and so on. If a situation becomes physically violent, they provide an asset to your Speed defense tasks and, if you command it, try to hold a foe’s attention while you escape.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

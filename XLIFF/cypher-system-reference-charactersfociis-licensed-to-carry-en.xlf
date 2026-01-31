@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="22cdb65e653a776b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Is Licensed to Carry #Focus #StrikerFocus #Core</source>
+        <target state="translated">Is Licensed to Carry #Focus #StrikerFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="973f8960b9d88c4f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You carry a gun and you know how to use it in a fight.</source>
+        <target state="translated">You carry a gun and you know how to use it in a fight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a3b805bb2c7e27d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.)</source>
+        <target state="translated">(Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f039a77653446afd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Gunner]{1}</source>
+        <target state="translated">Tier 1: [Gunner]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2e161a3330f4a539" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Practiced With Guns]{1}</source>
+        <target state="translated">Tier 1: [Practiced With Guns]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ca4fe45ad4564f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Careful Shot]{1}</source>
+        <target state="translated">Tier 2: [Careful Shot]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7dab1543a8435d29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Trained Gunner]{1} or [Damage Dealer]{2}</source>
+        <target state="translated">Tier 3: [Trained Gunner]{1} or [Damage Dealer]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="caa06d74fa05eba4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Snap Shot]{1}</source>
+        <target state="translated">Tier 4: [Snap Shot]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09db25812724c255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Arc Spray]{1}</source>
+        <target state="translated">Tier 5: [Arc Spray]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="02d83bc426de3b9d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Special Shot]{1} or [Lethal Damage]{2}</source>
+        <target state="translated">Tier 6: [Special Shot]{1} or [Lethal Damage]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc2942265b8f3544" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.</source>
+        <target state="translated">GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="7cf1207090410957" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Maneuvering Adept #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Maneuvering Adept #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="373f4dd722a084e6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you apply at least one level of Effort to a task involving climbing, jumping, balancing, or some other kind of maneuvering, you get a free level of Effort.</source>
+        <target state="translated">If you apply at least one level of Effort to a task involving climbing, jumping, balancing, or some other kind of maneuvering, you get a free level of Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="68f19fa81d58bd5f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Masterful Armor Modification #Ability #CompanionAbility #MetaAbility #MovementAbility #ProtectionAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="888621e2124e55f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose one of the following modifications to make to the Powered Armor from your Powered Armor ability. If you choose to make a different modification later, you can do so, but you must spend 2 XP each time and substitute the updated modification for the previous modification.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="67d61004096c20c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cypher Pod. The power armor provides an insulated pod in which you can carry one additional manifest cypher beyond what your cypher limit normally allows. Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5bc37f8e591271dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Drone (3 Intellect points). A level 4 drone no larger than 1 foot (30 cm) on a side launches from your armor for one hour, flying up to a long distance each round. The drone accompanies you and follows your instructions. It has manipulators, allowing it to attempt to accomplish physical tasks. You’ll probably make rolls for your drone when it takes actions. A drone in combat usually doesn’t make separate attacks but helps with yours. On your action, if the drone is next to you, it serves as an asset for one attack you make on your turn. If the drone is destroyed, you must spend another 2 XP to rebuild it or choose another Masterful Armor Modification. Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d1086cf4eed5589a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Improved Field Reinforcement. You gain +1 to Armor while wearing your power armor. Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b61eb1df53fa7bff" weblate-flags="md-text, safe-html, strict-same">
+        <source>Jet-Assisted Flight (3+ Might points). You modify your power armor to allow you to blast off the ground and fly for one minute at a time. For each level of Effort applied, you can increase the duration by an additional minute.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

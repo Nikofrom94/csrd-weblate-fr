@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3f9892ecefdfc502" weblate-flags="md-text, safe-html, strict-same">
+        <source>Foil Danger (2 Intellect points) #Ability #CureAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a493ada45decad7" weblate-flags="md-text, safe-html, strict-same">
+        <source>You negate one source of potential danger related to one creature or object that you are aware of within immediate distance for one round. This could be a weapon or device held by someone, a trap triggered by a pressure plate, or a creature’s natural ability (something special, innate, and dangerous, like a dragon’s fiery breath or a giant cobra’s venom). You can also try to foil a foe‘s mundane action (such as an attack with a weapon or claw), so that the action isn‘t made this round. Make your roll against the level of the attack, danger, or creature.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

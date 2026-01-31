@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="381a899858b2fe26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[How to Play the Cypher System]{1}</source>
+        <target state="translated">[How to Play the Cypher System]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0a8910a96432577" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters</source>
+        <target state="translated">Characters</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc81a335eb716ef3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Creating your Character]{1}</source>
+        <target state="translated">[Creating your Character]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a5320601b44863d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Type]{1}</source>
+        <target state="translated">[Type]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04e9614cac81d8b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Flavor]{1}</source>
+        <target state="translated">[Flavor]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2a807a40fe6b50cf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Descriptor]{1}</source>
+        <target state="translated">[Descriptor]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6769652a1047f17e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Focus]{1}</source>
+        <target state="translated">[Focus]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="795a9d0190ff138b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Creating New Foci]{1}</source>
+        <target state="translated">[Creating New Foci]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c5404f158b8bca61" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Abilities]{1}</source>
+        <target state="translated">[Abilities]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1cdbc3da339b44bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Equipment]{1}</source>
+        <target state="translated">[Equipment]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a90e16aafef5b3b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rules</source>
+        <target state="translated">Rules</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19c52328a4c96801" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rules of the Game</source>
+        <target state="translated">Rules of the Game</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4de8175b150f73d2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[TAKING ACTION]{1}</source>
+        <target state="translated">[TAKING ACTION]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dde06ae6b6fab72a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTIONS]{1}</source>
+        <target state="translated">[ACTIONS]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28dd490d9d73482a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION ATTACK]{1}</source>
+        <target state="translated">[ACTION ATTACK]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="01c3fdbb66ba39d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION ACTIVATE A SPECIAL ABILITY]{1}</source>
+        <target state="translated">[ACTION ACTIVATE A SPECIAL ABILITY]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04f9e96d85ff47ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION MOVE]{1}</source>
+        <target state="translated">[ACTION MOVE]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="22c86fe166c2ac83" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION WAIT]{1}</source>
+        <target state="translated">[ACTION WAIT]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e519128a6166c1b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION DEFEND]{1}</source>
+        <target state="translated">[ACTION DEFEND]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fa0af54b0b4c5e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[ACTION DO SOMETHING ELSE]{1}</source>
+        <target state="translated">[ACTION DO SOMETHING ELSE]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fa12ac5396cd449f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Magic Rules]{1}</source>
+        <target state="translated">[Magic Rules]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f8a86528a6d3e73f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Fantasy Rules]{1}</source>
+        <target state="translated">[Fantasy Rules]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2027246d10cd0edb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[FOLLOWERS]{1}</source>
+        <target state="translated">[FOLLOWERS]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9b11e22adfd73ee1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Experience Points]{1}</source>
+        <target state="translated">[Experience Points]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9e98d9d74b18638c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Genres</source>
+        <target state="translated">Genres</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f39532c2501edc5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Fantasy]{1}</source>
+        <target state="translated">[Fantasy]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b22ea1b999db116" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Modern]{1}</source>
+        <target state="translated">[Modern]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccb700e1b6332460" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Science Fiction]{1}</source>
+        <target state="translated">[Science Fiction]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0461a7298729c7b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Superheroes]{1}</source>
+        <target state="translated">[Superheroes]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="645d96f89ffdc00e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Fairy Tale]{1}</source>
+        <target state="translated">[Fairy Tale]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35c4fd721fc76dad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Horror]{1}</source>
+        <target state="translated">[Horror]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="393fc34d04b2f85d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Romance]{1}</source>
+        <target state="translated">[Romance]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae19356853d129c8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Post-Apocalyptic]{1}</source>
+        <target state="translated">[Post-Apocalyptic]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="935ad00a278a8e8f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Historical]{1}</source>
+        <target state="translated">[Historical]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e40352c5a94ce977" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Cyberpunk]{1}</source>
+        <target state="translated">[Cyberpunk]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="857d84890ecb7235" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Weird West]{1}</source>
+        <target state="translated">[Weird West]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="36f301acd4636af0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Modern Fantasy]{1}</source>
+        <target state="translated">[Modern Fantasy]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c1d58ff85ed57e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Game Mastering</source>
+        <target state="translated">Game Mastering</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe028e9c4628f296" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Creatures]{1}</source>
+        <target state="translated">[Creatures]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4577d50899579c84" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[NPCs]{1}</source>
+        <target state="translated">[NPCs]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8e4e5e35436b52b6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Cyphers]{1}</source>
+        <target state="translated">[Cyphers]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28480807a3c09606" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Running the Cypher System]{1}</source>
+        <target state="translated">[Running the Cypher System]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f586c770724d973" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>[Cypher Shorts]{1}</source>
+        <target state="translated">[Cypher Shorts]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

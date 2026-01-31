@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ae6fad6f889959aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Band of Desperados #Ability #CompanionAbility #High #Core</source>
+        <target state="translated">Band of Desperados #Ability #CompanionAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f0c215b6513ea58" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your reputation draws a band of six level 2 desperado NPC followers who are completely devoted to you. You and the GM must work out the details of these followers. If a follower dies, you gain a new one after at least two weeks and proper recruitment.</source>
+        <target state="translated">Your reputation draws a band of six level 2 desperado NPC followers who are completely devoted to you. You and the GM must work out the details of these followers. If a follower dies, you gain a new one after at least two weeks and proper recruitment.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

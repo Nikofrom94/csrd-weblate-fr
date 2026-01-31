@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="aa1b5bb23bc4da7e" weblate-flags="md-text, safe-html, strict-same">
+        <source>DISGUISE MODULE #Cypher #Fantastic #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea0ea44d5addece9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="523e0543ab942f36" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: For the next ten minutes per cypher level, the user’s features become almost identical to those of one designated person they have previously interacted with, easing by two steps attempts to disguise the user as that person. Once designated, the user cannot shift the effect to look like another person, though they can remove the module to look like themselves again before the end of the duration.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

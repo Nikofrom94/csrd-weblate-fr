@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="a11627e5a11ffb98" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crowd Control (6+ Intellect points) #Ability #ControlAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="88edb97abfb8509f" weblate-flags="md-text, safe-html, strict-same">
+        <source>You control the actions of up to five creatures in short range. This effect lasts for one minute. All targets must be level 2 or lower. Your control is limited to simple verbal commands like “Stop,” “Run away,” “Follow that guard,” “Look over there,” or “Get out of my way.” All affected creatures respond to the command unless you specifically command them otherwise. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the targets or affect an additional five people. Thus, to control a group that has a level 4 target (two levels above the normal limit) or a group of fifteen people, you must apply two levels of Effort. When the Crowd Control ability ends, the creatures remember your commands but don’t remember being controlled—your commands seemed reasonable at the time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

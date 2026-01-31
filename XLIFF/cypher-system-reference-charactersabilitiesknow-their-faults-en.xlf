@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b386c51d0ff69c80" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Know Their Faults #Ability #InformationAbility #Mid #Core</source>
+        <target state="translated">Know Their Faults #Ability #InformationAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cb12b6cb6d6ec0a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If a creature that you can see has a special weakness, such as a vulnerability to loud noises, a negative modification to perception, and so on, you know what it is. Ask and the GM will tell you; usually, this is not associated with a roll, but in certain cases the GM may decide that there is a chance for you not to know. In these cases, you are specialized in knowing creature weaknesses.</source>
+        <target state="translated">If a creature that you can see has a special weakness, such as a vulnerability to loud noises, a negative modification to perception, and so on, you know what it is. Ask and the GM will tell you; usually, this is not associated with a roll, but in certain cases the GM may decide that there is a chance for you not to know. In these cases, you are specialized in knowing creature weaknesses.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

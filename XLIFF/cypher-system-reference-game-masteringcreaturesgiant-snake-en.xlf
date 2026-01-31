@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="75814962814d95e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GIANT SNAKE #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target state="translated">GIANT SNAKE #lvl4 (12) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="098612eeeffe0b97" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Those about to stumble into the presence of a giant snake at least 50 feet (15 m) long are warned by the skin it shed and discarded and by the cracked, slippery bones of digested victims.</source>
+        <target state="translated">Those about to stumble into the presence of a giant snake at least 50 feet (15 m) long are warned by the skin it shed and discarded and by the cracked, slippery bones of digested victims.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7119bf5473c34a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Hungers for flesh</source>
+        <target state="translated">Motive: Hungers for flesh</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2f4244f8a48ba0d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere a giant snake can lurk, including jungles, sewers, caves, and spacecraft access tubes</source>
+        <target state="translated">Environment: Anywhere a giant snake can lurk, including jungles, sewers, caves, and spacecraft access tubes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0a4a22b0c4d3735a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 18</source>
+        <target state="translated">Health: 18</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e23c992bd49e936f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points or more; see Combat</source>
+        <target state="translated">Damage Inflicted: 5 points or more; see Combat</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c9ebe8c5fc40651" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 2</source>
+        <target state="translated">Armor: 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a1b9347e893820f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Perception and stealth as level 6; Speed defense as level 3 due to size</source>
+        <target state="translated">Modifications: Perception and stealth as level 6; Speed defense as level 3 due to size</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="48932ebc0018b419" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: A giant snake bites foes, preferably from ambush, hindering the target’s Speed defense by two steps. If it succeeds, the snake’s bite deals 8 points of damage for that attack. On a failed Might defense roll, a bite also inflicts 3 points of Speed damage (ignores Armor). A giant snake may coil around a sleeping, stunned, or debilitated victim. Caught victims automatically take 5 points of crushing damage each round until they break free.</source>
+        <target state="translated">Combat: A giant snake bites foes, preferably from ambush, hindering the target’s Speed defense by two steps. If it succeeds, the snake’s bite deals 8 points of damage for that attack. On a failed Might defense roll, a bite also inflicts 3 points of Speed damage (ignores Armor). A giant snake may coil around a sleeping, stunned, or debilitated victim. Caught victims automatically take 5 points of crushing damage each round until they break free.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a630e19e53a5c6b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Giant snakes lose their perception and stealth modifications in cold climates and when attacked with abilities that reduce the temperature. Thus, the creatures retreat from cold.</source>
+        <target state="translated">Giant snakes lose their perception and stealth modifications in cold climates and when attacked with abilities that reduce the temperature. Thus, the creatures retreat from cold.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c1d53c68644fb38f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: A giant snake is a predator that regards other creatures as food, though it ignores them when it is already busy digesting a meal.</source>
+        <target state="translated">Interaction: A giant snake is a predator that regards other creatures as food, though it ignores them when it is already busy digesting a meal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0fcb36b37b5e926" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Characters note something amiss as they glimpse lambent eyes peering from the darkness, glaring as if seeking to pin victims in place with cold terror.</source>
+        <target state="translated">Use: Characters note something amiss as they glimpse lambent eyes peering from the darkness, glaring as if seeking to pin victims in place with cold terror.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e7335611201a2541" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A giant snake’s droppings or gullet might hold a few cyphers and possibly an artifact that the creature could not digest.</source>
+        <target state="translated">Loot: A giant snake’s droppings or gullet might hold a few cyphers and possibly an artifact that the creature could not digest.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7b9f7a24cd101e39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The snake’s venom affects the character more strongly. Instead of merely inflicting Speed damage, it also paralyzes the character for one minute, though after a couple of rounds, the victim can make another Might defense roll to throw off the effects of the poison early.</source>
+        <target state="translated">GM intrusion: The snake’s venom affects the character more strongly. Instead of merely inflicting Speed damage, it also paralyzes the character for one minute, though after a couple of rounds, the victim can make another Might defense roll to throw off the effects of the poison early.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

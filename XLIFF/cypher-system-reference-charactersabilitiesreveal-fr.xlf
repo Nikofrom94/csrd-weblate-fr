@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="cee1f3fc835db1db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Reveal (2+ Intellect points) #Ability #SensesAbility #SupportAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b9c8a455029163e" weblate-flags="md-text, safe-html, strict-same">
+        <source>You adjust a creature’s eyesight so that it can see normally in areas of dim light and darkness. You can affect one willing creature within immediate range for one hour. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort applied affects two additional targets. You must touch additional targets to affect them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

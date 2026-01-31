@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="cbf9e842b984b52b" weblate-flags="md-text, safe-html, strict-same">
+        <source>This chapter describes many common and uncommon creatures that the characters might meet—and fight—in a Cypher System game and gives their stats. The variety of creatures that populate the possible settings and genres is so great that this chapter only scratches the surface. It does, however, provide examples of kinds of inhabitants—bestial and civilized, living and undead, organic and inorganic—so that you can easily extrapolate and create your own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2fddb58969d072e8" weblate-flags="md-text, safe-html, strict-same">
+        <source>**UNDERSTANDING THE LISTINGS**</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5397bb7760cdb1c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Every creature is presented by name, followed by a standard template that includes the following categories.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aacbe3bf4815366f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: Like the difficulty of a task, each creature and NPC has a level attached to it. You use the level to determine the target number a PC must reach to attack or defend against the opponent. In each entry, the difficulty number for the creature or NPC is listed in parentheses after its level. As shown on the following table, the target number is three times the level.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c11e8d1845ed3f52" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="298763e7fece2548" weblate-flags="md-text, safe-html, strict-same">
+        <source>Target Number</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfbd4c12eb9e51b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":9" weblate-flags="md-text, safe-html, strict-same">
+        <source>3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="006009681cb2e26c" weblate-flags="md-text, safe-html, strict-same">
+        <source>2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":9" weblate-flags="md-text, safe-html, strict-same">
+        <source>6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":9" weblate-flags="md-text, safe-html, strict-same">
+        <source>9</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3174f6bcbef734ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05ce2c3201034a35" weblate-flags="md-text, safe-html, strict-same">
+        <source>12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1214f1507fe8dc50" weblate-flags="md-text, safe-html, strict-same">
+        <source>5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b13ab1e55cea292" weblate-flags="md-text, safe-html, strict-same">
+        <source>15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59e0afd113919755" weblate-flags="md-text, safe-html, strict-same">
+        <source>18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="766a0fe2e87a5112" weblate-flags="md-text, safe-html, strict-same">
+        <source>7</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8665267e8b32947f" weblate-flags="md-text, safe-html, strict-same">
+        <source>21</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="62ac44bfd909abd5" weblate-flags="md-text, safe-html, strict-same">
+        <source>8</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0b17578890134cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>24</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="09114e11d4dd4f8d" weblate-flags="md-text, safe-html, strict-same">
+        <source>27</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7cef57593256badd" weblate-flags="md-text, safe-html, strict-same">
+        <source>10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da8a72d792888d47" weblate-flags="md-text, safe-html, strict-same">
+        <source>30</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef7d407d77bd5723" weblate-flags="md-text, safe-html, strict-same">
+        <source>Description: Following the name of the creature or NPC is a general description of its appearance, nature, intelligence, or background.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72461a44571bf4ad" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: This entry is a way to help the GM understand what a creature or NPC wants. Every creature or person wants something, even if it’s just to be left alone.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d21e6ee1b7f8d1a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: This entry describes whether the creature tends to be solitary or travel in groups and what kind of terrain it inhabits (such as “They travel in packs through dry wastes and temperate lowlands”).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="76337be50d3c5be1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: A creature’s target number is usually also its health, which is the amount of damage it can sustain before it is dead or incapacitated. For easy reference, the entries always list a creature’s health, even when it’s the normal amount for a creature of its level.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cfe92daf75fceae2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: Generally, when creatures hit in combat, they inflict their level in damage regardless of the form of attack. Some inflict more or less or have a special modifier to damage. Intelligent NPCs often use weapons, but this is more a flavor issue than a mechanical one. In other words, it doesn’t matter if a level 3 foe uses a sword or claws—it deals the same damage if it hits. The entries always specify the amount of damage inflicted, even if it’s the normal amount for a creature of its level.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6406d0b4c4c6c232" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: This is the creature’s Armor value. Sometimes the number represents physical armor, and other times it represents natural protection. This entry doesn’t appear in the game stats if a creature has no Armor.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ef6e32546aa62dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Movement determines how far the creature can move in a single turn. Creatures have movements of immediate, short, long, or very long, which equate to the ranges of the same name. Most PCs have an effective movement of short, so if they are chasing (or being chased by) a creature with immediate movement, their Speed tasks are eased; if the creature’s movement is long or greater, the PCs’ Speed tasks are hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7871dfe4554237f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Use these default numbers when a creature’s information says to use a different target number. For example, a level 4 creature might say “defends as level 5,” which means PCs attacking it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). In special circumstances, some creatures have other modifications, but these are almost always specific to their level.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c50b4f79e713bf9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: This entry gives advice on using the creature in combat, such as “This creature uses ambushes and hit-and-run tactics.” At the end of the combat listing, you’ll also find any special abilities, such as immunities, poisons, and healing skills. GMs should be logical about a creature’s reaction to a particular action or attack by a PC. For example, a mechanical creation is immune to normal diseases, a character can’t poison a being of energy (at least, not with a conventional poison), and so on.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="abd37c9daa81423c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: This entry gives advice on using the creature in interactions, such as “These creatures are willing to talk but respond poorly to threats,” or “This creature is an animal and acts like an animal.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="58493fcc48654f7c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: This entry gives the GM suggestions for how to use the creature in a game session. It might provide general notes or specific adventure ideas.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f1b0f92c39c236a5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: This entry indicates what the PCs might gain if they take items from their fallen foes (or trade with or trick them). It doesn’t appear in the game stats if the creature has no loot.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="42fe8aebfe90cf92" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusion: This optional entry in the stats suggests a way to use GM intrusion in an encounter with the creature. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="93eaebd94032723a" weblate-flags="md-text, safe-html, strict-same">
+        <source>**BIGGER AND TOUGHER**</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="89cda849ca90b9e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you need a larger or tougher version of a creature, such as a dire wolf or a giant crocodile, you can just increase the creature’s level (and all of its modifications) by 1 or 2. If the creature has a damage or health stat that isn’t the default for its level, take that into account at the modified creature’s new level.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="561366e53f1c0112" weblate-flags="md-text, safe-html, strict-same">
+        <source>A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

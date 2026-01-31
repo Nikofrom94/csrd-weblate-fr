@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="143d0ed96d23c7d1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Repair Flesh (3 Intellect points) #Ability #CureAbility #Low #Core</source>
+        <target state="translated">Repair Flesh (3 Intellect points) #Ability #CureAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="846b5876349bf464" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you touch an impaired or debilitated character, you can move them up one step on the damage track (for example, a debilitated PC becomes impaired, and an impaired one becomes hale). Alternatively, if you use this ability on a PC during a rest, you grant them a +2 bonus to their recovery roll.</source>
+        <target state="translated">When you touch an impaired or debilitated character, you can move them up one step on the damage track (for example, a debilitated PC becomes impaired, and an impaired one becomes hale). Alternatively, if you use this ability on a PC during a rest, you grant them a +2 bonus to their recovery roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

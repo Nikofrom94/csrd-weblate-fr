@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="eefd4e221a930d81" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Doomed #Descriptor #Core</source>
+        <target state="translated">Doomed #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc73f6537bbc2bc5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.</source>
+        <target state="translated">You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29752115312e79cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Jumpy: +2 to your Speed Pool.</source>
+        <target state="translated">Jumpy: +2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bbc0821421115e7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: Always on the lookout for danger, you are trained in perception-related tasks.</source>
+        <target state="translated">Skill: Always on the lookout for danger, you are trained in perception-related tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cb89a6e4604813ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are defense minded, so you are trained in Speed defense tasks.</source>
+        <target state="translated">Skill: You are defense minded, so you are trained in Speed defense tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c5ad3339a7eaec4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are cynical and expect the worst. Thus, you are resistant to mental shocks. You are trained in Intellect defense tasks having to do with losing your sanity or equanimity.</source>
+        <target state="translated">Skill: You are cynical and expect the worst. Thus, you are resistant to mental shocks. You are trained in Intellect defense tasks having to do with losing your sanity or equanimity.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc0540f76b20d3fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Doom: Every other time the GM uses GM intrusion on your character, you cannot refuse it and do not get an XP for it (you still get an XP to award to another player). This is because you are doomed. The universe is a cold, uncaring place, and your efforts are futile at best.</source>
+        <target state="translated">Doom: Every other time the GM uses GM intrusion on your character, you cannot refuse it and do not get an XP for it (you still get an XP to award to another player). This is because you are doomed. The universe is a cold, uncaring place, and your efforts are futile at best.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4adb893ebe5b32af" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You attempted to avoid it, but events seemed to conspire to draw you to where you are.</source>
+        <target state="translated">You attempted to avoid it, but events seemed to conspire to draw you to where you are.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2af9fadc7f34f57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Why not? It doesn’t matter. You’re doomed no matter what you do.</source>
+        <target state="translated">Why not? It doesn’t matter. You’re doomed no matter what you do.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63b410f5ccf67a4e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs saved your life, and now you’re repaying that obligation by helping them with the task at hand.</source>
+        <target state="translated">One of the other PCs saved your life, and now you’re repaying that obligation by helping them with the task at hand.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9aa0817dff7031df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You suspect that the only hope you have of avoiding your fate might lie on this path.</source>
+        <target state="translated">You suspect that the only hope you have of avoiding your fate might lie on this path.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

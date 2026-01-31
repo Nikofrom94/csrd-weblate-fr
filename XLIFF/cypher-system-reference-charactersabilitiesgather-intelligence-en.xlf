@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="159e060e54ceae9e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Gather Intelligence (2 Intellect points) #Ability #InformationAbility #Low #Core</source>
+        <target state="translated">Gather Intelligence (2 Intellect points) #Ability #InformationAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="86f183fdd9097984" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When in a group of people (a caravan, a palace, a village, a city, etc.) you can ask around about any topic you choose and come away with useful information. You can ask a specific question, or you can simply obtain general facts. You also get a good idea of the general layout of the location involved, note the presence of all major sites, and perhaps even notice obscure details. For example, not only do you find out if anyone in the palace has seen the missing boy, but you also get a working knowledge of the layout of the palace itself, note all the entrances and which are used more often than others, and take notice that everyone seems to avoid the well in the eastern courtyard for some reason.</source>
+        <target state="translated">When in a group of people (a caravan, a palace, a village, a city, etc.) you can ask around about any topic you choose and come away with useful information. You can ask a specific question, or you can simply obtain general facts. You also get a good idea of the general layout of the location involved, note the presence of all major sites, and perhaps even notice obscure details. For example, not only do you find out if anyone in the palace has seen the missing boy, but you also get a working knowledge of the layout of the palace itself, note all the entrances and which are used more often than others, and take notice that everyone seems to avoid the well in the eastern courtyard for some reason.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8804aab710264eb8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, about an hour to complete.</source>
+        <target state="translated">Action to initiate, about an hour to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

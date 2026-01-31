@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d197a3cee3fb03da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stands Like a Bastion #Focus #TankFocus #Core</source>
+        <target state="translated">Stands Like a Bastion #Focus #TankFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae4d7ca78e67e29d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.</source>
+        <target state="translated">Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f87aaa2d74354e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.)</source>
+        <target state="translated">(Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6da8c6f6e711c3a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Practiced in Armor</source>
+        <target state="translated">Tier 1: Practiced in Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd3a1ae417fc8409" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Experienced Defender</source>
+        <target state="translated">Tier 1: Experienced Defender</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d5719e50b2695cc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Resist the Elements</source>
+        <target state="translated">Tier 2: Resist the Elements</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="75d1a85b990dd6d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Unmovable</source>
+        <target state="translated">Tier 3: Unmovable</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="530e4c7578b7b127" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Greater Enhanced Might or Practiced With All Weapons</source>
+        <target state="translated">Tier 3: Greater Enhanced Might or Practiced With All Weapons</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="448a6d980a01f54c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Living Wall</source>
+        <target state="translated">Tier 4: Living Wall</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23f8bb873427c6d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Hardiness</source>
+        <target state="translated">Tier 5: Hardiness</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a084b6c27658146" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Mastery in Armor</source>
+        <target state="translated">Tier 5: Mastery in Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="317d769d70767f00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Lethal Damage or Shield Training</source>
+        <target state="translated">Tier 6: Lethal Damage or Shield Training</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3432207b2b07637f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Armor is damaged. Small foes conspire in ingenious ways.</source>
+        <target state="translated">GM Intrusions: Armor is damaged. Small foes conspire in ingenious ways.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1684dc18cd64d86f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Release Energy #Ability #SpecialAttackAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d03c49ea06aaaafb" weblate-flags="md-text, safe-html, strict-same">
+        <source>You release 1 point of energy you’ve absorbed with your Absorb Kinetic Energy ability, magnifying and focusing it into a blast of energy that strikes a single foe within long range for 4 points of damage. (If you don’t have any kinetic energy absorbed, you can still use this ability, but it requires that you transform a fraction of yourself into the blast, which costs 1 point of Might.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

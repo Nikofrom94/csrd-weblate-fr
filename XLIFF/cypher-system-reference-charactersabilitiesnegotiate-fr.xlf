@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="8cc27de61c838dfc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Negotiate (3 Intellect points) #Ability #SocialAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a6eb4ae021c21198" weblate-flags="md-text, safe-html, strict-same">
+        <source>In any gathering where two or more people are trying to establish the truth or come to a decision, you can sway the verdict with masterful rhetoric. If you are given a few rounds or more to argue your point, either the decision goes your way or, if someone else effectively argues a competing point, any associated persuasion or deception task is eased by two steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b2faa83a8907201" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate, one or more rounds to complete.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

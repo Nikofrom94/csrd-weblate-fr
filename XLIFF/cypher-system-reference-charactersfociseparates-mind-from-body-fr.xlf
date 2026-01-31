@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="83e31289245d7d9c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Separates Mind From Body #Focus #ExplorationFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="56d789303d187ab1" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="912905b2cee8bd7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Third Eye</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e7a799d0e5c42604" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Open Mind</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ab6d1a93202db52c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Sharp Senses</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f0ff1a31a893bc69" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Roaming Third Eye or Find the Hidden</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c117f63d0b9e67c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Sensor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fda432b6e0c06fd2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Psychic Passenger</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="36b4ba4eb43d403a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Mental Projection or Improved Sensor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="81c5cb28019474e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

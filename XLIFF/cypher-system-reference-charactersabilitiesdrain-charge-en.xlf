@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="e9e544ab470aab7f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Drain Charge #Ability #CureAbility #SpecialAttackAbility #Mid #Core</source>
+        <target state="translated">Drain Charge #Ability #CureAbility #SpecialAttackAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f3aa17c6734ca8b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can drain the power from an artifact or device, allowing you to regain 1 Intellect point per level drained. You regain points at the rate of 1 point per round and must give your full concentration to the process each round. The GM determines whether the device is fully drained (likely true of most handheld or smaller devices) or retains some power (likely true of large machines).</source>
+        <target state="translated">You can drain the power from an artifact or device, allowing you to regain 1 Intellect point per level drained. You regain points at the rate of 1 point per round and must give your full concentration to the process each round. The GM determines whether the device is fully drained (likely true of most handheld or smaller devices) or retains some power (likely true of large machines).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="516ab32a7374e438" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate; action each round to drain.</source>
+        <target state="translated">Action to initiate; action each round to drain.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

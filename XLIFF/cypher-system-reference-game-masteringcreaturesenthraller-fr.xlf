@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b27d31edbd579355" weblate-flags="md-text, safe-html, strict-same">
+        <source>ENTHRALLER #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d226a51b2fc0890c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Hundreds of thousands of years ago, enthraller ancestors psychically dominated a group of interstellar spacefarers who had the misfortune to land on the enthraller homeworld. Leapfrogging technological prowess by mentally commandeering the know-how of every new species they encountered using their stolen space vessel, the aliens fashioned the Enthraller Dominion, which stretches across vast swaths of space, cemented by the psychic control.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="565576aa6f59479e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Individual enthrallers are scary, but enthraller overlords are even more powerful thanks to technological aids. These include cranial circlets that give a single enthraller governor the ability to dominate a small city, solar-system-sized ring relays that boost their control across interstellar distances, and more.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c586d012b0a79965" weblate-flags="md-text, safe-html, strict-same">
+        <source>Recently, a newly contacted species of aliens developed the technological means to resist the mental influence of the enthrallers. Now war bubbles across the Enthraller Dominion. Sometimes individual enthrallers, stripped of their technological enhancements as a consequence of this war, flee into virgin space, looking for new soldiers to dominate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6c7e6e1755b1652f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Domination of other creatures</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="43eea9f0741252dc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Almost anywhere, alone or in groups of three</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a4a22b0c4d3735a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8ca515dff94d72a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points; see Combat</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bbbe84ae662f6de9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Speed defense as level 4; perception and ability to detect falsehoods as level 8</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f3e87c08194791c1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: An enthraller usually relies on dominated minions to make physical attacks on its behalf. An enthraller can
+make a psychic attack on a creature within short range. On a failed Intellect defense roll, the target acts as the enthraller mentally commands on its next action. If the same target is affected by this dominating attack a second time within a minute, the enthraller’s mental control lasts for one minute.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e2076b873936383c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Alternatively, as its action, an enthraller can emit a psychic burst that can target up to three creatures in short range. On a failed Intellect defense roll, a victim suffers 4 points of Intellect damage (ignores Armor) and is unable to
+take actions on their subsequent turn. If the victim is attacked while so stunned, their defense rolls are hindered by two steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2446acd58f7663f1" weblate-flags="md-text, safe-html, strict-same">
+        <source>The enthraller’s attack is a form of mental feeding. If it moves a PC down the damage track, the creature regains 4 points of health.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="099bd096cc417c9c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: An enthraller can communicate telepathically with characters within short range. It tries to mentally dominate whoever it runs across and will negotiate only with characters who are strong enough to harm it. Even if an enthraller makes a deal, it eventually reneges if it senses any advantage for doing so because it implicitly believes that other creatures are cattle.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a5a7f7edaf82bf29" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A spacecraft (or perhaps an escape pod) crash lands. Inside, a hurt enthraller lies in suspended animation. Investigators are unlikely to realize the enthraller’s nature beforehand, but they certainly learn if they wake the alien.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6379dc4db73b5c1e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: Enthrallers wear light armor suited for their forms. They might have one or two cyphers and, rarely, an artifact that boosts their already-fearsome mental capabilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3476112ac68cbb98" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The enthraller’s intrusion into the character’s mind stirs up forgotten memories. The character must deal with the contents of these memories and perhaps why they were repressed.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

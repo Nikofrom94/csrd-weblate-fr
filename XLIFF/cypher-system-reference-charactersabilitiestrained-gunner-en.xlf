@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="21d950de884e5ab9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trained Gunner #Ability #TaskAbility #Mid #Core</source>
+        <target state="translated">Trained Gunner #Ability #TaskAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="819301e778183cca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can choose from one of two benefits. Either you are trained in using guns, or you have the Spray ability (which costs 2 Speed points): If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as an automatic pistol), you can spray multiple shots around your target to increase the chance of hitting. This move uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). The attack roll is eased. If the attack is successful, it deals 1 less point of damage than normal.</source>
+        <target state="translated">You can choose from one of two benefits. Either you are trained in using guns, or you have the Spray ability (which costs 2 Speed points): If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as an automatic pistol), you can spray multiple shots around your target to increase the chance of hitting. This move uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). The attack roll is eased. If the attack is successful, it deals 1 less point of damage than normal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e900098b73b36d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler (being trained in using guns) or action (Spray).</source>
+        <target state="translated">Enabler (being trained in using guns) or action (Spray).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

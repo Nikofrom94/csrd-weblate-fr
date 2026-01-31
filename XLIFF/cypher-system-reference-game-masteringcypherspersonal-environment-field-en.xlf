@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d58f4f51b0ce7410" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PERSONAL ENVIRONMENT FIELD #Cypher #Fantastic #Core</source>
+        <target state="translated">PERSONAL ENVIRONMENT FIELD #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fd324e2c1ed4a58" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Creates an aura of temperature and atmosphere that will sustain a human safely for a day. The aura extends to 1 foot (30 cm) around the user (double that radius if the cypher is level 7 or higher). It does not protect against sudden flashes of temperature change (such as from a heat ray). A small number of these cyphers (1%) accommodate the preferred environment of a nonhuman, nonterrestrial creature.</source>
+        <target state="translated">Effect: Creates an aura of temperature and atmosphere that will sustain a human safely for a day. The aura extends to 1 foot (30 cm) around the user (double that radius if the cypher is level 7 or higher). It does not protect against sudden flashes of temperature change (such as from a heat ray). A small number of these cyphers (1%) accommodate the preferred environment of a nonhuman, nonterrestrial creature.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

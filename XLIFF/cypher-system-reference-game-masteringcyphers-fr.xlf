@@ -1,0 +1,3287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="2128d4a827de4e31" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers are one-use abilities that characters gain over the course of play. They have cool powers that can heal, make attacks, ease or hinder task rolls, or (in a more supernatural and extreme example) produce effects such as nullifying gravity or turning something invisible.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f450d670f05d47d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Most cyphers aren’t physical objects—just something useful that happens right when you need it. They might be a burst of insight that allows a character to make a perfectly executed attack, a lucky guess when using a computer terminal, a coincidental distraction that gives you an advantage against an NPC, or a supernatural entity that makes things work out in your favor. In some games, cyphers come in the form of items, like magic potions or bits of alien technology.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1eb033eb9e9a54fa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers that don’t have a physical form are called subtle cyphers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bed5128de20ded5e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers that have a physical form are called manifest cyphers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8fe883d1e2f69742" weblate-flags="md-text, safe-html, strict-same">
+        <source>Regardless of their form, cyphers are single-use effects and are always consumed when used. Unless a cypher’s description says otherwise, it works only for the character who activates it. For example, a PC can’t use an enduring shield cypher on a friend.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="451cd2c1ccd3f46d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers are a game mechanic designed for frequent discovery and use. PCs can have only a small number of cyphers at any given time, and since they’re always finding more, they’re encouraged to use them at a steady pace.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dcab0dd53886c81b" weblate-flags="md-text, safe-html, strict-same">
+        <source>In theory, the cyphers gained by the PCs are determined randomly. However, the GM can allow PCs to acquire or find them intentionally as well. Cyphers are gained with such regularity that the PCs should feel that they can use them freely. There will always be more, and they’ll have different benefits. This means that in gameplay, cyphers are less like gear or treasure and more like character abilities that the players don’t choose. This leads to fun game moments where a player can say “Well, I’ve got an X that might help in this situation,” and X is always different. X might be an intuitive understanding of the local computer network, a favor from the Faerie Court, an explosive device, a short-range teleporter, or a force field. It might be a powerful magnet or a prayer that will cure disease. It could be anything. Cyphers keep the game fresh and interesting. Over time, characters can learn how to safely carry more and more cyphers at the same time, so cyphers really do seem more like abilities and less like gear.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b8a7c66fa64f50b" weblate-flags="md-text, safe-html, strict-same">
+        <source>(“Carry” in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8f47c3b21a1c4dd8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers don’t have to be used to make room for new ones. For subtle cyphers, a character can just use an action to “lose” the cypher, freeing up space to “find” one later (once a subtle cypher is discarded this way, it is gone and can’t be recovered). For manifest cyphers, it’s perfectly acceptable for the PCs to stash one elsewhere for later use; of course, that doesn’t mean it will still be there when they return.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="30507a027cfbd2cb" weblate-flags="md-text, safe-html, strict-same">
+        <source>WHY CYPHERS?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f65ce81490015704" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cyphers are (not surprisingly, based on the name) the heart of the Cypher System. This is because characters in this game have some abilities that rarely or never change and can always be counted on—pretty much like in all games—and they have some abilities that are ever-changing and inject a great deal of variability in play. They are the major reason why no Cypher System game session should ever be dull or feel just like the last session. This week your character can solve the problem by walking through walls, but last time it was because you could create an explosion that could level a city block.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1861892a21a136ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>The Cypher System, then, is one where PC abilities are fluid, with the GM and the players both having a role in their choice, their assignment, and their use. Although many things separate the game system from others, this aspect makes it unique, because cyphers recognize the importance and value of two things:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b01421a0d3bcef2" weblate-flags="md-text, safe-html, strict-same">
+        <source>“Treasure,” because character abilities make the game fun and exciting. In fact, in the early days of roleplaying, treasure (usually in the form of magic items found in dungeons) was really the only customization of characters that existed. One of the drives to go out and have adventures is so you can discover cool new things that help you when you go on even more adventures. This is true in many RPGs, but in the Cypher System, it’s built right into the game’s core.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b291a74e192349a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Letting the GM have a hand in determining PC abilities makes the game move more smoothly. Some GMs prefer to roll cyphers randomly, but some do not. For example, giving the PCs a cypher that will allow them to teleport far away might be a secret adventure seed placed by a forward-thinking GM. Because the GM has an idea of where the story is going, they can use cyphers to help guide the path. Alternatively, if the GM is open to it, they can give out cyphers that enable the characters to take a more proactive role (such as teleporting anywhere they want). Perhaps most important, they can do these things without worrying about the long-term ramifications of the ability. A device that lets you teleport multiple times might really mess up the game over the long term. But once? That’s just fun.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="931214c6f44e9d8a" weblate-flags="md-text, safe-html, strict-same">
+        <source>CYPHER LIMITS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ca8488a0e82c561" weblate-flags="md-text, safe-html, strict-same">
+        <source>All characters have a maximum number of cyphers they can have at any one time, determined by their type. If a character ever attempts to carry more, random cyphers instantly disappear until the PC has a number of cyphers equal to their maximum (depending on the genre of the campaign, subtle cyphers may be more or less likely to vanish this way). These vanished cyphers are not recoverable.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7655c0f3dacb19c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>SUBTLE CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="919bcf17361188c0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subtle (nonphysical) cyphers are a way to introduce cyphers into a game without overt “powered stuff”—no potions, alien crystals, or anything of that nature. They’re most useful, perhaps, in a modern or horror setting without obvious fantasy elements. Subtle cyphers are more like the inherent abilities PCs have, adding boosts to Edge, recovering points from Pools, coming up with ideas, and so on. In general, these are commonplace, non-supernatural effects—a subtle cypher wouldn’t create a laser beam or allow a character to walk through a wall. They don’t break the fragile bubble of believability in genres where flashy powers and abilities don’t make a lot of sense.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da653547df7d399b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subtle cyphers are particularly nice in a genre where the PCs are supposed to be normal people. The cyphers can simply be an expression of innate capabilities in characters that aren’t always dependable. And in many ways, that’s probably more realistic than an ability you can count on with certainty, because in real life, some days you can jump over a fence, and some days you just can’t.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ae82214e9634905e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Concepts for subtle cyphers include the following:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fe3c0bd7dbe12c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Good fortune: Once in a while, things just go your way. You’re in the right place at the right time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="96e70703a6728179" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inspirations: Sometimes you get inspired to do something you’ve never done before and might not be able to do again. Call it adrenaline mixed with the right motivation, or just doing the right thing at the right place at the right time. Who can really define it? Life’s funny that way.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b54d79367a3736b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Alien concepts: Complex and utterly inhuman memes enter our world and worm their way into and out of human consciousness. When this happens, it can cause mental distress and disorientation. It can also grant impossible abilities and advantages.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f9e259a5161fdca2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blessings: In a fantasy world, there are nine gods. Each morning, all intelligent residents of the world pray to one of the gods, and some of the faithful gain a divine blessing. Some people believe that praying to different gods gives you different blessings.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6610cd64ce29a3dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Earworms: You know how some songs pop into your head and just won’t leave? There’s a power to those songs, and the right people know how to harness it. Make the songs disturbing or reminiscent of evil chants, and you’ve got a perfect cypher concept for a horror campaign.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1203641b6cc7d5d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mysterious transmissions: What’s that buzzing? That mechanical chittering? Those numbers repeating over and over? And why can only some people hear it? A few who are aware of the sounds have learned how to make use of them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72664fbc310fa793" weblate-flags="md-text, safe-html, strict-same">
+        <source>Supernatural powers: Mental or mystical energies constantly shift and change, ebb and flow. But you’ve figured out how to attune your mind to them. There are no physical actions or paraphernalia required—just an inner conduit to the numinous.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24cdde08bfd1d466" weblate-flags="md-text, safe-html, strict-same">
+        <source>DISCOVERING SUBTLE CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db43d05acb4dc411" weblate-flags="md-text, safe-html, strict-same">
+        <source>Since subtle cyphers aren’t physical objects, GMs will need to figure out when to give PCs new ones to replace the ones they have used. The cyphers probably shouldn’t be tied to actions entirely under the characters’ control—in other words, they shouldn’t come as a result of meditation or anything of that nature. Instead, the GM should choose significant points in the story when new cyphers might simply come unbidden to the PCs. In the broader view, this is no different than manifest cyphers placed as treasure in a creature’s lair, a secret cache, or somewhere else for the characters to find. Either way, the GM is picking good spots to “refill” potentially used cypher-based abilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="387ccace314689e7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subtle cyphers are often found in groups of one to six (the GM can roll 1d6 to determine the number). The GM might randomly assign the cyphers to each PC who has space for more, or present a selection of cyphers to the group and allow the players to choose which ones they want for their characters. Characters should immediately know what their subtle cyphers do. If a PC activates a healing subtle cypher when they think it’s something to help pick a lock, that’s a waste of a useful character ability.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f21d8175af72b39e" weblate-flags="md-text, safe-html, strict-same">
+        <source>PCs might be able to obtain subtle cyphers from NPCs or in unusual circumstances as gifts, boons, or blessings, even asking for a particular kind of subtle cypher, such as healing, protection, or skill. For example, PCs who make a donation at a temple of a healing goddess could ask to receive a blessing (subtle cypher) that allows them to speak a healing prayer that restores points to one of their Pools. An NPC wizard who owes the PCs a favor might cast a spell on them that deflects one weapon if they say a magic word. An alien pylon might grant knowledge of a strange mental code that lets a person see in the dark for a few hours.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5a642a254e090a6a" weblate-flags="md-text, safe-html, strict-same">
+        <source>A PC can also acquire a new subtle cypher by spending 1 XP on one of the following player intrusions:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="afc5380b6702fea2" weblate-flags="md-text, safe-html, strict-same">
+        <source>General cypher: You ask the GM for a general subtle cypher, such as “healing,” “movement,” “defense,” or perhaps something as specific as “flight.” The GM gives you a cypher that meets that description and randomly determines its level. If you don’t have space for this cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ab168e8162b1e0a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Specific cypher: You ask the GM for a specific subtle cypher (such as a curative or stim) of a specific level. Make an Intellect roll with a difficulty equal to the cypher’s level plus 1. If you have had this cypher before, the task is eased. If you fail the roll, you do not gain a cypher. If you succeed, the GM gives you that subtle cypher at that level. If you don’t have space for this new cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place. Whether or not you succeed at the roll, the 1 XP is spent.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d0a7f00b6a7410fd" weblate-flags="md-text, safe-html, strict-same">
+        <source>MANIFEST CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7c9e61c8b75c94b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Because manifest cyphers are physical objects, and people are familiar with the idea of finding “treasure” as part of playing an RPG, these kinds of cyphers are easy to get into the hands of the PCs. They are often found in groups of one to six (the GM can roll 1d6 to determine the number), usually because the characters are searching for them. They might be among the possessions of a fallen foe, hidden in a secret room, or scattered amid the wreckage of a crashed starship. The GM can prepare a list ahead of time of what successful searchers find. Sometimes this list is random, and sometimes there is logic behind it. For example, a warlock’s laboratory might contain four different magic potions that the PCs can find.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f09bbbd05512e57a" weblate-flags="md-text, safe-html, strict-same">
+        <source>If the characters search for cyphers, the GM sets the difficulty of the task. It is usually 3 or 4, and scavenging can take fifteen minutes to an hour.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2fbe7423131a7d02" weblate-flags="md-text, safe-html, strict-same">
+        <source>Scavenging is not the only way to obtain manifest cyphers. They can also be given as gifts, traded with merchants, or sometimes purchased in a shop.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ed82685644f57287" weblate-flags="md-text, safe-html, strict-same">
+        <source>Unlike subtle cyphers, characters don’t automatically know what manifest cyphers do. Once the PCs find a manifest cypher, identifying it is a separate task, based on Intellect and modified by knowledge of the topic at hand. In a fantasy setting, that knowledge would probably be magic, but in a science fiction setting, it might be technology. The GM sets the difficulty of the task, but it is usually 1 or 2. Thus, even the smallest amount of knowledge means that cypher identification is automatic. The process takes one to ten minutes. If the PCs can’t identify a cypher, they can bring it to an expert for identification and perhaps trade, if desired.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a8d602f59e8bf3dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>MANIFEST CYPHERS DUPLICATING SUBLE CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d9103ef8c6a7681" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lots of overlap exists between what subtle cyphers and manifest cyphers can do. Nearly anything that can be explained as a subtle cypher can just as easily be a magic item, scientific device, or other manifest object. A bit of luck that helps you sneak (a subtle cypher) and a potion that helps you sneak (a manifest cypher) do the exact same thing for a character. One advantage of manifest cyphers is that characters can easily trade them to each other or sell them to NPCs. On the other hand, manifest cyphers can be dropped or stolen, and subtle cyphers can’t.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e71563f2d9e8377c" weblate-flags="md-text, safe-html, strict-same">
+        <source>It’s fine if the GM decides to include both kinds of cyphers in the same game. A horror game could begin with the PCs as normal people with subtle cyphers, but as time goes on, they find one-use spells in occult tomes, weird potions, and bone dust that has strange powers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52500390c1bb7fe8" weblate-flags="md-text, safe-html, strict-same">
+        <source>USING CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bbd26a391529dfae" weblate-flags="md-text, safe-html, strict-same">
+        <source>The action to use a cypher is Intellect based unless described otherwise or logic suggests otherwise. For example, throwing an explosive might be Speed based because the device is physical and not really technical, but using a ray emitter is Intellect based.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e74826d598c1fa7f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Because cyphers are single-use items, cyphers used to make attacks can never be used with the Spray or Arc Spray abilities that some characters might have. They are never treated as rapid-fire weapons.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="15cc01b04dfcf7e7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Identified manifest cyphers can be used automatically. Once a manifest cypher is activated, if it has an ongoing effect, that effect applies only to the character who activated the cypher. A PC can’t activate a cypher and then hand it to another character to reap the benefits.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5c6792bfdda398f5" weblate-flags="md-text, safe-html, strict-same">
+        <source>A character can attempt to use a manifest cypher that has not been identified; this is usually an Intellect task using the cypher’s level. Failure might mean that the PC can’t figure out how to use the cypher or that they use it incorrectly (GM’s discretion). Of course, even if the PC activates the unidentified cypher, they have no idea what its effect will be.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d1e7464fbfc2b676" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Cyphers are meant to be used regularly and often. If PCs are hoarding or saving their cyphers, feel free to give them a reason to put the cyphers into play.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6402188eb40c4d86" weblate-flags="md-text, safe-html, strict-same">
+        <source>CYPHER LEVELS AND EFFECTS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0c919958d08e2a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>All cyphers have a level and an effect. The level sometimes determines an aspect of the cypher’s power (how much damage it inflicts, for example) but otherwise it only determines the general efficacy, the way level works with any object. The Level entry for a cypher is usually a die roll, sometimes with a modifier, such as 1d6 or 1d6 + 4. The GM can roll to determine the cypher’s level, or can allow the player to roll when they receive the cypher.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce5825e392511add" weblate-flags="md-text, safe-html, strict-same">
+        <source>NORMAL AND FANTASTIC EFFECTS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="14759c0d50c453d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cypher effects fall into two categories: normal and fantastic. Normal effects are things that could reasonably happen or be explained in the normal physical world we’re familiar with. Fantastic effects are things that can’t. A normal person could hit a target 240 feet (73 m) away with a football, quickly get over a cold, run across a tightrope, or multiply two two-digit numbers in their head. These tasks are difficult, but possible. A normal person can’t throw an armored car, regrow a severed arm, create a robot out of thin air, or control gravity with their mind. These tasks are impossible according to the world as we know it. Cypher effects are either normal (possible) or fantastic (impossible according to the world as we know it).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bf3e0d38efdcc401" weblate-flags="md-text, safe-html, strict-same">
+        <source>Normal cypher effects should be available to PCs regardless of the genre of your game. It’s perfectly reasonable for a modern, fantasy, horror, science fiction, or superhero PC to have a cypher that gives them a one-use bonus on an attack or skill task, lets them take a quick breather to recover a few points in a Pool, or helps them focus their will to avoid distractions or fatigue.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b3b4fa558eb7d8b9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fantastic cypher effects should be limited to games where magic, technology, or other factors stretch the definition of “impossible.” A cypher that turns a corpse into a zombie is out of place in a non-fantastic modern game, but is perfectly reasonable for a fantasy, science fiction, or superhero game, or even a horror game where zombies exist, as long as the GM decides there is an appropriate story explanation for it. The zombie cypher might be a necromantic spell in a fantasy or superhero game, a code that activates a swarm of nanobots in a science fiction game, or a virus in a horror game. The rules categorize some cypher effects as fantastic to help the GM decide whether to exclude cyphers that don’t fit the game they’re running. For example, it is appropriate for a GM running a zombie horror survival game set in 1990s Georgia to allow the zombie-creating cypher but not a teleportation cypher, because creating a zombie is a fantastic effect that fits the setting and teleportation isn’t.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a47327cc2b0945a1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fantastic cyphers can be subtle or manifest.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b5b0fb3fa2c102a" weblate-flags="md-text, safe-html, strict-same">
+        <source>OPTIONAL RULE: NORMAL CYPHERS DUPLICATING FANTASTIC EFFECTS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="972b56c59288b11d" weblate-flags="md-text, safe-html, strict-same">
+        <source>If the GM and players are willing to stretch their imaginations a bit, it’s possible to include some fantastic cypher effects in a game where only normal cypher effects should exist, even if the PCs are only using subtle cyphers. The player using the cypher just needs to come up with a practical, realistic explanation for how the fantastic result occurred (perhaps with a much shorter or reduced effect than what’s described in the cypher text).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ab35e952efa2cf5b" weblate-flags="md-text, safe-html, strict-same">
+        <source>For example, a PC with a phase changer who is trapped in a prison cell could say that instead of physically phasing through the wall, using the cypher means they find a long-forgotten secret door connected to a narrow hallway leading to safety. A PC with a fire detonation could say they notice a can of paint thinner in the room, kick it over, and throw a table lamp into the spill, creating a spark and a momentary burst of harmful flames. A PC with a monoblade could say they spot structural flaws in an opponent’s armor, allowing them to attack for the rest of that combat in such a way that the foe’s Armor doesn’t count.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="54674731307dcb94" weblate-flags="md-text, safe-html, strict-same">
+        <source>These interpretations of fantastic cyphers in a non-fantastic setting require player ingenuity and GM willingness to embrace creative solutions (similar to players using player intrusions to make a change in the game world). The GM always has the right to veto the explanation for the fantastic effect, allowing the player to choose a different action instead of using the fantastic cypher.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a2e453427f46f0a" weblate-flags="md-text, safe-html, strict-same">
+        <source>MANIFEST CYPHER FORMS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="50e0fd9a53432051" weblate-flags="md-text, safe-html, strict-same">
+        <source>None of the manifest cyphers in this chapter have a stated physical form. The entries don’t tell you if something is a potion, a pill, or a device you hold in your hands because that sort of detail varies greatly from genre to genre. Are they magic? Are they tech? Are they symbiotic creatures with programmed DNA? That’s up to the GM. It’s flavor, not mechanics. It’s as important or unimportant as the style of an NPC’s hair or the color of the car the bad guys are driving. In other words, it’s the kind of thing that is important in a roleplaying game, but at the same time doesn’t actually change anything (and RPGs have a lot of things like that, if you think about it).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9726a1d9e6e308eb" weblate-flags="md-text, safe-html, strict-same">
+        <source>A manifest cypher’s physical form can be anything at all, but there are some obvious choices based on genre. The GM can design a setting that uses just one type—for example, a magical world where all cyphers are potions made by faeries. Or they can use many types, perhaps mixing them from different genres. Some suggestions include the following.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="66ff16c674082edc" weblate-flags="md-text, safe-html, strict-same">
+        <source>MANIFEST CYPHER FORM OPTIONS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e3b866cfb9374b0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fantasy/Fairy Tale</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cf0dfb44f9506cc0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Potions</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7f54683bec59952f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Scrolls</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="acb0d5d1c28fe19a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Runeplates</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc2c8ac98e5f9c9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tattoos</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9edad082b8018d93" weblate-flags="md-text, safe-html, strict-same">
+        <source>Charms</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8533685fb3155fc8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Powders</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":120" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crystals</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee6080a3bd043252" weblate-flags="md-text, safe-html, strict-same">
+        <source>Books with words of power</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="900983dcdcaf59b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modern/Romance</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":131" weblate-flags="md-text, safe-html, strict-same">
+        <source>Drugs (injections, pills, inhalants)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":131" weblate-flags="md-text, safe-html, strict-same">
+        <source>Viruses</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="11bb8a1a738011e6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Smartphone apps</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b7829b2eec6d0a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Science Fiction/Post-Apocalyptic</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":137" weblate-flags="md-text, safe-html, strict-same">
+        <source>Drugs (injections, pills, inhalants)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e9652e8758c20f0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Computer programs</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":137" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crystals</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52395ad0ffdcd7d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Gadgets</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":137" weblate-flags="md-text, safe-html, strict-same">
+        <source>Viruses</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2139b27227fba184" weblate-flags="md-text, safe-html, strict-same">
+        <source>Biological implants</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9d736857611cbf97" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mechanical implants</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ddce6843ec7c1865" weblate-flags="md-text, safe-html, strict-same">
+        <source>Nanotechnological injections</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3995c1a223504740" weblate-flags="md-text, safe-html, strict-same">
+        <source>Horror</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a92329395882d7d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Burrowing worms or insects</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0e709c0c0651fe3e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pages from forbidden books</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bea9750f369a5c1a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Horrific images</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="138e9280466415c1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Superhero</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7eafe80c6897906" weblate-flags="md-text, safe-html, strict-same">
+        <source>Forms from all the other genres</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c1b86e86c10cc4e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>MANIFEST CYPHER TABLE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2879002ac350dd1a" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–03</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="80b9d780dabd7410" weblate-flags="md-text, safe-html, strict-same">
+        <source>Adhesion</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d69ec672cd4eb11b" weblate-flags="md-text, safe-html, strict-same">
+        <source>04–05</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce39090e9799f1c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Antivenom</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7f75174c2d600e19" weblate-flags="md-text, safe-html, strict-same">
+        <source>06–09</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="510916a5676d7b4c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor reinforcer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1695603f2fbb4f42" weblate-flags="md-text, safe-html, strict-same">
+        <source>10–11</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f2c7e022229e3ee4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Attractor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cbd9969ff4e8608f" weblate-flags="md-text, safe-html, strict-same">
+        <source>12–13</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="69f7139b80cf13af" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blackout</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc8bc3331285856d" weblate-flags="md-text, safe-html, strict-same">
+        <source>14–15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c6fcdbb6197e44ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Catholicon</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="395fc2df6d9e5708" weblate-flags="md-text, safe-html, strict-same">
+        <source>16–17</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="653461f4fcb95f7b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Curse bringer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2de042f0b74429ee" weblate-flags="md-text, safe-html, strict-same">
+        <source>18–19</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a346fd12472e471a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Death bringer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d78f0da0127bf8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>20–22</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="779abcd656453ea8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Density</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0f76e30fe03ae62e" weblate-flags="md-text, safe-html, strict-same">
+        <source>23–26</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bbba7ecc89f0206c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>27–29</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a393110dd066a20" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (flash)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="332bb1e2984f9d7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>30–31</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="00601dcbf63a1f66" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (massive)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4148f90df2f65e54" weblate-flags="md-text, safe-html, strict-same">
+        <source>32–34</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d50fee5dbe894be4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (pressure)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4574a4a4d41c952b" weblate-flags="md-text, safe-html, strict-same">
+        <source>35–36</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd046a3e39bc0945" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (sonic)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>37–38</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99be9d7c6ebc788e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (spawn)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b42cb58cb070939b" weblate-flags="md-text, safe-html, strict-same">
+        <source>39–41</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9aae44e28758a364" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (web)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c84c3e48a2e5d234" weblate-flags="md-text, safe-html, strict-same">
+        <source>42–44</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="64e4e97cb38a55e8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Equipment cache</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9c62b21d822632a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>45–46</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="34ac759416b7d746" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fireproofing</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6472726820aeaaad" weblate-flags="md-text, safe-html, strict-same">
+        <source>47–49</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="68f0e516f65f94d3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Friction reducer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e5cdcd1835c14ec" weblate-flags="md-text, safe-html, strict-same">
+        <source>50–52</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b3a705700455d214" weblate-flags="md-text, safe-html, strict-same">
+        <source>Gas bomb</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2c7d8878ec763945" weblate-flags="md-text, safe-html, strict-same">
+        <source>53–55</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7a06afaeb4fb325c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Hunter/seeker</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="45b7de118383b4d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>56–57</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2843534bc01b800b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Infiltrator</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>58–60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac72d2c7e836d463" weblate-flags="md-text, safe-html, strict-same">
+        <source>Information sensor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>61–63</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c53a58a30a4b2473" weblate-flags="md-text, safe-html, strict-same">
+        <source>Metal death</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8cc1048900fd429e" weblate-flags="md-text, safe-html, strict-same">
+        <source>64–65</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="48d191662cf9042d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Nullification ray</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e22df57f26bd3b17" weblate-flags="md-text, safe-html, strict-same">
+        <source>66–68</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="61e65fa5047bbc70" weblate-flags="md-text, safe-html, strict-same">
+        <source>Poison (emotion)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7f1543d7f36281ca" weblate-flags="md-text, safe-html, strict-same">
+        <source>69–70</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="80648b8d8723ef8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Poison (mind disrupting)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a3e36b99f472440d" weblate-flags="md-text, safe-html, strict-same">
+        <source>71–73</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21dc527a0484bcc5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Radiation spike</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>74–76</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0272456222c11353" weblate-flags="md-text, safe-html, strict-same">
+        <source>Remote viewer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>77–79</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfbe32c2c3ebbbf2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Shocker</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>80–82</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="45361c096eec9978" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sleep inducer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>83–85</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="82fc880aa91d25b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sniper module</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>86–88</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b8575e9d05b0fe6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Solvent</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d2985c878e56df6c" weblate-flags="md-text, safe-html, strict-same">
+        <source>89–90</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a94d0b8af55ddce5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Spy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dac7fab5b67cd18d" weblate-flags="md-text, safe-html, strict-same">
+        <source>91–92</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6aa17ba8a3bdb598" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tracer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>93–94</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6274ce34b010d913" weblate-flags="md-text, safe-html, strict-same">
+        <source>Uninterruptible power source</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7631dec43465b1a" weblate-flags="md-text, safe-html, strict-same">
+        <source>95–96</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="023c1afbf0a76357" weblate-flags="md-text, safe-html, strict-same">
+        <source>Warmth</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":160" weblate-flags="md-text, safe-html, strict-same">
+        <source>97–98</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f36eeed3533b089b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Water adapter</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d38785fdd56cd58d" weblate-flags="md-text, safe-html, strict-same">
+        <source>99–00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4da67208ce87a9d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>X-ray viewer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06e9ea92f103b6bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>FANTASTIC CYPHER TABLE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e9eb7ce5ac00665a" weblate-flags="md-text, safe-html, strict-same">
+        <source>01</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5e7e5cf09cf550e5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Age taker</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4438e7af6f1a7ca2" weblate-flags="md-text, safe-html, strict-same">
+        <source>02</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d86a36387b7d5694" weblate-flags="md-text, safe-html, strict-same">
+        <source>Banishing</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="69ac672365f5163d" weblate-flags="md-text, safe-html, strict-same">
+        <source>03–04</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="251aa54007721ea2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blinking</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da01d16f8f46b3db" weblate-flags="md-text, safe-html, strict-same">
+        <source>05</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a2762a55da1f86d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Chemical factory</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4eadbb393ed88264" weblate-flags="md-text, safe-html, strict-same">
+        <source>06</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d88a3267b49dda1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Comprehension</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d17c0a594c0f7223" weblate-flags="md-text, safe-html, strict-same">
+        <source>07–08</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1aabf10bdaee4aaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Condition remover</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9419603f6cf16ce2" weblate-flags="md-text, safe-html, strict-same">
+        <source>09</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0030a03cb39a02e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Controlled blinking</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7cef57593256badd" weblate-flags="md-text, safe-html, strict-same">
+        <source>10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e349683648383f6e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (creature)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a03be57bb8f2f8ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>11</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5a90ed8d94c97d81" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (desiccating)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05ce2c3201034a35" weblate-flags="md-text, safe-html, strict-same">
+        <source>12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d3991b38b70c6f2c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (gravity)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="527badb3fe60638c" weblate-flags="md-text, safe-html, strict-same">
+        <source>13</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1bdb1d29978a1739" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (gravity inversion)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9de04020d95dcfb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>14</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d8d409f251056042" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (matter disruption)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b13ab1e55cea292" weblate-flags="md-text, safe-html, strict-same">
+        <source>15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6951f46435784815" weblate-flags="md-text, safe-html, strict-same">
+        <source>Detonation (singularity)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a15639a0aa4f079e" weblate-flags="md-text, safe-html, strict-same">
+        <source>16</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db7309eaba653735" weblate-flags="md-text, safe-html, strict-same">
+        <source>Disguise module</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4f4cf10899f4937" weblate-flags="md-text, safe-html, strict-same">
+        <source>17</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="289a5b5882339425" weblate-flags="md-text, safe-html, strict-same">
+        <source>Disrupting</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59e0afd113919755" weblate-flags="md-text, safe-html, strict-same">
+        <source>18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="113677dcedcbaffc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Farsight</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d5c391003c0c2bee" weblate-flags="md-text, safe-html, strict-same">
+        <source>19</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ca9f078fbd958da" weblate-flags="md-text, safe-html, strict-same">
+        <source>Flame-retardant wall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="404a11b0aac0370e" weblate-flags="md-text, safe-html, strict-same">
+        <source>20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="acf0f20794c0abef" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force cube</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="20bb3b754e8a5d82" weblate-flags="md-text, safe-html, strict-same">
+        <source>21–22</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0037c694fe1c4864" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4b0e2ee1f0c38b9b" weblate-flags="md-text, safe-html, strict-same">
+        <source>23</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7e600eee45da3c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force screen projector</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0b17578890134cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>24</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e42b37bf41925a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force shield projector</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce174557be879708" weblate-flags="md-text, safe-html, strict-same">
+        <source>25</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="af7e1c5dc7d14d81" weblate-flags="md-text, safe-html, strict-same">
+        <source>Frigid wall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="899d64d5f24a7c92" weblate-flags="md-text, safe-html, strict-same">
+        <source>26–27</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a17c79c7158ccd0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Gravity nullifier</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3a9a83a1ed19af59" weblate-flags="md-text, safe-html, strict-same">
+        <source>28</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df639f610f9ba894" weblate-flags="md-text, safe-html, strict-same">
+        <source>Gravity-nullifying application</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe8a326fdca3f88b" weblate-flags="md-text, safe-html, strict-same">
+        <source>29–30</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="51cb4cbd3dc7decf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Heat attack</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="82de371cbedabc0a" weblate-flags="md-text, safe-html, strict-same">
+        <source>31</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60dd4ba97480bbbc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Image projector</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eeff74c1f46c6161" weblate-flags="md-text, safe-html, strict-same">
+        <source>32</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="98548968f57e3478" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inferno wall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="143079dc995d4b8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>33–34</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="250e59905e984739" weblate-flags="md-text, safe-html, strict-same">
+        <source>Instant servant</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ba9374b5a2e12195" weblate-flags="md-text, safe-html, strict-same">
+        <source>35</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d817187928babaae" weblate-flags="md-text, safe-html, strict-same">
+        <source>Instant shelter</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7eeb05c49abe9056" weblate-flags="md-text, safe-html, strict-same">
+        <source>36</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db4a528779b9adb8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lightning wall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":204" weblate-flags="md-text, safe-html, strict-same">
+        <source>37–38</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ae8a60c43e0b569" weblate-flags="md-text, safe-html, strict-same">
+        <source>Machine control</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe95f78dedf73190" weblate-flags="md-text, safe-html, strict-same">
+        <source>39</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5d3719d882b88b1b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magnetic attack drill</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d0cb3459bc05c825" weblate-flags="md-text, safe-html, strict-same">
+        <source>40</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04dd5ecb4f1c53ec" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magnetic master</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="255a790b3d8b5d63" weblate-flags="md-text, safe-html, strict-same">
+        <source>41</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7d4d96c7befe4edc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magnetic shield</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5afaa0ff744368b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>42</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d21213995f067cb4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Manipulation beam</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f7333c9998c26eb2" weblate-flags="md-text, safe-html, strict-same">
+        <source>43</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c310310ecad5f766" weblate-flags="md-text, safe-html, strict-same">
+        <source>Matter transference ray</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c234f96c390558f4" weblate-flags="md-text, safe-html, strict-same">
+        <source>44</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef1587e81a13c35b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Memory switch</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f2676f87a76b40dc" weblate-flags="md-text, safe-html, strict-same">
+        <source>45</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcbcb1024b79a865" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mental scrambler</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="799d873d15d3a782" weblate-flags="md-text, safe-html, strict-same">
+        <source>46</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6a3784e523d7fa73" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mind meld</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="51c77abf5e0f5be9" weblate-flags="md-text, safe-html, strict-same">
+        <source>47</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c78025a2526f3d01" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mind-restricting wall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="63f5382cf8d43ed8" weblate-flags="md-text, safe-html, strict-same">
+        <source>48–49</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="079aa4937960b82a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Monoblade</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5bf0795961a95ae0" weblate-flags="md-text, safe-html, strict-same">
+        <source>50</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3856f6f6a0fc2623" weblate-flags="md-text, safe-html, strict-same">
+        <source>Monohorn</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2de19cca6a5ba7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>51</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d32bcf8cedbae728" weblate-flags="md-text, safe-html, strict-same">
+        <source>Null field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="521142168ca2da71" weblate-flags="md-text, safe-html, strict-same">
+        <source>52–53</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0b2bd71d2aebcba4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Personal environment field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="efc31ca42248292c" weblate-flags="md-text, safe-html, strict-same">
+        <source>54–55</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e95ab230f2bca018" weblate-flags="md-text, safe-html, strict-same">
+        <source>Phase changer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="921617d2931790f1" weblate-flags="md-text, safe-html, strict-same">
+        <source>56</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d84bd54fe215dca8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Phase disruptor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d9d7f64f60a3c3c" weblate-flags="md-text, safe-html, strict-same">
+        <source>57</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2d18f38b6cb963f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Poison (explosive)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="39bc777a74a41861" weblate-flags="md-text, safe-html, strict-same">
+        <source>58</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0396e7bc208ba582" weblate-flags="md-text, safe-html, strict-same">
+        <source>Poison (mind controlling)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38e1e3f988ef6d9a" weblate-flags="md-text, safe-html, strict-same">
+        <source>59</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6cc32e74e49e635e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Psychic communique</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ecc56b47eb95b077" weblate-flags="md-text, safe-html, strict-same">
+        <source>60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b65c55ba1b5ceb4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f63ba1d9867ed13e" weblate-flags="md-text, safe-html, strict-same">
+        <source>61</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="766630176da733a6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (command)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ec06b3411bf815aa" weblate-flags="md-text, safe-html, strict-same">
+        <source>62</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dd66bf51d67e0826" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (fear)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aaa6702538beb4cf" weblate-flags="md-text, safe-html, strict-same">
+        <source>63</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9c0d2b00f277b3bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (friend slaying)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="116a666a3b25243c" weblate-flags="md-text, safe-html, strict-same">
+        <source>64</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ac382c92b3e181c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (mind disrupting)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="89a8b33c16f441e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>65</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f8ccaf6b7006e7fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (numbing)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f2f6e7c2fafb86ca" weblate-flags="md-text, safe-html, strict-same">
+        <source>66</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4e0c089bd9be1d10" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ray emitter (paralysis)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f7ce08d24329f52" weblate-flags="md-text, safe-html, strict-same">
+        <source>67</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d7ca9dd9234cf40" weblate-flags="md-text, safe-html, strict-same">
+        <source>Reality spike</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="caa9150c42bf2a93" weblate-flags="md-text, safe-html, strict-same">
+        <source>68</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="005119abeb9c2a8d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Repair unit</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="718fd49454b75593" weblate-flags="md-text, safe-html, strict-same">
+        <source>69</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aa99da34a3236984" weblate-flags="md-text, safe-html, strict-same">
+        <source>Repeater</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1f619e682de22e0" weblate-flags="md-text, safe-html, strict-same">
+        <source>70–71</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7086f46864f132d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Retaliation</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="af1812dd8ca495e5" weblate-flags="md-text, safe-html, strict-same">
+        <source>72</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fdecccb02954b74c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sheen</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24e7f3802210657c" weblate-flags="md-text, safe-html, strict-same">
+        <source>73–74</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ae1e6b6227104e3e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Shock attack</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="614d8c28e99f589a" weblate-flags="md-text, safe-html, strict-same">
+        <source>75</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f0346816128b7ebd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Slave maker</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9bf20655b9e30b8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>76</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e479858ad2836a67" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sonic hole</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c4d1655813641c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>77–78</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1158284b6fb31734" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sound dampener</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="568699519db7a317" weblate-flags="md-text, safe-html, strict-same">
+        <source>79</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38ac11a3714ed910" weblate-flags="md-text, safe-html, strict-same">
+        <source>Spatial warp</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="859a8ee4d6312924" weblate-flags="md-text, safe-html, strict-same">
+        <source>80</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b63700591b9eb3f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stasis keeper</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="585f87562d2e86ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>81</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7fd6e2afef496329" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subdual field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="63c8808e08e2405a" weblate-flags="md-text, safe-html, strict-same">
+        <source>82–83</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8942e63c371bdb40" weblate-flags="md-text, safe-html, strict-same">
+        <source>Telepathy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef9d0089acc362c7" weblate-flags="md-text, safe-html, strict-same">
+        <source>84</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="232f1fe919c788aa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Teleporter (bounder)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0e21b58e6209621d" weblate-flags="md-text, safe-html, strict-same">
+        <source>85</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aec6ccfad3669036" weblate-flags="md-text, safe-html, strict-same">
+        <source>Teleporter (interstellar)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06becd0fb71326c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>86</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0f90c89332148d82" weblate-flags="md-text, safe-html, strict-same">
+        <source>Teleporter (planetary)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8fc3ed71c93bd79b" weblate-flags="md-text, safe-html, strict-same">
+        <source>87</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2973e6a375a6cd23" weblate-flags="md-text, safe-html, strict-same">
+        <source>Teleporter (traveler)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="363f27c472b03583" weblate-flags="md-text, safe-html, strict-same">
+        <source>88</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be80c73a6ce4f4bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Temporal viewer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe3790145a1f3810" weblate-flags="md-text, safe-html, strict-same">
+        <source>89</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fa7b6d79fad00289" weblate-flags="md-text, safe-html, strict-same">
+        <source>Time dilation (defensive)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="269085b611f7421c" weblate-flags="md-text, safe-html, strict-same">
+        <source>90</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4f0b9a185c0fbc9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Time dilation (offensive)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="48ecafcef525b125" weblate-flags="md-text, safe-html, strict-same">
+        <source>91</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="452d1d1ab2b7ea39" weblate-flags="md-text, safe-html, strict-same">
+        <source>Trick embedder</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b3ba77eb6269eac" weblate-flags="md-text, safe-html, strict-same">
+        <source>92</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e03b90513fa890f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Vanisher</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":204" weblate-flags="md-text, safe-html, strict-same">
+        <source>93–94</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7e033b93c12b43e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Visage changer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da398913ae6d6b61" weblate-flags="md-text, safe-html, strict-same">
+        <source>95</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e472d82d0f8d34cc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Visual displacement device</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd098fb9afa0dd1e" weblate-flags="md-text, safe-html, strict-same">
+        <source>96</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bef4a49c401f1408" weblate-flags="md-text, safe-html, strict-same">
+        <source>Vocal translator</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":204" weblate-flags="md-text, safe-html, strict-same">
+        <source>97–98</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7ff622275a9a8a82" weblate-flags="md-text, safe-html, strict-same">
+        <source>Weapon enhancement</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5ac1ca8e1ccd1ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>99</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52eeab4685d27524" weblate-flags="md-text, safe-html, strict-same">
+        <source>Wings</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8818cf9264fcc780" weblate-flags="md-text, safe-html, strict-same">
+        <source>00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9fed68ab0a2e3bd0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Zero point field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a9b3800b00d7254" weblate-flags="md-text, safe-html, strict-same">
+        <source>SUBTLE CYPHER TABLE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">291</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3bbe9c5be69bead4" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–04</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f1115de208022740" weblate-flags="md-text, safe-html, strict-same">
+        <source>Analeptic</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5086f51b6818d78" weblate-flags="md-text, safe-html, strict-same">
+        <source>05–07</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d95ab6a64ff99d5a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Best tool</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0d4fa5e418ca2f8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>08–10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3568d9d58fb627d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Burst of speed</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4e9637d663d827ae" weblate-flags="md-text, safe-html, strict-same">
+        <source>11–13</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5c15982f14073cb1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Contingent activator</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b41dd2570e0420ca" weblate-flags="md-text, safe-html, strict-same">
+        <source>14–17</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6c084ec89d987a2b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Curative</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b0b4ee54e93c538" weblate-flags="md-text, safe-html, strict-same">
+        <source>18–20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c389311a04f44c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Darksight</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="19aa9d35d6d5ccb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>21–23</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="85c035cff60ba65a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Disarm</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aa525b2168d1077b" weblate-flags="md-text, safe-html, strict-same">
+        <source>24–26</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e87bdf25240bcb27" weblate-flags="md-text, safe-html, strict-same">
+        <source>Eagleseye</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>27–29</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e0a93164de195795" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect resistance</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2148c7504ea5574f" weblate-flags="md-text, safe-html, strict-same">
+        <source>30–32</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a1f0408dba256d52" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effort enhancer (combat)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3916be2ca04bf6f7" weblate-flags="md-text, safe-html, strict-same">
+        <source>33–35</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="80ff1f5242b676ae" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effort enhancer (noncombat)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="505120522731bece" weblate-flags="md-text, safe-html, strict-same">
+        <source>36–39</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="875e443f304c8abd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enduring shield</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ec95bcd73d87fe66" weblate-flags="md-text, safe-html, strict-same">
+        <source>40–42</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4bcd0246a5d36ed5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Intellect booster</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="68d961534307ed0a" weblate-flags="md-text, safe-html, strict-same">
+        <source>43–45</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d7c38d8179d30ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Intelligence enhancement</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a619e2e3e0dec719" weblate-flags="md-text, safe-html, strict-same">
+        <source>46–48</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="109a523e657b0a9a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Knowledge enhancement</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="55fd843c2220e92f" weblate-flags="md-text, safe-html, strict-same">
+        <source>49–51</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6999386fadbadd4c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Meditation aid</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b465425d610ca3f" weblate-flags="md-text, safe-html, strict-same">
+        <source>52–54</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="70f7da46df615cf0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mind stabilizer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59009fb56ef067fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>55–57</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d9f6210cd8a023c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motion sensor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>58–60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60b02903728d241f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Nutrition and hydration</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>61–63</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72ee2733d5153427" weblate-flags="md-text, safe-html, strict-same">
+        <source>Perfect memory</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="40f56f2f900e9dd7" weblate-flags="md-text, safe-html, strict-same">
+        <source>64–66</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b5a8194a70f7f8b4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Perfection</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8e5807995288524d" weblate-flags="md-text, safe-html, strict-same">
+        <source>67–69</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c74223db7ef071c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Reflex enhancer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="412def5de608be42" weblate-flags="md-text, safe-html, strict-same">
+        <source>70–73</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d5ea6f036cbd2e54" weblate-flags="md-text, safe-html, strict-same">
+        <source>Rejuvenator</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>74–76</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="878797b250245e69" weblate-flags="md-text, safe-html, strict-same">
+        <source>Remembering</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>77–79</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c63f6f7f7b0c34af" weblate-flags="md-text, safe-html, strict-same">
+        <source>Repel</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>80–82</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7d11dad5ce1fe47d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Secret</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>83–85</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8766d5ca218f6e53" weblate-flags="md-text, safe-html, strict-same">
+        <source>Skill boost</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":293" weblate-flags="md-text, safe-html, strict-same">
+        <source>86–88</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="057b4fc84354f0b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Speed boost</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a626b752d5efe53d" weblate-flags="md-text, safe-html, strict-same">
+        <source>89–91</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c8fee226e7e06961" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stim</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="82ac8e661be5d80e" weblate-flags="md-text, safe-html, strict-same">
+        <source>92–94</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9856412ff60883e3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Strength boost</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ae349ddd61e9c509" weblate-flags="md-text, safe-html, strict-same">
+        <source>95–97</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4cfb4f2360bcc687" weblate-flags="md-text, safe-html, strict-same">
+        <source>Strength enhancer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1e006076d0438d51" weblate-flags="md-text, safe-html, strict-same">
+        <source>98–00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d20f2441538c84d4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tissue regeneration</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="acfef8618d6fb34a" weblate-flags="md-text, safe-html, strict-same">
+        <source>A LISTING OF VARIOUS CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">328</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a3354d88f1b5979b" weblate-flags="md-text, safe-html, strict-same">
+        <source>All cyphers in this section may be manifest cyphers. It is the GM’s discretion whether a particular cypher can be a subtle cypher, and that decision usually depends on the setting. (The tables indicating subtle, manifest, and fantastic cyphers are just suggestions for a typical campaign setting.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">330</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7383d5057d3780d9" weblate-flags="md-text, safe-html, strict-same">
+        <source>POWER BOOST CYPHERS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="152fd9a3ba8b4311" weblate-flags="md-text, safe-html, strict-same">
+        <source>These cyphers increase, modify, or improve a character’s existing powers. A burst boost cypher, for example, allows someone with the Bears a Halo of Fire focus to create a blast of fire in all directions, one time. Imagine this as being a fire-using superhero’s ability to “go nova.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d043d5656497fae5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Power boost cyphers affect one use of a character’s abilities but do not require an action. Their use is part of the action that they affect.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">336</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="03a06234a3f112bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Power boost cyphers are a special type of cypher. In some Cypher System games, they may be inappropriate, and in others, they may be the main (or only) type of cypher available, as determined by the GM. They can be either subtle or manifest.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

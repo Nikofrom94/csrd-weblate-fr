@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="97a8fe43b005f528" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FIRE JOTUNN #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target state="translated">FIRE JOTUNN #lvl6 (18) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f343303f5819311a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**JOTUNN (NORSE GIANT)**
+Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.</source>
+        <target state="translated">**JOTUNN (NORSE GIANT)**
+Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81a14295a1ba66b7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies.</source>
+        <target state="translated">Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57d1241e53feef07" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Destruction, hungers for flesh, honor</source>
+        <target state="translated">Motive: Destruction, hungers for flesh, honor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f64b9b5dd277f73b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Hot mountains, volcanic areas, supernatural fires</source>
+        <target state="translated">Environment: Hot mountains, volcanic areas, supernatural fires</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7702745d281c3dea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 30</source>
+        <target state="translated">Health: 30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c329bd9d17a18d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points plus 3 points from fire</source>
+        <target state="translated">Damage Inflicted: 6 points plus 3 points from fire</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64183e50870aaa67" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 3 (immune to fire)</source>
+        <target state="translated">Armor: 3 (immune to fire)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95cad21a31e6d675" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Speed defense as level 5 due to size; breaks and throws objects as level 8</source>
+        <target state="translated">Modifications: Speed defense as level 5 due to size; breaks and throws objects as level 8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b413a0017e508e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: A fire jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient fire damage conducted from the jotunn’s body. Jotunns throw boulders up to very long range, inflicting 6 points of damage plus 3 points of fire damage.</source>
+        <target state="translated">Combat: A fire jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient fire damage conducted from the jotunn’s body. Jotunns throw boulders up to very long range, inflicting 6 points of damage plus 3 points of fire damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f56448b78487f572" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A jotunn can inflict 1 point of fire damage with a touch, and anyone touching it without protection against fire takes damage as if the jotunn had touched them. A slain fire jotunn and its equipment are too hot to safely touch for several minutes.</source>
+        <target state="translated">A jotunn can inflict 1 point of fire damage with a touch, and anyone touching it without protection against fire takes damage as if the jotunn had touched them. A slain fire jotunn and its equipment are too hot to safely touch for several minutes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b063bbc4f9638188" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fire jotunns are immune to fire damage, but take additional damage from cold (equal to the attack’s normal damage, up to a maximum of 5 additional points of cold damage).</source>
+        <target state="translated">Fire jotunns are immune to fire damage, but take additional damage from cold (equal to the attack’s normal damage, up to a maximum of 5 additional points of cold damage).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6245f8ec15b81d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fire jotunn leaders sometimes have magical powers, usually related to earth and fire.</source>
+        <target state="translated">Fire jotunn leaders sometimes have magical powers, usually related to earth and fire.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="02d98c8324e22838" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Fire jotunns tend to be hostile, but they may agree to a nonlethal challenge to allow visitors to pass through their land or join them for a feast.</source>
+        <target state="translated">Interaction: Fire jotunns tend to be hostile, but they may agree to a nonlethal challenge to allow visitors to pass through their land or join them for a feast.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="33806378af1366dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A fire jotunn decides to cause trouble for intruders in its territory. A clan of jotunns wages war against a fortified village or town, hurling boulders, starting fires, and stealing livestock.</source>
+        <target state="translated">Use: A fire jotunn decides to cause trouble for intruders in its territory. A clan of jotunns wages war against a fortified village or town, hurling boulders, starting fires, and stealing livestock.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a3b9ad4279fae268" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious metals and decorated with gems. They may have cyphers, and a leader may carry an artifact.</source>
+        <target state="translated">Loot: Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious metals and decorated with gems. They may have cyphers, and a leader may carry an artifact.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="51e7085236c1e9a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The jotunn’s attack inflicts a serious burn, making a limb useless for an hour or until healed.</source>
+        <target state="translated">GM intrusion: The jotunn’s attack inflicts a serious burn, making a limb useless for an hour or until healed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

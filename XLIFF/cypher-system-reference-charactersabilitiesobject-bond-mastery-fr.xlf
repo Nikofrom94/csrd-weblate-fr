@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="5df2d50c1f39d77b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Object Bond Mastery (7 Intellect points) #Ability #CompanionAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7e49a1956af3121" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you manifest the magic ally from your Bound Magic Creature ability, it is now a level 7 creature. It can remain manifest for only three minutes, after which it must return to its object and rest for three days before you can manifest it again.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c6d51b42b43df962" weblate-flags="md-text, safe-html, strict-same">
+        <source>The magic ally can make its own magic touch attacks (when it does, you roll for it). If it uses its pulse attack from Improved Object Bond, instead of deactivating items, it can take control of one item within short range for one minute, if applicable.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="84203d49abf90fd3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Finally, the magic ally can transform into smoke and flame as its action, giving it +10 to Armor but rendering it incapable of attacking foes. In this form, it can fly a long distance each round, and the first time each day it returns to flesh (as an action), it regains 25 points of health.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

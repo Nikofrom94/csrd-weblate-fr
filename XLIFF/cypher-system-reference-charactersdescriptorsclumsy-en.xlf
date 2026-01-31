@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="32d76542e26083cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Clumsy #Descriptor #Core</source>
+        <target state="translated">Clumsy #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d86b8593fa671f09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Graceless and awkward, you were told that you’d grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.</source>
+        <target state="translated">Graceless and awkward, you were told that you’d grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4e21bb95e07a11a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Some players may not want to be defined by a “negative” quality like Clumsy, but in truth, even this kind of descriptor has enough advantages that it makes for capable and talented characters. What negative descriptors really do is make more interesting and complex characters that are often great fun to play.)</source>
+        <target state="translated">(Some players may not want to be defined by a “negative” quality like Clumsy, but in truth, even this kind of descriptor has enough advantages that it makes for capable and talented characters. What negative descriptors really do is make more interesting and complex characters that are often great fun to play.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="34f0ad09bf8abf65" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Butterfingers: −2 to your Speed Pool.</source>
+        <target state="translated">Butterfingers: −2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00742e79bb4d1ab8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Thick-Muscled: +2 to your Might Pool.</source>
+        <target state="translated">Thick-Muscled: +2 to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94bdaa35f5a5007e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inelegant: You have a certain lovable charm. You are trained in all pleasant social interactions when you express a lighthearted, self-deprecating manner.</source>
+        <target state="translated">Inelegant: You have a certain lovable charm. You are trained in all pleasant social interactions when you express a lighthearted, self-deprecating manner.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57a1d9900278e059" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dumb Luck: The GM can introduce a GM intrusion on you, based on your clumsiness, without awarding you any XP (as if you had rolled a 1 on a d20 roll). However, if this happens, 50% of the time, your clumsiness works to your advantage. Rather than hurting you (much), it helps you, or it hurts your enemies. You slip, but it’s just in time to duck an attack. You fall down, but you trip your enemies as you crash into their legs. You turn around too quickly, but you end up knocking the weapon from your foe’s hand. You and the GM should work together to determine the details. If the GM wishes, they can use GM intrusions based on your clumsiness normally (awarding XP).</source>
+        <target state="translated">Dumb Luck: The GM can introduce a GM intrusion on you, based on your clumsiness, without awarding you any XP (as if you had rolled a 1 on a d20 roll). However, if this happens, 50% of the time, your clumsiness works to your advantage. Rather than hurting you (much), it helps you, or it hurts your enemies. You slip, but it’s just in time to duck an attack. You fall down, but you trip your enemies as you crash into their legs. You turn around too quickly, but you end up knocking the weapon from your foe’s hand. You and the GM should work together to determine the details. If the GM wishes, they can use GM intrusions based on your clumsiness normally (awarding XP).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55fd867ad46e53c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’ve got a certain bull-like quality. You are trained in tasks involving breaking things.</source>
+        <target state="translated">Skill: You’ve got a certain bull-like quality. You are trained in tasks involving breaking things.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25e8cb4ace458571" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Any task that involves balance, grace, or hand-to-eye coordination is hindered.</source>
+        <target state="translated">Inability: Any task that involves balance, grace, or hand-to-eye coordination is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19be711191581b55" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You were in the right place at the right time.</source>
+        <target state="translated">You were in the right place at the right time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="86efc3a26af33744" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You had a piece of information that the other PCs needed to make their plans.</source>
+        <target state="translated">You had a piece of information that the other PCs needed to make their plans.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="05afbd4b3106bec2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A sibling recommended you to the other PCs.</source>
+        <target state="translated">A sibling recommended you to the other PCs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23e8cb02e7eb906b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You stumbled into the PCs as they were discussing their mission, and they took a liking to you.</source>
+        <target state="translated">You stumbled into the PCs as they were discussing their mission, and they took a liking to you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

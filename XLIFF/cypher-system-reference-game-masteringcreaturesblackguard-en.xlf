@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="c80166dc2775ab1b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>BLACKGUARD #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target state="translated">BLACKGUARD #lvl6 (18) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3dbd50494b69b2f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Blackguards are evil knights who serve dark entities or their own corrupt agendas. Some were once honorable knights who fell to temptation and have abandoned their original principles, but many were raised under evil circumstances and have never known anything but hatred and conflict.</source>
+        <target state="translated">Blackguards are evil knights who serve dark entities or their own corrupt agendas. Some were once honorable knights who fell to temptation and have abandoned their original principles, but many were raised under evil circumstances and have never known anything but hatred and conflict.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3af0fc69e6adb9a1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Power, domination of others, slaughter</source>
+        <target state="translated">Motive: Power, domination of others, slaughter</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9beae2b9314e7213" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Almost anywhere, either alone or as part of a cult or evil organization</source>
+        <target state="translated">Environment: Almost anywhere, either alone or as part of a cult or evil organization</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7702745d281c3dea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 30</source>
+        <target state="translated">Health: 30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3495fce03666f20e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 7 points</source>
+        <target state="translated">Damage Inflicted: 7 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5b920e5b618c936c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 2 or 3</source>
+        <target state="translated">Armor: 2 or 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="78478917b44ad29f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when mounted</source>
+        <target state="translated">Movement: Short; long when mounted</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9cb40a6e1a673f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Perception and Intellect defense as level 7</source>
+        <target state="translated">Modifications: Perception and Intellect defense as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="885ef7253b9e7b92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Blackguards use high-quality armor and weapons (usually decorated with symbols depicting death, demons, or evil gods). Many wear heavy armor and prefer weapons that inflict bleeding wounds, but some take a more subtle approach and act more like assassins than knights. A blackguard typically has two or three of the following abilities:</source>
+        <target state="translated">Combat: Blackguards use high-quality armor and weapons (usually decorated with symbols depicting death, demons, or evil gods). Many wear heavy armor and prefer weapons that inflict bleeding wounds, but some take a more subtle approach and act more like assassins than knights. A blackguard typically has two or three of the following abilities:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="929d48c0e1593242" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fiendish Beast: The blackguard has a companion creature such as a dog, horse, or raven with an eerie, unnatural look (in the case of small animals, the creature may also be an exceptionally large specimen of its kind). The creature is actually a semi-intelligent fiend in animal shape (and therefore immune to abilities that affect only normal animals) that can understand the blackguard’s commands, and may even be able to speak. If the beast is a horse or similar creature, the blackguard might ride it as a mount.</source>
+        <target state="translated">Fiendish Beast: The blackguard has a companion creature such as a dog, horse, or raven with an eerie, unnatural look (in the case of small animals, the creature may also be an exceptionally large specimen of its kind). The creature is actually a semi-intelligent fiend in animal shape (and therefore immune to abilities that affect only normal animals) that can understand the blackguard’s commands, and may even be able to speak. If the beast is a horse or similar creature, the blackguard might ride it as a mount.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="67928f666e507ba5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fiendish beast: level 4, stealth as level 5, Might and Intellect defense as level 5</source>
+        <target state="translated">Fiendish beast: level 4, stealth as level 5, Might and Intellect defense as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c504594e568dfe78" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Necromancy: The blackguard uses a ten-minute ritual to animate a human-sized corpse as a zombie under their control. The zombie becomes a corpse again after a day.</source>
+        <target state="translated">Necromancy: The blackguard uses a ten-minute ritual to animate a human-sized corpse as a zombie under their control. The zombie becomes a corpse again after a day.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea78c37ff3b8f786" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Poison: The blackguard coats their weapons with a level 6 poison; a foe who fails a Might defense roll moves one step down the damage track.</source>
+        <target state="translated">Poison: The blackguard coats their weapons with a level 6 poison; a foe who fails a Might defense roll moves one step down the damage track.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0867e72345016d52" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spells: The blackguard knows several spells granted by an evil entity, typically spells that cause a foe to flee in fear for one minute, restore 10 health, create an eerie darkness or fog in long range, or grant +5 Armor against energy and magical attacks for an hour.</source>
+        <target state="translated">Spells: The blackguard knows several spells granted by an evil entity, typically spells that cause a foe to flee in fear for one minute, restore 10 health, create an eerie darkness or fog in long range, or grant +5 Armor against energy and magical attacks for an hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2a77cfb211041026" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Surprise Attack: When the blackguard attacks from a hidden vantage, with surprise, or before their opponent has acted in combat, they get an asset on the attack and inflict +4 points of damage. Unholy</source>
+        <target state="translated">Surprise Attack: When the blackguard attacks from a hidden vantage, with surprise, or before their opponent has acted in combat, they get an asset on the attack and inflict +4 points of damage. Unholy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c2ccbdc9231eed1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Aura: Defense rolls by foes within immediate distance of the blackguard are hindered.</source>
+        <target state="translated">Aura: Defense rolls by foes within immediate distance of the blackguard are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25eb5c5f1a85d991" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Unholy Blessing: The blackguard’s defense rolls are eased.</source>
+        <target state="translated">Unholy Blessing: The blackguard’s defense rolls are eased.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b17ef1978c204e67" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Blackguards enjoy killing righteous paragons of good and are often cruel for the sake of cruelty itself.</source>
+        <target state="translated">Interaction: Blackguards enjoy killing righteous paragons of good and are often cruel for the sake of cruelty itself.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="548e4b13c884e04e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A blackguard has united various groups of bandits into a small army. An evil wizard sends her blackguard lieutenant to kill the people interfering with her plans.</source>
+        <target state="translated">Use: A blackguard has united various groups of bandits into a small army. An evil wizard sends her blackguard lieutenant to kill the people interfering with her plans.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6850208780112117" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Blackguards usually have treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact weapon or armor.</source>
+        <target state="translated">Loot: Blackguards usually have treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact weapon or armor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef42e1351307c9f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusions:The blackguard’s weaponflares with unholy power,inflicting an additional6 points of damage(ignores Armor).A slain blackguardrises as an undead or ispossessed by a demonand continues to figh</source>
+        <target state="translated">GM intrusions:The blackguard’s weaponflares with unholy power,inflicting an additional6 points of damage(ignores Armor).A slain blackguardrises as an undead or ispossessed by a demonand continues to figh</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

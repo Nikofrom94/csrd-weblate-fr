@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6b590a0487a73da2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Winter Gauntlets #Ability #MetaAbility #SpecialAttackAbility #High #Core</source>
+        <target state="translated">Winter Gauntlets #Ability #MetaAbility #SpecialAttackAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d6be768454113e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use Frost Touch, you inflict an additional 3 points of damage if you touch a creature, or an additional 2 points of damage if you infuse a weapon. In addition, damaged targets are frozen in place (if standing on a solid surface) and can’t move from their location until they use an action to break free. The target can still attack and defend.</source>
+        <target state="translated">When you use Frost Touch, you inflict an additional 3 points of damage if you touch a creature, or an additional 2 points of damage if you infuse a weapon. In addition, damaged targets are frozen in place (if standing on a solid surface) and can’t move from their location until they use an action to break free. The target can still attack and defend.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35c4513a0b8ac0a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action for touch; enabler for weapon.</source>
+        <target state="translated">Action for touch; enabler for weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

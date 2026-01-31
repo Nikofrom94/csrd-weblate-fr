@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b77ea12153cc7f48" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Grows to Towering Heights #Focus #TankFocus #Core</source>
+        <target state="translated">Grows to Towering Heights #Focus #TankFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66303ec90e65d6a5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For brief periods, you can grow larger and, with enough experience, to towering heights.</source>
+        <target state="translated">For brief periods, you can grow larger and, with enough experience, to towering heights.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="607a495b973773f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Enlarge]{1}</source>
+        <target state="translated">Tier 1: [Enlarge]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="13855da1cd864733" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Freakishly Large]{1}</source>
+        <target state="translated">Tier 1: [Freakishly Large]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e7b1f24212691ed5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Bigger]{1}</source>
+        <target state="translated">Tier 2: [Bigger]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7ddc9f0853ffc072" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Advantages of Being Big]{1}</source>
+        <target state="translated">Tier 2: [Advantages of Being Big]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="43ad746452d73648" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Huge]{1} or [Throw]{2}</source>
+        <target state="translated">Tier 3: [Huge]{1} or [Throw]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="447f46c38bbb399b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Grab]{1}</source>
+        <target state="translated">Tier 4: [Grab]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b5aeab474fdeabf5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Gargantuan]{1}</source>
+        <target state="translated">Tier 5: [Gargantuan]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19d9c144e461a986" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Colossal]{1} or [Lethal Damage]{2}</source>
+        <target state="translated">Tier 6: [Colossal]{1} or [Lethal Damage]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a3d885d24283e8c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.</source>
+        <target state="translated">GM Intrusions: Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

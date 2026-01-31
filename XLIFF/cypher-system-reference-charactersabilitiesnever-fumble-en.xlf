@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="cb0f4298ea8927a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Never Fumble #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Never Fumble #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69e88fb0f19820d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you roll a natural 1 when attacking with your chosen weapon, you can ignore or countermand the GM intrusion for that roll. You can never be disarmed of your chosen weapon, nor will you ever drop it accidentally.</source>
+        <target state="translated">If you roll a natural 1 when attacking with your chosen weapon, you can ignore or countermand the GM intrusion for that roll. You can never be disarmed of your chosen weapon, nor will you ever drop it accidentally.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

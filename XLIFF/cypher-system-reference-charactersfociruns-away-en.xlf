@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="fbb6c093674eca93" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Runs Away #Focus #MovementFocus #Core</source>
+        <target state="translated">Runs Away #Focus #MovementFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="464f044c0db8088e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your first instinct is to run from danger, and you’ve gotten very good at it.</source>
+        <target state="translated">Your first instinct is to run from danger, and you’ve gotten very good at it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8cae992d3b4a0a5c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Go Defensive</source>
+        <target state="translated">Tier 1: Go Defensive</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4fc2ae35f93167b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Enhanced Speed</source>
+        <target state="translated">Tier 2: Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d12bb1bc6c956671" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Quick to Flee</source>
+        <target state="translated">Tier 2: Quick to Flee</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e1ac84f917e9cb4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Incredible Running Speed or Greater Enhanced Speed</source>
+        <target state="translated">Tier 3: Incredible Running Speed or Greater Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e35eb1926d0a6302" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Increasing Determination</source>
+        <target state="translated">Tier 4: Increasing Determination</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7df6d5fad835c539" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Quick Wits</source>
+        <target state="translated">Tier 4: Quick Wits</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6873817af4fa50b9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Go to Ground</source>
+        <target state="translated">Tier 5: Go to Ground</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c2b42454cf10f554" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Burst of Escape or Skill With Defense</source>
+        <target state="translated">Tier 6: Burst of Escape or Skill With Defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec87a3d1b9aa6f44" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.</source>
+        <target state="translated">GM Intrusions: Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

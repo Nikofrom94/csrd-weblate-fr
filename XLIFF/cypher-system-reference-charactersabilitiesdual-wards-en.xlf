@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="33df40313e895700" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dual Wards #Ability #SupportAbility #Mid #Core</source>
+        <target state="translated">Dual Wards #Ability #SupportAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="27a0d0a2762a9844" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can have two wards from [Devoted Defender]{1} at a time. Choosing a second ward can be its own action, or you can choose two wards with one action (and only pay the cost once for doing so). The wards must remain within an immediate distance of each other. Benefits provided by Devoted Defender apply to both your wards. If your wards separate, you choose which retains the benefit. If they come back together, both regain the benefit immediately.</source>
+        <target state="translated">You can have two wards from [Devoted Defender]{1} at a time. Choosing a second ward can be its own action, or you can choose two wards with one action (and only pay the cost once for doing so). The wards must remain within an immediate distance of each other. Benefits provided by Devoted Defender apply to both your wards. If your wards separate, you choose which retains the benefit. If they come back together, both regain the benefit immediately.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

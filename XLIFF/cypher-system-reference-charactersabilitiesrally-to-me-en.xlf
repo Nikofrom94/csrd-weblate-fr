@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9424f196ea998a43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rally to Me (2 Intellect points) #Ability #SupportAbility #Low #Core</source>
+        <target state="translated">Rally to Me (2 Intellect points) #Ability #SupportAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="239e78229a6378b4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You cry out, blow a battle horn, or otherwise signal to everyone within very long range that you require aid. All allied creatures who respond by moving to within an immediate distance of you within the next few rounds gain one asset on any one attack or defense task within the next hour that you suggest, such as “Hold the gate,” “Charge that group of orcs,” or something similar.</source>
+        <target state="translated">You cry out, blow a battle horn, or otherwise signal to everyone within very long range that you require aid. All allied creatures who respond by moving to within an immediate distance of you within the next few rounds gain one asset on any one attack or defense task within the next hour that you suggest, such as “Hold the gate,” “Charge that group of orcs,” or something similar.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b83fc3d4aef4212" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target state="translated">Action to initiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

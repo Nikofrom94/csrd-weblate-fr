@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c625bd4fd1394449" weblate-flags="md-text, safe-html, strict-same">
+        <source>Scratch Existence (1+ Might points) #Ability #SpecialAttackAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2bc04f692208b05d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can choose to phase in a way that “scratches” normal matter in a long streak as you run using Phase Sprint. This tears a bit at you, too, reflected by the Might cost. When you use Phase Sprint, you inflict 2 points of damage (ignores Armor) to one target you select as you pass within immediate range, without triggering Disrupting Touch. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of targets along your path that you can attack as part of the same action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe49378f1cd73773" weblate-flags="md-text, safe-html, strict-same">
+        <source>Alternatively, if you apply Effort to increase the damage rather than ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); the target takes 1 point of damage even if you fail the attack roll.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

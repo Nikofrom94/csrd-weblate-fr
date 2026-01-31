@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1e3def92b5ac882a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fiery Hand of Doom (3 Intellect points) #Ability #CompanionAbility #Mid #Core</source>
+        <target state="translated">Fiery Hand of Doom (3 Intellect points) #Ability #CompanionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6dfa08aa35cbd30a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>While your [Shroud of Flame]{1} is active, you can reach into your halo and produce a hand made of animate flame that is twice the size of a human’s hand. The hand acts as you direct, floating in the air. Directing the hand is an action. Without a command, the hand does nothing. It can move a long distance in a round, but it never moves farther away from you than long range. The hand can grab, move, and carry things, but anything it touches takes 1 point of damage per round from the heat. The hand can also attack. It’s a level 3 creature and deals 1 extra point of damage from fire when it attacks. Once created, the hand lasts for ten minutes.</source>
+        <target state="translated">While your [Shroud of Flame]{1} is active, you can reach into your halo and produce a hand made of animate flame that is twice the size of a human’s hand. The hand acts as you direct, floating in the air. Directing the hand is an action. Without a command, the hand does nothing. It can move a long distance in a round, but it never moves farther away from you than long range. The hand can grab, move, and carry things, but anything it touches takes 1 point of damage per round from the heat. The hand can also attack. It’s a level 3 creature and deals 1 extra point of damage from fire when it attacks. Once created, the hand lasts for ten minutes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dbee5a5a88ae2634" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to create; action to direct.</source>
+        <target state="translated">Action to create; action to direct.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

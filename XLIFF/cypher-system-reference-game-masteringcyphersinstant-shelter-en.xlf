@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="37a16856300ff4b1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>INSTANT SHELTER #Cypher #Fantastic #Core</source>
+        <target state="translated">INSTANT SHELTER #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2233299118c0479" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 3</source>
+        <target state="translated">Level: 1d6 + 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28fe8815303e15a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: With the addition of water and air, this cypher expands into a simple one-room structure with a door and a transparent window (two rooms with an internal door if the cypher level is 7 or higher). The structure is 10 feet by 10 feet by 20 feet (3 m by 3 m by 6 m). It is made from a durable, nonflammable material similar to sandstone, and is permanent and immobile once created.</source>
+        <target state="translated">Effect: With the addition of water and air, this cypher expands into a simple one-room structure with a door and a transparent window (two rooms with an internal door if the cypher level is 7 or higher). The structure is 10 feet by 10 feet by 20 feet (3 m by 3 m by 6 m). It is made from a durable, nonflammable material similar to sandstone, and is permanent and immobile once created.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

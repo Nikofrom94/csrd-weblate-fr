@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b85f4198ce5fd781" weblate-flags="md-text, safe-html, strict-same">
+        <source>GIANT RAT #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a28ff93b662f6fed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Giant rats are as large as big attack dogs, just as vicious, and more wily. Some giant rats are the lone matriarchs of a pack of ordinary level 1 rats, and others are just one of several making up a colony of oversized rodents. Like their smaller cousins, giant rats are known for harboring virulent disease.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="008391dfe7de25a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Defense, reproduction</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ea934299dc7640d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere in ruins or sewers, in groups of one to seven</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a4a22b0c4d3735a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b8f57e931dbcf1de" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short; long when jumping</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d4c2f606f36a3b6f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception as level 4; tasks related to overcoming obstacles and puzzles as level 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="965bf95c0f9233e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Victims damaged by a giant rat’s diseased teeth and claws take 4 points of damage and, on a failed Might defense roll, are infected with a level 5 disease. Within twelve hours, the victim’s lymph glands swell, creating visible buboes. Every twelve hours thereafter, the victim must succeed on a Might defense roll or take 5 points of ambient damage.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="258db83a39c88193" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Giant rats stubbornly pursue prey, but they flee if that prey proves to be too strong.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7db5748973b80d89" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A contact of the PCs dies of plague before they can deliver an important message. The PCs will have to backtrack the contact’s movements to discover what they wanted to say, which leads to a giant rat colony.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c03ae4713f224038" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: A swarm of twelve ordinary rats—each level 1, but acting like a level 3 swarm—is summoned by the high-pitched squeaking of a giant rat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

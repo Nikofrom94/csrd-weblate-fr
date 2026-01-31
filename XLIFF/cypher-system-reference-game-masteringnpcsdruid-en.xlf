@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ea558f06af49fd0f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DRUID #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target state="translated">DRUID #lvl4 (12) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b943e60d3a598f56" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others.</source>
+        <target state="translated">A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="93b5b273712392dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Protecting nature</source>
+        <target state="translated">Motive: Protecting nature</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f830ed1ea6b1fcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target state="translated">Damage Inflicted: 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8eec720fed0ad3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Nature lore, perception, and stealth as level 5</source>
+        <target state="translated">Modifications: Nature lore, perception, and stealth as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c594096fe313e3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Druids use simple weapons crafted out of natural materials, such as spears, slings, and bows, as well as ritual tools such as daggers and sickles.</source>
+        <target state="translated">Combat: Druids use simple weapons crafted out of natural materials, such as spears, slings, and bows, as well as ritual tools such as daggers and sickles.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0160f8a924948f40" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A druid knows several spells, such as a short-range attack that uses electricity or fire, healing a touched creature for 4 health, calming and befriending animals, traveling quickly, controlling the weather within long range, transforming into an animal or plant, and manipulating the natural elements. A druid often has a loyal animal companion, such as a black bear, hawk, viper, or wolf.</source>
+        <target state="translated">A druid knows several spells, such as a short-range attack that uses electricity or fire, healing a touched creature for 4 health, calming and befriending animals, traveling quickly, controlling the weather within long range, transforming into an animal or plant, and manipulating the natural elements. A druid often has a loyal animal companion, such as a black bear, hawk, viper, or wolf.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61750f7e1665171b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Druids are cautious when dealing with city folk, and they act quickly to stop the reckless use of fire or exploitation of the wilds. They are generally on good terms with local animals and magical creatures of nature (faeries, sapient trees, satyrs, and so on).</source>
+        <target state="translated">Interaction: Druids are cautious when dealing with city folk, and they act quickly to stop the reckless use of fire or exploitation of the wilds. They are generally on good terms with local animals and magical creatures of nature (faeries, sapient trees, satyrs, and so on).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="763ae9db116ade3e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A hermit druid comes to the aid of injured or lost characters in the wildlands. A druid has been attacking loggers and hunters who stray too far from civilization.</source>
+        <target state="translated">Use: A hermit druid comes to the aid of injured or lost characters in the wildlands. A druid has been attacking loggers and hunters who stray too far from civilization.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b715fe775a5a4f0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: In addition to weapons, light armor, and some moderately priced ritual items, a druid might have a couple of cyphers or perhaps an artifact.</source>
+        <target state="translated">Loot: In addition to weapons, light armor, and some moderately priced ritual items, a druid might have a couple of cyphers or perhaps an artifact.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

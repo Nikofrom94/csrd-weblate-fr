@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1aeb12de96a43152" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weightless Shot #Ability #MetaAbility #SpecialAttackAbility #High #Core</source>
+        <target state="translated">Weightless Shot #Ability #MetaAbility #SpecialAttackAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0c46541cf975c9b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have a sixth sense when it comes to lining up trajectories and moving in low-gravity and zero-gravity environments, which also translates to making ranged attacks. When you hit a target with a ranged attack in microgravity conditions, you can choose to reduce the damage by 2 points but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:</source>
+        <target state="translated">You have a sixth sense when it comes to lining up trajectories and moving in low-gravity and zero-gravity environments, which also translates to making ranged attacks. When you hit a target with a ranged attack in microgravity conditions, you can choose to reduce the damage by 2 points but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c7f16361ee1e90c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You punch a hole in the target’s suit, so it begins to leak air into the vacuum slowly, or all at once (your choice).</source>
+        <target state="translated">You punch a hole in the target’s suit, so it begins to leak air into the vacuum slowly, or all at once (your choice).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb6b09f12174b3f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You hit the reaction mass of the target’s maneuvering pack, which means the target can no longer change their trajectory, or they go spinning off in a random direction (your choice).</source>
+        <target state="translated">You hit the reaction mass of the target’s maneuvering pack, which means the target can no longer change their trajectory, or they go spinning off in a random direction (your choice).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cfe295c63e35c622" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can shoot a spacecraft, and degrade one ship system by one step (systems include engines, weapons, and atmosphere).</source>
+        <target state="translated">You can shoot a spacecraft, and degrade one ship system by one step (systems include engines, weapons, and atmosphere).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

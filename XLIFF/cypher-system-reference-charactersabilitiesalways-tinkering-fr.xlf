@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="69f0a1b4ffbc2be6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Always Tinkering #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a613b75280469470" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you have any tools and materials at all, and you are carrying fewer cyphers than your limit, you can create a manifest cypher if you have an hour of time to spend. The new cypher is random and always 2 levels lower than normal (minimum 1). It’s also temperamental and fragile. These are called temperamental cyphers. If you give one to anyone else to use, it falls apart immediately, useless.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f6524c5481dde72d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate; one hour to complete.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

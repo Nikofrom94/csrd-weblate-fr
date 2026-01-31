@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="41a9d9262bf2757f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Gnoll #lvl2 (6) #Creature #Core #Fantasy</source>
+        <target state="translated">Gnoll #lvl2 (6) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0c7555022903464" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 8</source>
+        <target state="translated">Health: 8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c9ebe8c5fc40651" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 2</source>
+        <target state="translated">Armor: 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d17d07076732fb9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Speed defense as level 3 due to shield</source>
+        <target state="translated">Combat: Speed defense as level 3 due to shield</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

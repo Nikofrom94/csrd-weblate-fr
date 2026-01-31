@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="14adcc45bdaf3787" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modify Device (4 Intellect points) #Ability #CraftAbility #MetaAbility #Low #Core</source>
+        <target state="translated">Modify Device (4 Intellect points) #Ability #CraftAbility #MetaAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="766f6a479cf936a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You jury-rig a piece of mechanical or electrical equipment to make it function above its rated specs for a very limited time. To do so, you must use spare parts equal to an expensive item, have a field science kit (or a permanent lab, if you have access to one), and succeed at a difficulty 3 Intellect-based task. When complete, using the device eases all tasks performed in conjunction with the device, until the device inevitably breaks. For example, you could overclock a computer so research tasks using it are easier, modify an espresso maker so that each cup of coffee made with it is better, modify a car’s engine so that it goes faster (or modify its steering so it handles better), and so on. Each use of the modified device requires a depletion roll of 1–5 on a d20.</source>
+        <target state="translated">You jury-rig a piece of mechanical or electrical equipment to make it function above its rated specs for a very limited time. To do so, you must use spare parts equal to an expensive item, have a field science kit (or a permanent lab, if you have access to one), and succeed at a difficulty 3 Intellect-based task. When complete, using the device eases all tasks performed in conjunction with the device, until the device inevitably breaks. For example, you could overclock a computer so research tasks using it are easier, modify an espresso maker so that each cup of coffee made with it is better, modify a car’s engine so that it goes faster (or modify its steering so it handles better), and so on. Each use of the modified device requires a depletion roll of 1–5 on a d20.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bd8e6ef0f20abad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, one hour to complete.</source>
+        <target state="translated">Action to initiate, one hour to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d00e182d0b905a3d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>REJUVENATOR #Cypher #Subtle #Core</source>
+        <target state="translated">REJUVENATOR #Cypher #Subtle #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c298ab0a5884fe6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Restores a number of points equal to the cypher’s level to one random stat Pool.</source>
+        <target state="translated">Effect: Restores a number of points equal to the cypher’s level to one random stat Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4e0ee8c20c286c08" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–50</source>
+        <target state="translated">01–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="247da37c78762bec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Might Pool</source>
+        <target state="translated">Might Pool</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0468b10f8e21fb6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–75</source>
+        <target state="translated">51–75</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a16997606de010ef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speed Pool</source>
+        <target state="translated">Speed Pool</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="694f82ac35db5b38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>76–00</source>
+        <target state="translated">76–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ffbb00296c932dac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Intellect Pool</source>
+        <target state="translated">Intellect Pool</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="68ef591ed98c369f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Copies Superpowers #Focus #Core #SuperHeroes</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97e5019607c464b2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can copy others’ skills, abilities, and superpowers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Flex Skill]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Flex Skill]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1cd78030e01c2904" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Copy Power]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d8f1335875b9e3d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Steal Power]{1} or [Wildcard Powers]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a920978bb7b0f41" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Improved Copying]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="20aace5ee2c1e6f7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Power Memory]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10ae1a5e08cbc751" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Amazing Copying]{1} or [Multiple Copying]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="871d39e326ba3397" weblate-flags="md-text, safe-html, strict-same">
+        <source>Copying GM Intrusions: A copied power ends unexpectedly or goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

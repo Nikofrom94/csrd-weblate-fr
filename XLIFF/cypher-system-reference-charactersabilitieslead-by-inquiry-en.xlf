@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="19467a81fa2d1458" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lead by Inquiry #Ability #SupportAbility #Mid #Core</source>
+        <target state="translated">Lead by Inquiry #Ability #SupportAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0e219dbf2e4581a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies are treated as if trained in tasks related to perception. This benefit is ongoing while you remain in your allies’ company. It ends if you leave, but it resumes if you return to the allies’ company within 24 hours. If you leave the allies’ company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit.</source>
+        <target state="translated">You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies are treated as if trained in tasks related to perception. This benefit is ongoing while you remain in your allies’ company. It ends if you leave, but it resumes if you return to the allies’ company within 24 hours. If you leave the allies’ company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

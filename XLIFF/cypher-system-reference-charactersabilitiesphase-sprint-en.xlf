@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b33d7f57db2a3d29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Phase Sprint (1+ Speed points) #Ability #MovementAbility #ProtectionAbility #Low #Core</source>
+        <target state="translated">Phase Sprint (1+ Speed points) #Ability #MovementAbility #ProtectionAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1009cd6ec1a24f0a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can run up to a long distance as long as you take no other actions. During your action and until the beginning of your next turn, you are partially phased, and some attacks pass through you harmlessly. While phased, you gain an asset to your Speed defense tasks, but you lose any benefit from armor you wear.</source>
+        <target state="translated">You can run up to a long distance as long as you take no other actions. During your action and until the beginning of your next turn, you are partially phased, and some attacks pass through you harmlessly. While phased, you gain an asset to your Speed defense tasks, but you lose any benefit from armor you wear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09cd08e28d442c22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Note that some of your other special abilities may enable specific actions that you can take while using Phase Sprint. For instance, when using Disrupting Touch, you can make one touch attack while moving (though this ends your movement).</source>
+        <target state="translated">Note that some of your other special abilities may enable specific actions that you can take while using Phase Sprint. For instance, when using Disrupting Touch, you can make one touch attack while moving (though this ends your movement).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6163170832a10b0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(You don’t have to run in one long, straight line when using Phase Sprint, but can instead zig and zag, curve, or even return to where you started.)</source>
+        <target state="translated">(You don’t have to run in one long, straight line when using Phase Sprint, but can instead zig and zag, curve, or even return to where you started.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="31e5865aef55d15e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Other abilities can be used with Phase Sprint to unlock additional effects, including Disrupting Touch, Scratch Existence, Invisible Phasing, and Phase Detonation. These abilities are additive enablers, requiring the user to spend points for both abilities, and sometimes from two different Pools.)</source>
+        <target state="translated">(Other abilities can be used with Phase Sprint to unlock additional effects, including Disrupting Touch, Scratch Existence, Invisible Phasing, and Phase Detonation. These abilities are additive enablers, requiring the user to spend points for both abilities, and sometimes from two different Pools.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

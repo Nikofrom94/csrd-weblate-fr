@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6076f4d9e4838019" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SONIC HOLE #Cypher #Fantastic #Core</source>
+        <target state="translated">SONIC HOLE #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="991a18eefd76c97a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.</source>
+        <target state="translated">Effect: Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3cb47bea7a25296a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Sonic holes are much-loved by thieves everywhere but can also be used for less nefarious purposes, such as hunting prey and sneaking past enemies.)</source>
+        <target state="translated">(Sonic holes are much-loved by thieves everywhere but can also be used for less nefarious purposes, such as hunting prey and sneaking past enemies.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="da27c742851f631c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EFFORT ENHANCER (COMBAT) #Cypher #Subtle #Core</source>
+        <target state="translated">EFFORT ENHANCER (COMBAT) #Cypher #Subtle #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9b612c93f44c2caa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: For the next hour, the user can apply one free level of Effort to any task (including a combat task) without spending points from a Pool. The free level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task. Once this free level of Effort is used, the effect of the cypher ends.</source>
+        <target state="translated">Effect: For the next hour, the user can apply one free level of Effort to any task (including a combat task) without spending points from a Pool. The free level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task. Once this free level of Effort is used, the effect of the cypher ends.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

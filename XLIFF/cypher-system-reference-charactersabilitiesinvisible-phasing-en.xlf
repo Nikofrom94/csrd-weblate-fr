@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2d98246dea937232" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Invisible Phasing (4 Might points) #Ability #TransformAbility #Mid #Core</source>
+        <target state="translated">Invisible Phasing (4 Might points) #Ability #TransformAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccdc762a7642368e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You become invisible while using Phase Sprint and during the following round. While invisible, stealth is eased by two steps and Speed defense is eased by two steps (this replaces the asset to Speed defense tasks provided by Phase Sprint). The first attack you make using any Shreds the Walls of the World attack abilities is also eased by two steps; however, if you attack a creature, Invisible Phasing ends immediately instead of lasting for one additional round. If you have the Invisibility ability, you can remain invisible during the entire round, which means that if you use Scratch Existence or Shred Existence, attacking each target along your path is eased by two steps.</source>
+        <target state="translated">You become invisible while using Phase Sprint and during the following round. While invisible, stealth is eased by two steps and Speed defense is eased by two steps (this replaces the asset to Speed defense tasks provided by Phase Sprint). The first attack you make using any Shreds the Walls of the World attack abilities is also eased by two steps; however, if you attack a creature, Invisible Phasing ends immediately instead of lasting for one additional round. If you have the Invisibility ability, you can remain invisible during the entire round, which means that if you use Scratch Existence or Shred Existence, attacking each target along your path is eased by two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

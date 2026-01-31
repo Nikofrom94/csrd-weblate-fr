@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8c5a15c2243eab9e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Honorable #Descriptor #Core</source>
+        <target state="translated">Honorable #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53063a2308167339" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are trustworthy, fair, and forthright. You try to do what is right, to help others, and to treat them well. Lying and cheating are no way to get ahead—these things are for the weak, the lazy, or the despicable. You probably spend a lot of time thinking about your personal honor, how best to maintain it, and how to defend it if challenged. In combat, you are straightforward and offer quarter to any foe.</source>
+        <target state="translated">You are trustworthy, fair, and forthright. You try to do what is right, to help others, and to treat them well. Lying and cheating are no way to get ahead—these things are for the weak, the lazy, or the despicable. You probably spend a lot of time thinking about your personal honor, how best to maintain it, and how to defend it if challenged. In combat, you are straightforward and offer quarter to any foe.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c11f2e584d4dcec7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You were likely instilled with this sense of honor by a parent or a mentor. Sometimes the distinction between what is and isn’t honorable varies with different schools of thought, but in broad strokes, honorable people can agree on most aspects of what honor means.</source>
+        <target state="translated">You were likely instilled with this sense of honor by a parent or a mentor. Sometimes the distinction between what is and isn’t honorable varies with different schools of thought, but in broad strokes, honorable people can agree on most aspects of what honor means.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c08546c2bdb5a906" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stalwart: +2 to your Might Pool.</source>
+        <target state="translated">Stalwart: +2 to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7883e3388a57d7a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in pleasant social interactions.</source>
+        <target state="translated">Skill: You are trained in pleasant social interactions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="856374c262a8ccc3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in discerning people’s true motives or seeing through lies.</source>
+        <target state="translated">Skill: You are trained in discerning people’s true motives or seeing through lies.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9731d29a77689546" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PCs’ goals appear to be honorable and commendable.</source>
+        <target state="translated">The PCs’ goals appear to be honorable and commendable.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ba53c246ef366238" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You see that what the other PCs are about to do is dangerous, and you’d like to help protect them.</source>
+        <target state="translated">You see that what the other PCs are about to do is dangerous, and you’d like to help protect them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a574dbe73d2965eb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs invited you, hearing of your trustworthiness.</source>
+        <target state="translated">One of the other PCs invited you, hearing of your trustworthiness.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4d5f13867dfd2ce4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You asked politely if you could join the other PCs in their mission.</source>
+        <target state="translated">You asked politely if you could join the other PCs in their mission.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

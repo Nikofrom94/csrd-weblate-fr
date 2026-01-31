@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="60ec26afc4247802" weblate-flags="md-text, safe-html, strict-same">
+        <source>CHIMERA #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="63ec4da91481434e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Chimeras are unsettling hybrids that combine the features of many different animals, often arranged in odd formations. The fusion of animal forms is the only thing that unifies these creatures—otherwise, different chimeras often look very different from each other. They include combinations of goat and lion, lizard and bat, dragon and spider, dinosaur and giant insect. A few even display human features, such as an improbably located face or hands instead of claws. Some chimeras can fly. Others slither across the ground.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a92a00eaeb0fa625" weblate-flags="md-text, safe-html, strict-same">
+        <source>A chimera typically has a dominant form to which other animal parts are grafted. The base form must be large enough to support the weight of the extra heads, so lions, bears, and horses are popular as the base form.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea5affb02379b4a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Chimeras kill even when not hungry and throw their victims’ remains around a wide area in a wild rage. When not feeding or tormenting prey, a chimera that can fly takes to the air, beating its enormous leather wings to scour the landscape for new prey.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d584bfaa6190c73" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for human flesh</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f3efc73103f237e8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere, usually alone</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="526f7ac4bd5bb123" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 21</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="68eb3dd6a8b9adc6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short while on the ground; long while flying (if it can fly)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4efd84bc486753c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Speed defense rolls as level 5 due to size</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9c9278967c01b05d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: All chimeras have a number of ways to kill. The exact methods vary, but most can bite, sting, and gore (three attacks) as a single action, either attacking the same opponent or attacking different foes within immediate range of each other. A chimera’s sting carries a powerful toxin, and a stung target must succeed on a Might defense roll or take 4 additional points of damage. Chimeras with spikes can project them at up to three targets within long range as a single action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4aa4330d4cda2e02" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Chimeras are a lot like wild animals with rabies. They’re confused and violent, and they behave erratically. Savage, ferocious beasts, they hate all other creatures and seize any opportunity to kill.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="053802b9045acd2e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: While exploring an island, the PCs find carcasses that have been torn apart, the pieces scattered in all directions. A chimera lairs nearby, and if the characters draw attention to themselves, it hunts them down, too.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b15fccf24d06c0a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The chimera grabs a character it bites and flies off with the victim</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

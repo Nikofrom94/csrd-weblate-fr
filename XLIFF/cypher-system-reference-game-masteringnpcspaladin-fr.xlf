@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ac52252319198aed" weblate-flags="md-text, safe-html, strict-same">
+        <source>PALADIN #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="683ce449ed14f563" weblate-flags="md-text, safe-html, strict-same">
+        <source>Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c05575a4e30e705" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Protecting the innocent, destroying evil</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce49379920a9bb20" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5b920e5b618c936c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 2 or 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4bb8733454b36560" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Attacks and Might defense as level 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04d0cb070e91ab09" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Paladins like flashy weapons and shiny armor, which help them show their devotion to the ideals of goodness and draw the attention of evil foes. Many choose a two-handed weapon, but some prefer using a shield in their off hand (defense-oriented paladins like these inflict only 4 points of damage with their attacks but gain an asset on Speed defense).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f67b61bd3eed7903" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blessed by the powers of good, paladins can draw on innate holy magic for several purposes, such as detecting the presence of supernatural evil (demons, evil dragons, undead, and so on), restoring 4 health to themselves or a touched creature, smiting an evil foe to inflict an additional 4 points of damage, or breaking free of mind control.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="641b981788fcd27a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Paladins have big personalities and strongly believe in their purpose and goals. They have no tolerance for evil acts and are unwilling to look the other way when their allies want to bend the rules or take advantage of a “grey area.” However, they are not fools and won’t throw away their lives for nothing.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="173928e1128d13e9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A paladin lays claim to a foe the characters are seeking or have captured. An old paladin is looking for one last villain to smite.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3514e95b69e02549" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: In addition to their weapons and armor, paladins might have one or two cyphers. More experienced ones might be lucky enough to have an artifact (usually a weapon or armor).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="5763b93618966fbb" weblate-flags="md-text, safe-html, strict-same">
+        <source>EARTH ELEMENTAL #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ca103cfc7f7ce6aa" weblate-flags="md-text, safe-html, strict-same">
+        <source>An excavation, a meteor fall, a still-shuddering earthquake—all these events can summon an earth elemental to take shape and expand the destruction further.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4fd3cf20fd3676fa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Crumble and break, reduce things to earth</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea8b3e8f5bae10e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere solid or earthen</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7702745d281c3dea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 30</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dd26af7e40198787" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21031c9d541540c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eb84c4913800706a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Immediate; short when burrowing</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3e95d7ae7b3753bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Earth elementals batter foes with heavy fists. They can also create earthquakes (no more than once every other round) that affect the ground within short range. Creatures standing in the area fall to the ground and take 5 points of damage on a failed Might defense roll.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a74192e61eb06b2" weblate-flags="md-text, safe-html, strict-same">
+        <source>An earth elemental is vulnerable to water. Any damage it takes while standing in or being doused in water ignores its Armor.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e3ba8f6e2fb651f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Although brooding and slow to respond if encountered as immobile stone, earth elementals are intelligent. The ones that are summoned with a spell have about a 5% chance of breaking the geas and turning on their summoner.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="02439efcdc8776ca" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: Oddly articulated monoliths were discovered high in the mountains around a shrine containing an ancient treasure. A merchant wants someone to investigate the monoliths in case they represent a trap. In fact, the monoliths are inactive earth elementals.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="08d0d672d271762b" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: A character within range of the earth elemental’s earthquake attack must succeed on a Speed defense roll or be covered in an avalanche from a collapsing structure or cliff face.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

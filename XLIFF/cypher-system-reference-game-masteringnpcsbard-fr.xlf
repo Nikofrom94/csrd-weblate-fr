@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="450d0c2eec5433db" weblate-flags="md-text, safe-html, strict-same">
+        <source>BARD #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9bd57a87c18bc5f6" weblate-flags="md-text, safe-html, strict-same">
+        <source>A bard uses the power of words and music to create magic that inspires and influences others. A typical bard plays a musical instrument and weaves song-spells that rival the magic of wizards and priests, but some use their voices, creating fascinating tales and dramatic speeches.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bb80faf6a97ec06b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Entertainment, interaction, and novel experiences</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b4f183adee4de28" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04d2a5112eb75996" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 3 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="74d4d583ce509911" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Music, oration, persuasion, stealth, and Speed defense as level 4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d3543baddac7ab2a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Bards prefer weapons that rely on speed and agility, like daggers, rapiers, and small bows. Every other round, a bard can create a blast of pure sound that inflicts 3 points of damage (ignores Armor) to one target within short range.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f3ad24b65a872c4f" weblate-flags="md-text, safe-html, strict-same">
+        <source>A bard knows several spells, such as adding +1 to recovery rolls of nearby creatures, making an indifferent creature friendly (or a hostile one indifferent) for a few minutes, deafening one opponent for hours, easing a physical task by two steps, turning invisible for a minute, or negating sound for a minute.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cedc62051ec8c17b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Bards are personable and easy to talk to, but they have a sharp wit and a sharper tongue when it comes to critics and tyrants. A bard would rather escape from a dangerous situation than fight to the death.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="65f944c811707245" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A bard ally often has useful information about the current situation, drawn from songs and folk tales. In a pinch, they can make do as a scout or spy, especially in an urban setting. An unfriendly bard mocks the characters and turns the will of a crowd against them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a8bc486cb620dc50" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: In addition to a musical instrument and a nice outfit for performing, bards usually have currency equivalent to a moderately priced item and one or two cyphers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

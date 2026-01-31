@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="f884e782f6e70e1d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Guide Bolt (4+ Intellect points) #Ability #MetaAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4ec7730b92d75a9d" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you make an attack with a metallic bolt or metal-tipped arrow on a target within short range, you can improve the attack’s aim and velocity, which grants an asset to the attack and inflicts an additional 2 points of damage. If you apply a level of Effort, you grant the same benefits to a ranged attack made by an ally within immediate range. In any case, you can use this ability only once per round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

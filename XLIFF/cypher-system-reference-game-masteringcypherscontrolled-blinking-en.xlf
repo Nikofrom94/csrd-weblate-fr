@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8451d40adb1244c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CONTROLLED BLINKING #Cypher #Fantastic #Core</source>
+        <target state="translated">CONTROLLED BLINKING #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d197272cb1d11e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: For the next day, each time the user is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since they are prepared for this effect and their foe is not, the user’s defenses are eased for one round after they teleport.</source>
+        <target state="translated">Effect: For the next day, each time the user is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since they are prepared for this effect and their foe is not, the user’s defenses are eased for one round after they teleport.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

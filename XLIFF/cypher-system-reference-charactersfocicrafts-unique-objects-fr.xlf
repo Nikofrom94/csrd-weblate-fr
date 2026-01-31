@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3e3d4da7908ad61f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crafts Unique Objects #Focus #EnvironmentFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b985deaf41b71d24" weblate-flags="md-text, safe-html, strict-same">
+        <source>You’re an inventor of strange and useful objects.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0c1aab5955b0a16" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Crafter]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7bb273cd740ac35" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Master Identifier]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b4fba0d32d46f859" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Artifact Tinkerer]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b4f04daecf9f8825" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Quick Work]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="29078ea6dfa9012a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Master Crafter]{1} or [Built-in Weaponry]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24f0ed92f8fe960f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Cyphersmith]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="83d000901b63d7f6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Innovator]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b19d5ff5edabd6f1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Inventor]{1} or [Fusion Armor]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="868df84f41ebfee8" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The object malfunctions, breaks, or suffers catastrophic or unexpected failure.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="736920cdfae6b19e" weblate-flags="md-text, safe-html, strict-same">
+        <source>([Cyphersmith]{1} works only in a setting where the cyphers are physical objects. If this isn’t the case, this ability should probably be replaced with something akin to [Weird Science Breakthrough]{2} from the [Conducts Weird Science]{3} focus.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

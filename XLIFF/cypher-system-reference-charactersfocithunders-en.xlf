@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d2ae03961a849976" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Thunders #Focus #EnergyFocus #Core</source>
+        <target state="translated">Thunders #Focus #EnergyFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0b493b8a60a718fd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You emit destructive sound and manipulate soundscapes.</source>
+        <target state="translated">You emit destructive sound and manipulate soundscapes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f198a66ccc3fc890" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Thunder Beam</source>
+        <target state="translated">Tier 1: Thunder Beam</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1b3597549a1e25d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Sound Conversion Barrier</source>
+        <target state="translated">Tier 2: Sound Conversion Barrier</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b199538b45602b06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Nullify Sound or Echolocation</source>
+        <target state="translated">Tier 3: Nullify Sound or Echolocation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1df07a208fd63dde" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Shattering Shout</source>
+        <target state="translated">Tier 4: Shattering Shout</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c634ffdb883ce3dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Subsonic Rumble</source>
+        <target state="translated">Tier 5: Subsonic Rumble</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc742dc4464fe7a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Amplify Sounds</source>
+        <target state="translated">Tier 5: Amplify Sounds</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bbb90ac5b4e023d0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Earthquake or Lethal Vibration</source>
+        <target state="translated">Tier 6: Earthquake or Lethal Vibration</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61de7ab96f45efa2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Loud noises attract attention.</source>
+        <target state="translated">GM Intrusions: Loud noises attract attention.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

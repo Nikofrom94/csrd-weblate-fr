@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3d26b557969e945a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force at Distance (4+ Intellect points) #Ability #SpecialAttackAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cf3e04831ed778e8" weblate-flags="md-text, safe-html, strict-same">
+        <source>You temporarily bend the fundamental law of gravity around a creature or object (up to twice your mass) within short range. The target is caught in your telekinetic grip, and you can move it up to a short distance in any direction each round that you retain your hold. A creature in your grip can take actions, but it can’t move under its own power. Each round after the initial attack, you can attempt to keep your grip on the target by spending 2 additional Intellect points and succeeding at a difficulty 2 Intellect task. If your concentration lapses, the target drops back to the ground. In addition to the normal options for using Effort, you can choose to use Effort to increase the amount of mass you can affect. Each level allows you to affect a creature or object twice as massive as before. For example, applying one level of Effort would affect a creature four times as massive as you, two levels would affect a creature eight times as massive, three levels would affect a creature sixteen times as massive, and so on.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

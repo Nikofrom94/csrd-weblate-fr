@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="114ecd97ff12fbb1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DETONATION (GRAVITY INVERSION) #Cypher #Fantastic #Core</source>
+        <target state="translated">DETONATION (GRAVITY INVERSION) #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b9cb8120e7cafaa8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Projects a small physical explosive up to a long distance away that explodes, and for one hour gravity reverses within long range of the explosion.</source>
+        <target state="translated">Effect: Projects a small physical explosive up to a long distance away that explodes, and for one hour gravity reverses within long range of the explosion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

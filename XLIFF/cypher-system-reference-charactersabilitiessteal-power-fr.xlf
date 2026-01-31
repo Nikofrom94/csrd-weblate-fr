@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c19b9668b8decbb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Steal Power #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="77423a6e76e861b9" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you use [Copy Power]{1} to copy an ability, the creature you copied it from loses access to that ability for about a minute. While you have their ability, any attempt by the creature to use their ability requires them to succeed at a task (Might, Speed, or Intellect, as appropriate to the stolen ability) opposed by your eased Intellect task. If they succeed, they regain the use of their ability and you lose it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="27607c92ba2b035e" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you want to make it more difficult for someone to take back their stolen power, become skilled in the Steal Power ability, or put a power shift in power for it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

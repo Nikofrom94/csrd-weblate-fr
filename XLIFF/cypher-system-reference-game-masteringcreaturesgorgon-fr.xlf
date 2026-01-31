@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="46f1ac7437e6d90b" weblate-flags="md-text, safe-html, strict-same">
+        <source>GORGON #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc5c18c1add7c9fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Statues littering the grounds outside a ruin are meant to deter savvy robbers and explorers. The statues, ranging in size from birds to warriors astride steeds, all depict creatures in states of fright and pain, the final image of death. These pieces are not the work of a fevered mind, but the fates of those who braved a gorgon’s lair. Gorgons were humans once. After they offended the gods with their vanity, they were transformed into hideous monsters. A gorgon has the upper body of a human of perfect form and physique, but the lower body of a giant serpent, complete with rattling tail. One who dares look at a gorgon’s face can see traces of the old beauty beneath a weary veneer, darkened by hatred. Instead of hair, serpents crown a gorgon’s head, snapping and hissing at anyone who draws near. Yet the most terrible aspect of a gorgon is its gaze, which can turn any creature to stone.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="75f4bdce8925b57c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Isolation, defense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e0464947314149d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Alone, sequestered in the isolated ruins of old cities and castles</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="87c9a8a791257f16" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6c6a530e5caff8fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: A gorgon has a long-range bow attack. Since creatures that see the gorgon often turn to stone, it must take down its prey at long range so it can get fresh meat. In close combat, a gorgon lashes out with a long dagger or, rarely, a sword. As part of the action the gorgon uses to attack, the serpents on its head can also attack one target within immediate distance. A target that fails its Speed defense roll takes 2 points of damage from the bite and must immediately make a Might defense roll to resist the poison (which deals 4 additional points of Speed damage that ignores Armor).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a8f2f7c89828bc00" weblate-flags="md-text, safe-html, strict-same">
+        <source>Anyone within short range of a gorgon who meets its gaze and fails a Might defense roll turns to stone. In combat, when a character within short distance attacks the gorgon, they must avert their gaze (which hinders the attack by two steps) or make a Might defense roll. On a failure, they take 5 points of ambient damage as their flesh partly mineralizes. If the character is killed by this damage, they are turned to stone.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21b8941440b11ae0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Some gorgons carry a couple of cyphers and perhaps an artifact that they can use in combat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ebf85f49e5b11db1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Bitterness consumes gorgons. They lead lonely lives, cut off from everyone they have loved. Negotiating with one would be something of a feat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5818168095f0877f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A gorgon’s head retains its power to petrify for several days after being cut from the creature. The PCs might brave the gorgon so they can use its head to defeat an even more powerful foe.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10deda80aad0976c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: A gorgon typically has a few cyphers and may have an artifact as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4745a7e5b7100718" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: A character glimpsesa gorgon’s eyes, and a sheen of stone covers their body for one minute, during which time they gain +1 to Armor but can’t move farther than an immediate distance in one round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

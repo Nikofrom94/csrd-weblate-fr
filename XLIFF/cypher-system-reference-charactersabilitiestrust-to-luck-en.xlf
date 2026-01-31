@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="660241bc91fc80ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trust to Luck (3 Intellect points) #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Trust to Luck (3 Intellect points) #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d70f5e4faa192beb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes, you’ve just got to roll the dice and hope things add up in your favor. When you use Trust to Luck, roll a d6. On any even result, the task you’re attempting is eased by two steps. On a roll of 1, the task is hindered.</source>
+        <target state="translated">Sometimes, you’ve just got to roll the dice and hope things add up in your favor. When you use Trust to Luck, roll a d6. On any even result, the task you’re attempting is eased by two steps. On a roll of 1, the task is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

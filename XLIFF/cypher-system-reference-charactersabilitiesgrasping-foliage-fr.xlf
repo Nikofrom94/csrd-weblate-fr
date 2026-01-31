@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="8409aa24eab81eeb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Grasping Foliage (3+ Intellect points) #Ability #EnvironmentAbility #SpecialAttackAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0cf26815ea353ad7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Roots, branches, grass, or other natural foliage in the area snags and holds a foe you designate within short range for up to one minute. A foe caught in the grasping foliage can’t move from its position, and all physical tasks, attacks, and defenses are hindered, including attempts to free itself. In addition to the normal options for using Effort, you can choose to use Effort to deal damage with the initial attack. Each level applied inflicts 2 additional points of damage when Grasping Foliage first snags and holds your foe.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4081e8c7f1caaed0" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can also use this ability to clear an area of entangling growth in the immediate radius, such as an area of tall grass, thick brush, impenetrable vines, and so on.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

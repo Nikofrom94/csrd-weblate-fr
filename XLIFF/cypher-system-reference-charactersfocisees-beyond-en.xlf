@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="13b06c7ad4722540" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sees Beyond #Focus #ExplorationFocus #Core</source>
+        <target state="translated">Sees Beyond #Focus #ExplorationFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb7c0c13457da42f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have a psychic sense that allows you to see what others cannot.</source>
+        <target state="translated">You have a psychic sense that allows you to see what others cannot.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94d2b13d556a6566" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: See the Unseen</source>
+        <target state="translated">Tier 1: See the Unseen</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="49a29c8d35885c87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: See Through Matter</source>
+        <target state="translated">Tier 2: See Through Matter</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a08e2c59fb18de1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Find the Hidden or Sensor</source>
+        <target state="translated">Tier 3: Find the Hidden or Sensor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66c2e5630e17e73b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Remote Viewing</source>
+        <target state="translated">Tier 4: Remote Viewing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="06f41d7b208d29bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: See Through Time</source>
+        <target state="translated">Tier 5: See Through Time</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5c8d52d40ab1fd6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Mental Projection or Total Awareness</source>
+        <target state="translated">Tier 6: Mental Projection or Total Awareness</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a89d4a4376f3d32" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Some secrets are too terrible to know.</source>
+        <target state="translated">GM Intrusions: Some secrets are too terrible to know.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="2269812571f1ba03" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magic #Flavor #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2948ba0b7e9894f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You know a little about magic. You might not be a wizard, but you know the basics—how it works, and how to accomplish a few wondrous things. Of course, in your setting, “magic” might actually mean psychic powers, mutant abilities, weird alien tech, or anything else that produces interesting and useful effects.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee02ba9d6a80922b" weblate-flags="md-text, safe-html, strict-same">
+        <source>An Explorer flavored with magic might be a wizard-hunter, and a Speaker with magical flavor might be a sorcerer-bard. Although an Adept flavored with magic is still an Adept, you might find that swapping some of the type’s basic abilities with those given here tailors the character in desirable ways.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e0f6f7e68888bcd" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIRST-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d2b80d7e6d13d310" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blessing of the Gods</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4f6e3ba505500a6b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Closed Mind</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b6d5b5684477f4b6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Entangling Force</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c3d80c11eb5769c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Hedge Magic</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="73ee13bccc3128da" weblate-flags="md-text, safe-html, strict-same">
+        <source>Magic Training</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04340613c556532c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mental Link</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="481ea8b17bc58fd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Premonition</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99d37b1eb6b47eae" weblate-flags="md-text, safe-html, strict-same">
+        <source>SECOND-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be89a86646953e16" weblate-flags="md-text, safe-html, strict-same">
+        <source>Concussive Blast</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="92f477679025c9ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fetch</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9dc30c80e2541de9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force Field</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bc90738fe0e4ad7e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lock</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="afed1ed8cb37496e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Repair Flesh</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0579c5587fd495a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>THIRD-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d258435d7828aa5c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Distance Viewing</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="147c75ae3413a34c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fire Bloom</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f2d98404cca816ee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fling</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="64c5c51f74148558" weblate-flags="md-text, safe-html, strict-same">
+        <source>Force at Distance</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="165fe6b056ab4080" weblate-flags="md-text, safe-html, strict-same">
+        <source>Summon Giant Spider</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b6c087e906c94a91" weblate-flags="md-text, safe-html, strict-same">
+        <source>FOURTH-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d17ba979814f78e3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Elemental Protection</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="00906443870a0bd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ignition</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="450d182ff5f8cfa7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pry Open</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="14bb4986e3f60e7f" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIFTH-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="47dff253ae4a7c66" weblate-flags="md-text, safe-html, strict-same">
+        <source>Create</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8124496dde2296f8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Divine Intervention</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f9c6ca4e3960b3cc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Dragon’s Maw</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="090a8d33e7e39349" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fast Travel</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="473edbcdefabb571" weblate-flags="md-text, safe-html, strict-same">
+        <source>True Senses</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f3db7c1435dc4750" weblate-flags="md-text, safe-html, strict-same">
+        <source>SIXTH-TIER MAGIC ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="67a6a4e286733f2b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Relocate</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edacb656e8c8b9c7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Summon Demon</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97d6fab9e11fa202" weblate-flags="md-text, safe-html, strict-same">
+        <source>Traverse the Worlds</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e66732bf2b806dfe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Word of Death</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="eb753d51d19146c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fast #Descriptor #Core</source>
+        <target state="translated">Fast #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53e37049321ac12b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re fleet of foot. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.</source>
+        <target state="translated">You’re fleet of foot. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="710a57543f42ed96" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Energetic: +2 to your Speed Pool.</source>
+        <target state="translated">Energetic: +2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3465248b33adf76" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in running.</source>
+        <target state="translated">Skill: You are trained in running.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea251ea816b8d5fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fast: You can move a short distance and still take another action in the same round, or you can move a long distance as your action without needing to make any kind of roll.</source>
+        <target state="translated">Fast: You can move a short distance and still take another action in the same round, or you can move a long distance as your action without needing to make any kind of roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="06808c194fabf26d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You’re a sprinter, not a long-distance runner. You don’t have a lot of stamina. Might defense rolls are hindered.</source>
+        <target state="translated">Inability: You’re a sprinter, not a long-distance runner. You don’t have a lot of stamina. Might defense rolls are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e9cda1999029d698" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You jumped in to save one of the other PCs who was in dire need.</source>
+        <target state="translated">You jumped in to save one of the other PCs who was in dire need.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="811b8c3368eb170c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs recruited you for your unique talents.</source>
+        <target state="translated">One of the other PCs recruited you for your unique talents.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef70b14b0fde982e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re impulsive, and it seemed like a good idea at the time.</source>
+        <target state="translated">You’re impulsive, and it seemed like a good idea at the time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f16ce62ef71b6b7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This mission ties in with a personal goal of your own.</source>
+        <target state="translated">This mission ties in with a personal goal of your own.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b279df783a128123" weblate-flags="md-text, safe-html, strict-same">
+        <source>Counter Danger (4 Intellect points) #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d152afb8fad7bff" weblate-flags="md-text, safe-html, strict-same">
+        <source>You negate a source of potential danger related to one creature or object within immediate distance for one minute (instead of one round, as with Foil Danger). This could be a weapon or device held by someone, a creature’s natural ability, or a trap triggered by a pressure plate. You can also try to counter an action (like moving or making a conventional mundane attack with a weapon, a claw, etc.).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9e857908ba0996a0" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Using Counter Danger is usually a matter of the character applying quick thinking in the face of immediate danger. The ability doesn’t rely on supernatural means, but rather a practical act.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

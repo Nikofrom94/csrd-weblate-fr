@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1577fa5b9156fd8d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DETONATION (CREATURE) #Cypher #Fantastic #Core</source>
+        <target state="translated">DETONATION (CREATURE) #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0cac904a783f640d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher’s level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.</source>
+        <target state="translated">Effect: Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher’s level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

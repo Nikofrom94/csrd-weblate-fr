@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="753d337f64f9ae44" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mount #Ability #CompanionAbility #Mid #Core</source>
+        <target state="translated">Mount #Ability #CompanionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db1d0dd65bfe4fab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A level 3 creature serves you as a mount and follows your instructions. While you’re mounted on it, the creature can move and you can attack on your turn, which provides an asset to your attack. You and the GM must work out the details of the creature, and you’ll probably make rolls for it when it takes noncombat actions. The mount acts on your turn. If your mount dies, you can hunt in the wild for 3d6 days to find a new one.</source>
+        <target state="translated">A level 3 creature serves you as a mount and follows your instructions. While you’re mounted on it, the creature can move and you can attack on your turn, which provides an asset to your attack. You and the GM must work out the details of the creature, and you’ll probably make rolls for it when it takes noncombat actions. The mount acts on your turn. If your mount dies, you can hunt in the wild for 3d6 days to find a new one.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

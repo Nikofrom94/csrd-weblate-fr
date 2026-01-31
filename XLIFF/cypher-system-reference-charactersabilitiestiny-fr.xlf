@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c12d8ce433db7592" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tiny #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5e65e4dbf523aa1b" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you use Shrink, you can choose to shrink down to about one-sixteenth of an inch (.2 cm). When you do, you add 5 more temporary points to your Speed Pool (plus any from Smaller), and because your attacks are concentrated into a very small area, you deal an additional 2 points of damage. For each level of Effort you apply to shrink even more, you become one-tenth as tall (one one-hundredth for two levels of Effort, one one-thousandth for three, and so on) and you add 1 more point to your Speed Pool.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0df5fe1a1cad8436" weblate-flags="md-text, safe-html, strict-same">
+        <source>In campaigns where characters can travel to parallel dimensions, using Tiny to shrink to one-thousandth of your normal height may be a means of doing so.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

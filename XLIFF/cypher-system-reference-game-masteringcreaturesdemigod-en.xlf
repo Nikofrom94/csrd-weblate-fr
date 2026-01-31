@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f17dc7e9f6d07d85" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DEMIGOD #lvl9 (27) #Creature #Core #Fantasy</source>
+        <target state="translated">DEMIGOD #lvl9 (27) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="12534bbf92d2fc97" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lesser gods, divine children of gods and mortals, and other beings bequeathed with partly divine power are called demigods. Their capacities so radically exceed those of regular people that they have transcended humanity. Demigods are so physically and mentally powerful that it’s difficult for them to hide their semi-divine appearance to mortal creatures—not that most would make the effort in the first place.</source>
+        <target state="translated">Lesser gods, divine children of gods and mortals, and other beings bequeathed with partly divine power are called demigods. Their capacities so radically exceed those of regular people that they have transcended humanity. Demigods are so physically and mentally powerful that it’s difficult for them to hide their semi-divine appearance to mortal creatures—not that most would make the effort in the first place.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="559bde86af9124cf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Ineffable</source>
+        <target state="translated">Motive: Ineffable</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="180bc14757f49031" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere other divine entities exist (or once existed)</source>
+        <target state="translated">Environment: Anywhere other divine entities exist (or once existed)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60394c6256faffdb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 99</source>
+        <target state="translated">Health: 99</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a09126280ba2f06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 12 points</source>
+        <target state="translated">Damage Inflicted: 12 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e54e268d6c170603" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 5</source>
+        <target state="translated">Armor: 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca329a0cb0f68a8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when flying</source>
+        <target state="translated">Movement: Short; long when flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="974b13a90ec6669f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Demigods can attack foes up to half a mile (1 km) away with bolts of divine energy (usually in the form of lightning). A demigod can dial up the level of destruction if it wishes, so that instead of affecting only one target, a bolt deals 9 points of damage to all targets within short range of the primary target. Targets caught in the conflagration who succeed on a Speed defense roll still suffer 5 points of damage.</source>
+        <target state="translated">Combat: Demigods can attack foes up to half a mile (1 km) away with bolts of divine energy (usually in the form of lightning). A demigod can dial up the level of destruction if it wishes, so that instead of affecting only one target, a bolt deals 9 points of damage to all targets within short range of the primary target. Targets caught in the conflagration who succeed on a Speed defense roll still suffer 5 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c1728de0b5a5e45c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Demigods are just as scary in hand-to-hand combat and can attack all targets within immediate range as an action. They can also call on a variety of other abilities that seem like magic to lesser foes and mimic the effect of any cypher of level 5 or lower.</source>
+        <target state="translated">Demigods are just as scary in hand-to-hand combat and can attack all targets within immediate range as an action. They can also call on a variety of other abilities that seem like magic to lesser foes and mimic the effect of any cypher of level 5 or lower.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be33d799a7fdf772" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A demigod doesn’t need to alter reality to heal itself, as it automatically regains 2 points of health per round.</source>
+        <target state="translated">A demigod doesn’t need to alter reality to heal itself, as it automatically regains 2 points of health per round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7bb571716a5cc9e7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: For all their power, demigods share most human traits and weaknesses. This means it’s possible to negotiate with one, though the consequences for angering a demigod in the process are dire.</source>
+        <target state="translated">Interaction: For all their power, demigods share most human traits and weaknesses. This means it’s possible to negotiate with one, though the consequences for angering a demigod in the process are dire.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef6135e471e67253" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A demigod was banned from the higher realm of their birth for unknown reasons. Now they seek to show their worth by undertaking a great quest in the mortal world, and they are looking to assemble a group of mortal comrades (sycophants?) to aid them.</source>
+        <target state="translated">Use: A demigod was banned from the higher realm of their birth for unknown reasons. Now they seek to show their worth by undertaking a great quest in the mortal world, and they are looking to assemble a group of mortal comrades (sycophants?) to aid them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6bd89598558c7ec7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Demigods might carry an artifact related to some aspect of their domain (such as wind, messages, or death), if they have one, and 1d6 cyphers.</source>
+        <target state="translated">Loot: Demigods might carry an artifact related to some aspect of their domain (such as wind, messages, or death), if they have one, and 1d6 cyphers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="871223dd7bab0ee6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The divine nature of the demigod allows it to act out of turn, take control of an object (such as an artifact or a cypher) that the PC is about to use against it, and either deactivate the object or turn it against the character.</source>
+        <target state="translated">GM intrusion: The divine nature of the demigod allows it to act out of turn, take control of an object (such as an artifact or a cypher) that the PC is about to use against it, and either deactivate the object or turn it against the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

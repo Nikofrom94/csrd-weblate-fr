@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="75b0a889874fd82b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>See Through Matter (3+ Intellect points) #Ability #SensesAbility #Low #Core</source>
+        <target state="translated">See Through Matter (3+ Intellect points) #Ability #SensesAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="67be6fa826f1f693" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can see through matter as if it were transparent. You can see through up to 6 inches (15 cm) of material for one round. Doing so is a task whose difficulty is equal to the material or object’s level. In addition to the normal options for using Effort, you can choose to use Effort to see through another 6 inches of material for each additional level of Effort you apply toward that goal.</source>
+        <target state="translated">You can see through matter as if it were transparent. You can see through up to 6 inches (15 cm) of material for one round. Doing so is a task whose difficulty is equal to the material or object’s level. In addition to the normal options for using Effort, you can choose to use Effort to see through another 6 inches of material for each additional level of Effort you apply toward that goal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

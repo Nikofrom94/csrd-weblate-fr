@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="2aadc0e0af0b74c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Howls at the Moon #Focus #TankFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0e1bd7a6603d66d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>For brief periods, you become a fearsome and powerful creature with control issues.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6ba62b6f2e33bcd4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Beast Form]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6860087f66da291d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Controlled Change]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df8bb44b5fbdca68" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Bigger Beast Form]{1} or [Greater Beast Form]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a199245148994586" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Greater Controlled Change]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5cde736ad09cd57c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Enhanced Beast Form]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b6ba2fe6533db6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Lethal Damage]{1} or [Perfect Control]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a36fd39f1ea4189a" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The change happens in an uncontrolled fashion. People are terrified of monsters.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

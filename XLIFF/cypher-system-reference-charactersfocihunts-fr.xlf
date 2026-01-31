@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1d6bce6eeba9d1e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Hunts #Focus #StrikerFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6a7cdbc6f524c324" weblate-flags="md-text, safe-html, strict-same">
+        <source>You are a stalking hunter who excels at bringing down your selected quarry.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d904a2c18ecf1387" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Attack Flourish]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b09aa48110fc4ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Tracker]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="31ae8cbd7c609941" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Quarry]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="982ce40993e89f36" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Sneak]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="466850f0ac09c068" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Horde Fighting]{1} or [Sprint and Grab]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8ab885762720ca74" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Surprise Attack]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7fdc983f5c2a2916" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Hunter’s Drive]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fd497f0a98deb343" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Greater Skill With Attacks]{1} or [Multiple Quarry]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6fe11f3375a5b861" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The quarry notices the character. The quarry isn’t as vulnerable as it seemed.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

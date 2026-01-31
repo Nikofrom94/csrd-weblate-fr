@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="154c17e2e962be57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Builds Robots #Focus #AllyFocus #Core</source>
+        <target state="translated">Builds Robots #Focus #AllyFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f646a6e2a11d7f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your robotic creations do as they are commanded.</source>
+        <target state="translated">Your robotic creations do as they are commanded.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f9ba81652b570287" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(The word “robot” is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible “robots.”)</source>
+        <target state="translated">(The word “robot” is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible “robots.”)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="62ea23b4e8f91b4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Robot Assistant]{1}</source>
+        <target state="translated">Tier 1: [Robot Assistant]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6be9a798a90267fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Robot Builder]{1}</source>
+        <target state="translated">Tier 1: [Robot Builder]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="927868be549248d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Robot Control]{1}</source>
+        <target state="translated">Tier 2: [Robot Control]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a95247b724ad622f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Expert Follower]{1} or [Skill With Defense]{2}</source>
+        <target state="translated">Tier 3: [Expert Follower]{1} or [Skill With Defense]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="47e862e25eb56fe2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Robot Upgrade]{1}</source>
+        <target state="translated">Tier 4: [Robot Upgrade]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a1cbc65d566f7a7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Robot Fleet]{1}</source>
+        <target state="translated">Tier 5: [Robot Fleet]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce86fb857065f5ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Robot Evolution]{1} or [Robot Upgrade]{2}</source>
+        <target state="translated">Tier 6: [Robot Evolution]{1} or [Robot Upgrade]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9faf18d3db95810e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: The robot is hacked, gains a mind of its own, or unexpectedly detonates.</source>
+        <target state="translated">GM Intrusions: The robot is hacked, gains a mind of its own, or unexpectedly detonates.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

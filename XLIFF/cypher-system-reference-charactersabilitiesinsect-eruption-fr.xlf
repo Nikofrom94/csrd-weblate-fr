@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="2dad2500c90e2457" weblate-flags="md-text, safe-html, strict-same">
+        <source>Insect Eruption (6 Intellect points) #Ability #CompanionAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e3e3d62efd00a1b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>You call a swarm of insects in a place where it is possible for insects to appear. They remain for one minute, and during this time, they do as you command while they are within long range. They can swarm about and hinder any or all creatures’ tasks, or you can focus the swarm and attack all targets within immediate range of each other (all within long range of you). The attacking swarm inflicts 2 points of damage per round. You can also command the swarm to move heavy objects through collective effort, eat through wooden walls, and perform other actions suitable for a supernatural swarm.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

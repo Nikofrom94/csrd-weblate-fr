@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="02a628ff5a11a4a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Craven #Descriptor #Core</source>
+        <target state="translated">Craven #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae0758f1e245749d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Courage fails you at every turn. You lack the willpower and resolve to stand fast in the face of danger. Fear gnaws at your heart, chewing away at your mind, driving you to distraction until you cannot bear it. Most times, you back down from confrontations. You flee from threats and vacillate when faced with difficult decisions.</source>
+        <target state="translated">Courage fails you at every turn. You lack the willpower and resolve to stand fast in the face of danger. Fear gnaws at your heart, chewing away at your mind, driving you to distraction until you cannot bear it. Most times, you back down from confrontations. You flee from threats and vacillate when faced with difficult decisions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23865abfbdaa253d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Yet for all that fear dogs you and possibly shames you, your cowardly nature proves to be a useful ally from time to time. Listening to your fears has helped you escape danger and avoid taking unnecessary risks. Others may have suffered in your place, and you might be the first to admit this fact, but secretly you feel intense relief from having avoided an unthinkable and terrible fate.</source>
+        <target state="translated">Yet for all that fear dogs you and possibly shames you, your cowardly nature proves to be a useful ally from time to time. Listening to your fears has helped you escape danger and avoid taking unnecessary risks. Others may have suffered in your place, and you might be the first to admit this fact, but secretly you feel intense relief from having avoided an unthinkable and terrible fate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bffeddf1c776c632" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Descriptors like Craven, Cruel, and Dishonorable might not be appropriate for every group. These are villainous traits and some people want their PCs to be entirely heroic. But others don’t mind a little moral greyness thrown into the mix. Still others see things like Craven and Cruel as traits to overcome as their characters develop (probably earning them different descriptors).)</source>
+        <target state="translated">(Descriptors like Craven, Cruel, and Dishonorable might not be appropriate for every group. These are villainous traits and some people want their PCs to be entirely heroic. But others don’t mind a little moral greyness thrown into the mix. Still others see things like Craven and Cruel as traits to overcome as their characters develop (probably earning them different descriptors).)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="86058d1183ded404" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Furtive: +2 to your Speed Pool.</source>
+        <target state="translated">Furtive: +2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f140a6ff7b02957d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in stealth-based tasks.</source>
+        <target state="translated">Skill: You’re trained in stealth-based tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bae02eb4188a5c4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in running actions.</source>
+        <target state="translated">Skill: You’re trained in running actions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c5885924e74b8127" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in any action taken to escape danger, flee from a dangerous situation, or wheedle your way out of trouble.</source>
+        <target state="translated">Skill: You’re trained in any action taken to escape danger, flee from a dangerous situation, or wheedle your way out of trouble.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cbe387bfd2c95b58" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You do not willingly enter dangerous situations. Any initiative actions (to determine who goes first in combat) are hindered.</source>
+        <target state="translated">Inability: You do not willingly enter dangerous situations. Any initiative actions (to determine who goes first in combat) are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca0f6eb64ebddcaf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You fall to pieces when you have to undertake a potentially dangerous task alone. Any such task (such as attacking a creature by yourself) is hindered.</source>
+        <target state="translated">Inability: You fall to pieces when you have to undertake a potentially dangerous task alone. Any such task (such as attacking a creature by yourself) is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="daa2db03fd904d4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You have a good luck charm or protective device to keep you out of harm’s way.</source>
+        <target state="translated">Additional Equipment: You have a good luck charm or protective device to keep you out of harm’s way.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c30400eb963f51af" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You believe that you’re being hunted, and you have hired one of the other PCs as your protector.</source>
+        <target state="translated">You believe that you’re being hunted, and you have hired one of the other PCs as your protector.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c9aa2e45aede713" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You seek to escape your shame and take up with capable individuals in the hopes of repairing your reputation.</source>
+        <target state="translated">You seek to escape your shame and take up with capable individuals in the hopes of repairing your reputation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a977540d9c2cd425" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs bullied you into coming along.</source>
+        <target state="translated">One of the other PCs bullied you into coming along.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3980233593c3965d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The group answered your cries for help when you were in trouble.</source>
+        <target state="translated">The group answered your cries for help when you were in trouble.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

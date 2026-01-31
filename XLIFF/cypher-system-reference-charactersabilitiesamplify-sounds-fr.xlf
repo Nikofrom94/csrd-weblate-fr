@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c32f4bbde64f412f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Amplify Sounds (2 Might points) #Ability #SensesAbility #TaskAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7307d29f9497f625" weblate-flags="md-text, safe-html, strict-same">
+        <source>For one minute, you can amplify distant or small sounds so that you can hear them clearly, even if it’s a conversation or the sound of a small animal moving through an underground burrow up to a very long distance away. You can attempt to perceive the sound even if interceding barriers block it or the sound is very slight, though this requires a few additional rounds of concentration. To discriminate the sound you wish in a noisy environment might also require a few additional rounds of concentration as you audibly explore the surrounding soundscape. Given enough time, you could pinpoint every conversation, every breathing creature, and every device creating noise within range.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f4e64b2fa965100b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate, up to several rounds to complete, depending on the difficulty of the task.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

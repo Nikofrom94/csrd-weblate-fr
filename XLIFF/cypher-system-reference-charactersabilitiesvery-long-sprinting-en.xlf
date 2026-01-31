@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="067621d60f0f6f6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Very Long Sprinting #Ability #MovementAbility #High</source>
+        <target state="translated">Very Long Sprinting #Ability #MovementAbility #High</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89c6c700dc719d68" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use Phase Sprint, you can travel up to a very long distance as your action instead of a long distance.</source>
+        <target state="translated">When you use Phase Sprint, you can travel up to a very long distance as your action instead of a long distance.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

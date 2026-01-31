@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ed41fe0cbd78c41e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ACTION</source>
+        <target state="translated">ACTION</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6202063a302bd3c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Anything a character does that is significant—punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.</source>
+        <target state="translated">Anything a character does that is significant—punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a13e822f7aaadb69" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CHARACTER</source>
+        <target state="translated">CHARACTER</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1da2b5616202b6d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be “characters.”</source>
+        <target state="translated">Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be “characters.”</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8c747c2658ba4d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DIFFICULTY</source>
+        <target state="translated">DIFFICULTY</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2c655f8cefda6f29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called “hindering.” Altering it to make a task easier is called “easing.” All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.</source>
+        <target state="translated">A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called “hindering.” Altering it to make a task easier is called “easing.” All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a0232cab4fc66af" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EASE</source>
+        <target state="translated">EASE</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="59d909f8bedce79f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A decrease in a task’s difficulty, usually by one step. If something doesn’t say how many steps it eases a task, then it reduces the difficulty by one step.</source>
+        <target state="translated">A decrease in a task’s difficulty, usually by one step. If something doesn’t say how many steps it eases a task, then it reduces the difficulty by one step.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1ffa31e9966a49d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EFFORT</source>
+        <target state="translated">EFFORT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="247a963d40bd6b0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.</source>
+        <target state="translated">Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df443f89a88f6aa0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>HINDER</source>
+        <target state="translated">HINDER</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89821443eb6b7201" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An increase in a task’s difficulty, usually by one step. If something doesn’t say how many steps it hinders a task, then it increases the difficulty by one step.</source>
+        <target state="translated">An increase in a task’s difficulty, usually by one step. If something doesn’t say how many steps it hinders a task, then it increases the difficulty by one step.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb49ee4a4f4949fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>INABILITY</source>
+        <target state="translated">INABILITY</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2dc08911a64146b6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The opposite of trained—you’re hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.</source>
+        <target state="translated">The opposite of trained—you’re hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8f94de1a2a063ae0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>LEVEL</source>
+        <target state="translated">LEVEL</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b91e890a0dbb25a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent’s level determines how hard they are to hit or avoid in combat. A door’s level indicates how hard it is to break down. A lock’s level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels—for example, a PC’s tier does not determine a task’s difficulty.</source>
+        <target state="translated">A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent’s level determines how hard they are to hit or avoid in combat. A door’s level indicates how hard it is to break down. A lock’s level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels—for example, a PC’s tier does not determine a task’s difficulty.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef3fd039d78d025a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PRACTICED</source>
+        <target state="translated">PRACTICED</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0b55ec4e3853af9e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The normal, unmodified ability to use a skill—not trained, specialized, or an inability. Your type determines what weapon skills you’re practiced in; if you aren’t practiced with a type of weapon, you have an inability in it.</source>
+        <target state="translated">The normal, unmodified ability to use a skill—not trained, specialized, or an inability. Your type determines what weapon skills you’re practiced in; if you aren’t practiced with a type of weapon, you have an inability in it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="85ba9597808c8ea9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ROLL</source>
+        <target state="translated">ROLL</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f58315349ae81981" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to “a roll,” it always means a d20 roll.</source>
+        <target state="translated">A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to “a roll,” it always means a d20 roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1aad82ef8f4fee50" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ROUND</source>
+        <target state="translated">ROUND</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53b91999d9396124" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A length of time about five to ten seconds long. There are about ten rounds in a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.</source>
+        <target state="translated">A length of time about five to ten seconds long. There are about ten rounds in a minute. When it’s really important to track precise time, use rounds. Basically, it’s the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="30c9dc95db50591a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SPECIALIZED</source>
+        <target state="translated">SPECIALIZED</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63ac56f5b8caf279" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.</source>
+        <target state="translated">Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="278adaabe54047aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>STAT</source>
+        <target state="translated">STAT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8cc6b47df61952d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play—for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat’s Pool.</source>
+        <target state="translated">One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play—for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat’s Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cca935528a86e01d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TASK</source>
+        <target state="translated">TASK</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8cd19f174ecf5369" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.</source>
+        <target state="translated">Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="51ebef887178c2d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TRAINED</source>
+        <target state="translated">TRAINED</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="71d83d961bb5a99e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.</source>
+        <target state="translated">Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="20c469323a438371" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TURN</source>
+        <target state="translated">TURN</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e231f4095c587356" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.</source>
+        <target state="translated">The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

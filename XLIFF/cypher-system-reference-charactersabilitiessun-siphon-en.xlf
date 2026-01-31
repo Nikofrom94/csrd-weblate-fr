@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="066a35ea857548f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sun Siphon #Ability #SpecialAttackAbility #Mid #Core</source>
+        <target state="translated">Sun Siphon #Ability #SpecialAttackAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b852282e2c371d9b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The safe limit of your Siphon Pool from the Store Energy ability increases by 3 points. If you spend an hour in sunlight (or an hour in contact with a suitable powerful energy source), you automatically fill your Siphon Pool to its safe limit. You can’t refill your Siphon Pool this way again until after your next ten-hour recovery roll.</source>
+        <target state="translated">The safe limit of your Siphon Pool from the Store Energy ability increases by 3 points. If you spend an hour in sunlight (or an hour in contact with a suitable powerful energy source), you automatically fill your Siphon Pool to its safe limit. You can’t refill your Siphon Pool this way again until after your next ten-hour recovery roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

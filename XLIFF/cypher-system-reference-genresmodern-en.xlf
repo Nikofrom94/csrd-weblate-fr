@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b553dc032bcb99a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Setting</source>
+        <target state="translated">Setting</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="12e5b9bfeabfffa0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well.</source>
+        <target state="translated">The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b0b9e4efad18be1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.</source>
+        <target state="translated">But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0a8910a96432577" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters</source>
+        <target state="translated">Characters</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7b32d1cc84812eb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Types</source>
+        <target state="translated">Types</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="786e2d02258b4a34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**MOLDING CHARACTERS FOR A MODERN GAME** If you’re trying to portray a psychic with a few basic powers, you might not want to use the Adept character type. Instead, choose a different type (perhaps a Speaker) and encourage foci such as Commands Mental Powers or Focuses Mind Over Matter. Some of the Adept’s powers might be too over the top for the genre.</source>
+        <target state="translated">**MOLDING CHARACTERS FOR A MODERN GAME** If you’re trying to portray a psychic with a few basic powers, you might not want to use the Adept character type. Instead, choose a different type (perhaps a Speaker) and encourage foci such as Commands Mental Powers or Focuses Mind Over Matter. Some of the Adept’s powers might be too over the top for the genre.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="59ef35f612b8140c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Similarly, the technology flavor is probably too high-tech for a modern game. For someone with technical skills, use the skills and knowledge flavor instead.</source>
+        <target state="translated">Similarly, the technology flavor is probably too high-tech for a modern game. For someone with technical skills, use the skills and knowledge flavor instead.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb24c303368b2d38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes, the types might be more physical than is always desirable for a modern game, but that’s because the least physical type, the Adept, is often inappropriate for other reasons. The Calm descriptor is very good for such characters, not only granting them a great deal of skill and knowledge, but also reducing their physical capabilities.</source>
+        <target state="translated">Sometimes, the types might be more physical than is always desirable for a modern game, but that’s because the least physical type, the Adept, is often inappropriate for other reasons. The Calm descriptor is very good for such characters, not only granting them a great deal of skill and knowledge, but also reducing their physical capabilities.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4eb86f81428ff374" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading for “normal” characters who have useful skills but not much in the way of flashy abilities.</source>
+        <target state="translated">Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading for “normal” characters who have useful skills but not much in the way of flashy abilities.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fb95eae9f33d4982" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>**Suggested Types for a MODERN Game**</source>
+        <target state="translated">**Suggested Types for a MODERN Game**</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0fcbabeda3d8db9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Role</source>
+        <target state="translated">Role</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4260caf7dbb163c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f20919a53aeba85" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Police officer</source>
+        <target state="translated">Police officer</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="49acb6349396d28f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with combat flavor</source>
+        <target state="translated">Explorer with combat flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66553accc86214db" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Detective</source>
+        <target state="translated">Detective</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with stealth flavor</source>
+        <target state="translated">Explorer with stealth flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f05b1db31d57b580" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Soldier</source>
+        <target state="translated">Soldier</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e8b99184ef8b865" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Warrior</source>
+        <target state="translated">Warrior</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ba67f0f577c23e26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Criminal</source>
+        <target state="translated">Criminal</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0b3c58fa2ac6a169" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Teacher</source>
+        <target state="translated">Teacher</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker</source>
+        <target state="translated">Speaker</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3388d75702e30dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Professional (accountant, writer, etc.)</source>
+        <target state="translated">Professional (accountant, writer, etc.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker with skills and knowledge flavor</source>
+        <target state="translated">Speaker with skills and knowledge flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="47e8c51f2d784ede" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Technical profession</source>
+        <target state="translated">Technical profession</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with skills and knowledge flavor</source>
+        <target state="translated">Explorer with skills and knowledge flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8485f2857c0416e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dilettante</source>
+        <target state="translated">Dilettante</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="132e37f14bd3e701" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Doctor/Nurse</source>
+        <target state="translated">Doctor/Nurse</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="52641c7cc906dc38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Politician</source>
+        <target state="translated">Politician</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aaa55b6ae02cfb72" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lawyer</source>
+        <target state="translated">Lawyer</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="02b8764580333c61" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scholar</source>
+        <target state="translated">Scholar</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a94d0b8af55ddce5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spy</source>
+        <target state="translated">Spy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="776afd17dbd2e014" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker with stealth flavor</source>
+        <target state="translated">Speaker with stealth flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="47554f20bb925dec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Occultist</source>
+        <target state="translated">Occultist</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Adept</source>
+        <target state="translated">Adept</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2206a58d553ca0c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mystic/Psychic</source>
+        <target state="translated">Mystic/Psychic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dbed230fcf99d037" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Equipment</source>
+        <target state="translated">Equipment</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="790e36b84a9d0039" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a modern setting, the following items (and anything else appropriate to the real world) are usually available.</source>
+        <target state="translated">In a modern setting, the following items (and anything else appropriate to the real world) are usually available.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a60422956ebb947" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ammo (Box of 50 rounds)</source>
+        <target state="translated">Ammo (Box of 50 rounds)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a853a8352ddd9fd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ammo (Box of 50 rounds) #Item #Inexpensive #Modern</source>
+        <target state="translated">Ammo (Box of 50 rounds) #Item #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b3b1c98810b8c48" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Knife (Simple)</source>
+        <target state="translated">Knife (Simple)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1555a0ffbe7cbf3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Knife (Simple) #Item #WeaponLight #Inexpensive #Modern</source>
+        <target state="translated">Knife (Simple) #Item #WeaponLight #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00775d779b7eb959" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Won't last long</source>
+        <target state="translated">Won't last long</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32b898db10044589" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Duct tape roll</source>
+        <target state="translated">Duct tape roll</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c4c3312f4711ac6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Duct tape roll #Item #Inexpensive #Modern</source>
+        <target state="translated">Duct tape roll #Item #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="988158755cf2654b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Useful and ubiquitous</source>
+        <target state="translated">Useful and ubiquitous</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="347dddde4cee7ff0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flashlight</source>
+        <target state="translated">Flashlight</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f50c7b7d973f045" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flashlight #Item #Inexpensive #Modern</source>
+        <target state="translated">Flashlight #Item #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6da994f1ab3baba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Padlock with keys</source>
+        <target state="translated">Padlock with keys</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d03b327f24099795" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Padlock with Keys #Item #Inexpensive #Modern</source>
+        <target state="translated">Padlock with Keys #Item #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="080e87d670d19eb8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trail Rations (1 day)</source>
+        <target state="translated">Trail Rations (1 day)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23523fa46228d8c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trail Rations (1 day) #Item #Inexpensive #Modern</source>
+        <target state="translated">Trail Rations (1 day) #Item #Inexpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4be7f2a6d88fa4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hand Grenade</source>
+        <target state="translated">Hand Grenade</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d13b317fd659aa7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hand Grenade #Item #Moderate #Modern</source>
+        <target state="translated">Hand Grenade #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="734d285b656bf8d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explosive weapon, inflicts 4 points of damage in immediate radius</source>
+        <target state="translated">Explosive weapon, inflicts 4 points of damage in immediate radius</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eda619df0fb51ada" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hunting Knife</source>
+        <target state="translated">Hunting Knife</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c50f5d9f2faaaf0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hunting Knife #Item #WeaponLight #Moderate #Modern</source>
+        <target state="translated">Hunting Knife #Item #WeaponLight #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2c8695f7de53728" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machete</source>
+        <target state="translated">Machete</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2669253553c30b9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Machete #Item #WeaponMedium #Moderate #Modern</source>
+        <target state="translated">Machete #Item #WeaponMedium #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="37ba38cd0d71a909" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nightstick</source>
+        <target state="translated">Nightstick</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c088127470e04449" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nightstick #Item #WeaponLight #Moderate #Modern</source>
+        <target state="translated">Nightstick #Item #WeaponLight #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f116d00a2b3ac46" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Leather Jacket</source>
+        <target state="translated">Leather Jacket</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8f77887d63bc08b4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Leather Jacket #Item #ArmorLight #Moderate #Modern</source>
+        <target state="translated">Leather Jacket #Item #ArmorLight #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="42c7422e6773a1a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Binoculars</source>
+        <target state="translated">Binoculars</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0d1ed4ec613d92a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Binoculars #Item #Moderate #Modern</source>
+        <target state="translated">Binoculars #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="39f276b40b2d3fa7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bolt Cutters</source>
+        <target state="translated">Bolt Cutters</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1c1e6ec24df58e40" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bolt Cutters #Item #Moderate #Modern</source>
+        <target state="translated">Bolt Cutters #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2bcb6e8f52d97c10" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cell Phone</source>
+        <target state="translated">Cell Phone</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f20a8a85bb2d6da2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cell Phone #Item #Moderate #Modern</source>
+        <target state="translated">Cell Phone #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9bcb816984633f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Electric lantern</source>
+        <target state="translated">Electric lantern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8d05590abefb92b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Electric lantern #Item #Moderate #Modern</source>
+        <target state="translated">Electric lantern #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d75bea50755f8a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Handcuffs</source>
+        <target state="translated">Handcuffs</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2fab5f61589b84d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Handcuffs #Item #Moderate #Modern</source>
+        <target state="translated">Handcuffs #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="941601e2e08622da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sleeping bag</source>
+        <target state="translated">Sleeping bag</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ff7563dcbb57c78e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sleeping bag #Item #Moderate #Modern</source>
+        <target state="translated">Sleeping bag #Item #Moderate #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="22e4c8c3e271da7f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Light Handgun</source>
+        <target state="translated">Light Handgun</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d43d7e0bf766cbbf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Light Handgun #Item #WeaponLight #Expensive #Modern</source>
+        <target state="translated">Light Handgun #Item #WeaponLight #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="641624a2b8b9bdb1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Short range</source>
+        <target state="translated">Short range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b6a4d8be41530ba9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Medium Handgun</source>
+        <target state="translated">Medium Handgun</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35c2ac4e9fa5414e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Medium Handgun #Item #WeaponMedium #Expensive #Modern</source>
+        <target state="translated">Medium Handgun #Item #WeaponMedium #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":127" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Long range</source>
+        <target state="translated">Long range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="62c21825e4c4fb03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rifle</source>
+        <target state="translated">Rifle</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="47a94ada828b1635" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rifle #Item #WeaponMedium #Expensive #Modern</source>
+        <target state="translated">Rifle #Item #WeaponMedium #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":133" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Long range</source>
+        <target state="translated">Long range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5f1b0ad4f95ab630" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shotgun</source>
+        <target state="translated">Shotgun</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0de3a01ffcbdc78d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shotgun #Item #WeaponHeavy #Expensive #Modern</source>
+        <target state="translated">Shotgun #Item #WeaponHeavy #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="343af06ee2aaf87a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Immediate Range</source>
+        <target state="translated">Immediate Range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="08c564f6658a3bbe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Kevlar Vest</source>
+        <target state="translated">Kevlar Vest</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f48b5232c578d4b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Kevlar Vest #Item #ArmorMedium #Expensive #Modern</source>
+        <target state="translated">Kevlar Vest #Item #ArmorMedium #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e19cc8ae0b3069a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Concealed Camera</source>
+        <target state="translated">Concealed Camera</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be1dd41798b6ad4b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Concealed Camera #Item #Expensive #Modern</source>
+        <target state="translated">Concealed Camera #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="562673462eceb683" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Camera designed to be concealed. Transmits at long range</source>
+        <target state="translated">Camera designed to be concealed. Transmits at long range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="40883dcf324bcaeb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Concealed microphone</source>
+        <target state="translated">Concealed microphone</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2474a03b3069ca6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Concealed microphone #Item #Expensive #Modern</source>
+        <target state="translated">Concealed microphone #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be7ece446367b5ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Microphone designed to be concealed. Transmits at long range</source>
+        <target state="translated">Microphone designed to be concealed. Transmits at long range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="026601ee7a2f0328" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cold Weather Camping Gear</source>
+        <target state="translated">Cold Weather Camping Gear</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6b812ffb9d48ab5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cold Weather Camping Gear #Item #Expensive #Modern</source>
+        <target state="translated">Cold Weather Camping Gear #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca02b041cadfeba9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nightvision Goggles</source>
+        <target state="translated">Nightvision Goggles</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="40d1d559d2dcaf19" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nightvision Goggles #Item #Expensive #Modern</source>
+        <target state="translated">Nightvision Goggles #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="033fb3fb493e37f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scuba Gear</source>
+        <target state="translated">Scuba Gear</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57eb216c26b21e7e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scuba Gear #Item #Expensive #Modern</source>
+        <target state="translated">Scuba Gear #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11337460a7e63d90" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smartphone</source>
+        <target state="translated">Smartphone</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23d5a9d64a6e50dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smartphone #Item #Expensive #Modern</source>
+        <target state="translated">Smartphone #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ade6799e1b9495a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Straightjacket</source>
+        <target state="translated">Straightjacket</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8d1499c3ba1b3898" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Straightjacket #Item #Expensive #Modern</source>
+        <target state="translated">Straightjacket #Item #Expensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f33a04111d10721f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heavy Handgun</source>
+        <target state="translated">Heavy Handgun</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3163483397a7b30f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heavy Handgun #Item #WeaponHeavy #VeryExpensive #Modern</source>
+        <target state="translated">Heavy Handgun #Item #WeaponHeavy #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28c68c07e5a6a458" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Long Range</source>
+        <target state="translated">Long Range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32f3d8951874d6a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Assault rifle</source>
+        <target state="translated">Assault rifle</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">183</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f7d3d36c292e77f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Assault Rifle #Item #WeaponHeavy #VeryExpensive #Modern</source>
+        <target state="translated">Assault Rifle #Item #WeaponHeavy #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3578bc4b615c284a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rapid-Fire Weapon, Long rage</source>
+        <target state="translated">Rapid-Fire Weapon, Long rage</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="416f7d431fcc86fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heavy Rifle</source>
+        <target state="translated">Heavy Rifle</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="74378a7b1919d7da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heavy Rifle #Item #WeaponHeavy #VeryExpensive #Modern</source>
+        <target state="translated">Heavy Rifle #Item #WeaponHeavy #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1038057395acf46a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>300-foot (90m) Range</source>
+        <target state="translated">300-foot (90m) Range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc30934e7fe44662" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Submachine gun</source>
+        <target state="translated">Submachine gun</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0814cd050b800787" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Submachine gun #Item #WeaponMedium #VeryExpensive #Modern</source>
+        <target state="translated">Submachine gun #Item #WeaponMedium #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="24b51039f3b86de0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rapid fire weapon, Short range</source>
+        <target state="translated">Rapid fire weapon, Short range</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc8d7e552460b7ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lightweight Body Armor</source>
+        <target state="translated">Lightweight Body Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc739f51c9dac07c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lightweight Body Armor #Item #ArmorMedium #VeryExpensive #Modern</source>
+        <target state="translated">Lightweight Body Armor #Item #ArmorMedium #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="910b157ed4fb1517" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Encumbers as light armor</source>
+        <target state="translated">Encumbers as light armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">205</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bd9ba0b7d0284982" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Military Body Armor</source>
+        <target state="translated">Military Body Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="270145c5a1ab0952" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Military Body Armor #Item #ArmorHeavy #VeryExpensive #Modern</source>
+        <target state="translated">Military Body Armor #Item #ArmorHeavy #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="39e408bd52da4885" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Disguise kit</source>
+        <target state="translated">Disguise kit</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="794b6ac86d2f53a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Disguise kit #Item #VeryExpensive #Modern</source>
+        <target state="translated">Disguise kit #Item #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4760d1f98dd801c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Asset for disguise tasks</source>
+        <target state="translated">Asset for disguise tasks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c7b565840b2ae36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Small Boat</source>
+        <target state="translated">Small Boat</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da45678f7801e5ef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Small Boat #Item #VeryExpensive #Modern</source>
+        <target state="translated">Small Boat #Item #VeryExpensive #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">219</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1b6c8ce7739c7e4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Large Boat</source>
+        <target state="translated">Large Boat</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0d118d22a738451" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Large Boat #Item #Exorbitant #Modern</source>
+        <target state="translated">Large Boat #Item #Exorbitant #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">223</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":225" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 5</source>
+        <target state="translated">Level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">225</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5dfaa3a90de4e502" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Luxury Car</source>
+        <target state="translated">Luxury Car</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da991395f5e8b558" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Luxury Car #Item #Exorbitant #Modern</source>
+        <target state="translated">Luxury Car #Item #Exorbitant #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":231" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 5</source>
+        <target state="translated">Level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2cc97e32befb3e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sports Car</source>
+        <target state="translated">Sports Car</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d13c521ab392df9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sports Car #Item #Exorbitant #Modern</source>
+        <target state="translated">Sports Car #Item #Exorbitant #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">235</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94abd157db9f3cc3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 6</source>
+        <target state="translated">Level 6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">237</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5dffbefae218d796" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Extra Rules</source>
+        <target state="translated">Extra Rules</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="40e20117b1cffbdc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>OPTIONAL RULE: HANDLING PCs AS CHILDREN</source>
+        <target state="translated">OPTIONAL RULE: HANDLING PCs AS CHILDREN</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2e8ccd721abdf4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.</source>
+        <target state="translated">The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">243</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="810b76dadd8bd91f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>AGE 9 TO 13</source>
+        <target state="translated">AGE 9 TO 13</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">245</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c319b63dbf69713f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Slight: –4 to your Might Pool.</source>
+        <target state="translated">Slight: –4 to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f60e1b5acb7e9845" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Vulnerable: Adults look out for you. You are trained in all pleasant social interactions with adults.</source>
+        <target state="translated">Vulnerable: Adults look out for you. You are trained in all pleasant social interactions with adults.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6cd3e47fc6d7a43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Might-based tasks are hindered.</source>
+        <target state="translated">Inability: Might-based tasks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":249" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Tasks involving knowledge are hindered.</source>
+        <target state="translated">Inability: Tasks involving knowledge are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="958167f0d6dafedd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>AGE 14 TO 17</source>
+        <target state="translated">AGE 14 TO 17</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">251</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60dcac607f62a04a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Youthful: –2 to your Might Pool.</source>
+        <target state="translated">Youthful: –2 to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":253" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Tasks involving knowledge are hindered.</source>
+        <target state="translated">Inability: Tasks involving knowledge are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">253</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8e82551d16b22fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Creatures</source>
+        <target state="translated">Creatures</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">255</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="033cfad68656c88c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Businessperson</source>
+        <target state="translated">Businessperson</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d7c50b21a51d243" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Businessperson #lvl2 (6) #Creature #Modern</source>
+        <target state="translated">Businessperson #lvl2 (6) #Creature #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">259</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f8bf09a3d53ab756" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: business tasks as level 3</source>
+        <target state="translated">Modifications: business tasks as level 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">261</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a5f082c0aa39d7e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Clerk</source>
+        <target state="translated">Clerk</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">263</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c9881f91635a781a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Clerk #Lvl2 (6) #Creature #Modern</source>
+        <target state="translated">Clerk #Lvl2 (6) #Creature #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">265</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ac852fee6c9fbd0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Worker</source>
+        <target state="translated">Worker</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">267</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bee02f9dff6d83b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Worker #lvl2 (6) #Creature #Modern</source>
+        <target state="translated">Worker #lvl2 (6) #Creature #Modern</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">269</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0c7555022903464" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 8</source>
+        <target state="translated">Health: 8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">271</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b05b02b57b16108e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Taunt Foe (4 Might or Intellect points) #Ability #SpecialAttackAbility #High #Core</source>
+        <target state="translated">Taunt Foe (4 Might or Intellect points) #Ability #SpecialAttackAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8224d186137f0d01" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can make an attack on a foe as part of drawing an attack (which is not something you can do normally when attempting to draw an attack). In cases where an intelligent or determined foe isn’t drawn to you, you can attempt an Intellect action as part of the attack. If that Intellect action is successful, the foe attacks you. Your defenses against that attack are hindered by one step, instead of being hindered by two steps as normal when drawing an attack.</source>
+        <target state="translated">You can make an attack on a foe as part of drawing an attack (which is not something you can do normally when attempting to draw an attack). In cases where an intelligent or determined foe isn’t drawn to you, you can attempt an Intellect action as part of the attack. If that Intellect action is successful, the foe attacks you. Your defenses against that attack are hindered by one step, instead of being hindered by two steps as normal when drawing an attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

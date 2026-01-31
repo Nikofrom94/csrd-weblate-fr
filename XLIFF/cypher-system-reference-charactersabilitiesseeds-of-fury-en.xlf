@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3389c8a3339717f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Seeds of Fury (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core</source>
+        <target state="translated">Seeds of Fury (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd0eb0685e9fd379" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You throw a handful of seeds in the air that ignite and speed toward a target within long range, scratching the air with twisting smoke trails. The attack deals 3 points of damage and catches the target on fire, which inflicts 1 additional point of damage per round for up to a minute or until the target uses an action to douse the flames.</source>
+        <target state="translated">You throw a handful of seeds in the air that ignite and speed toward a target within long range, scratching the air with twisting smoke trails. The attack deals 3 points of damage and catches the target on fire, which inflicts 1 additional point of damage per round for up to a minute or until the target uses an action to douse the flames.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="058d478d71245d7e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inquisitive #Descriptor #Core</source>
+        <target state="translated">Inquisitive #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96f4a087bd8ecbd1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The world is vast and mysterious, with wonders and secrets to keep you amazed for several lifetimes. You feel the tugging on your heart, the call to explore the wreckage of past civilizations, to discover new peoples, new places, and whatever bizarre wonders you might find along the way. However, as strongly as you feel the pull to roam the world, you know there is danger aplenty, and you take precautions to ensure that you are prepared for any eventuality. Research, preparation, and readiness will help you live long enough to see everything you want to see and do everything you want to do.</source>
+        <target state="translated">The world is vast and mysterious, with wonders and secrets to keep you amazed for several lifetimes. You feel the tugging on your heart, the call to explore the wreckage of past civilizations, to discover new peoples, new places, and whatever bizarre wonders you might find along the way. However, as strongly as you feel the pull to roam the world, you know there is danger aplenty, and you take precautions to ensure that you are prepared for any eventuality. Research, preparation, and readiness will help you live long enough to see everything you want to see and do everything you want to do.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0f99075bf8861e94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You probably have a dozen books and travelogues about the world on you at any time. When not hitting the road and looking around, you spend your time with your nose in a book, learning everything you can about the place you’re going so you know what to expect when you get there.</source>
+        <target state="translated">You probably have a dozen books and travelogues about the world on you at any time. When not hitting the road and looking around, you spend your time with your nose in a book, learning everything you can about the place you’re going so you know what to expect when you get there.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="861db0dd1cf6f891" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smart: +4 to your Intellect Pool.</source>
+        <target state="translated">Smart: +4 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09361fa2bc3a82c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are eager to learn. You are trained in any task that involves learning something new, whether you’re talking to a local to get information or digging through old books to find lore.</source>
+        <target state="translated">Skill: You are eager to learn. You are trained in any task that involves learning something new, whether you’re talking to a local to get information or digging through old books to find lore.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec12bdae7f3288c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You have made a study of the world. You are trained in any task involving geography or history.</source>
+        <target state="translated">Skill: You have made a study of the world. You are trained in any task involving geography or history.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4626ec592334382d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You tend to fixate on the details, making you somewhat oblivious to what’s going on around you. Any task to hear or notice dangers around you is hindered.</source>
+        <target state="translated">Inability: You tend to fixate on the details, making you somewhat oblivious to what’s going on around you. Any task to hear or notice dangers around you is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cb77422e2b79b61" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: When you see something interesting, you hesitate as you take in all the details. Initiative actions (to determine who goes first in combat) are hindered.</source>
+        <target state="translated">Inability: When you see something interesting, you hesitate as you take in all the details. Initiative actions (to determine who goes first in combat) are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1c8375f9578c8c7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You have three books on whatever subjects you choose.</source>
+        <target state="translated">Additional Equipment: You have three books on whatever subjects you choose.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9344f62a0b1d4cb6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the PCs approached you to learn information related to the mission, having heard you were an expert.</source>
+        <target state="translated">One of the PCs approached you to learn information related to the mission, having heard you were an expert.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="336441642d9e0b87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have always wanted to see the place where the other PCs are going.</source>
+        <target state="translated">You have always wanted to see the place where the other PCs are going.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="80a7fb542c6f523e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You were interested in what the other PCs were up to and decided to go along with them.</source>
+        <target state="translated">You were interested in what the other PCs were up to and decided to go along with them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8eb806de778e787f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the PCs fascinates you, perhaps due to a special or weird ability they have.</source>
+        <target state="translated">One of the PCs fascinates you, perhaps due to a special or weird ability they have.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

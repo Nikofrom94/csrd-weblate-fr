@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="61c8c3783caf8845" weblate-flags="md-text, safe-html, strict-same">
+        <source>Powered Armor #Ability #ProtectionAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d6189b2364aa2827" weblate-flags="md-text, safe-html, strict-same">
+        <source>You have a suit of powered armor. It is effectively medium armor (+2 to Armor); however, you suffer no Speed penalties for wearing it. Also, your suit grants other benefits: it provides breathable air for up to eight hours and a comfortable environment even in bitter heat, cold, vacuum, or underwater to a depth of 4 miles (6 km); and it allows you to see in the dark up to a short distance. Getting into the suit requires an action (and, of course, access to your suit).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

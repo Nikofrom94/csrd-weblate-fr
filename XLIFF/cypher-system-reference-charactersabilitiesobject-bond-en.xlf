@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="16feff85819dfcfd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Object Bond (3 Intellect points) #Ability #CompanionAbility #Mid #Core</source>
+        <target state="translated">Object Bond (3 Intellect points) #Ability #CompanionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4a17d592409a4b6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you manifest the magic ally from your Bound Magic Creature ability, it can move up to 300 feet (90 m) from you before being returned to its bound object. Also, it can remain manifest for an extended period, lasting until the end of your next ten-hour recovery roll. Finally, if you give permission, the magic ally can emerge from and enter the bound object on its own initiative.</source>
+        <target state="translated">When you manifest the magic ally from your Bound Magic Creature ability, it can move up to 300 feet (90 m) from you before being returned to its bound object. Also, it can remain manifest for an extended period, lasting until the end of your next ten-hour recovery roll. Finally, if you give permission, the magic ally can emerge from and enter the bound object on its own initiative.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

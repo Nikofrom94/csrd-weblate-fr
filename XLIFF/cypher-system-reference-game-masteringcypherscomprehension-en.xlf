@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="e545500562189a51" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>COMPREHENSION #Cypher #Fantastic #Core</source>
+        <target state="translated">COMPREHENSION #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="acef603dcaa8b5c8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Within five minutes, the user can understand the words of a specific language keyed to the cypher (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the user could already understand the language, the cypher has no effect. Once the cypher is used, the effect is permanent, and the cypher no longer counts against the number of cyphers that a PC can bear.</source>
+        <target state="translated">Effect: Within five minutes, the user can understand the words of a specific language keyed to the cypher (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the user could already understand the language, the cypher has no effect. Once the cypher is used, the effect is permanent, and the cypher no longer counts against the number of cyphers that a PC can bear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

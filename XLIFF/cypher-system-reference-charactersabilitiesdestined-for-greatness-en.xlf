@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="669e14c5a1f5b73f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Destined for Greatness #Ability #CureAbility #Low #Core</source>
+        <target state="translated">Destined for Greatness #Ability #CureAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4295cf31017c2d9a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You enjoy uncanny luck as if something was watching over you and keeping you from harm. When you would otherwise descend a step on the damage track, make an Intellect defense roll versus the difficulty set by the level of the foe or effect. If you succeed, you do not descend that step. If the step was because you fell to 0 points in a Pool, you are still at 0 points; you just don’t suffer the negative effects of being impaired or debilitated. If you would otherwise descend the final step on the damage track to death, a successful defense roll keeps you at 1 point in one Pool, and you remain debilitated.</source>
+        <target state="translated">You enjoy uncanny luck as if something was watching over you and keeping you from harm. When you would otherwise descend a step on the damage track, make an Intellect defense roll versus the difficulty set by the level of the foe or effect. If you succeed, you do not descend that step. If the step was because you fell to 0 points in a Pool, you are still at 0 points; you just don’t suffer the negative effects of being impaired or debilitated. If you would otherwise descend the final step on the damage track to death, a successful defense roll keeps you at 1 point in one Pool, and you remain debilitated.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

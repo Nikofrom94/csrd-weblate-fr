@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6b7dc46b7172a51e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>MENTAL SCRAMBLER #Cypher #Fantastic #Core</source>
+        <target state="translated">MENTAL SCRAMBLER #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73454c6c3b47c613" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the mental processes of all thinking creatures. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it). Each mental scrambler is keyed to a specific effect. Roll a d100 to determine the effect.</source>
+        <target state="translated">Effect: Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the mental processes of all thinking creatures. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it). Each mental scrambler is keyed to a specific effect. Roll a d100 to determine the effect.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2bbd80936f9798f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–30</source>
+        <target state="translated">01–30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04be36163b6813ee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims cannot act.</source>
+        <target state="translated">Victims cannot act.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fba70be65bab37d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>31–40</source>
+        <target state="translated">31–40</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0aac23bea84cff1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims cannot speak.</source>
+        <target state="translated">Victims cannot speak.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ba6e720cfbceda2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>41–50</source>
+        <target state="translated">41–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="de01eec0fedcd395" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims move slowly (immediate range) and clumsily.</source>
+        <target state="translated">Victims move slowly (immediate range) and clumsily.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94a9e839eba00b39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–60</source>
+        <target state="translated">51–60</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0f19cde6d37162c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims cannot see or hear.</source>
+        <target state="translated">Victims cannot see or hear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55f4329799449dea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>61–70</source>
+        <target state="translated">61–70</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2a96c35dc1f0fcb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims lose all sense of direction, depth, and proportion.</source>
+        <target state="translated">Victims lose all sense of direction, depth, and proportion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee167e5647490699" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>71–80</source>
+        <target state="translated">71–80</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca9dabce1f4a44e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims do not recognize anyone they know.</source>
+        <target state="translated">Victims do not recognize anyone they know.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c2acba190793fce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>81–88</source>
+        <target state="translated">81–88</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df6d83ad46c51e6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims suffer partial amnesia.</source>
+        <target state="translated">Victims suffer partial amnesia.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b8691577b81a9d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>89–94</source>
+        <target state="translated">89–94</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09675d4606addc19" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims suffer total amnesia.</source>
+        <target state="translated">Victims suffer total amnesia.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ffb196aa5bbdab4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>95–98</source>
+        <target state="translated">95–98</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4370248acdf0726b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims lose all inhibitions, revealing secrets and performing surprising actions.</source>
+        <target state="translated">Victims lose all inhibitions, revealing secrets and performing surprising actions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d38785fdd56cd58d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>99–00</source>
+        <target state="translated">99–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="21945cee3ef7371c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Victims’ ethics are inverted.</source>
+        <target state="translated">Victims’ ethics are inverted.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

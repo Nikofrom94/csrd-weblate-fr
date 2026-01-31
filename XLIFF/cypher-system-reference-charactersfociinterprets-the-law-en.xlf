@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="e21b36fc4a4fa4f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interprets the Law #Focus #BasicFocus #Core</source>
+        <target state="translated">Interprets the Law #Focus #BasicFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e6265d47942322a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You excel at winning others over to your views.</source>
+        <target state="translated">You excel at winning others over to your views.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1bc129bdf858230" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Opening Statement]{1}</source>
+        <target state="translated">Tier 1: [Opening Statement]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="91ee631d123c6418" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Knowledge of the Law]{1}</source>
+        <target state="translated">Tier 1: [Knowledge of the Law]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cecc4a1a4cead5c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Debate]{1}</source>
+        <target state="translated">Tier 2: [Debate]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f4f3ede5af1329b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Able Assistance]{1} or [Enhanced Intellect Edge]{2}</source>
+        <target state="translated">Tier 3: [Able Assistance]{1} or [Enhanced Intellect Edge]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68f8131a33dfa3ba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Castigate]{1}</source>
+        <target state="translated">Tier 4: [Castigate]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18a58773d3874525" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [No One Knows Better]{1}</source>
+        <target state="translated">Tier 5: [No One Knows Better]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d41896da0e7add0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Greater Enhanced Potential]{1} or [Legal Intern]{2}</source>
+        <target state="translated">Tier 6: [Greater Enhanced Potential]{1} or [Legal Intern]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fa069d3cb9158e91" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.</source>
+        <target state="translated">GM Intrusions: Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

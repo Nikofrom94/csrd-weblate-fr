@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="de58dc6a42763751" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Community Activist #Ability #ControlAbility #Low #Core</source>
+        <target state="translated">Community Activist #Ability #ControlAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f9df026e4d31b563" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When speaking to others in a community you have a strong connection to, you are trained in persuasion and intimidation tasks about topics that directly relate to the community.</source>
+        <target state="translated">When speaking to others in a community you have a strong connection to, you are trained in persuasion and intimidation tasks about topics that directly relate to the community.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

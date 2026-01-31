@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="22a29194ee237afb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Battlefield Tactician (2+ Intellect points) #Ability #SensesAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0775ffadc3559b75" weblate-flags="md-text, safe-html, strict-same">
+        <source>You scrutinize your surroundings, learning whatever facts the GM feels are pertinent about attacking, defending, maneuvering, and dealing with environmental hazards within a short distance. For example, you might notice a pile of rubble you can stand on for an advantage in melee, a sheltered corner to help protect against enemy attacks, a less-slippery part of a frozen lake, or a place where the poison gas is thinner than elsewhere. If you (or someone you tell) move to that location, you (or they) gain an asset on tasks related to that optimal position (such as attack rolls from the high ground, Speed defense rolls from the sheltered corner, balance rolls on the frozen lake, or Might defense rolls against the poisonous cloud). Instead of gaining an advantageous location, you might learn of a disadvantageous location that you could use against your enemies, such as maneuvering them into an awkward corner that hinders their melee attacks or a weak spot on the frozen lake that will break if they stand on it. You can apply Effort to learn one additional good or bad location within range (one location per level of Effort), increase the range of this ability (another short distance per level of Effort), or both.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

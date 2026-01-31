@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="01c76819b9473498" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Brash #Descriptor #Core</source>
+        <target state="translated">Brash #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf344c42ae8b3c21" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don’t agree with. Some people call you bold and brave, but those you’ve put in their place might call you puffed up and arrogant. Whatever. It’s not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first.</source>
+        <target state="translated">You’re a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don’t agree with. Some people call you bold and brave, but those you’ve put in their place might call you puffed up and arrogant. Whatever. It’s not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="710a57543f42ed96" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Energetic: +2 to your Speed Pool.</source>
+        <target state="translated">Energetic: +2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63413087fa6fb627" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in initiative.</source>
+        <target state="translated">Skill: You are trained in initiative.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00923058f9ec9c8b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bold: You are trained in all actions that involve overcoming or ignoring the effects of fear or intimidation.</source>
+        <target state="translated">Bold: You are trained in all actions that involve overcoming or ignoring the effects of fear or intimidation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2204eb55c32fefb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You noticed something weird going on, and without much thought, you jumped in with both feet.</source>
+        <target state="translated">You noticed something weird going on, and without much thought, you jumped in with both feet.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b7dab5da910e6153" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You showed up when and where you did on a dare because, hey, you don’t back down from dares.</source>
+        <target state="translated">You showed up when and where you did on a dare because, hey, you don’t back down from dares.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ef383563c3b732f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Someone called you out, but instead of walking into a fight, you walked into your current situation.</source>
+        <target state="translated">Someone called you out, but instead of walking into a fight, you walked into your current situation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a08030974b0ae35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You told your friend that nothing could scare you, and nothing you saw would change your mind. They brought you to your current point.</source>
+        <target state="translated">You told your friend that nothing could scare you, and nothing you saw would change your mind. They brought you to your current point.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

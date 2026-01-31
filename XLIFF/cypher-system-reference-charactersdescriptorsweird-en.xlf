@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a73fc9c564d107aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weird #Descriptor #Core</source>
+        <target state="translated">Weird #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="428e583a4c759c53" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You aren’t like anyone else, and that’s fine with you. People don’t seem to understand you—they even seem put off by you—but who cares? You understand the world better than they do because you’re weird, and so is the world you live in. The concept of “the weird” is well known to you. Strange devices, ancient locales, bizarre creatures, storms that can transform you, living energy fields, conspiracies, aliens, and things most people can’t even name populate the world, and you thrive on them. You have a special attachment to it all, and the more you discover about the weirdness in the world, the more you might discover about yourself.</source>
+        <target state="translated">You aren’t like anyone else, and that’s fine with you. People don’t seem to understand you—they even seem put off by you—but who cares? You understand the world better than they do because you’re weird, and so is the world you live in. The concept of “the weird” is well known to you. Strange devices, ancient locales, bizarre creatures, storms that can transform you, living energy fields, conspiracies, aliens, and things most people can’t even name populate the world, and you thrive on them. You have a special attachment to it all, and the more you discover about the weirdness in the world, the more you might discover about yourself.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b21c7faae2efa370" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weird characters might be mutants or people born with strange qualities, but sometimes they started out “normal” and adopted the weird by choice.</source>
+        <target state="translated">Weird characters might be mutants or people born with strange qualities, but sometimes they started out “normal” and adopted the weird by choice.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5f7ef5564ec377c0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inner Light: +2 to your Intellect Pool.</source>
+        <target state="translated">Inner Light: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5f370a224f0f7a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distinctive Physical Quirk: You have a unique physical aspect that is, well, bizarre. Depending on the setting, this can vary greatly. You might have purple hair or metal spikes on your head. Perhaps your hands don’t connect to your arms, although they move as if they do. Maybe a third eye stares out from the side of your head, or superfluous tendrils grow from your back. Whatever it is, your quirk might be a mutation, a supernatural trait (a blessing or curse), a feature with no explanation, or just a really wild tattoo that draws a lot of attention.</source>
+        <target state="translated">Distinctive Physical Quirk: You have a unique physical aspect that is, well, bizarre. Depending on the setting, this can vary greatly. You might have purple hair or metal spikes on your head. Perhaps your hands don’t connect to your arms, although they move as if they do. Maybe a third eye stares out from the side of your head, or superfluous tendrils grow from your back. Whatever it is, your quirk might be a mutation, a supernatural trait (a blessing or curse), a feature with no explanation, or just a really wild tattoo that draws a lot of attention.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb3938129a9a5a25" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A Sense for the Weird: Sometimes—at the GM’s discretion—weird things relating to the supernatural or its effects on the world seem to call out to you. You can sense them from afar, and if you get within long range of such a thing, you can sense whether it is overtly dangerous or not.</source>
+        <target state="translated">A Sense for the Weird: Sometimes—at the GM’s discretion—weird things relating to the supernatural or its effects on the world seem to call out to you. You can sense them from afar, and if you get within long range of such a thing, you can sense whether it is overtly dangerous or not.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="582ba0a4653041c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in supernatural knowledge.</source>
+        <target state="translated">Skill: You are trained in supernatural knowledge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb4e89aca27373fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: People find you unnerving. All tasks relating to pleasant social interaction are hindered.</source>
+        <target state="translated">Inability: People find you unnerving. All tasks relating to pleasant social interaction are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="34e68c7c736d3265" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It seemed weird, so why not?</source>
+        <target state="translated">It seemed weird, so why not?</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc35fc98a3329a99" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Whether the other PCs realize it or not, their mission has to do with something weird that you know about, so you got involved.</source>
+        <target state="translated">Whether the other PCs realize it or not, their mission has to do with something weird that you know about, so you got involved.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="478d103f06f16537" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>As an expert in the weird, you were specifically recruited by the other PCs.</source>
+        <target state="translated">As an expert in the weird, you were specifically recruited by the other PCs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2c647539cfc63c00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You felt drawn to join the other PCs, but you don’t know why.</source>
+        <target state="translated">You felt drawn to join the other PCs, but you don’t know why.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

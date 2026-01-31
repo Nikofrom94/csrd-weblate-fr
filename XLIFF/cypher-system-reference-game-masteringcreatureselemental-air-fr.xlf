@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1df98c7e8181c2dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Air ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f5c5ed11d70f5fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Air elementals are capricious pieces of air with simple minds. They spontaneously appear in clouds and high mountains, and often resemble an area of mist or a cloudlike humanoid shape.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3dcaadd9a813ef9d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Mischief and destruction</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df4b5c763e146fd9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere the wind blows</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4982451e4f6b172c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 24</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f8ea9cabadd0187c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Long when flying</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e31558153fef8268" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Stealth as level 6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be35fbac36fc1559" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Air elementals slice foes up to a short distance away with blades of fierce wind, or use blasts of air to throw small objects. Once every other round, an air elemental can turn into a tornado-like vortex that inflicts 4 points of damage to all creatures within immediate range. In this form, the elemental gains +1 to Armor and an additional +2 to Armor against physical projectile weapons such as arrows and javelins. The elemental reverts to its normal form at the start of its next turn.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a46bcbce5a3e9b68" weblate-flags="md-text, safe-html, strict-same">
+        <source>An air elemental can disperse itself over a short area as an action. In this form it is invisible, unable to attack, and can’t be attacked except with area attacks. The elemental can remain in this form indefinitely, but must use an action to return to its normal form.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="61b9474c2999fe1c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Air elementals are elusive opponents and hard to destroy. If an air elemental is reduced to 0 health, there is a 50 percent chance that it rejuvenates a few rounds later with 6 health. The elemental then continues to fight or flees to cause trouble elsewhere.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5239b598df3f7cc7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Air elementals see and hear many things, but they are flighty and what they remember usually isn’t important or relevant. They can be summoned with magic but don’t like being controlled, and there is a 10 percent chance that they free themselves and strike out on their own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3968f83b74052fc2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A safe mountain trail has become hazardous due to unseasonal winds that threaten to push travelers off a cliff. An old tree is surrounded by whispers of conversations that took place recently and has started hurling sticks and fruit at anyone who comes too close.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d6e91cd704bf847" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: Aviolent blast of winddisarms a characterand sends whateverthey were holding up toa long distance away(depending on theobject’s size and weight).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

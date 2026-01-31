@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1bed17d5b721f8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Uses Wild Magic #Focus #Core #Fantasy</source>
+        <target state="translated">Uses Wild Magic #Focus #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="72458e87d54b9c21" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A spellcaster who learns a variety of spells instead of focusing on just one kind of magic.</source>
+        <target state="translated">A spellcaster who learns a variety of spells instead of focusing on just one kind of magic.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="48c7233da121ad0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Magical Repertoire</source>
+        <target state="translated">Tier 1: Magical Repertoire</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f4133404eb79e641" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Cypher Casting</source>
+        <target state="translated">Tier 1: Cypher Casting</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0373be54db3e86fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Expanded Repertoire</source>
+        <target state="translated">Tier 2: Expanded Repertoire</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ead7cc30916a1b1d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Cypher Surge or Faster Wild Magic</source>
+        <target state="translated">Tier 3: Cypher Surge or Faster Wild Magic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28a25686fd5c50ce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Expanded Repertoire</source>
+        <target state="translated">Tier 4: Expanded Repertoire</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca85afd05aa130cd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Magical Training</source>
+        <target state="translated">Tier 5: Magical Training</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ffa8108c78d2e92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Maximize Cypher or Wild Insight</source>
+        <target state="translated">Tier 6: Maximize Cypher or Wild Insight</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9011fe06e548defb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: A spell performserratically or rebounds upon the caster.Something interferes with preparingspells. Spellcasting attracts the attentionof a powerful creature or potential rival.The cypher spell being cast is replacedwith that of a random cypher.</source>
+        <target state="translated">GM Intrusions: A spell performserratically or rebounds upon the caster.Something interferes with preparingspells. Spellcasting attracts the attentionof a powerful creature or potential rival.The cypher spell being cast is replacedwith that of a random cypher.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="61ae05b00ec7d2ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ignores Physical Distance #Focus #Core #SuperHeroes</source>
+        <target state="translated">Ignores Physical Distance #Focus #Core #SuperHeroes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="85aaae6e65693dfc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can teleport from one place to another by briefly passing through a parallel dimension.</source>
+        <target state="translated">You can teleport from one place to another by briefly passing through a parallel dimension.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="027f6ea191190904" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Dimensional Squeeze]{1}</source>
+        <target state="translated">Tier 1: [Dimensional Squeeze]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8a1ffbe14b62b706" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Opportunist]{1}</source>
+        <target state="translated">Tier 2: [Opportunist]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b7e49c45992085bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Defensive Blinking]{1} or [Teleportation Burst]{2}</source>
+        <target state="translated">Tier 3: [Defensive Blinking]{1} or [Teleportation Burst]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0696d63ff98ee7f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Short Teleportation]{1}</source>
+        <target state="translated">Tier 4: [Short Teleportation]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="670f498656591d47" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Medium Teleportation]{1}</source>
+        <target state="translated">Tier 5: [Medium Teleportation]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e25a928d35c60e3c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Teleportation]{1} or [Teleportive Wound]{2}</source>
+        <target state="translated">Tier 6: [Teleportation]{1} or [Teleportive Wound]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c38e19c4ea2c5f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.</source>
+        <target state="translated">GM Intrusions: A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

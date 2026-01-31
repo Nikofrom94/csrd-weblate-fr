@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="0d71ef4c3a821109" weblate-flags="md-text, safe-html, strict-same">
+        <source>Has a Thousand Faces #Focus #Core #SuperHeroes</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c057a1ded91b1c66" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can change your appearance to look like anyone else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="010f5c6fded3baea" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Face Morph]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4978ab4f350119f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Interaction Skills]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="698b2e97e9cd7f41" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Body Morph]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="44bff676c474812e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [War Flesh]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="38f0d31b57252abb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Disguise Other]{1} or [Resilience]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a62c2ab7e390cf9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Ageless]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d55eb62f50e01361" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Think Your Way Out]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7bbf8b09b6fa7bb9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Memory Becomes Action]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="548097728d6a6111" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Divide Your Mind]{1} or [Infer Thoughts]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="806d5630b04591b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ddd1287c69ea16ca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>REPAIR UNIT #Cypher #Fantastic #Core</source>
+        <target state="translated">REPAIR UNIT #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="965fe6266beca47c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d10</source>
+        <target state="translated">Level: 1d10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="54f5639ffc450981" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: The cypher becomes a multiarmed sphere that floats. It repairs one designated item (of its own level or lower) that has been damaged but not destroyed. The repair unit can also create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device except for the specialized part). Repair time is 1d100 + 20 minutes.</source>
+        <target state="translated">Effect: The cypher becomes a multiarmed sphere that floats. It repairs one designated item (of its own level or lower) that has been damaged but not destroyed. The repair unit can also create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device except for the specialized part). Repair time is 1d100 + 20 minutes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

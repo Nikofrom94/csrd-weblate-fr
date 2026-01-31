@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ef59b08c03650893" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using What’s Available (4 Intellect points) #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Using What’s Available (4 Intellect points) #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18787b1bf9a989da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you have the time and the freedom to scrounge for everyday materials in your environment, you can fashion a temporary asset that will aid you once to accomplish a specific task. For example, if you need to climb a wall, you could create some sort of climbing assistance device; if you need to break out of a cell, you can find something to use as a lockpick; if you need to create a small distraction, you could put together something to make a loud bang and flash; and so on. The asset lasts for a maximum of one minute, or until used for the intended purpose.</source>
+        <target state="translated">If you have the time and the freedom to scrounge for everyday materials in your environment, you can fashion a temporary asset that will aid you once to accomplish a specific task. For example, if you need to climb a wall, you could create some sort of climbing assistance device; if you need to break out of a cell, you can find something to use as a lockpick; if you need to create a small distraction, you could put together something to make a loud bang and flash; and so on. The asset lasts for a maximum of one minute, or until used for the intended purpose.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abc1a1b2d8ec1e11" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One minute to assemble materials; action to create asset.</source>
+        <target state="translated">One minute to assemble materials; action to create asset.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

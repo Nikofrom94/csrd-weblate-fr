@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="60f5cb7d5ab992bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>WATER ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy Level : 4 (12)</source>
+        <target state="translated">WATER ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2dc3b268d02cee17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Water elementals are animate masses of water. When swimming, they are nearly indistinguishable from their surroundings, but when they have to move on dry land, they usually take the form of a curling wave, amorphous blob, or large puddle. They can spontaneously appear in locations with pristine salt or fresh water.</source>
+        <target state="translated">Water elementals are animate masses of water. When swimming, they are nearly indistinguishable from their surroundings, but when they have to move on dry land, they usually take the form of a curling wave, amorphous blob, or large puddle. They can spontaneously appear in locations with pristine salt or fresh water.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="363a48c726f8d888" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Flood, drown, and wash away</source>
+        <target state="translated">Motive: Flood, drown, and wash away</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e790373a2b167a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere there is flowing water</source>
+        <target state="translated">Environment: Anywhere there is flowing water</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4982451e4f6b172c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 24</source>
+        <target state="translated">Health: 24</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f830ed1ea6b1fcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target state="translated">Damage Inflicted: 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c3edd82809b1ccbe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long if swimming</source>
+        <target state="translated">Movement: Short; long if swimming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e520980bcf5f23a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Swimming and aquatic maneuvers as level 6; stealth as level 6 when in water</source>
+        <target state="translated">Modifications: Swimming and aquatic maneuvers as level 6; stealth as level 6 when in water</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e847cc269b8f093a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Water elementals bash opponents with heavy limbs of water or spray jets of water out to short range.</source>
+        <target state="translated">Combat: Water elementals bash opponents with heavy limbs of water or spray jets of water out to short range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8aaa65a08a4974f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Instead of a bashing attack, a water elemental can use its action to attempt to envelop, smother, and crush one opponent, who can resist with a Might defense roll. If the opponent fails, it takes 4 points of damage immediately and every round on the elemental’s turn. Each following turn, the enveloped character must attempt a new Might defense roll every round or move one step down the damage track from drowning as the elemental forces itself into the creature’s lungs. The creature can free itself with a Might defense roll. An elemental with an enveloped opponent can move up to a short distance as its action; a common tactic is to dive deep, release their opponent to drown normally, then return to its previous position to fight other opponents.</source>
+        <target state="translated">Instead of a bashing attack, a water elemental can use its action to attempt to envelop, smother, and crush one opponent, who can resist with a Might defense roll. If the opponent fails, it takes 4 points of damage immediately and every round on the elemental’s turn. Each following turn, the enveloped character must attempt a new Might defense roll every round or move one step down the damage track from drowning as the elemental forces itself into the creature’s lungs. The creature can free itself with a Might defense roll. An elemental with an enveloped opponent can move up to a short distance as its action; a common tactic is to dive deep, release their opponent to drown normally, then return to its previous position to fight other opponents.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="91845aebc1659565" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Any attack that inflicts 6 or more points of cold damage hinders a water elemental’s actions on its next turn.</source>
+        <target state="translated">Any attack that inflicts 6 or more points of cold damage hinders a water elemental’s actions on its next turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81ebf854dad4ecca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Water elementals are somewhat intelligent but think very differently from humans, so they often seem distracted and dull. They are generally compliant when summoned with magic, but there is about a 5 percent chance that they break free of the spell and lash out against their summoner.</source>
+        <target state="translated">Interaction: Water elementals are somewhat intelligent but think very differently from humans, so they often seem distracted and dull. They are generally compliant when summoned with magic, but there is about a 5 percent chance that they break free of the spell and lash out against their summoner.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="91fe67139e5b5bb6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Offerings left at a sacred pond have gone missing, and the water itself seems threatening. Garbage or dead bodies have polluted a water source, spawning an angry elemental that attacks everyone until the mess is cleaned up.</source>
+        <target state="translated">Use: Offerings left at a sacred pond have gone missing, and the water itself seems threatening. Garbage or dead bodies have polluted a water source, spawning an angry elemental that attacks everyone until the mess is cleaned up.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35e82f7a80ffd512" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The forceof the elemental’s attackknocks over a character,sweeps them a shortdistance away, or both.</source>
+        <target state="translated">GM intrusion: The forceof the elemental’s attackknocks over a character,sweeps them a shortdistance away, or both.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="9b5f83264d5a2c89" weblate-flags="md-text, safe-html, strict-same">
+        <source>KILLER CLOWN #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eae0fc5abe1861f3" weblate-flags="md-text, safe-html, strict-same">
+        <source>A clown—whether it’s a doll or what seems to be a person wearing clown makeup—could be entirely benign. But if you see one sitting alone in a dark room, lying under your bed, or gazing up at you through the sewer grate in the street, it might be a killer clown. Killer clowns might be evil spirits possessing someone or an insane person living out a homicidal fantasy. Either way, they’re as dangerous as anything you’ll ever likely meet. If you see a clown, run. Because it might be a killer.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f36e99d383035534" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Homicide</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c7bc09b8df153fee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Almost anywhere</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="623372a6c3fd6c05" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 25</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ee65b098dd8b595" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Detecting falsehoods, deception, and persuasion as level 7</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="41f7c4669061b12e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: A killer clown attempts to deceive its victim into believing that the clown is a friend. In fact, the clown is setting up an ambush where the victim can be strangled to death in private. When a killer clown successfully attacks, it inflicts 5 points of damage and locks its hands around the victim’s neck. In each round that the victim does not escape, it suffers 5 points of damage from being strangled.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04a7e44309fa450b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Some killer clowns know tricks that border on the supernatural. Such a clown may do one of the following as its action during combat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

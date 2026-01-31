@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6de8d65807c51d38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Illusory Evasion (5 Intellect points) #Ability #ProtectionAbility #Mid #Core</source>
+        <target state="translated">Illusory Evasion (5 Intellect points) #Ability #ProtectionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="607460086d4d7c45" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you would be hit by an attack, you teleport an immediate distance away, leaving behind an illusory copy of yourself to be struck by that attack instead of you. This destroys the illusion but leaves you unharmed by the attack. If the attack affects an area and the teleportation can’t get you out of that area, the attack still affects you normally.</source>
+        <target state="translated">When you would be hit by an attack, you teleport an immediate distance away, leaving behind an illusory copy of yourself to be struck by that attack instead of you. This destroys the illusion but leaves you unharmed by the attack. If the attack affects an area and the teleportation can’t get you out of that area, the attack still affects you normally.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

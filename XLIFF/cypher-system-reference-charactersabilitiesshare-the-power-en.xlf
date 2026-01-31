@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="45dbb46586ad8e3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Share the Power #Ability #CureAbility #High #Core</source>
+        <target state="translated">Share the Power #Ability #CureAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dcb2a9bb37ea245c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use Drain Creature or Drain Machine to drain energy, you can transfer it to another creature, restoring points to their Might or Speed Pools (or health for an NPC) instead of yourself. You can spend points from your Siphon Pool (from the Store Energy ability) in the same way. You must touch the creature you want to heal, unless you have the Drain at a Distance ability, in which case they can be up to a short distance away.</source>
+        <target state="translated">When you use Drain Creature or Drain Machine to drain energy, you can transfer it to another creature, restoring points to their Might or Speed Pools (or health for an NPC) instead of yourself. You can spend points from your Siphon Pool (from the Store Energy ability) in the same way. You must touch the creature you want to heal, unless you have the Drain at a Distance ability, in which case they can be up to a short distance away.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

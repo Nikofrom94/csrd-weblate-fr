@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="34deddce5b3d8a3d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Setting your campaign in World War 2, the Renaissance, or the 1930s can be fun and interesting. However, setting it in ancient Greece or feudal Japan, for example, probably makes it more like fantasy without all the orcs and magic (although a game set in feudal Japan with orcs and magic could be fascinating).</source>
+        <target state="translated">Setting your campaign in World War 2, the Renaissance, or the 1930s can be fun and interesting. However, setting it in ancient Greece or feudal Japan, for example, probably makes it more like fantasy without all the orcs and magic (although a game set in feudal Japan with orcs and magic could be fascinating).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b553dc032bcb99a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Setting</source>
+        <target state="translated">Setting</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fa168ac4d4c404f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Creating a historical adventure</source>
+        <target state="translated">Creating a historical adventure</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e1f235c20c65286" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the draws of playing in a historical adventure is the thrill of “being there” when something important happens. Thus, in many cases, historical adventures in RPGs shouldn’t be designed as campaigns, but instead serve as short-term experiences where players try something new, or at least something they don’t normally do: play as figures involved in a momentous historical event.</source>
+        <target state="translated">One of the draws of playing in a historical adventure is the thrill of “being there” when something important happens. Thus, in many cases, historical adventures in RPGs shouldn’t be designed as campaigns, but instead serve as short-term experiences where players try something new, or at least something they don’t normally do: play as figures involved in a momentous historical event.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6485fe56b8bf14dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Historical games should take cues from the closely related areas of historical fiction and historical re-enactment. The lessons of great historical fiction include the following.</source>
+        <target state="translated">Historical games should take cues from the closely related areas of historical fiction and historical re-enactment. The lessons of great historical fiction include the following.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e8227d66d9cd00a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM should anchor the characters with problems or conflicts that connect them to the chosen time period; make sure that PC backgrounds contain one relevant detail to the chosen historical setting.</source>
+        <target state="translated">The GM should anchor the characters with problems or conflicts that connect them to the chosen time period; make sure that PC backgrounds contain one relevant detail to the chosen historical setting.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd6ca27098b7204a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM shouldn’t fall into the trap of assuming that history was drab just because it is often presented along with old paintings, drawings, or blurred black-and-white photographs. Dramatic events, surprising twists, and unexpected situations are just as likely in a historical adventure as in any other kind.</source>
+        <target state="translated">The GM shouldn’t fall into the trap of assuming that history was drab just because it is often presented along with old paintings, drawings, or blurred black-and-white photographs. Dramatic events, surprising twists, and unexpected situations are just as likely in a historical adventure as in any other kind.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6fece14c4de91f2c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>What’s the point of a historical adventure if there is no suspense? Sure, everyone knows what happens at the end of any given historical battle, but the stories of individuals within those fights are not known. Will they live? Will they succeed in their mission? And what are the consequences? Think of all the war movies that rely on that exact latitude to tell great stories.</source>
+        <target state="translated">What’s the point of a historical adventure if there is no suspense? Sure, everyone knows what happens at the end of any given historical battle, but the stories of individuals within those fights are not known. Will they live? Will they succeed in their mission? And what are the consequences? Think of all the war movies that rely on that exact latitude to tell great stories.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e373e33e2bf523ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Make sure you know when the campaign ends. Maybe it’s when the PCs successfully accomplish a specific task, but it might be externally timed to when a historical event takes place, whether they are attempting to offer aid, thwart it, or merely be aware of it as they attempt to do something that history hasn’t recorded.</source>
+        <target state="translated">Make sure you know when the campaign ends. Maybe it’s when the PCs successfully accomplish a specific task, but it might be externally timed to when a historical event takes place, whether they are attempting to offer aid, thwart it, or merely be aware of it as they attempt to do something that history hasn’t recorded.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d1acc7c67a9e645" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Don’t create more than you need to. Be ready to tell the PCs what they see and who they encounter when they are introduced to a historical location or person, but don’t worry about things that they likely will never see. Yes, figure out what kind of currency is used, but making a super-accurate list of prices just isn’t necessary; the players will take your word for the cost of items and many other details. You’re evoking a historical setting with your game, not writing a book report.</source>
+        <target state="translated">Don’t create more than you need to. Be ready to tell the PCs what they see and who they encounter when they are introduced to a historical location or person, but don’t worry about things that they likely will never see. Yes, figure out what kind of currency is used, but making a super-accurate list of prices just isn’t necessary; the players will take your word for the cost of items and many other details. You’re evoking a historical setting with your game, not writing a book report.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1d68c7ce22d17734" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Be wary about stereotypes and cultural misappropriation. History, as they say, is written by the victors. The ancient Greeks wrote that other cultures were all barbaric, and the European settlers called the natives in North America savages, but that doesn’t mean it’s true. If all you know about a time period is a movie set in that period, you’ll have a skewed version of events and culture. Be willing to go deeper than _Braveheart_ or _The Last Samurai_, or maybe choose a different genre.</source>
+        <target state="translated">Be wary about stereotypes and cultural misappropriation. History, as they say, is written by the victors. The ancient Greeks wrote that other cultures were all barbaric, and the European settlers called the natives in North America savages, but that doesn’t mean it’s true. If all you know about a time period is a movie set in that period, you’ll have a skewed version of events and culture. Be willing to go deeper than _Braveheart_ or _The Last Samurai_, or maybe choose a different genre.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="02f9084eb2a960ee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>RUNNING A HISTORICAL GAME</source>
+        <target state="translated">RUNNING A HISTORICAL GAME</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="45a97ea4d6c080df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Preparation is important in a historical game, and most of that entails choosing a historical period—or a specific historical event—as the setting. Given that all of history can serve, you won’t lack for resources. Below are a few possibilities. Of course, the farther back you set your game, the less information on specific events is available. On the other hand, that frees you up to get creative.</source>
+        <target state="translated">Preparation is important in a historical game, and most of that entails choosing a historical period—or a specific historical event—as the setting. Given that all of history can serve, you won’t lack for resources. Below are a few possibilities. Of course, the farther back you set your game, the less information on specific events is available. On the other hand, that frees you up to get creative.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="52856948c8caa52b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Once you choose the historical period and any special events you want to include in your adventure or campaign, direct your players to an appropriate set of foci. Alternately, you can have your players play as historically significant figures, but if you do this, you may want to create their characters ahead of time. Most GMs will probably want to save historically significant individuals for use as NPCs.</source>
+        <target state="translated">Once you choose the historical period and any special events you want to include in your adventure or campaign, direct your players to an appropriate set of foci. Alternately, you can have your players play as historically significant figures, but if you do this, you may want to create their characters ahead of time. Most GMs will probably want to save historically significant individuals for use as NPCs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5499b38fa65e5507" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The players will need some kind of grounding in what to expect in the time period you’ve chosen. Just like they need an idea of what magic can do in a fantasy game, they will need a general idea of what kind of technology is available, the broad strokes of what their characters might know and not know, and so on. Maybe have them read a Wikipedia entry, at the very least.</source>
+        <target state="translated">The players will need some kind of grounding in what to expect in the time period you’ve chosen. Just like they need an idea of what magic can do in a fantasy game, they will need a general idea of what kind of technology is available, the broad strokes of what their characters might know and not know, and so on. Maybe have them read a Wikipedia entry, at the very least.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3615d6efc0167034" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you’re looking for inspiration for time periods in which to set your historical game, here are some possible ideas: prehistory, classical antiquity, ancient Egypt, the American revolution, ancient China, World War II, Edo Period Japan, Medieval Europe, and the American Old West.</source>
+        <target state="translated">If you’re looking for inspiration for time periods in which to set your historical game, here are some possible ideas: prehistory, classical antiquity, ancient Egypt, the American revolution, ancient China, World War II, Edo Period Japan, Medieval Europe, and the American Old West.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0a8910a96432577" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters</source>
+        <target state="translated">Characters</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="72ac04714bc01a36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SUGGESTED TYPES FOR A HISTORICAL GAME</source>
+        <target state="translated">SUGGESTED TYPES FOR A HISTORICAL GAME</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0fcbabeda3d8db9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Role</source>
+        <target state="translated">Role</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4260caf7dbb163c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f2b6d31852c9a26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Constable (or night watchman)</source>
+        <target state="translated">Constable (or night watchman)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="49acb6349396d28f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with combat flavor</source>
+        <target state="translated">Explorer with combat flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66553accc86214db" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Detective</source>
+        <target state="translated">Detective</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7eb4843e1f6afb00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with stealth flavor and skills and knowledge flavor</source>
+        <target state="translated">Explorer with stealth flavor and skills and knowledge flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="515318f7188a47bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Knight</source>
+        <target state="translated">Knight</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e8b99184ef8b865" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Warrior</source>
+        <target state="translated">Warrior</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2796eaae400a5880" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Pirate</source>
+        <target state="translated">Pirate</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3798844f14b75cc6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer with stealth flavor</source>
+        <target state="translated">Explorer with stealth flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a67c2c8149e999a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tutor</source>
+        <target state="translated">Tutor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":37" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker</source>
+        <target state="translated">Speaker</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0b4b5d742f4530c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Merchant</source>
+        <target state="translated">Merchant</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":37" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker with skills and knowledge flavor</source>
+        <target state="translated">Speaker with skills and knowledge flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ce04136d778c746" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smith</source>
+        <target state="translated">Smith</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca98bed272e84142" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speaker with some warrior abilities and skills and knowledge flavor</source>
+        <target state="translated">Speaker with some warrior abilities and skills and knowledge flavor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="239619b8732d3175" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Playwright</source>
+        <target state="translated">Playwright</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7b00581be6b008e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Noble</source>
+        <target state="translated">Noble</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":37" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explorer</source>
+        <target state="translated">Explorer</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11998b7b2699afc8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Priest</source>
+        <target state="translated">Priest</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dbed230fcf99d037" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Equipment</source>
+        <target state="translated">Equipment</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0f8ad48b53cb384" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>HISTORICAL ARTIFACTS</source>
+        <target state="translated">HISTORICAL ARTIFACTS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a711a21398342608" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The concept of artifacts is probably inappropriate for a historical setting without some kind of supernatural, fantastical, or science fiction element. That said, objects of mystery such as the Antikythera mechanism (an ancient analog computer and orrery used to predict eclipses and other astronomical positions) reveal that the ancient world—and by extension more recent historical periods—contained fascinating and useful objects that were anachronistic for their period. Most such artifacts were likely the creations of philosophers, lone geniuses, and similar figures.</source>
+        <target state="translated">The concept of artifacts is probably inappropriate for a historical setting without some kind of supernatural, fantastical, or science fiction element. That said, objects of mystery such as the Antikythera mechanism (an ancient analog computer and orrery used to predict eclipses and other astronomical positions) reveal that the ancient world—and by extension more recent historical periods—contained fascinating and useful objects that were anachronistic for their period. Most such artifacts were likely the creations of philosophers, lone geniuses, and similar figures.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8e82551d16b22fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Creatures</source>
+        <target state="translated">Creatures</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="af7d8e6323f8252b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Basic CREATURES AND NPCs FOR A HISTORICAL GAME</source>
+        <target state="translated">Basic CREATURES AND NPCs FOR A HISTORICAL GAME</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b2edc21546164f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cat: level 1, Speed defense as level 3</source>
+        <target state="translated">Cat: level 1, Speed defense as level 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eef687a3293690a8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dodo: level 1</source>
+        <target state="translated">Dodo: level 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1c772ffa80b97879" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dog: level 2, perception as level 3</source>
+        <target state="translated">Dog: level 2, perception as level 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f1635f3bba8df29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dog, guard: level 3, attacks and perception as level 4</source>
+        <target state="translated">Dog, guard: level 3, attacks and perception as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f59674060ad159f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Horse: level 3; moves a long distance each round</source>
+        <target state="translated">Horse: level 3; moves a long distance each round</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9378565cfdd4fc1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Merchant: level 2, haggling as level 3</source>
+        <target state="translated">Merchant: level 2, haggling as level 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3cd9ff162593751a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Noble: level 2, pleasant social interaction as level 4</source>
+        <target state="translated">Noble: level 2, pleasant social interaction as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e2f16ed87f4c4f1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rat: level 1</source>
+        <target state="translated">Rat: level 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25f0a96bea851634" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Serf: level 2, animal handling as level 3</source>
+        <target state="translated">Serf: level 2, animal handling as level 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3589d5ad59512e63" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Snake, poisonous: level 1, attacks as level 4</source>
+        <target state="translated">Snake, poisonous: level 1, attacks as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5540b0973ecfbe4e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Warhorse: level 4; moves a long distance each round</source>
+        <target state="translated">Warhorse: level 4; moves a long distance each round</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

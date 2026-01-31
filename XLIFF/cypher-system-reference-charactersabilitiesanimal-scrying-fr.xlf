@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="4fb0faac10846bb8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Animal Scrying (4+ Intellect points) #Ability #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e52fee58ec7a1ed8" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you know the general location of an animal that is friendly toward you and within 1 mile (1.5 km) of your location, you can sense through its senses for up to ten minutes. If you are not in animal form or not in a form similar to that animal, you must apply a level of Effort to use this ability.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f3ce5ea094003be" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to establish.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

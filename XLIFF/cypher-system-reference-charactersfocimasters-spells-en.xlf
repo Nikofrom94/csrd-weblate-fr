@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2eff48efc9c74c0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Masters Spells #Focus #IrregularFocus #Core</source>
+        <target state="translated">Masters Spells #Focus #IrregularFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8cd30ef2ca23543" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.</source>
+        <target state="translated">By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b3a746d4ed100ce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Arcane Flare</source>
+        <target state="translated">Tier 1: Arcane Flare</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="668c9696bb87c2a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Ray of Confusion</source>
+        <target state="translated">Tier 2: Ray of Confusion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e3db4bbe955c273d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Fire Bloom or Summon Giant Spider</source>
+        <target state="translated">Tier 3: Fire Bloom or Summon Giant Spider</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eeba743b5e04297a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Soul Interrogation</source>
+        <target state="translated">Tier 4: Soul Interrogation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="934a8562ebdf2092" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Granite Wall</source>
+        <target state="translated">Tier 5: Granite Wall</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="988b8b733abdad4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Summon Demon or Word of Death</source>
+        <target state="translated">Tier 6: Summon Demon or Word of Death</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8916a06a367f3391" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.</source>
+        <target state="translated">GM Intrusions: The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

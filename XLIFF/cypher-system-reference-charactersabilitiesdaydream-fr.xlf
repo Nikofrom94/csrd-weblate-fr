@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="77a11ff7abe18659" weblate-flags="md-text, safe-html, strict-same">
+        <source>Daydream (4 Intellect points) #Ability #ControlAbility #EnvironmentAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c8189a96255899e4" weblate-flags="md-text, safe-html, strict-same">
+        <source>You pull someone into a daydream, substituting a dream of your own creation for the target’s reality for up to one minute. You can affect a target within long range that you can see, or a target within 10 miles (16 km) that you have hair or skin clippings from. To all outward appearances, an affected target stands (or lies) unmoving. But inside, the substituted reality (or dream within a dream, if the target was sleeping) is what the target experiences. If the target is under duress, it can attempt another Intellect defense roll each round to break free, though the target may not realize its state. Either the dream unfolds according to a script you prepared when you used this ability, or if you use your own actions (forcing you into a similar state as the target), you can direct the unfolding dream from round to round. Using this ability on a sleeping target eases the initial attack.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee3df3b514185266" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate; if you direct the dream, action to direct per round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

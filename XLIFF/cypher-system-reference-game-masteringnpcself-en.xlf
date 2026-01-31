@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="22c0368466d0f61a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ELF #lvl4 (12) #Creature #Core #Fantasy Level : 4 (12)</source>
+        <target state="translated">ELF #lvl4 (12) #Creature #Core #Fantasy Level : 4 (12)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f5af10c9de57089" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An elf has a very long lifespan and tends to learn and abandon many skills and interests, including combat and magic. Elves are likely to wander in pursuit of something new and interesting, such as finding the tallest tree in the forest, the most beautiful sunset, or the perfect love song.</source>
+        <target state="translated">An elf has a very long lifespan and tends to learn and abandon many skills and interests, including combat and magic. Elves are likely to wander in pursuit of something new and interesting, such as finding the tallest tree in the forest, the most beautiful sunset, or the perfect love song.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ae4795558415480" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Curiosity</source>
+        <target state="translated">Motive: Curiosity</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a616eaf82e71880" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3b3e9eb9bbbd039" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Perception, Speed defense, and any two noncombat skills as level 5</source>
+        <target state="translated">Modifications: Perception, Speed defense, and any two noncombat skills as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cec386e07b73466" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Elves usually fight with short or medium blades and delicate but deadly bows. Because of their subtle skill and fast reactions, their first attack in any combat inflicts an additional 2 points of damage.</source>
+        <target state="translated">Combat: Elves usually fight with short or medium blades and delicate but deadly bows. Because of their subtle skill and fast reactions, their first attack in any combat inflicts an additional 2 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3516254b7e8b0604" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A typical elf might know a few minor spells, such as heating or chilling food, creating a bit of moonlight, and cleaning or repairing clothing.</source>
+        <target state="translated">A typical elf might know a few minor spells, such as heating or chilling food, creating a bit of moonlight, and cleaning or repairing clothing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="05536453c55df910" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Elves appreciate beauty, grace, and skill, and they don’t respond well to crudeness or bluster, especially from people decades or centuries younger than themselves. They are subtle in their insults but do have a sense of humor.</source>
+        <target state="translated">Interaction: Elves appreciate beauty, grace, and skill, and they don’t respond well to crudeness or bluster, especially from people decades or centuries younger than themselves. They are subtle in their insults but do have a sense of humor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="42f49d6a5a330faa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A group of young elves arrives in a city, wanting to see firsthand how the short-lived humans do things. An elf is said to have lived in the forest for a thousand years, listening to the secrets whispered by the trees.</source>
+        <target state="translated">Use: A group of young elves arrives in a city, wanting to see firsthand how the short-lived humans do things. An elf is said to have lived in the forest for a thousand years, listening to the secrets whispered by the trees.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="276f8e9b08bf28dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: In addition to their weapons and light armor, an elf carries a few moderately priced (but extremely well-made) curios and mementos, and usually a cypher.</source>
+        <target state="translated">Loot: In addition to their weapons and light armor, an elf carries a few moderately priced (but extremely well-made) curios and mementos, and usually a cypher.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

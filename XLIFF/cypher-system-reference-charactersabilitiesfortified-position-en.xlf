@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="99bdf985517e864d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fortified Position (2 Might points) #Ability #ProtectionAbility #Low #Core</source>
+        <target state="translated">Fortified Position (2 Might points) #Ability #ProtectionAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="afb00e88d7ce7968" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For the next minute, you gain +1 Armor and an asset to your Might defense tasks, as long as you haven’t moved more than an immediate distance since your last turn.</source>
+        <target state="translated">For the next minute, you gain +1 Armor and an asset to your Might defense tasks, as long as you haven’t moved more than an immediate distance since your last turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b83fc3d4aef4212" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target state="translated">Action to initiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

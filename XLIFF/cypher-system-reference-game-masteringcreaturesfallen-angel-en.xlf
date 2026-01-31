@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="852dbcc738807d60" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FALLEN ANGEL #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target state="translated">FALLEN ANGEL #lvl5 (15) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8af1747ac4d46946" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Angels are normally associated with virtue and service to higher moral beings. But just like people, sometimes angels are tempted into impure acts. Those who stray too far over the line may fall from higher realms and be forced to walk the Earth in penance. This experience drives most fallen angels insane.</source>
+        <target state="translated">Angels are normally associated with virtue and service to higher moral beings. But just like people, sometimes angels are tempted into impure acts. Those who stray too far over the line may fall from higher realms and be forced to walk the Earth in penance. This experience drives most fallen angels insane.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd2eea124f9085e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fallen angel abilities wax and wane according to the position of the sun. During the day, a fallen angel seems almost sane (and is less dangerous), but at night, it is volatile and threatening to everyone.</source>
+        <target state="translated">Fallen angel abilities wax and wane according to the position of the sun. During the day, a fallen angel seems almost sane (and is less dangerous), but at night, it is volatile and threatening to everyone.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ffdb6924c0896234" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Revenge (but on whom and for what isn’t clear, even to the fallen angel)</source>
+        <target state="translated">Motive: Revenge (but on whom and for what isn’t clear, even to the fallen angel)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a83bcb33ded4ebcc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere, sometimes living alone in the wilderness, other times walking the hard streets of large cities</source>
+        <target state="translated">Environment: Anywhere, sometimes living alone in the wilderness, other times walking the hard streets of large cities</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="623372a6c3fd6c05" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 25</source>
+        <target state="translated">Health: 25</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="659134aecc4a7762" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points by day, 8 points at night</source>
+        <target state="translated">Damage Inflicted: 6 points by day, 8 points at night</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c9ebe8c5fc40651" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 2</source>
+        <target state="translated">Armor: 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca329a0cb0f68a8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when flying</source>
+        <target state="translated">Movement: Short; long when flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a6b0746c518bb0d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: At night, perceptions and attacks as level 7</source>
+        <target state="translated">Modifications: At night, perceptions and attacks as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1d76fa4fc11e792e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: At night, a fallen angel can attack other creatures by projecting a long-range beam of burning light. Against foes within immediate range, the fallen angel manifests burning wings. A fallen angel can choose to make its attacks ignore Armor, but for each attack so modified, it loses 4 points of health.</source>
+        <target state="translated">Combat: At night, a fallen angel can attack other creatures by projecting a long-range beam of burning light. Against foes within immediate range, the fallen angel manifests burning wings. A fallen angel can choose to make its attacks ignore Armor, but for each attack so modified, it loses 4 points of health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0e502ecf281313d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>On the rare occasion that a fallen angel is within immediate range of another of its kind, both regain 1 point of health per round.</source>
+        <target state="translated">On the rare occasion that a fallen angel is within immediate range of another of its kind, both regain 1 point of health per round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f6a42f6e70c68ae" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>By day, a fallen angel cannot project
+long-range attacks and has no visible wings with which to make melee attacks, though it may carry a melee weapon.</source>
+        <target state="translated">By day, a fallen angel cannot project
+long-range attacks and has no visible wings with which to make melee attacks, though it may carry a melee weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f33de5885c317c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: By day, fallen angels are not automatically hostile, and they can be negotiated and reasoned with. They can seem truly angelic, though they are often confused and forgetful of their origin. But when night descends, fallen angels lose control of their faculties as they swell with rage and power. Unless a character directs a fallen angel toward another creature on which it can vent its wrath, the character becomes the object of the fury.</source>
+        <target state="translated">Interaction: By day, fallen angels are not automatically hostile, and they can be negotiated and reasoned with. They can seem truly angelic, though they are often confused and forgetful of their origin. But when night descends, fallen angels lose control of their faculties as they swell with rage and power. Unless a character directs a fallen angel toward another creature on which it can vent its wrath, the character becomes the object of the fury.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9c323f257163bfa1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A star slips down from the sky and lands in the country. The next day, travelers come upon a farm in the area and find everyone dead and burned. A trail of scorched earth leads up into the hills.</source>
+        <target state="translated">Use: A star slips down from the sky and lands in the country. The next day, travelers come upon a farm in the area and find everyone dead and burned. A trail of scorched earth leads up into the hills.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9fe81e24d7e2a172" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Fallen angels collect cyphers and usually have a few.</source>
+        <target state="translated">Loot: Fallen angels collect cyphers and usually have a few.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c7b64a7c8c904765" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: A fallen angel’s successful attack causes the character’s cypher to detonate (if a grenade) or otherwise activate in a
+less-than-ideal fashion.</source>
+        <target state="translated">GM intrusion: A fallen angel’s successful attack causes the character’s cypher to detonate (if a grenade) or otherwise activate in a
+less-than-ideal fashion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

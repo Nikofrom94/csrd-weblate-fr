@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="36579b431ca33269" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Giant crab #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target state="translated">Giant crab #lvl6 (18) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec1b0234cba1a701" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 4</source>
+        <target state="translated">Armor: 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="84b0f45f05e9d756" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task</source>
+        <target state="translated">Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

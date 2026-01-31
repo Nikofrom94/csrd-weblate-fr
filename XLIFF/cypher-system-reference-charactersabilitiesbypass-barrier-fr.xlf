@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3bd86148d61fcd82" weblate-flags="md-text, safe-html, strict-same">
+        <source>Bypass Barrier (6+ Intellect points) #Ability #MovementAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5e890c38355031da" weblate-flags="md-text, safe-html, strict-same">
+        <source>You get past a door, force field, or other barrier up to 3 feet (1 m) thick that is blocking your way. Depending on the barrier, this might involve finding a weak spot you can push through, pressing the right button by luck, just breaking through, or even weirder explanations like touching a thin place between dimensions or an unexpected interaction with your equipment. The difficulty of the task is the level of the barrier. This ability allows you alone to pass through, not anyone else, and the way through closes at the end of your turn (which might mean you’re trapped on the far side). You have an asset in any attempts to get through it again. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum thickness of the barrier, each level adding 3 feet (1 m).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

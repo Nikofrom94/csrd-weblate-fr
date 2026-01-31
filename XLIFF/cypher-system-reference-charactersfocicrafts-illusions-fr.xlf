@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1f629dd28e717717" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crafts Illusions #Focus #EnvironmentFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d2a4dcbb863f5da" weblate-flags="md-text, safe-html, strict-same">
+        <source>You fashion images from light that are so perfect they seem real.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a6583dbead4b2be6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Minor Illusion]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0d13182a010849c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Illusory Disguise]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="87ee3c6aafae15d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Cast Illusion]{1} or [Major Illusion]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0abd70af7e54fd9b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Illusory Selves]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ebe3a949e1c8e67" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Terrifying Image]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="424baace4df605e0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Grandiose Illusion]{1} or [Permanent Illusion]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c16fae1f7de5ef81" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The illusion isn’t believable. The illusion is pierced at just the wrong moment.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

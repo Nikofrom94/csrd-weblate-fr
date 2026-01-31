@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="08e5f50af18b692a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Flex Lore #Ability #TaskAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe3ee4ee0bc9aa08" weblate-flags="md-text, safe-html, strict-same">
+        <source>After each ten-hour recovery roll when you have access to a high-technology digital reference library (such as one that might be found in a starship or in a learning center), choose one field of knowledge related to a specific planet or some other location. The field might be habitations, customs, governments, characteristics of the main species, important figures, and so on. You’re trained in that field until you use this ability again. You could use this ability with an area of knowledge you’re already trained in to become specialized.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

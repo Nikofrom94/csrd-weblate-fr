@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="83c73672543c2697" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scavenges #Focus #Core</source>
+        <target state="translated">Scavenges #Focus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="71a3605f6c99ef5f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.</source>
+        <target state="translated">When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ff9d777fa4c9e6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Post-Apocalyptic Survivor</source>
+        <target state="translated">Tier 1: Post-Apocalyptic Survivor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e9fb0a4a254e4336" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Ruin Lore</source>
+        <target state="translated">Tier 1: Ruin Lore</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9298591127094ec8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Junkmonger</source>
+        <target state="translated">Tier 2: Junkmonger</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="43be4104ec5b76e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Taking Advantage or Incredible Health</source>
+        <target state="translated">Tier 3: Taking Advantage or Incredible Health</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e53ac0b5bb401c0b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Know Where to Look</source>
+        <target state="translated">Tier 4: Know Where to Look</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0c170da89a688e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Recycled Cyphers</source>
+        <target state="translated">Tier 5: Recycled Cyphers</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5eee33ca0694088d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Artifact Scavenger or Reactive Field</source>
+        <target state="translated">Tier 6: Artifact Scavenger or Reactive Field</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="425c51c93af7af65" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.</source>
+        <target state="translated">GM Intrusions: An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

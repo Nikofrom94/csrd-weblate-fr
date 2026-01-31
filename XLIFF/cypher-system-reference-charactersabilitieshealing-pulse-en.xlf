@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="75a6c1a442a61722" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Healing Pulse (3 Intellect points) #Ability #SensesAbility #Low #Core</source>
+        <target state="translated">Healing Pulse (3 Intellect points) #Ability #SensesAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e91137e7da31d6b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You and all targets you choose within immediate range gain the immediate benefits of using one of their recovery rolls (as long as it is not their ten-hour recovery roll) without having to spend an action, ten minutes, or one hour. Targets regain points to their Pools immediately but mark off that recovery use. PCs who have already used up their one-action, ten-minute, and one-hour recovery rolls for the day gain no benefit from this ability. NPCs targeted by this ability regain a number of health points equal to their level.</source>
+        <target state="translated">You and all targets you choose within immediate range gain the immediate benefits of using one of their recovery rolls (as long as it is not their ten-hour recovery roll) without having to spend an action, ten minutes, or one hour. Targets regain points to their Pools immediately but mark off that recovery use. PCs who have already used up their one-action, ten-minute, and one-hour recovery rolls for the day gain no benefit from this ability. NPCs targeted by this ability regain a number of health points equal to their level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

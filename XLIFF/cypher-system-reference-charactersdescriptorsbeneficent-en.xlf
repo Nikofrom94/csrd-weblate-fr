@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="751ad5a9f4e6f869" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Beneficent #Descriptor #Core</source>
+        <target state="translated">Beneficent #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea71b684a2c9255b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Helping others is your calling. It’s why you’re here. Others delight in your outgoing and charitable nature, and you delight in their happiness. You’re at your best when you’re aiding people, either by explaining how they can best overcome a challenge or by demonstrating how to do so yourself.</source>
+        <target state="translated">Helping others is your calling. It’s why you’re here. Others delight in your outgoing and charitable nature, and you delight in their happiness. You’re at your best when you’re aiding people, either by explaining how they can best overcome a challenge or by demonstrating how to do so yourself.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0624642cfb5c409a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Generous: Allies who have spent the last day with you add +1 to their recovery rolls.</source>
+        <target state="translated">Generous: Allies who have spent the last day with you add +1 to their recovery rolls.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64a3a87d950a05f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Altruistic: If you’re standing next to a creature that takes damage, you can intercede and take 1 point of that damage yourself (reducing the damage inflicted on the creature by 1 point). If you have Armor, it does not provide a benefit when you use this ability.</source>
+        <target state="translated">Altruistic: If you’re standing next to a creature that takes damage, you can intercede and take 1 point of that damage yourself (reducing the damage inflicted on the creature by 1 point). If you have Armor, it does not provide a benefit when you use this ability.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3bf877815d6d2196" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks related to pleasant social interaction, putting other people at ease, and gaining trust.</source>
+        <target state="translated">Skill: You’re trained in all tasks related to pleasant social interaction, putting other people at ease, and gaining trust.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2494a544b147a265" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Helpful: Whenever you help another character, that character gains the benefit as if you were trained even if you are not trained or specialized in the attempted task.</source>
+        <target state="translated">Helpful: Whenever you help another character, that character gains the benefit as if you were trained even if you are not trained or specialized in the attempted task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae992c6bc8eca546" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: While you are alone, all Intellect and Speed tasks are hindered.</source>
+        <target state="translated">Inability: While you are alone, all Intellect and Speed tasks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d541449c9d5579d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Even though you didn’t know most of the other PCs beforehand, you invited yourself along on their quest.</source>
+        <target state="translated">Even though you didn’t know most of the other PCs beforehand, you invited yourself along on their quest.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="267975268ee73a1e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You saw the PCs struggling to overcome a problem and selflessly joined them to help.</source>
+        <target state="translated">You saw the PCs struggling to overcome a problem and selflessly joined them to help.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fc5c09eb9374d2df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re nearly certain the PCs will fail without you.</source>
+        <target state="translated">You’re nearly certain the PCs will fail without you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8bbffb900d96056c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The choice was between your tattered life and helping others. You haven’t looked back since.</source>
+        <target state="translated">The choice was between your tattered life and helping others. You haven’t looked back since.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

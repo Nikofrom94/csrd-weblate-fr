@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ae57bfbba55b3d1c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Descends From Nobility #Focus #IrregularFocus #Core</source>
+        <target state="translated">Descends From Nobility #Focus #IrregularFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bddf87e98b311e53" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.</source>
+        <target state="translated">A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="517147fb7754271b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Type Swap Option: [Retinue]{1}</source>
+        <target state="translated">Type Swap Option: [Retinue]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ccc8059eb8e5fa3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Privileged Nobility]{1}</source>
+        <target state="translated">Tier 1: [Privileged Nobility]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="899c20baeb637f70" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Trained Interlocutor]{1}</source>
+        <target state="translated">Tier 2: [Trained Interlocutor]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3d94531c5a00919" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Advanced Command]{1} or [Noble’s Courage]{2}</source>
+        <target state="translated">Tier 3: [Advanced Command]{1} or [Noble’s Courage]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="acd9c29abd65f84e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Expert Follower]{1}</source>
+        <target state="translated">Tier 4: [Expert Follower]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5c5842b75eecf3ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Asserting Your Privilege]{1}</source>
+        <target state="translated">Tier 5: [Asserting Your Privilege]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec29501bef12ad40" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Able Assistance]{1} or [Mind of a Leader]{2}</source>
+        <target state="translated">Tier 6: [Able Assistance]{1} or [Mind of a Leader]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b7a7b501de76823" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.</source>
+        <target state="translated">GM Intrusions: Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

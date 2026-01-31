@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="923115714e7ffd35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SHOCKER #Cypher #Manifest #Core</source>
+        <target state="translated">SHOCKER #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="20da1571bfac5b6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 4</source>
+        <target state="translated">Level: 1d6 + 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7b1c027b7d9b8488" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher’s level.</source>
+        <target state="translated">Effect: Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

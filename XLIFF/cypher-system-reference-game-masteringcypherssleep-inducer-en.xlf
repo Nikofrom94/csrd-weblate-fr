@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3deb2198b4ce0166" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SLEEP INDUCER #Cypher #Manifest #Core</source>
+        <target state="translated">SLEEP INDUCER #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="447a3901446b88cc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Touch puts the victim to sleep for ten minutes per cypher level or until awoken by a violent action or an extremely loud noise.</source>
+        <target state="translated">Effect: Touch puts the victim to sleep for ten minutes per cypher level or until awoken by a violent action or an extremely loud noise.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

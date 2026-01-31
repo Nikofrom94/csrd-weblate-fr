@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1a17c42bb54d51f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GAS BOMB #Cypher #Manifest #Core</source>
+        <target state="translated">GAS BOMB #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d518796d2759d720" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Thrown a short distance, this bursts in a poisonous cloud within an immediate area. The cloud lingers for 1d6 rounds unless conditions dictate otherwise. Roll a d100 to determine the effect.</source>
+        <target state="translated">Effect: Thrown a short distance, this bursts in a poisonous cloud within an immediate area. The cloud lingers for 1d6 rounds unless conditions dictate otherwise. Roll a d100 to determine the effect.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db4c10f55b1a19de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–10</source>
+        <target state="translated">01–10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3df98be7114b7374" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Thick smoke: occludes sight while the cloud lasts.</source>
+        <target state="translated">Thick smoke: occludes sight while the cloud lasts.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56343de7c46ac68f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>11–20</source>
+        <target state="translated">11–20</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89e3a482b8b37158" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher’s level.</source>
+        <target state="translated">Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="edbd3418de883b82" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>21–50</source>
+        <target state="translated">21–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd956e4cbd4685b4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Poison gas: living creatures that breathe suffer damage equal to the cypher’s level.</source>
+        <target state="translated">Poison gas: living creatures that breathe suffer damage equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94a9e839eba00b39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–60</source>
+        <target state="translated">51–60</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2225193929c83a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Corrosive gas: everything suffers damage equal to the cypher’s level.</source>
+        <target state="translated">Corrosive gas: everything suffers damage equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5437366fcbdcee9a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>61–65</source>
+        <target state="translated">61–65</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9eaba2e318b3f84a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hallucinogenic gas: living creatures that breathe lose their actions to hallucinations and visions for a number of rounds equal to the cypher’s level.</source>
+        <target state="translated">Hallucinogenic gas: living creatures that breathe lose their actions to hallucinations and visions for a number of rounds equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="06546fb31104bf87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>66–70</source>
+        <target state="translated">66–70</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16ba21d44977997b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nerve gas: living creatures that breathe suffer Speed damage equal to the cypher’s level.</source>
+        <target state="translated">Nerve gas: living creatures that breathe suffer Speed damage equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee167e5647490699" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>71–80</source>
+        <target state="translated">71–80</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3d8e562e90447dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mind-numbing gas: living creatures that breathe suffer Intellect damage equal to the cypher’s level.</source>
+        <target state="translated">Mind-numbing gas: living creatures that breathe suffer Intellect damage equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c69e518cc2c20494" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>81–83</source>
+        <target state="translated">81–83</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5bfeb64b89e9762f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fear gas: living creatures that breathe and think flee in a random direction in fear (or are paralyzed with fear) for a number of rounds equal to the cypher’s level.</source>
+        <target state="translated">Fear gas: living creatures that breathe and think flee in a random direction in fear (or are paralyzed with fear) for a number of rounds equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e53be01383d42982" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>84–86</source>
+        <target state="translated">84–86</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6e04fbdb07cfdd79" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Amnesia gas: living creatures that breathe and think permanently lose all memory of the last minute.</source>
+        <target state="translated">Amnesia gas: living creatures that breathe and think permanently lose all memory of the last minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee55657736d917dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>87–96</source>
+        <target state="translated">87–96</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17458b1bb7febee2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sleep gas: living creatures that breathe fall asleep for a number of rounds equal to the cypher’s level or until awoken by a violent action or an extremely loud noise.</source>
+        <target state="translated">Sleep gas: living creatures that breathe fall asleep for a number of rounds equal to the cypher’s level or until awoken by a violent action or an extremely loud noise.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b6d73ff636b9673c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>97–00</source>
+        <target state="translated">97–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="30343f846ea03a55" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rage gas: living creatures that breathe and think make a melee attack on the nearest creature and continue to do so for a number of rounds equal to the cypher’s level.</source>
+        <target state="translated">Rage gas: living creatures that breathe and think make a melee attack on the nearest creature and continue to do so for a number of rounds equal to the cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

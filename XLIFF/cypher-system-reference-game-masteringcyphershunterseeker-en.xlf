@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="275626751a70130d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>HUNTER/SEEKER #Cypher #Manifest #Core</source>
+        <target state="translated">HUNTER/SEEKER #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="058d981b2c71af70" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4 hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.</source>
+        <target state="translated">Effect: With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4 hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4e0ee8c20c286c08" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–50</source>
+        <target state="translated">01–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c713eeeb50fb80ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inflicts 8 points of damage.</source>
+        <target state="translated">Inflicts 8 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd266f32f74a7183" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–80</source>
+        <target state="translated">51–80</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1c6d3a1e7b686d1b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bears a poisoned needle that inflicts 3 points of damage plus poison.</source>
+        <target state="translated">Bears a poisoned needle that inflicts 3 points of damage plus poison.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ceae00e7d5aa7bce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>81–90</source>
+        <target state="translated">81–90</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0676be95d3a3cccf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explodes, inflicting 6 points of damage to all within immediate range.</source>
+        <target state="translated">Explodes, inflicting 6 points of damage to all within immediate range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9279b13a426c6521" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>91–95</source>
+        <target state="translated">91–95</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3eaeb81dbf5f9879" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shocks for 4 points of electricity damage, and stuns for one round per cypher level.</source>
+        <target state="translated">Shocks for 4 points of electricity damage, and stuns for one round per cypher level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="10bd85195332105c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>96–00</source>
+        <target state="translated">96–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8dccb24bab0df7c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher’s level + 2).</source>
+        <target state="translated">Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher’s level + 2).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="21dd6d8cbbea1709" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shepherds Spirits #Focus #AllyFocus #Core</source>
+        <target state="translated">Shepherds Spirits #Focus #AllyFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6bfc067794bcbaf5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wandering souls, nature spirits, and elemental beings aid and support you.</source>
+        <target state="translated">Wandering souls, nature spirits, and elemental beings aid and support you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="44ecb063031ed55d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)</source>
+        <target state="translated">(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81e4a44919bce2be" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Question the Spirits</source>
+        <target state="translated">Tier 1: Question the Spirits</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8ce6cf5fac261ad1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Spirit Accomplice</source>
+        <target state="translated">Tier 2: Spirit Accomplice</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25ace873cc006aa3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Command Spirit or Preternatural Senses</source>
+        <target state="translated">Tier 3: Command Spirit or Preternatural Senses</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="143bd47aaab71b2b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Wraith Cloak</source>
+        <target state="translated">Tier 4: Wraith Cloak</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="54b02bc67338849c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Call Dead Spirit</source>
+        <target state="translated">Tier 5: Call Dead Spirit</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="890c31f012bcdd76" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Call Otherworldly Spirit or Infuse Spirit</source>
+        <target state="translated">Tier 6: Call Otherworldly Spirit or Infuse Spirit</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="000b54eb8a6c4747" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.</source>
+        <target state="translated">GM Intrusions: Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

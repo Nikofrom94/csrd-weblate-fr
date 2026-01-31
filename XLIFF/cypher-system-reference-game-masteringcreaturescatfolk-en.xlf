@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5da076a11d7fa0e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Catfolk #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target state="translated">Catfolk #lvl3 (9) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="42d78dd434843d09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: damage inflicted 4 points</source>
+        <target state="translated">Damage Inflicted: damage inflicted 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fc05b6bc6d16169c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: balancing and climbing as level 4</source>
+        <target state="translated">Modifications: balancing and climbing as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

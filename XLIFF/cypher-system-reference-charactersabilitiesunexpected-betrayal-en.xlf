@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d460f826f874bbc1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Unexpected Betrayal #Ability #SocialAbility #Low #Core</source>
+        <target state="translated">Unexpected Betrayal #Ability #SocialAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6dc8b9498f7ae7e4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the first attack you make on that target is eased by two steps. Once you use Unexpected Betrayal on a target, using your abilities or attempting simple persuasion on that target is permanently hindered by two steps.</source>
+        <target state="translated">Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the first attack you make on that target is eased by two steps. Once you use Unexpected Betrayal on a target, using your abilities or attempting simple persuasion on that target is permanently hindered by two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

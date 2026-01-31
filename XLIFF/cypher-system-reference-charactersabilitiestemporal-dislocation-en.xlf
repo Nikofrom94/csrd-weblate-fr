@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1a975fb9d66bf71d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Temporal Dislocation (7 Intellect points) #Ability #MovementAbility #Mid #Core</source>
+        <target state="translated">Temporal Dislocation (7 Intellect points) #Ability #MovementAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6bf22f0f9c954648" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You disappear and travel up to one hour into the future or the past. While dislocated in time, you perceive events as they transpire from your position using your normal senses, but you can’t interact with or change anything. If you project yourself into the past, you remain there for one hour, at which point you’ve caught up to the present (to anyone with you in the present, you only seem to flicker out of existence for a moment). If you project yourself into the future, you remain there until the present catches up to you (to anyone with you in the present, you vanish for one hour and reappear in the place you left).</source>
+        <target state="translated">You disappear and travel up to one hour into the future or the past. While dislocated in time, you perceive events as they transpire from your position using your normal senses, but you can’t interact with or change anything. If you project yourself into the past, you remain there for one hour, at which point you’ve caught up to the present (to anyone with you in the present, you only seem to flicker out of existence for a moment). If you project yourself into the future, you remain there until the present catches up to you (to anyone with you in the present, you vanish for one hour and reappear in the place you left).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

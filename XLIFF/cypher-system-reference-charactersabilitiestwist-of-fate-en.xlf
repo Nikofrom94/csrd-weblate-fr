@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5b455d4dd9d0a70a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Twist of Fate #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Twist of Fate #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8812b94b5a5e37b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Experience has taught you a lot, including that sometimes luck is something that you have to make for yourself. When you roll a 1, you can reroll. You must use the new result, even if it’s another 1.</source>
+        <target state="translated">Experience has taught you a lot, including that sometimes luck is something that you have to make for yourself. When you roll a 1, you can reroll. You must use the new result, even if it’s another 1.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

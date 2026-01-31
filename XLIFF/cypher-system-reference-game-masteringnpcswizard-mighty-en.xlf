@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="dd0f67d7d5eb4cd7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>MIGHTY WIZARD #lvl8 (24) #Creature #Core #Fantasy</source>
+        <target state="translated">MIGHTY WIZARD #lvl8 (24) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5be5dad0ef55b02c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some wizards learn so many spells and accumulate so much lore that they become incredibly powerful. Some work for a higher purpose, whereas others are concerned only with themselves.</source>
+        <target state="translated">Some wizards learn so many spells and accumulate so much lore that they become incredibly powerful. Some work for a higher purpose, whereas others are concerned only with themselves.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="44eec9a51cebfc56" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Seek powerful sources of magic (to collect or to keep safe)</source>
+        <target state="translated">Motive: Seek powerful sources of magic (to collect or to keep safe)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b4137630199ae840" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 40</source>
+        <target state="translated">Health: 40</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0a9892b45e2c32c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 8 points</source>
+        <target state="translated">Damage Inflicted: 8 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f1d87d95841fb4a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: All tasks related to knowledge of arcane lore as level 9</source>
+        <target state="translated">Modifications: All tasks related to knowledge of arcane lore as level 9</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8ed5761bcbeea55d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: When a wizard makes a long-range attack with their staff or strikes someone with it, arcane energy damages the target and, if desired, all creatures the wizard selects within short range of the target. Targets that are within immediate range of the wizard when they take damage are thrown out of immediate range.</source>
+        <target state="translated">Combat: When a wizard makes a long-range attack with their staff or strikes someone with it, arcane energy damages the target and, if desired, all creatures the wizard selects within short range of the target. Targets that are within immediate range of the wizard when they take damage are thrown out of immediate range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6249d0813a2b8d96" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A mighty wizard knows many spells, including spells that grant +5 to Armor for an hour, spells of teleportation, spells of finding, and so on. A wizard also likely carries several cyphers useful in combat.</source>
+        <target state="translated">A mighty wizard knows many spells, including spells that grant +5 to Armor for an hour, spells of teleportation, spells of finding, and so on. A wizard also likely carries several cyphers useful in combat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="89d6e7ad07363521" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Care should be taken when negotiating with wizards because they are subtle and quick to anger. Even when negotiations succeed, a wizard’s suggestions are usually cryptic and open to interpretation. A mighty wizard might be convinced to teach a character how to cast a spell.</source>
+        <target state="translated">Interaction: Care should be taken when negotiating with wizards because they are subtle and quick to anger. Even when negotiations succeed, a wizard’s suggestions are usually cryptic and open to interpretation. A mighty wizard might be convinced to teach a character how to cast a spell.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d836b12357d9af9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A wizard is putting together a team to challenge a great foe, and the PCs fit the bill.</source>
+        <target state="translated">Use: A wizard is putting together a team to challenge a great foe, and the PCs fit the bill.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ff8b45fc7b1b11c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A mighty wizard has 1d6 cyphers.</source>
+        <target state="translated">Loot: A mighty wizard has 1d6 cyphers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60b61ad0d75a7a0b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The wizard casts two spells as a single action instead of just one.</source>
+        <target state="translated">GM intrusion: The wizard casts two spells as a single action instead of just one.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

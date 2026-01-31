@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9d7d3246ef602f81" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Multiple Skills #Ability #TaskAbility #High #Core</source>
+        <target state="translated">Multiple Skills #Ability #TaskAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="65b12b82284c4e22" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are trained in three skills of your choice in which you are not already trained. You can select this ability multiple times. Each time you select it, you must choose three different skills.</source>
+        <target state="translated">You are trained in three skills of your choice in which you are not already trained. You can select this ability multiple times. Each time you select it, you must choose three different skills.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

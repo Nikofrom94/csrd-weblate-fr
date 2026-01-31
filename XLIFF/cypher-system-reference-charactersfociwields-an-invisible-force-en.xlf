@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="c369c84c11176bcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wields an Invisible Force #Focus #Core #SuperHeroes</source>
+        <target state="translated">Wields an Invisible Force #Focus #Core #SuperHeroes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a407eb060d6e8ba4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You bend light and manipulate beams of force for offense and defense.</source>
+        <target state="translated">You bend light and manipulate beams of force for offense and defense.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="333ec2483353492c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Vanish</source>
+        <target state="translated">Tier 1: Vanish</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bf8693cb41001fd1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Entangling Force</source>
+        <target state="translated">Tier 2: Entangling Force</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ab6d1a93202db52c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Sharp Senses</source>
+        <target state="translated">Tier 2: Sharp Senses</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c34d45768253d8ff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Force Field Barrier or Multi-Vanish</source>
+        <target state="translated">Tier 3: Force Field Barrier or Multi-Vanish</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0275d85a0247aff3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Invisibility</source>
+        <target state="translated">Tier 4: Invisibility</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="904a6fb2cbb12e35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Defensive Field</source>
+        <target state="translated">Tier 5: Defensive Field</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b11e10d7429fcd31" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Concussion or Generate Force Field</source>
+        <target state="translated">Tier 6: Concussion or Generate Force Field</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="785916f5e7ab9308" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual or unexpected attack.</source>
+        <target state="translated">GM Intrusions: Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual or unexpected attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

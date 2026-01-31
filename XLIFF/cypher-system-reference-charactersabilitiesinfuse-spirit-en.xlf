@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="61c12247a2f27013" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Infuse Spirit #Ability #CureAbility #High #Core</source>
+        <target state="translated">Infuse Spirit #Ability #CureAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df1dae586c88ca9f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you kill a creature or destroy a spirit with an attack, if you choose, its spirit (if unprotected) immediately infuses you, and you regain 1d6 points to one of your Pools (your choice). The spirit is stored within you, which means it cannot be questioned, raised, or restored to life by any means unless you allow it.</source>
+        <target state="translated">When you kill a creature or destroy a spirit with an attack, if you choose, its spirit (if unprotected) immediately infuses you, and you regain 1d6 points to one of your Pools (your choice). The spirit is stored within you, which means it cannot be questioned, raised, or restored to life by any means unless you allow it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

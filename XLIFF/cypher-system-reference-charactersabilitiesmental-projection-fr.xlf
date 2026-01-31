@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="70319eba6cdb6375" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mental Projection (6+ Intellect points) #Ability #MovementAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2bab894a5f23e47c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your mind fully leaves your body and manifests anywhere you choose within immediate range. Your projected mind can remain apart from your body for up to 24 hours. This effect ends early if your Intellect Pool is reduced to 0 or if your projection touches your resting body.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7077731bc6bf759f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your disembodied mind is a psychic construct that looks like you, though its frayed edges trail off into nothingness. You control this body as if it were your normal body and can act and move as you normally would with a few exceptions. You can move through solid objects as if you were phased, and you ignore any terrain feature that would impede your movement.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f300c8d25606bc0a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your attacks inflict 3 fewer points of damage (to a minimum of 1) and you take 3 fewer points of damage (to a minimum of 1) from physical attacks, unless they can affect transdimensional or phased beings, in which case you take full damage. Regardless of the source, you take all damage as Intellect damage first.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3e47dc15f915e5d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your mind can travel up to 1 mile (1.5 km) from your body. Each level of additional Effort applied extends the range that you can travel by 1 mile (1.5 km).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="29b50af05a68187f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your physical body is helpless until this effect ends. You cannot use your physical senses to perceive anything. For example, your body could sustain a significant injury, and you wouldn’t know it. Your body cannot take Intellect damage, so if your body takes enough damage to reduce both your Might Pool and your Speed Pool to 0, your mind snaps back to your body, and you are stunned until the end of the next round as you try to reorient yourself to your predicament.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6bcae108b447c6b3" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Mentally projecting characters may attract psychic entities and predators that PCs normally don’t have to deal with, run into weather psychic phenomena that risks severing their connection, and possibly even become lost on a different metaphysical plane.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

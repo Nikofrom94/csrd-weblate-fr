@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5675d6b3f8458883" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Resuscitate (6 Intellect points) #Ability #CureAbility #High #Core</source>
+        <target state="translated">Resuscitate (6 Intellect points) #Ability #CureAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="462f98e1aab0fdef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can resuscitate a character who is up to two steps down on the damage track as your action. The target ascends one step on the damage track. If a character has dropped all three steps on the damage track (dead) but is otherwise in one piece and less than a minute has passed since they descended to the third step, you can resuscitate them if you succeed at a level 6 healing task. If you use this ability on an NPC who has no health but has been dead for less than a minute and is otherwise in one piece, the NPC is resuscitated with 1 health.</source>
+        <target state="translated">You can resuscitate a character who is up to two steps down on the damage track as your action. The target ascends one step on the damage track. If a character has dropped all three steps on the damage track (dead) but is otherwise in one piece and less than a minute has passed since they descended to the third step, you can resuscitate them if you succeed at a level 6 healing task. If you use this ability on an NPC who has no health but has been dead for less than a minute and is otherwise in one piece, the NPC is resuscitated with 1 health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

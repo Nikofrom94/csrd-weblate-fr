@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="98c11aaffac086b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Gambler #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Gambler #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56f73a0eebe1b9e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Each day, choose two different numbers from 2 to 16. One number is your lucky number, and the other is your unlucky number. Whenever you make a roll that day and get a number matching your lucky number, your next task is eased. Whenever you make a roll that day and get a number matching your unlucky number, your next task is hindered.</source>
+        <target state="translated">Each day, choose two different numbers from 2 to 16. One number is your lucky number, and the other is your unlucky number. Whenever you make a roll that day and get a number matching your lucky number, your next task is eased. Whenever you make a roll that day and get a number matching your unlucky number, your next task is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

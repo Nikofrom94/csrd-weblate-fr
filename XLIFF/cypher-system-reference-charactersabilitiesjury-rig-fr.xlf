@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="8edb0f4f55e8f23e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Jury-Rig (5 Intellect points) #Ability #CraftAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df7aee09142c5b2d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You quickly create an object using what would seem to be entirely inappropriate materials. You can make a bomb out of a tin can and household cleaners, a lockpick out of aluminum foil, or a sword out of broken furniture. The level of the item determines the difficulty of the task, but the appropriateness of the materials eases or hinders it as well. Generally, the object can be no larger than something you can hold in one hand, and it functions once (or, in the case of a weapon or similar item, is essentially useful for one encounter). If you spend at least ten minutes on the task, you can create an item of level 5 or lower. You can’t change the nature of the materials involved. For example, you can’t take iron rods and make a pile of gold coins or a wicker basket.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

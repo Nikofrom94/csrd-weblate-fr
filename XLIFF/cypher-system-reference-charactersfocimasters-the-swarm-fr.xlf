@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="0fd2ee0cc179532b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Masters the Swarm #Focus #AllyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cfd7dbb4658a3d44" weblate-flags="md-text, safe-html, strict-same">
+        <source>Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3977b3e71b456890" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Influence Swarm</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86aacb4bc1ccd05c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Control Swarm</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c42508faf7a84463" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Living Armor or Skill With Attacks</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cbb8d1aa9bf8717b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Call Swarm</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1e986a16be66b8bf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Gain Unusual Companion</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f44b93a96efb88b9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Deadly Swarm or Skill With Defense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="861bfd340ad76599" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: A command is misunderstood. Control is erratic or is lost. Bites and stings are not uncommon for masters of the swarm.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

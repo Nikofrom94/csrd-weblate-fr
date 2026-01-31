@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="22462e297b15a2b6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>OCCULTIST #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target state="translated">OCCULTIST #lvl5 (15) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a5b77a7bfed03e7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Paranormal researchers, cultists, secret practitioners of white magic, and coven members might be occultists. Thanks to their study of the metaphysical, occultists learn several magical tricks, including the ability to summon or banish the dead.</source>
+        <target state="translated">Paranormal researchers, cultists, secret practitioners of white magic, and coven members might be occultists. Thanks to their study of the metaphysical, occultists learn several magical tricks, including the ability to summon or banish the dead.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce49379920a9bb20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 15</source>
+        <target state="translated">Health: 15</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a616eaf82e71880" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63d73c7b9312d4c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Knowledge of occult topics and rituals as level 8; ability to detect lies and tricks as level 2</source>
+        <target state="translated">Modifications: Knowledge of occult topics and rituals as level 8; ability to detect lies and tricks as level 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a27932b5c50604d7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: An occultist has a charm or device for summoning a level 5 spirit or demon that will do their bidding for ten minutes. Some also have (or instead have) a spell, item, or device that inflicts 5 points of damage on normal creatures within long range, and 10 points of damage on a demon or spirit (or, instead of dealing extra damage, the effect confines the demon or spirit in some way).</source>
+        <target state="translated">Combat: An occultist has a charm or device for summoning a level 5 spirit or demon that will do their bidding for ten minutes. Some also have (or instead have) a spell, item, or device that inflicts 5 points of damage on normal creatures within long range, and 10 points of damage on a demon or spirit (or, instead of dealing extra damage, the effect confines the demon or spirit in some way).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5d5d0cca2437afdf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Occultists are deeply concerned with spiritual or demonic matters and see those influences in all things, whether those influences exist or not. That makes them amenable to persuasion and deception, if couched in the language of spiritual influence.</source>
+        <target state="translated">Interaction: Occultists are deeply concerned with spiritual or demonic matters and see those influences in all things, whether those influences exist or not. That makes them amenable to persuasion and deception, if couched in the language of spiritual influence.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69c1d8adc4b8257f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: To find a needed answer, the spirit of a dead person must be questioned. Alternatively, a haunting presence must be banished. Either way, the task requires an occultist.</source>
+        <target state="translated">Use: To find a needed answer, the spirit of a dead person must be questioned. Alternatively, a haunting presence must be banished. Either way, the task requires an occultist.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bf074db89cc14788" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: In addition to their clothing and mundane weapons, occultists have currency equivalent to an inexpensive item, a cypher, and possibly an artifact related to their power over spirits or demons.</source>
+        <target state="translated">Loot: In addition to their clothing and mundane weapons, occultists have currency equivalent to an inexpensive item, a cypher, and possibly an artifact related to their power over spirits or demons.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a931d85e14ad5a32" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: A bony hand erupts from the ground at the character’s feet. On a failed Speed defense roll, they are held in place until they succeed on a Might-based task to escape. Each round the character fails to escape, the hand squeezes for 3 points of damage.</source>
+        <target state="translated">GM intrusion: A bony hand erupts from the ground at the character’s feet. On a failed Speed defense roll, they are held in place until they succeed on a Might-based task to escape. Each round the character fails to escape, the hand squeezes for 3 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

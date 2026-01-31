@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="64c58fcb7bee7249" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Muscles of Iron (2 Might points) #Ability #TaskAbility #Low #Core</source>
+        <target state="translated">Muscles of Iron (2 Might points) #Ability #TaskAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="21bd6d6d791cda23" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For the next ten minutes, all Might-based actions other than attack rolls that you attempt are eased. If you already have this ability from another source, the effect of this ability lasts for one hour instead of ten minutes.</source>
+        <target state="translated">For the next ten minutes, all Might-based actions other than attack rolls that you attempt are eased. If you already have this ability from another source, the effect of this ability lasts for one hour instead of ten minutes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

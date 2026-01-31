@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="9cc0c248dc4b8d63" weblate-flags="md-text, safe-html, strict-same">
+        <source>Adept #Type #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4836fb4d8e0a6d0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fantasy/Fairy tale: wizard, mage, sorcerer, cleric, druid, seer, diabolist, fey-touched</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1e80b5b37d41df7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modern/Horror/Romance: psychic, occultist, witch, practitioner, medium, fringe scientist</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="85ee492a0b7ca895" weblate-flags="md-text, safe-html, strict-same">
+        <source>Science fiction: psion, psionicist, telepath, seeker, master, scanner, ESPer, abomination</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5940da35c209b87b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Superhero/Post-Apocalyptic: mage, sorcerer, power-wielder, master, psion, telepath</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c4561a7b90ad5e7b" weblate-flags="md-text, safe-html, strict-same">
+        <source>You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4482992d0677550" weblate-flags="md-text, safe-html, strict-same">
+        <source>Individual Role: Adepts are usually thoughtful, intelligent types. They often think carefully before acting and rely heavily on their supernatural abilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe00efb2213f0672" weblate-flags="md-text, safe-html, strict-same">
+        <source>Group Role: Adepts are not powerful in straightforward combat, although they often wield abilities that provide excellent combat support, both offensively and defensively. They sometimes possess abilities that facilitate overcoming challenges. For example, if the group must get through a locked door, an Adept might be able to destroy it or teleport everyone to the other side.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d02f5dd28cf6048" weblate-flags="md-text, safe-html, strict-same">
+        <source>Societal Role: In settings where the supernatural is rare, strange, or feared, Adepts are likely rare and feared as well. They remain hidden, shadowy figures. When this is not the case, Adepts are more likely to be common and forthright. They might even take leadership roles.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="190c2f38fe2c6dcc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Advanced Adepts: Even at low tiers, Adept powers are impressive. Higher-tier Adepts can accomplish amazing deeds that can reshape matter and the environment around them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0fa1894d614e80b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8402efdf2e32c59f" weblate-flags="md-text, safe-html, strict-same">
+        <source>ADEPT PLAYER INTRUSIONS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ad75bc91556f4ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>When playing an Adept, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="33d794773cdc07c4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Advantageous Malfunction: A device being used against you malfunctions. It might harm the user or one of their allies for a round, or activate a dramatic and distracting side effect for a few rounds.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="62c15761e328522e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Convenient Idea: A flash of insight provides you with a clear answer or suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5011f56e7ebc8ca1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inexplicably Unbroken: An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8fa2ead9371451e1" weblate-flags="md-text, safe-html, strict-same">
+        <source>ADEPT STAT POOLS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7001c20bbbe74db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stat</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d2e0505d87c87c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pool Starting Value</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06d39510070cb158" weblate-flags="md-text, safe-html, strict-same">
+        <source>Might</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":32" weblate-flags="md-text, safe-html, strict-same">
+        <source>7</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06c7522b6a5d3e69" weblate-flags="md-text, safe-html, strict-same">
+        <source>Speed</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":32" weblate-flags="md-text, safe-html, strict-same">
+        <source>9</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="72eeaaa15849051b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Intellect</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":32" weblate-flags="md-text, safe-html, strict-same">
+        <source>12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6c9ed52601ff3c95" weblate-flags="md-text, safe-html, strict-same">
+        <source>You get 6 additional points to divide among your stat Pools however you wish.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e49fba53783aa90" weblate-flags="md-text, safe-html, strict-same">
+        <source>Adept Background Connection</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0374e9611a8e02a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="673b3e84a27d21ae" weblate-flags="md-text, safe-html, strict-same">
+        <source>d20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dcd6345394fb7139" weblate-flags="md-text, safe-html, strict-same">
+        <source>Background</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfbd4c12eb9e51b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe366fc860ef4746" weblate-flags="md-text, safe-html, strict-same">
+        <source>You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="006009681cb2e26c" weblate-flags="md-text, safe-html, strict-same">
+        <source>2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b17e1dc4518358ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>You studied in a school infamous for its dark, brooding instructors and graduates.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b17c7d9edacecbaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4a66ae93bd413f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3174f6bcbef734ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3685bb926f9bc7e4" weblate-flags="md-text, safe-html, strict-same">
+        <source>While traveling alone, you saved the life of a powerful person. They remain indebted to you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1214f1507fe8dc50" weblate-flags="md-text, safe-html, strict-same">
+        <source>5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="626c0ab03ea7f7ef" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c789e1896697ebbd" weblate-flags="md-text, safe-html, strict-same">
+        <source>6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b168810a420ae44a" weblate-flags="md-text, safe-html, strict-same">
+        <source>You owe money to a number of people and don’t have the funds to pay your debts.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":44" weblate-flags="md-text, safe-html, strict-same">
+        <source>7</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db347a551322ec8a" weblate-flags="md-text, safe-html, strict-same">
+        <source>You failed disgracefully at your initial studies with your teacher and now proceed on your own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="62ac44bfd909abd5" weblate-flags="md-text, safe-html, strict-same">
+        <source>8</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e72e846c426615a5" weblate-flags="md-text, safe-html, strict-same">
+        <source>You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":44" weblate-flags="md-text, safe-html, strict-same">
+        <source>9</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d86cb8bf02ec5058" weblate-flags="md-text, safe-html, strict-same">
+        <source>You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7cef57593256badd" weblate-flags="md-text, safe-html, strict-same">
+        <source>10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7d8ec57c3fd6e1ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a03be57bb8f2f8ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>11</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="674042b7017bbf9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":44" weblate-flags="md-text, safe-html, strict-same">
+        <source>12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="65e9f72ccc94752d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="527badb3fe60638c" weblate-flags="md-text, safe-html, strict-same">
+        <source>13</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f72f58bcac0cd5b" weblate-flags="md-text, safe-html, strict-same">
+        <source>You trained for a time with a group of influential Adepts, and they still look upon you with fondness.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9de04020d95dcfb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>14</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="15a13a9ab69a27dd" weblate-flags="md-text, safe-html, strict-same">
+        <source>You worked the gardens in the palace of an influential noble or person of wealth. They wouldn’t remember you, but you made friends with their young daughter.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b13ab1e55cea292" weblate-flags="md-text, safe-html, strict-same">
+        <source>15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dc5f03bab01a1b4a" weblate-flags="md-text, safe-html, strict-same">
+        <source>An experiment you conducted in the past went horribly awry. The locals remember you as a dangerous and foolhardy individual.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a15639a0aa4f079e" weblate-flags="md-text, safe-html, strict-same">
+        <source>16</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fcdf029b17059470" weblate-flags="md-text, safe-html, strict-same">
+        <source>You hail from a distant place where you were well known and regarded, but people here treat you with suspicion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4f4cf10899f4937" weblate-flags="md-text, safe-html, strict-same">
+        <source>17</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="209b874afa50dc0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>People you meet seem put off by the strange birthmark on your face.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59e0afd113919755" weblate-flags="md-text, safe-html, strict-same">
+        <source>18</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="02838a4a94455522" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your best friend is also an Adept. You and your friend share discoveries and secrets readily.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d5c391003c0c2bee" weblate-flags="md-text, safe-html, strict-same">
+        <source>19</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1f0e6d9baa4311af" weblate-flags="md-text, safe-html, strict-same">
+        <source>You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="404a11b0aac0370e" weblate-flags="md-text, safe-html, strict-same">
+        <source>20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b70c47a11d762d0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>You belong to a secretive social club that gathers monthly to drink and talk.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="116e1f61b4133e7d" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIRST-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ad3a63d9ea303add" weblate-flags="md-text, safe-html, strict-same">
+        <source>First-tier Adepts have the following abilities:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="252b50ac392dfb2a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effort: Your Effort is 1.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7792a46439daf8a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ff16145c08c787d3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Expert Cypher Use: You can bear three cyphers at a time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e22bae6ac20f2743" weblate-flags="md-text, safe-html, strict-same">
+        <source>Starting Equipment: Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items of your choice.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7ff263b57f4fd593" weblate-flags="md-text, safe-html, strict-same">
+        <source>Weapons: You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b2e7a595e8b5b64" weblate-flags="md-text, safe-html, strict-same">
+        <source>Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="897c1bf9b62ff642" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Distortion]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21c428491cf5f1af" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Erase Memories]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5cdf682aa2a13b4b" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Far Step]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="64597518ad04807f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Hedge Magic]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6613b0e7ad481163" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Magic Training]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7d503ade8b009424" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Onslaught]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b5af39b75d10a7e7" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Push]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c6b0ff78c23cb71" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Resonance Field]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d30b85acc32c27fc" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Scan]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="83e5a355a8677852" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Shatter]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="558fbfc130ac1e2c" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Ward]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="974f5149f62bc3ef" weblate-flags="md-text, safe-html, strict-same">
+        <source>SECOND-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":91" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8f047cb16cb64dd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Adaptation]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d58fa9a80ccc527a" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Cutting Light]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="442e04a85c4315f4" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Hover]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef2158c5bd1f02d3" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Mind Reading]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a040a95d897dc41" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Retrieve Memories]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ef669a201b591eed" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Reveal]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e705f52cc3e0543f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Stasis]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c6163f3047d06586" weblate-flags="md-text, safe-html, strict-same">
+        <source>THIRD-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":102" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d7b2eaf2505110e4" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Adroit Cypher Use]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e729dd22d927804b" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Countermeasures]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc1581466c8c23fb" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Energy Protection]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="978a1f9ffe942aaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Fire and Ice]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4d1477f34ae7692" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Force Field Barrier]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1734b653b04cd746" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Sensor]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bb895c72bcb0bbf4" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Targeting Eye]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cfe0cdc9cca6421a" weblate-flags="md-text, safe-html, strict-same">
+        <source>FOURTH-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":113" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="286ba260ea08a81d" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Death Touch]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99d1259872dfa935" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Exile]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9fbb13ee77dec70e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Invisibility]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7c6c5f1cef1f6d81" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Matter Cloud]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a62d878fd3342359" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Mind Control]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="32e8093aa8a006f0" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Projection]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d34f2f722581b73c" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Rapid Processing]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a8ee48456e080c63" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Regeneration]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="daeb8685560e633f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Reshape]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="56817c16e605a16d" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Wormhole]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d9fe45e3cd07768" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIFTH-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":127" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f047d45463b9b82" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Absorb Energy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bc927e9d1bcabb87" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Concussion]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1c12973876067efe" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Conjuration]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="902de63fa0f722a6" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Create]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df4e28c05a752511" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Dust to Dust]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="40755697e128d978" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Knowing the Unknown]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5d74008582722a6f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Master Cypher Use]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b97ebf7b8566f06" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Teleportation]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3eded967c3150102" weblate-flags="md-text, safe-html, strict-same">
+        <source>[True Senses]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f0185de181ed3fe1" weblate-flags="md-text, safe-html, strict-same">
+        <source>SIXTH-TIER ADEPT</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id=":140" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="713545628a85a5a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Control Weather]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2c0a06c730f2f88b" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Earthquake]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a96d985db935945c" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Move Mountains]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c57226e4d0dca0d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Traverse the Worlds]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2da74e625535f1f3" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Usurp Cypher]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8e39dda8c8051e25" weblate-flags="md-text, safe-html, strict-same">
+        <source>ADEPT EXAMPLE</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ce601dc65b66c8e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="517ba9eee42067d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="46b33a2484230c06" weblate-flags="md-text, safe-html, strict-same">
+        <source>For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="954b543d42ee7328" weblate-flags="md-text, safe-html, strict-same">
+        <source>For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out—she’s good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e3537ae9edf52c88" weblate-flags="md-text, safe-html, strict-same">
+        <source>Her spells and focus abilities cost Intellect points to activate, so she’s glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="30877ff8084ecba5" weblate-flags="md-text, safe-html, strict-same">
+        <source>For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d33d3959abbf3c61" weblate-flags="md-text, safe-html, strict-same">
+        <source>(GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

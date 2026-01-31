@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="c8a7ea2dca370300" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Strategize (6 Intellect points) #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Strategize (6 Intellect points) #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2aa6d18e242422ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Having an action plan in place before facing a challenge improves the odds of success, even if that plan is eventually changed or discarded once it’s put into play. If you and your allies spend at least ten minutes going over a plan of action, all of you gain one free level of Effort that can be applied to one task you attempt during the execution of that plan within the next 24 hours. The plan of action must be something concrete and executable in order to gain this benefit.</source>
+        <target state="translated">Having an action plan in place before facing a challenge improves the odds of success, even if that plan is eventually changed or discarded once it’s put into play. If you and your allies spend at least ten minutes going over a plan of action, all of you gain one free level of Effort that can be applied to one task you attempt during the execution of that plan within the next 24 hours. The plan of action must be something concrete and executable in order to gain this benefit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9d1c272fa304bfa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, ten minutes to complete.</source>
+        <target state="translated">Action to initiate, ten minutes to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

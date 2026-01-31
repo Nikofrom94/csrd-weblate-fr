@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ee619ac5e71699fd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your descriptor defines your character—it flavors everything you do. The differences between a Charming Explorer and a Vicious Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an *adjective* *noun* who *verbs*.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aa60098c6c64c712" weblate-flags="md-text, safe-html, strict-same">
+        <source>Descriptors offer a one-time package of extra abilities, skills, or modifications to your stat Pools. Not all of a descriptor’s offerings are positive character modifications. For example, some descriptors have inabilities—tasks that a character isn’t good at. You can think of inabilities as negative skills—instead of being one step better at that kind of task, you’re one step worse. If you become skilled at a task that you have an inability with, they cancel out. Remember that characters are defined as much by what they’re *not* good at as by what they *are* good at.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="19edee6712a2c090" weblate-flags="md-text, safe-html, strict-same">
+        <source>Descriptors also offer a few brief suggestions for how your character got involved with the rest of the group on their first adventure. You can use these, or not, as you wish.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="43b86a9d10eb11ba" weblate-flags="md-text, safe-html, strict-same">
+        <source>This section details fifty descriptors. Choose one of them for your character. You can pick any descriptor you wish regardless of your type. At the end of this chapter, a few options are provided for Customizing Descriptors, including making a character’s species their descriptor.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c3951f95ac8fbe24" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Your descriptor matters most when you are a beginning character. The benefits (and perhaps drawbacks) that come from your descriptor will eventually be overshadowed by the growing importance of your type and focus. However, the influence of your descriptor will remain at least somewhat important throughout your character’s life.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99c2e07edae73b50" weblate-flags="md-text, safe-html, strict-same">
+        <source>CUSTOMIZING DESCRIPTORS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="167001defec9c88c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Under the normal rules, each descriptor is based on some modification of the following guidelines:</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8173dc81314bd077" weblate-flags="md-text, safe-html, strict-same">
+        <source>Some descriptors offer +4 to one stat Pool and either two narrow skills or one broad skill.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cfdc121fb13db0d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Other descriptors offer +2 to one stat Pool and either three narrow skills or one narrow skill and one broad skill.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5fcd3d6794b7a1ae" weblate-flags="md-text, safe-html, strict-same">
+        <source>A broad skill covers many areas (such as all interactions). A narrow skill covers fewer areas (such as deceptive interactions). Combat-related skills, such as defense or initiative, are considered broad skills in this sense.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6be4b815d866b8c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Regardless, you can add an additional skill if it is balanced by an inability.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9dd798cb2d55ce52" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can add other non-skill abilities by eyeballing them and trying to equate them to the value of a skill, if possible. If the descriptor seems lacking, add a moderately priced item as additional equipment to balance things out.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d44db1a3d5e24838" weblate-flags="md-text, safe-html, strict-same">
+        <source>With this general information, you can customize a descriptor, but keep in mind that a heavily customized descriptor isn’t a descriptor if it no longer says one thing about a character. It’s better to use this information to create a new descriptor that fits exactly how the player wants to portray the character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6baa0fe0715d519f" weblate-flags="md-text, safe-html, strict-same">
+        <source>SPECIES AS DESCRIPTOR</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="16e7e6e300e044ee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sometimes, in settings that have alien or fantasy species, players want to play a member of that species rather than the default (which is usually “human”). Most of the time, this choice is one of flavor rather than game mechanics. If you’re a 7-foot-tall furry Rigellian with three eyes, that’s great, but it doesn’t change your stats or skills (though it may have roleplaying challenges).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c287971a0f78384e" weblate-flags="md-text, safe-html, strict-same">
+        <source>However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the Strong or Tough descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to Strong or Tough but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a Tough Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="572ba40b5abbd8f7" weblate-flags="md-text, safe-html, strict-same">
+        <source>The Genre chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a Mysterious character and a Virtuous one are probably greater than those between an Alpha Centauran and an Earthling.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcdad054369f9a7e" weblate-flags="md-text, safe-html, strict-same">
+        <source>DESCRIPTORS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="35a984e45db17c52" weblate-flags="md-text, safe-html, strict-same">
+        <source>[APPEALING]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df86e9cea25edde5" weblate-flags="md-text, safe-html, strict-same">
+        <source>[BENEFICENT]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8084ca2167a8348b" weblate-flags="md-text, safe-html, strict-same">
+        <source>[BRASH]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2c2e4bd1b23ac061" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CALM]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="47ac2127c2392edb" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CHAOTIC]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1323ad7704c49ddb" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CHARMING]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5976392220586429" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CLEVER]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6eccea38b28a0491" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CLUMSY]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="00d61c9cd244ad79" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CRAVEN]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="824d58c50538583d" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CREATIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a53e557362bf348" weblate-flags="md-text, safe-html, strict-same">
+        <source>[CRUEL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5f847a360b9d26f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[DISHONORABLE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="521966c6e3190c8a" weblate-flags="md-text, safe-html, strict-same">
+        <source>[DOOMED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1e633ab6754be80a" weblate-flags="md-text, safe-html, strict-same">
+        <source>[EMPATHIC]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c4281871e8d55f8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>[EXILED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="31a3f58172b01b44" weblate-flags="md-text, safe-html, strict-same">
+        <source>[FAST]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="871312e5ae7e8d32" weblate-flags="md-text, safe-html, strict-same">
+        <source>[FOOLISH]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="691dc4d468bf1d0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[GRACEFUL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6e4668c8f1372186" weblate-flags="md-text, safe-html, strict-same">
+        <source>[GUARDED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="700647799411bd5e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[HARDY]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3e0b9efbc4f25572" weblate-flags="md-text, safe-html, strict-same">
+        <source>[HIDEOUS]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b894133d867bfe99" weblate-flags="md-text, safe-html, strict-same">
+        <source>[HONORABLE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="954d50733644893f" weblate-flags="md-text, safe-html, strict-same">
+        <source>[IMPULSIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d9db7c71198286b3" weblate-flags="md-text, safe-html, strict-same">
+        <source>[INQUISITIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0afe62db2a30d0c1" weblate-flags="md-text, safe-html, strict-same">
+        <source>[INTELLIGENT]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3b17b6b212bd422e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[INTUITIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d376c8cd9d789a8e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[JOVIAL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a1390967ffe30ff2" weblate-flags="md-text, safe-html, strict-same">
+        <source>[KIND]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="29d77cf290bf8791" weblate-flags="md-text, safe-html, strict-same">
+        <source>[LEARNED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2596cfd5bd799645" weblate-flags="md-text, safe-html, strict-same">
+        <source>[LUCKY]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="68e7d82115809340" weblate-flags="md-text, safe-html, strict-same">
+        <source>[MAD]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d86a8dc5911b68a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>[MECHANICAL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1253150118378522" weblate-flags="md-text, safe-html, strict-same">
+        <source>[MYSTERIOUS]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0f25c60874c3cb2a" weblate-flags="md-text, safe-html, strict-same">
+        <source>[MYSTICAL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a915d4cbf902d79a" weblate-flags="md-text, safe-html, strict-same">
+        <source>[NAIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="815936a405ab9bfe" weblate-flags="md-text, safe-html, strict-same">
+        <source>[PERCEPTIVE]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0d5b61097485160e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[RESILIENT]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a31fd5cac115128" weblate-flags="md-text, safe-html, strict-same">
+        <source>[RISK-TAKING]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9c52852f66139290" weblate-flags="md-text, safe-html, strict-same">
+        <source>[RUGGED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97fe2dead2b93d0e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[SHARP-EYED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="572a1fa65b225c46" weblate-flags="md-text, safe-html, strict-same">
+        <source>[SKEPTICAL]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2310fa315e42f94b" weblate-flags="md-text, safe-html, strict-same">
+        <source>[STEALTHY]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c40133b4a975cf7e" weblate-flags="md-text, safe-html, strict-same">
+        <source>[STRONG]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2a22cc044cac2645" weblate-flags="md-text, safe-html, strict-same">
+        <source>[STRONG-WILLED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7875a64057577e4d" weblate-flags="md-text, safe-html, strict-same">
+        <source>[SWIFT]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="45377ec2380299f9" weblate-flags="md-text, safe-html, strict-same">
+        <source>[TONGUE-TIED]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a0b800599f7a2d94" weblate-flags="md-text, safe-html, strict-same">
+        <source>[TOUGH]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="371304ada4ca0028" weblate-flags="md-text, safe-html, strict-same">
+        <source>[VICIOUS]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="351a60125a3c7eab" weblate-flags="md-text, safe-html, strict-same">
+        <source>[VIRTUOUS]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="570a85062fbe84f9" weblate-flags="md-text, safe-html, strict-same">
+        <source>[WEIRD]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

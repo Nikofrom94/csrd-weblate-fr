@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3599dc4bf79cde02" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FORCE CUBE #Cypher #Fantastic #Core</source>
+        <target state="translated">FORCE CUBE #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2233299118c0479" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 3</source>
+        <target state="translated">Level: 1d6 + 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5147f290bb2b04d7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube’s walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)</source>
+        <target state="translated">Effect: Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube’s walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b4ad5d42a503195b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sensing Package #Ability #SensesAbility #TaskAbility #Mid #Core</source>
+        <target state="translated">Sensing Package #Ability #SensesAbility #TaskAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c5bb0f1cd41e881d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can see in dim light and darkness as if it were bright light, and you can see up to a short distance through fog, smoke, and other obscuring phenomena. In addition, if you apply a level of Effort to perception or searching tasks, you get a free level of Effort on that task.</source>
+        <target state="translated">You can see in dim light and darkness as if it were bright light, and you can see up to a short distance through fog, smoke, and other obscuring phenomena. In addition, if you apply a level of Effort to perception or searching tasks, you get a free level of Effort on that task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8650ea9efaa26e4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Improved Apportation (6 Intellect points) #Ability #CompanionAbility #High #Core</source>
+        <target state="translated">Improved Apportation (6 Intellect points) #Ability #CompanionAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ac7fddbbb971b2e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You call a creature of up to level 3, which appears next to you. You can choose a creature that you’ve previously encountered, or (no more than once per day) you can allow the GM to determine the creature randomly. If you call a random creature, it has a 10 percent chance of being a creature of up to level 5. The creature has no memory of anything before being called by you, though it can speak and has the general knowledge a creature of its type should possess. The creature is receptive to communication and helping you (unless shown that it should do otherwise).</source>
+        <target state="translated">You call a creature of up to level 3, which appears next to you. You can choose a creature that you’ve previously encountered, or (no more than once per day) you can allow the GM to determine the creature randomly. If you call a random creature, it has a 10 percent chance of being a creature of up to level 5. The creature has no memory of anything before being called by you, though it can speak and has the general knowledge a creature of its type should possess. The creature is receptive to communication and helping you (unless shown that it should do otherwise).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

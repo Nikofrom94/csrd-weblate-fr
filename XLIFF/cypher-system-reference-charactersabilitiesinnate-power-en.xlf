@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ae71e0ab138233da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Innate Power #Ability #Core #Fantasy</source>
+        <target state="translated">Innate Power #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="216152b660f91b92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Choose either your Might Pool or your Speed Pool. When spending points to activate your focus abilities, you can spend points from this Pool instead of your Intellect Pool (in which case you use your Might Edge or Speed Edge instead of your Intellect Edge, as appropriate).</source>
+        <target state="translated">Choose either your Might Pool or your Speed Pool. When spending points to activate your focus abilities, you can spend points from this Pool instead of your Intellect Pool (in which case you use your Might Edge or Speed Edge instead of your Intellect Edge, as appropriate).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea977a07c7702ab8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler</source>
+        <target state="translated">Enabler</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

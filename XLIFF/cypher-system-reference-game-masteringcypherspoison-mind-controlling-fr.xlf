@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="0e3553eb8b966d9c" weblate-flags="md-text, safe-html, strict-same">
+        <source>POISON (MIND CONTROLLING) #Cypher #Fantastic #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea0ea44d5addece9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="19b0a48a9314e120" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: The victim must carry out a specific action in response to a specific trigger. Roll a d100 to determine the action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f9d31071af6485f" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1a3faee674639f3d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lies down for one minute with eyes closed when told to do so.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1cc6d8b08ba815e9" weblate-flags="md-text, safe-html, strict-same">
+        <source>21–40</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5ab67f3b5c54af9c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Flees in terror for one minute when threatened.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="57e3811f491f244c" weblate-flags="md-text, safe-html, strict-same">
+        <source>41–60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d1618640d0b50c7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Answers questions truthfully for one minute.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cb31cd6c55137b4a" weblate-flags="md-text, safe-html, strict-same">
+        <source>61–75</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4d4f531553067adc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Attacks close friend for one round when within immediate range.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bb219de66617bcde" weblate-flags="md-text, safe-html, strict-same">
+        <source>76–85</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="24c9bcc1ff914c11" weblate-flags="md-text, safe-html, strict-same">
+        <source>Obeys next verbal command given {1}(if it is understood).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="78dade82712b783d" weblate-flags="md-text, safe-html, strict-same">
+        <source>86–95</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="736e44107f699988" weblate-flags="md-text, safe-html, strict-same">
+        <source>For one day, becomes sexually attracted to the next creature of its own species that it sees.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10bd85195332105c" weblate-flags="md-text, safe-html, strict-same">
+        <source>96–00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="517208ea34730c67" weblate-flags="md-text, safe-html, strict-same">
+        <source>For one minute, moves toward the next red object seen in lieu of all other actions, ignoring {1}self-preservation.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

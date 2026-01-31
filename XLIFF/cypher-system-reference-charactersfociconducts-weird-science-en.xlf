@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5592da8e951e4ca0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Conducts Weird Science #Focus #InfluenceFocus #Core</source>
+        <target state="translated">Conducts Weird Science #Focus #InfluenceFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4912d516f8a12b03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your preternatural insight and ability make you a scientist capable of amazing feats.</source>
+        <target state="translated">Your preternatural insight and ability make you a scientist capable of amazing feats.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccb00808f53a35c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Lab Analysis]{1}</source>
+        <target state="translated">Tier 1: [Lab Analysis]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c0caa9856525415" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Knowledge Skills]{1}</source>
+        <target state="translated">Tier 1: [Knowledge Skills]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e63e21f06fdc1cae" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Modify Device]{1}</source>
+        <target state="translated">Tier 2: [Modify Device]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="80171947ab1a1979" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Better Living Through Chemistry]{1} or [Incredible Health]{2}</source>
+        <target state="translated">Tier 3: [Better Living Through Chemistry]{1} or [Incredible Health]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6102048037043706" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Knowledge Skills]{1}</source>
+        <target state="translated">Tier 4: [Knowledge Skills]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56a1a8741f62dbed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Just a Bit Mad]{1}</source>
+        <target state="translated">Tier 4: [Just a Bit Mad]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2280019d9a82a7fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Weird Science Breakthrough]{1}</source>
+        <target state="translated">Tier 5: [Weird Science Breakthrough]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b715de2ade342be7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Incredible Feat of Science]{1}</source>
+        <target state="translated">Tier 6: [Incredible Feat of Science]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ab5ace3c09cf7e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Inventor]{1} or [Defensive Field]{2}</source>
+        <target state="translated">Tier 6: [Inventor]{1} or [Defensive Field]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f2da544366be5283" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.</source>
+        <target state="translated">GM Intrusions: Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

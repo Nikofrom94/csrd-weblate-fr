@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d0cdd91ced540e6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>REMOTE VIEWER #Cypher #Manifest #Core</source>
+        <target state="translated">REMOTE VIEWER #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8d657f96a276969e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: For one hour per cypher level, the user can see everything going on in the vicinity of the cypher, regardless of the distance between them.</source>
+        <target state="translated">Effect: For one hour per cypher level, the user can see everything going on in the vicinity of the cypher, regardless of the distance between them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

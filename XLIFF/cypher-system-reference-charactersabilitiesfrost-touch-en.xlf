@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="88f0e13348936da9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Frost Touch (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core</source>
+        <target state="translated">Frost Touch (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56f659d8fdd60e82" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold.</source>
+        <target state="translated">Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35c4513a0b8ac0a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action for touch; enabler for weapon.</source>
+        <target state="translated">Action for touch; enabler for weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0b0938086fdd27e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dreadwood (6 Intellect points) #Ability #Core #Fantasy</source>
+        <target state="translated">Dreadwood (6 Intellect points) #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b6eb64ca817fba5a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear.</source>
+        <target state="translated">You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

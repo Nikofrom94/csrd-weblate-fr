@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3606d72fcb867feb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Marauder #lvl4 (12) #Creature #Core #PostApo #Cyberpunk</source>
+        <target state="translated">Marauder #lvl4 (12) #Creature #Core #PostApo #Cyberpunk</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abfb09dd790345a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 28</source>
+        <target state="translated">Health: 28</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="34fb1bbd3520c94c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: initiative and intimidation as level 7</source>
+        <target state="translated">Modifications: initiative and intimidation as level 7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

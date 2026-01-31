@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="230f43fe5b8df609" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Faster Wild Magic #Ability #Core #Fantasy</source>
+        <target state="translated">Faster Wild Magic #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d04a12ed91fc4316" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots.</source>
+        <target state="translated">If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9d1c272fa304bfa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, ten minutes to complete.</source>
+        <target state="translated">Action to initiate, ten minutes to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

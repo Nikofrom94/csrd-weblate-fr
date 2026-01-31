@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e4603fcd863e8792" weblate-flags="md-text, safe-html, strict-same">
+        <source>Infer Thoughts (4 Intellect points) #Ability #SensesAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="26d963a694a60611" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you interact with or study a target for at least a round, you can attempt to read its surface thoughts, even if the subject doesn’t want you to. You must be able to see the target. Once you have gained a sense of what it’s thinking—through its body language, its speech, and what it does and doesn’t say—you can continue to infer the target’s surface thoughts for up to one minute as long as you can still see and hear the target.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5a34c0bf3fefd64e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to prepare; action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

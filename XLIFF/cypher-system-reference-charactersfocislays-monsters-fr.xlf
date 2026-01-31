@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c6e5e9c887835290" weblate-flags="md-text, safe-html, strict-same">
+        <source>Slays Monsters #Focus #StrikerFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="498dc93f104902ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>You kill monsters.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="78e88c269b84ce42" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cdb4b735304a8868" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Practiced With Swords</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6b30ea75546a702" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Monster Bane</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4c84eb41deb50c0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Monster Lore</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ec95d6b6e75ce55c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Will of Legend</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bd17b59921b7d3ba" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Trained Slayer</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5cce524c7b6dc929" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Improved Monster Bane or Misdirect</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="59f10c6a69a71f59" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Fight On</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bad5cfce5c1274b7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Greater Skill With Attacks (swords)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3630f93b528dc07f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Murderer or Heroic Monster Bane</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52df70648301fc39" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster’s mother vows revenge.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

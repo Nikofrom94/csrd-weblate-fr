@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="527f7644f66c5721" weblate-flags="md-text, safe-html, strict-same">
+        <source>Brandishes an Exotic Shield #Focus #TankFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b1f62df5a60c5b2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You deploy an amazing shield of pure force that provides protection and some offensive options.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c42182036aee682" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Force Field Shield]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e85643dafa306d00" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Force Bash]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7fc82ab89fbfc83d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Enveloping Shield]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2f1671149ee7d001" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Healing Pulse]{1} or [Throw Force Shield]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ffc5e8bf06db7479" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Energized Shield]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86a39fdda5d7903c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Force Wall]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcc492a9fd358539" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Bouncing Shield]{1} or [Shield Burst]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9b4a9dfdafe25e0a" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The shield is temporarily lost. A foe temporarily ends up with the shield.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

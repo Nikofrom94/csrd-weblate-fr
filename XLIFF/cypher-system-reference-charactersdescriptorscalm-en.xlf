@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d77479140d135f68" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Calm #Descriptor #Core</source>
+        <target state="translated">Calm #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61f12c78b351900c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’ve spent most of your life in sedentary pursuits—books, movies, hobbies, and so on—rather than active ones. You’re well versed in all manner of academia or other intellectual pursuits, but nothing physical. You’re not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.</source>
+        <target state="translated">You’ve spent most of your life in sedentary pursuits—books, movies, hobbies, and so on—rather than active ones. You’re well versed in all manner of academia or other intellectual pursuits, but nothing physical. You’re not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f7321ff76bdd6ba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Calm is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.)</source>
+        <target state="translated">(Calm is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f577d4b787844bcd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bookish: +2 to your Intellect Pool.</source>
+        <target state="translated">Bookish: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc99b20a2dd9c0e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skills: You are trained in four nonphysical skills of your choice.</source>
+        <target state="translated">Skills: You are trained in four nonphysical skills of your choice.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2a1754e6c7b91b7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trivia: You can come up with a random fact pertinent to the current situation when you wish it. This is always a matter of fact, not conjecture or supposition, and must be something you could have logically read or seen in the past. You can do this one time, although the ability is renewed each time you make a recovery roll.</source>
+        <target state="translated">Trivia: You can come up with a random fact pertinent to the current situation when you wish it. This is always a matter of fact, not conjecture or supposition, and must be something you could have logically read or seen in the past. You can do this one time, although the ability is renewed each time you make a recovery roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="85dc8a7c1423dffa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You’re just not a fighter. All physical attacks are hindered.</source>
+        <target state="translated">Inability: You’re just not a fighter. All physical attacks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61efcdd929d9cd6e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You’re not the outdoorsy type. All climbing, running, jumping, and swimming tasks are hindered.</source>
+        <target state="translated">Inability: You’re not the outdoorsy type. All climbing, running, jumping, and swimming tasks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0061182bb39cf0f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You read about the current situation somewhere and decided to check it out for yourself.</source>
+        <target state="translated">You read about the current situation somewhere and decided to check it out for yourself.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a45633089e55fd75" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You were in the right (wrong?) place at the right (wrong?) time.</source>
+        <target state="translated">You were in the right (wrong?) place at the right (wrong?) time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1e25acbf16e5c6a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>While avoiding an entirely different situation, you walked into your current situation.</source>
+        <target state="translated">While avoiding an entirely different situation, you walked into your current situation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18df6700da04b846" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs dragged you into it.</source>
+        <target state="translated">One of the other PCs dragged you into it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

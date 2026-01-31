@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="5ab95faf1bfe2c3d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Network Tap (4 Intellect points) #Ability #InformationAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="54c1ef7e095125cc" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can ask the GM one question and get a very short answer if you succeed on an Intellect roll against a difficulty assigned by the GM. The more obscure the answer, the more difficult the task. On a failed roll, feedback or perhaps some defense from the network you’re accessing inflicts 4 points of Intellect damage on you (ignores Armor).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d18eef2d5b7e90f6" weblate-flags="md-text, safe-html, strict-same">
+        <source>(Generally, knowledge that you could find by looking somewhere other than your current location is level 1, while obscure knowledge of the past is level 7. Gaining knowledge of the future is impossible.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

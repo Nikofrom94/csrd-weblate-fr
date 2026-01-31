@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="9544b11dd014a814" weblate-flags="md-text, safe-html, strict-same">
+        <source>Masters Defense #Focus #TankFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a692cb95d0226ead" weblate-flags="md-text, safe-html, strict-same">
+        <source>You use protective equipment and practiced techniques to avoid becoming hurt in a fight.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4208441a559f3328" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Shield Master</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="48ec74be1c73fc6f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Sturdy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0357548bdfaa3353" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Practiced in Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a13b68ff249899db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Dodge and Resist or Dodge and Respond</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2498dfbb2925484a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Tower of Will</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8b03af736e32d105" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Experienced in Armor</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df9151ed5b24053e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Nothing but Defend</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5471901c9bf75386" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Defense Master or Wear It Well</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="517f0e5983c4c3fa" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Shields break when hit, as do weapons used to parry. Armor straps break.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="181a19b7adccf3c4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Goblin #lvl1 (3) #Creature #Core #Fantasy</source>
+        <target state="translated">Goblin #lvl1 (3) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0d9be8ea2a2af26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Goblins are wicked, grasping, and perversely resourceful. Usually no larger than children, they can seem like pesky rabble, but that illusion hides something altogether more cunning. Tribe members work together to accomplish their goals of murder, kidnapping, and theft.</source>
+        <target state="translated">Goblins are wicked, grasping, and perversely resourceful. Usually no larger than children, they can seem like pesky rabble, but that illusion hides something altogether more cunning. Tribe members work together to accomplish their goals of murder, kidnapping, and theft.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="290820ccbbc84ec6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Greed and theft</source>
+        <target state="translated">Motive: Greed and theft</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0fe9d40e28c57c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Tunnels and caves, usually in groups of ten or more</source>
+        <target state="translated">Environment: Tunnels and caves, usually in groups of ten or more</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2b62c4be5ab071e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 3</source>
+        <target state="translated">Health: 3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cfb736db1e62a38b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 2 points</source>
+        <target state="translated">Damage Inflicted: 2 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e38db10a4b078359" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Tasks related to perception, stealth, and setting traps as level 5</source>
+        <target state="translated">Modifications: Tasks related to perception, stealth, and setting traps as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2b8640eae236cd7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Goblins attack from the shadows with ambushes and hit-and-run tactics. When they have surprise, they attack as level 4 creatures and deal 2 additional points of damage, and they attempt to draw larger prey into level 5 traps they’ve previously set. They often flee in the face of real danger.</source>
+        <target state="translated">Combat: Goblins attack from the shadows with ambushes and hit-and-run tactics. When they have surprise, they attack as level 4 creatures and deal 2 additional points of damage, and they attempt to draw larger prey into level 5 traps they’ve previously set. They often flee in the face of real danger.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce440ff83f277d46" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Goblins are lying tricksters but can be cowed into cooperating for short periods.</source>
+        <target state="translated">Interaction: Goblins are lying tricksters but can be cowed into cooperating for short periods.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0770536c288055ae" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Thieves and murderers, goblins are foes to all, even rival goblin tribes.</source>
+        <target state="translated">Use: Thieves and murderers, goblins are foes to all, even rival goblin tribes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4c164617d5826d88" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Aside from weapons, each goblin carries a personal stash, including bones, shiny rocks, sticks, and other bits of worthless trash, plus currency equivalent to an inexpensive item.</source>
+        <target state="translated">Loot: Aside from weapons, each goblin carries a personal stash, including bones, shiny rocks, sticks, and other bits of worthless trash, plus currency equivalent to an inexpensive item.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e121fe2e71476538" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The goblin poisoned its knife. If struck, the character must make a Might defense roll or immediately move one step down the damage track.</source>
+        <target state="translated">GM intrusion: The goblin poisoned its knife. If struck, the character must make a Might defense roll or immediately move one step down the damage track.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

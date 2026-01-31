@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="95af2ca9f734c117" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Disable Mechanisms (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core</source>
+        <target state="translated">Disable Mechanisms (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d33160710f58255d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>With a keen eye and quick moves, you disrupt some functions of a robot or machine and inflict upon it one of the following maladies:</source>
+        <target state="translated">With a keen eye and quick moves, you disrupt some functions of a robot or machine and inflict upon it one of the following maladies:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1414c2eb059261f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>All its tasks are hindered for one minute.</source>
+        <target state="translated">All its tasks are hindered for one minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ead1391f22400cb7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Its speed is halved.</source>
+        <target state="translated">Its speed is halved.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9c84967496d11bb2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It can take no action for one round.</source>
+        <target state="translated">It can take no action for one round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ff9928b5f836640" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It deals 2 fewer points of damage (minimum 1 point) for one minute.</source>
+        <target state="translated">It deals 2 fewer points of damage (minimum 1 point) for one minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d8380ba82e098ef8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You must touch the robot or machine to disrupt it (if you are making an attack, it inflicts no damage).</source>
+        <target state="translated">You must touch the robot or machine to disrupt it (if you are making an attack, it inflicts no damage).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

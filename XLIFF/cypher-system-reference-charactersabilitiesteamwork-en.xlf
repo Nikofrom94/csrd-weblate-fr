@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2a6986a152448b2f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Teamwork #Ability #SupportAbility #Low #Core</source>
+        <target state="translated">Teamwork #Ability #SupportAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c959b29b6a729371" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Through example, acts of camaraderie, stories of martial prowess, or other forms of instruction, you and your allies work better together as a cohesive unit. During any round in which you rally your team (by spending 2 Intellect points as part of another action), you and your allies inflict 1 additional point of damage in combat. This benefit applies only to allies with whom you have spent the last 24 hours. It ends if you leave, but it resumes if you return to your allies’ company within 24 hours. If you leave for more than 24 hours, you must spend another 24 hours together to reactivate the benefit.</source>
+        <target state="translated">Through example, acts of camaraderie, stories of martial prowess, or other forms of instruction, you and your allies work better together as a cohesive unit. During any round in which you rally your team (by spending 2 Intellect points as part of another action), you and your allies inflict 1 additional point of damage in combat. This benefit applies only to allies with whom you have spent the last 24 hours. It ends if you leave, but it resumes if you return to your allies’ company within 24 hours. If you leave for more than 24 hours, you must spend another 24 hours together to reactivate the benefit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="622f85a9aa13a7a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEINONYCHUS #niv3 (9) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60599c0b2ed02a3c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Popularly known as the velociraptor, the dinosaur genus called deinonychus doesn’t care if its prey gets the proper terminology sorted. Meat tastes like meat. The “terrible claw” these carnivores are named after refers to their massive, sickle-shaped claws, which are unsheathed from their hind legs when attacking prey.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b6b98ec01fdafe0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deinonychus are pack hunters, which means they work together as a unit, each taking on different roles to scare, flush, and direct even intelligent prey into the claws of an ambush.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7119bf5473c34a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for flesh</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f52d28116b1436a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Wherever they can hunt food, in packs of three to seven</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce49379920a9bb20" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d0ebcb87ba0e62c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception as level 5; attacks and Speed defense as level 4 due to quickness; overcoming obstacles and figuring out tricks as level 4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="678e1bbe05df86d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: When a deinonychus bites its prey, the victim takes damage and must make a Might defense roll. On a failure, the deinonychus holds the victim in place with its jaws while it slices them to ribbons with its terrible claws, automatically inflicting 6 points of damage each round in which they fail a Might-based task to break free (not attempting to break free counts as a failed attempt). For a human-sized or smaller victim held in the jaws, all other tasks are hindered by two steps.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ebe6e604471025c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Vicious, cunning, and a little too smart to be classified as simple predators, these creatures are unlikely to negotiate, give quarter, or back off from a fight even if contact could be made.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="136e7155958e099e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: Some fool decided to build a Cretaceous-themed zoo. The only question is: How long before the dinosaurs get loose and take over the local mall?</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f30d76d3a01655e2" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The fleeing deinonychus was actually leading the character over a cliff, into a deadfall trap, or into an ambush with more deinonychus.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

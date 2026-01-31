@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="68d0863f0cd80ce2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SKILL BOOST #Cypher #Subtle #Core</source>
+        <target state="translated">SKILL BOOST #Cypher #Subtle #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="227fb1db5399ad41" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Dramatically but temporarily alters the user’s mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher’s level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.</source>
+        <target state="translated">Effect: Dramatically but temporarily alters the user’s mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher’s level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="732905e1a2ef15dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–15</source>
+        <target state="translated">01–15</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="df12781fb3f66fc9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Melee attack</source>
+        <target state="translated">Melee attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="590ce2c1b8334383" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>16–30</source>
+        <target state="translated">16–30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e49ea5eb7c8f9c57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ranged attack</source>
+        <target state="translated">Ranged attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fba70be65bab37d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>31–40</source>
+        <target state="translated">31–40</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a0162c05d575fdd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speed defense</source>
+        <target state="translated">Speed defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ba6e720cfbceda2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>41–50</source>
+        <target state="translated">41–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00cb449612671465" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Might defense</source>
+        <target state="translated">Might defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94a9e839eba00b39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–60</source>
+        <target state="translated">51–60</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce7972ea68071479" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Intellect defense</source>
+        <target state="translated">Intellect defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4e71e951e7dc3a20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>61–68</source>
+        <target state="translated">61–68</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bd6e5c1881b596e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Jumping</source>
+        <target state="translated">Jumping</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec621b38fc51a935" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>69–76</source>
+        <target state="translated">69–76</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2f86e497ed472c2e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Climbing</source>
+        <target state="translated">Climbing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="556c1a0c20ef6ac4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>77–84</source>
+        <target state="translated">77–84</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e67f1920901ddff8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Running</source>
+        <target state="translated">Running</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b08fe05046d853a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>85–92</source>
+        <target state="translated">85–92</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29a73848a9d7b57e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Swimming</source>
+        <target state="translated">Swimming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eaf0740d0d7ba11c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>93–94</source>
+        <target state="translated">93–94</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f553705ef8a73c26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sneaking</source>
+        <target state="translated">Sneaking</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7631dec43465b1a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>95–96</source>
+        <target state="translated">95–96</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f559bbde2529aa00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Balancing</source>
+        <target state="translated">Balancing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e534624985b3f3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>97–98</source>
+        <target state="translated">97–98</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c079d63fe71a8385" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Perceiving</source>
+        <target state="translated">Perceiving</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c5ac1ca8e1ccd1ea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>99</source>
+        <target state="translated">99</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="301f406c4e5d5ab5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Carrying</source>
+        <target state="translated">Carrying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8818cf9264fcc780" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>00</source>
+        <target state="translated">00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3704cd8559056179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Escaping</source>
+        <target state="translated">Escaping</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

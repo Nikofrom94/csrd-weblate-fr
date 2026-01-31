@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e1c9a6b701682dcb" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEMON #lvl5 (15) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a0b47222b34ea4c6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Demons are formless spirits of the dead tortured in nether realms until all that was good or caring in them was burned away, forging a being of spite and hate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0a218e39c29f83f1" weblate-flags="md-text, safe-html, strict-same">
+        <source>A demon remembers only fragments of its former life—every good memory is cauterized, and every slight, misfortune, snub, and pain is amplified, motivating the creature to tempt others into the same state.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="35f1760900db83f0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Having no flesh to call its own, a demon is a shadowed, ephemeral horror able to possess others. A demon can cause great harm in a short time by forcing its host to lie, steal, and harm loved ones.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c017f08908440053" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for others’ pain and fear</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ae20916fe2f613c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="623372a6c3fd6c05" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 25</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dd26af7e40198787" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 6 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e02bbb9d2c303c36" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short; immediate while flying in immaterial form</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="11615d333ace6d97" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: All stealth tasks as level 7 in immaterial form; deception tasks as level 6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee956123af03082b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: The immaterial touch of a demon either inflicts 5 points of damage from rot, or allows the demon to attempt to possess the target. The target of an attempted possession must make an Intellect defense roll or become possessed, whereupon the demon’s immaterial form disappears into the target.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b17e4ba33952f51" weblate-flags="md-text, safe-html, strict-same">
+        <source>The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing demon can control the actions of the host, but the
+character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. In other rounds, the character can act as they choose. A possessing demon’s actions are limited to attempts to control its host and leaving the host.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcea8ac5a908dd1b" weblate-flags="md-text, safe-html, strict-same">
+        <source>A possessed target is allowed an Intellect defense roll to eject the demon once per day, barring any exorcism attempts. The defense roll is hindered by one additional step each day of possession after the first seven days. An ejected or cast-out demon is powerless for one or more days.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7506bd03aa198757" weblate-flags="md-text, safe-html, strict-same">
+        <source>A demon not possessing another creature is immaterial and can pass through solid objects whose level is lower than its own. While the demon is immaterial, it takes only 1 point of damage from mundane attacks, but it takes full damage from magical, energy, and psychic attacks. While it possesses another creature, the demon is immune to most attacks (though not so the host; killing the host will eject the demon).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8d05f1ed59457ea1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: A demon allows a possessed host to act normally, as long as it doesn’t reveal the demon’s presence. If its presence is known, the demon might negotiate, but only after a tirade of lies and obscenity, and the demon likely betrays any deal reached.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d8c270555be42056" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: An ally of the PCs has begun acting differently, and not for the good.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8e7869ce2036370b" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The character who attempts an exorcism of a possessed target is successful, but the demon moves directly from the former victim into the exorcist. The new host can make an Intellect-based roll to eject the demon, but only after the first round of possession.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

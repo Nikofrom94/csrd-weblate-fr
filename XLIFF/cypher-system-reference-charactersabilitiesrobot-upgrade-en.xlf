@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ad510b01134c4c0e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Robot Upgrade #Ability #CraftAbility #Mid #Core</source>
+        <target state="translated">Robot Upgrade #Ability #CraftAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8e3e1d0ce1823875" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You modify your artificial assistant from the [Robot Assistant]{1} ability with one new capability. Standard options include the following. Work with your GM if you prefer a different capability.</source>
+        <target state="translated">You modify your artificial assistant from the [Robot Assistant]{1} ability with one new capability. Standard options include the following. Work with your GM if you prefer a different capability.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1080659c143368fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cypher Pod. The robot can carry one extra manifest cypher for you. Enabler.</source>
+        <target state="translated">Cypher Pod. The robot can carry one extra manifest cypher for you. Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fcd1c0e237609167" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flight. The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.</source>
+        <target state="translated">Flight. The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e3a5abc8e2d042fe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Force Shield. The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.</source>
+        <target state="translated">Force Shield. The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bec61158e6374a20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mounted Laser Configuration. The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased.</source>
+        <target state="translated">Mounted Laser Configuration. The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="84b5e90d8dc2bd32" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to reconfigure; action to return to normal robot configuration.</source>
+        <target state="translated">Action to reconfigure; action to return to normal robot configuration.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="302f1d61e31a7ac0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flamboyant Boast (1 Intellect point) #Ability #SocialAbility #Mid #Core</source>
+        <target state="translated">Flamboyant Boast (1 Intellect point) #Ability #SocialAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8b2c49aec71aadb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You boastfully describe an act that you will accomplish, and then as part of the same action, you attempt it. If an average person would find the action difficult (or impossible) and you succeed on it, creatures who witnessed it who are not your allies are potentially dazed on their next turn, and all tasks they attempt are hindered. The GM will help you determine whether your boast is something that would impress onlookers so significantly. If you attempt the task you boast about but fail to accomplish it, all your attempts to affect or attack onlookers who saw you are hindered for about ten minutes.</source>
+        <target state="translated">You boastfully describe an act that you will accomplish, and then as part of the same action, you attempt it. If an average person would find the action difficult (or impossible) and you succeed on it, creatures who witnessed it who are not your allies are potentially dazed on their next turn, and all tasks they attempt are hindered. The GM will help you determine whether your boast is something that would impress onlookers so significantly. If you attempt the task you boast about but fail to accomplish it, all your attempts to affect or attack onlookers who saw you are hindered for about ten minutes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

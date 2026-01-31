@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="51eef53bc41f72d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Moves Like a Cat #Focus #MovementFocus #Core</source>
+        <target state="translated">Moves Like a Cat #Focus #MovementFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94668647d244ceb3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.</source>
+        <target state="translated">Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="22f533eb3a09eb52" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Greater Enhanced Speed</source>
+        <target state="translated">Tier 1: Greater Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29b4742a536fb9f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Balance</source>
+        <target state="translated">Tier 1: Balance</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0872d8732f157659" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Movement Skills</source>
+        <target state="translated">Tier 2: Movement Skills</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3fc6d28e8ca7a8d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Safe Fall</source>
+        <target state="translated">Tier 2: Safe Fall</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f60bf28041fe865" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Hard to Hit</source>
+        <target state="translated">Tier 3: Hard to Hit</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="af43e2309406c7ff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Enhanced Speed Edge or Greater Enhanced Speed</source>
+        <target state="translated">Tier 3: Enhanced Speed Edge or Greater Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6512adeb20516809" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Quick Strike</source>
+        <target state="translated">Tier 4: Quick Strike</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1d4c8124f30f2658" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Slippery</source>
+        <target state="translated">Tier 5: Slippery</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32fe929fafe4cef7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Perfect Speed Burst or Greater Enhanced Speed</source>
+        <target state="translated">Tier 6: Perfect Speed Burst or Greater Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7df50891c1630ce9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.</source>
+        <target state="translated">GM Intrusions: Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

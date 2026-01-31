@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="129a3b36ebf33ba3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Anything that your character does in a round is an action. It’s easiest to think of an action as a single thing that you can do in five to ten seconds. For example, if you use your dart thrower to shoot a strange floating orb, that’s one action. So is running for cover behind a stack of barrels, prying open a stuck door, using a rope to pull your friend up from a pit, or activating a cypher (even if it’s stored in your pack).</source>
+        <target state="translated">Anything that your character does in a round is an action. It’s easiest to think of an action as a single thing that you can do in five to ten seconds. For example, if you use your dart thrower to shoot a strange floating orb, that’s one action. So is running for cover behind a stack of barrels, prying open a stuck door, using a rope to pull your friend up from a pit, or activating a cypher (even if it’s stored in your pack).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="952318e29facf2ef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Opening a door and attacking a security guard on the other side are two actions. It’s more a matter of focus than time. Drawing your sword and attacking a foe is all one action. Putting away your bow and pushing a heavy bookcase to block a door are two actions because each requires a different train of thought.</source>
+        <target state="translated">Opening a door and attacking a security guard on the other side are two actions. It’s more a matter of focus than time. Drawing your sword and attacking a foe is all one action. Putting away your bow and pushing a heavy bookcase to block a door are two actions because each requires a different train of thought.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1afac454647429e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If the action you want to accomplish is not within reach, you can move a little bit. Essentially, you can move up to an immediate distance to perform your action. For example, you can move an immediate distance and attack a foe, open a door and move an immediate distance into the hallway beyond, or grab your hurt friend lying on the ground and pull them back a few steps. This movement can occur before or after your action, so you can move to a door and open it, or you can open a door and move through it.</source>
+        <target state="translated">If the action you want to accomplish is not within reach, you can move a little bit. Essentially, you can move up to an immediate distance to perform your action. For example, you can move an immediate distance and attack a foe, open a door and move an immediate distance into the hallway beyond, or grab your hurt friend lying on the ground and pull them back a few steps. This movement can occur before or after your action, so you can move to a door and open it, or you can open a door and move through it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="194a7a6c365f0781" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The most common actions are:</source>
+        <target state="translated">The most common actions are:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9dca30dd60eacbdd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Attack</source>
+        <target state="translated">Attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6026855086b146e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Activate a special ability (one that isn’t an attack)</source>
+        <target state="translated">Activate a special ability (one that isn’t an attack)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="10c95f3424971827" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Move</source>
+        <target state="translated">Move</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="01d14ef2aa7990b7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wait</source>
+        <target state="translated">Wait</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2a5777d63cd40044" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defend</source>
+        <target state="translated">Defend</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfae5106e6145305" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Do something else</source>
+        <target state="translated">Do something else</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

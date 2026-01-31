@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="cd15f1f7eb5e0ec4" weblate-flags="md-text, safe-html, strict-same">
+        <source>CRAFTING MAGIC ITEMS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8ca0fc7f3d7b7b99" weblate-flags="md-text, safe-html, strict-same">
+        <source>Potions, scrolls, and other one-use items are cyphers, and longer-lasting items are generally artifacts.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da847044bd627f53" weblate-flags="md-text, safe-html, strict-same">
+        <source>Crafting Cyphers</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="35e2cd1a959e2f9d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher they’re trying to create, which must be in the level range for the cypher as listed in the Cypher System Reference Document. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range, and should always be treated as a level 6 cypher when crafted by a PC.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ddbe6c765735a2fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Determine Materials. Just as crafting an axe requires iron and wood, crafting a magical cypher requires strange and exotic materials—powdered gems, ink from monsters, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6cb2bafb1c7c1fd7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Cypher Level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0726be1907b869c2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Materials Cost</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfbd4c12eb9e51b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b143ec99f55886e" weblate-flags="md-text, safe-html, strict-same">
+        <source>One inexpensive item</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="006009681cb2e26c" weblate-flags="md-text, safe-html, strict-same">
+        <source>2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0ae3e4fc0e6d2631" weblate-flags="md-text, safe-html, strict-same">
+        <source>Two inexpensive items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b17c7d9edacecbaf" weblate-flags="md-text, safe-html, strict-same">
+        <source>3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4c4b91ff124cceb" weblate-flags="md-text, safe-html, strict-same">
+        <source>One moderate item</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3174f6bcbef734ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="238998ca301fc32a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Two moderate items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1214f1507fe8dc50" weblate-flags="md-text, safe-html, strict-same">
+        <source>5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e8a94863998206e0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Three moderate items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c789e1896697ebbd" weblate-flags="md-text, safe-html, strict-same">
+        <source>6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1abc8161fc2e29ac" weblate-flags="md-text, safe-html, strict-same">
+        <source>One expensive item</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="766a0fe2e87a5112" weblate-flags="md-text, safe-html, strict-same">
+        <source>7</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ba4624fdd454501" weblate-flags="md-text, safe-html, strict-same">
+        <source>Two expensive items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="62ac44bfd909abd5" weblate-flags="md-text, safe-html, strict-same">
+        <source>8</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="22fea05c8738adb2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Three expensive items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="77ded408bee56fd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>9</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86ecf6890e3cc563" weblate-flags="md-text, safe-html, strict-same">
+        <source>One very expensive item</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7cef57593256badd" weblate-flags="md-text, safe-html, strict-same">
+        <source>10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e5185452eb64859a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Two very expensive items</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e57e379ec08dc050" weblate-flags="md-text, safe-html, strict-same">
+        <source>Assess Difficulty. The difficulty of a magic item crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of a crafting task with skill training (such as being trained or specialized in brewing potions or scribing scrolls), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose. Because this is an activity requiring special knowledge, it is not possible for a character with no skill (or with an inability in this skill) to do this sort of crafting; the character cannot attempt the task at all.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="add9eea6175ab426" weblate-flags="md-text, safe-html, strict-same">
+        <source>Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing the assessed difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. See the table below.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

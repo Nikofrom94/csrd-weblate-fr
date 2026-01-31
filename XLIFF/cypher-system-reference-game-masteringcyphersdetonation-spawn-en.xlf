@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f853e40e3812a990" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DETONATION (SPAWN) #Cypher #Manifest #Core</source>
+        <target state="translated">DETONATION (SPAWN) #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c611b9c37fe562e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute and inflicting damage equal to the cypher’s level. The burst spawns 1d6 additional detonations; in the next round, each additional detonation flies to a random spot within short range and explodes in an immediate radius. Roll a d100 to determine the type of damage dealt by all detonations:</source>
+        <target state="translated">Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute and inflicting damage equal to the cypher’s level. The burst spawns 1d6 additional detonations; in the next round, each additional detonation flies to a random spot within short range and explodes in an immediate radius. Roll a d100 to determine the type of damage dealt by all detonations:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db4c10f55b1a19de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>01–10</source>
+        <target state="translated">01–10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b424cac7f88e91b1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cell-disrupting (harms only flesh)</source>
+        <target state="translated">Cell-disrupting (harms only flesh)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e542edd9711717bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>11–30</source>
+        <target state="translated">11–30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eaa1b92eb16691f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Corrosive</source>
+        <target state="translated">Corrosive</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fba70be65bab37d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>31–40</source>
+        <target state="translated">31–40</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="133735d0aee76b9f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Electrical discharge</source>
+        <target state="translated">Electrical discharge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ba6e720cfbceda2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>41–50</source>
+        <target state="translated">41–50</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be604bad7326664e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heat drain (cold)</source>
+        <target state="translated">Heat drain (cold)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d0468b10f8e21fb6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>51–75</source>
+        <target state="translated">51–75</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ac00b5ffe2b5ad8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fire</source>
+        <target state="translated">Fire</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="694f82ac35db5b38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>76–00</source>
+        <target state="translated">76–00</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a26a53a30f5d8624" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shrapnel</source>
+        <target state="translated">Shrapnel</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

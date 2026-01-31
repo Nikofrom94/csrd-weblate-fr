@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="58c792f876497d36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defends the Weak #Focus #SupportFocus #Core</source>
+        <target state="translated">Defends the Weak #Focus #SupportFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="630f3c1e464e48a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You stand up for the helpless, the weak, and the unprotected.</source>
+        <target state="translated">You stand up for the helpless, the weak, and the unprotected.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1541f56b842acec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Courageous]{1}</source>
+        <target state="translated">Tier 1: [Courageous]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c311cf73bb242def" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Warding Shield]{1}</source>
+        <target state="translated">Tier 1: [Warding Shield]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6246719cf8441e36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Devoted Defender]{1}</source>
+        <target state="translated">Tier 2: [Devoted Defender]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="435302c0f8ca197e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Insight]{1}</source>
+        <target state="translated">Tier 2: [Insight]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e3ca3b0a082717dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Dual Wards]{1} or [True Guardian]{2}</source>
+        <target state="translated">Tier 3: [Dual Wards]{1} or [True Guardian]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="12a75a65f08319c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Combat Challenge]{1}</source>
+        <target state="translated">Tier 4: [Combat Challenge]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2085f1ee258aca8b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Willing Sacrifice]{1}</source>
+        <target state="translated">Tier 5: [Willing Sacrifice]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6fcfad765ebeb3e4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Resuscitate]{1} or [True Defender]{2}</source>
+        <target state="translated">Tier 6: [Resuscitate]{1} or [True Defender]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2fbb351ed939bc8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: A character focused on protecting others may periodically leave themselves vulnerable to attacks.</source>
+        <target state="translated">GM Intrusions: A character focused on protecting others may periodically leave themselves vulnerable to attacks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

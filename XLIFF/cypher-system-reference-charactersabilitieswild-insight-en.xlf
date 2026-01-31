@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="267b1a90d32c9ae5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wild Insight #Ability #Core #Fantasy</source>
+        <target state="translated">Wild Insight #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3764d5920ee9686d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain a momentary perfect understanding of the flow of magic around you at this moment. When preparing your magic, choose one specific subtle cypher and make a magical lore skill roll against level 6. If you succeed, you gain that subtle cypher (the cypher’s level is 6); if you fail, you get a random subtle cypher. If you aren’t sure what specific subtle cypher you want, you can ask for a broad category such as “healing,” “movement,” or “skill”; this eases the magical lore task, and if you succeed, the GM chooses a random cypher that fits that category. You can’t use this ability again until after you’ve taken a ten-hour recovery action.</source>
+        <target state="translated">You gain a momentary perfect understanding of the flow of magic around you at this moment. When preparing your magic, choose one specific subtle cypher and make a magical lore skill roll against level 6. If you succeed, you gain that subtle cypher (the cypher’s level is 6); if you fail, you get a random subtle cypher. If you aren’t sure what specific subtle cypher you want, you can ask for a broad category such as “healing,” “movement,” or “skill”; this eases the magical lore task, and if you succeed, the GM chooses a random cypher that fits that category. You can’t use this ability again until after you’ve taken a ten-hour recovery action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

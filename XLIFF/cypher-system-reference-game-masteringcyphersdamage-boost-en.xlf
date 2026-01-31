@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="cdb147e4dd9d0927" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DAMAGE BOOST #Cypher #Core</source>
+        <target state="translated">DAMAGE BOOST #Cypher #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8956513d94743f4c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher’s level.</source>
+        <target state="translated">Effect: This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher’s level.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

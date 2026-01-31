@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="5ceae05847d17bcd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loves the Void #Focus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="75d5a182e0c8af11" weblate-flags="md-text, safe-html, strict-same">
+        <source>When it’s just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="40bbe35e80442116" weblate-flags="md-text, safe-html, strict-same">
+        <source>Type Swap Option: [Have Spacesuit, Will Travel]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ba5d6cae92d68c2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Vacuum Skilled]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b43bf50d98c49571" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Microgravity Adept]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5519598ba670440d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Enhanced Speed Edge]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="724fa7891b68f04c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Enhanced Physique]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d634d50dae5cd8ff" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Space Fighting]{1} or [Fusion Armor]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ddfe7b51781662be" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Silent As Space]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b34df2efcfd34ece" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Push Off and Throw]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a30d7478b431a7d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Microgravity Avoidance]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="90bf099b773a7b8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Weightless Shot]{1} or [Reactive Field]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="365d6310c573c16a" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

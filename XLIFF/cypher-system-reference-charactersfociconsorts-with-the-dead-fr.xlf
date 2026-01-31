@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="279d02c9a6f97b15" weblate-flags="md-text, safe-html, strict-same">
+        <source>Consorts With the Dead #Focus #AllyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dad8606a3e980a2a" weblate-flags="md-text, safe-html, strict-same">
+        <source>The dead answer your questions, and their reanimated corpses serve you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ba8984c9e85793c1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Speaker for the Dead]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ca4e580440e4b2d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Necromancy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a6ba3e0a046066bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Reading the Room]{1} or [Repair Flesh]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df6947750b243e63" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Greater Necromancy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="753c83c460663d9e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Terrifying Gaze]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d1260159facbb975" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [True Necromancy]{1} or [Word of Death]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1c29d3930243ef9" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The character’s necromantic reputation precedes them. A corpse seeks revenge for being reanimated.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

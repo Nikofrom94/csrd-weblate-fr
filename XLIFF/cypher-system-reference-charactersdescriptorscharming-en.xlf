@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="7d30888f204bae93" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Charming #Descriptor #Core</source>
+        <target state="translated">Charming #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a62d9563f70b7859" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a smooth talker and a charmer. Whether through seemingly supernatural means or just a way with words, you can convince others to do as you wish. Most likely, you’re physically attractive or at least highly charismatic, and others enjoy listening to your voice. You probably pay attention to your appearance, keeping yourself well groomed. You make friends easily. You play up the personality facet of your Intellect stat; intelligence is not your strong suit. You’re personable, but not necessarily studious or strong-willed.</source>
+        <target state="translated">You’re a smooth talker and a charmer. Whether through seemingly supernatural means or just a way with words, you can convince others to do as you wish. Most likely, you’re physically attractive or at least highly charismatic, and others enjoy listening to your voice. You probably pay attention to your appearance, keeping yourself well groomed. You make friends easily. You play up the personality facet of your Intellect stat; intelligence is not your strong suit. You’re personable, but not necessarily studious or strong-willed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="105c0fa382c4eb53" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Personable: +2 to your Intellect Pool.</source>
+        <target state="translated">Personable: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ec60a846e2d0708" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving positive or pleasant social interaction.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving positive or pleasant social interaction.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="88f257a1ff3ebf4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained when using special abilities that influence the minds of others.</source>
+        <target state="translated">Skill: You’re trained when using special abilities that influence the minds of others.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3545199803c57ee5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Contact: You have an important contact who is in an influential position, such as a minor noble, the captain of the town guard/police, or the head of a large gang of thieves. You and the GM should work out the details together.</source>
+        <target state="translated">Contact: You have an important contact who is in an influential position, such as a minor noble, the captain of the town guard/police, or the head of a large gang of thieves. You and the GM should work out the details together.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3669ea3c66f245ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You were never good at studying or retaining facts. Any task involving lore, knowledge, or understanding is hindered.</source>
+        <target state="translated">Inability: You were never good at studying or retaining facts. Any task involving lore, knowledge, or understanding is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="419c832e1d6baf6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Your willpower is not one of your strong points. Defense actions to resist mental attacks are hindered.</source>
+        <target state="translated">Inability: Your willpower is not one of your strong points. Defense actions to resist mental attacks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c08b0d1c46cd7910" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You’ve managed to talk your way into some decent discounts and bonuses in recent weeks. As a result, you have enough cash jangling in your pocket to purchase a moderately priced item.</source>
+        <target state="translated">Additional Equipment: You’ve managed to talk your way into some decent discounts and bonuses in recent weeks. As a result, you have enough cash jangling in your pocket to purchase a moderately priced item.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5af75762d4e953dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You convinced one of the other PCs to tell you what they were doing.</source>
+        <target state="translated">You convinced one of the other PCs to tell you what they were doing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="becdce3687b2c916" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You instigated the whole thing and convinced the others to join you.</source>
+        <target state="translated">You instigated the whole thing and convinced the others to join you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e4cc8144c2a6f6fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs did a favor for you, and now you’re repaying that obligation by helping them with the task at hand.</source>
+        <target state="translated">One of the other PCs did a favor for you, and now you’re repaying that obligation by helping them with the task at hand.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b6ba6c36b7dede3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There is a reward involved, and you need the money.</source>
+        <target state="translated">There is a reward involved, and you need the money.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

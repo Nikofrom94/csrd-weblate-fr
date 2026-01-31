@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="53fea6a0b884cd27" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>THUG #lvl3 (9) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction</source>
+        <target state="translated">THUG #lvl3 (9) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8f9c75cd022927dd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Thugs are usually rough, crude, and harsh individuals who prey on those who follow the rules. A thug might be a streetwise drug dealer, a bandit who hunts lone travelers in the wilds, a savage warrior adroit with ranged weapons, or a cyberbully among pacifists. Most thugs work for themselves, but they may employ gangs of guards to help them conduct their business.</source>
+        <target state="translated">Thugs are usually rough, crude, and harsh individuals who prey on those who follow the rules. A thug might be a streetwise drug dealer, a bandit who hunts lone travelers in the wilds, a savage warrior adroit with ranged weapons, or a cyberbully among pacifists. Most thugs work for themselves, but they may employ gangs of guards to help them conduct their business.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5302e15ce01794c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Take what they want</source>
+        <target state="translated">Motive: Take what they want</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ab94cf5f4bd1567" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 9</source>
+        <target state="translated">Health: 9</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6f830ed1ea6b1fcf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target state="translated">Damage Inflicted: 4 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b8f3ac2175a8c029" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Thugs prefer ambushes, making ranged attacks from hiding if possible. Sometimes they spoil the ambush to issue an ultimatum before attacking: give us your valuables or you’ll be sorry.</source>
+        <target state="translated">Combat: Thugs prefer ambushes, making ranged attacks from hiding if possible. Sometimes they spoil the ambush to issue an ultimatum before attacking: give us your valuables or you’ll be sorry.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7ebf82e7ab0e74c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Thugs are interested in money and power, which means they almost always accept bribes. If faced with a real threat, thugs usually retreat.</source>
+        <target state="translated">Interaction: Thugs are interested in money and power, which means they almost always accept bribes. If faced with a real threat, thugs usually retreat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17bd53bf9ff32283" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Thugs are everywhere, sometimes accompanied by guards who are equally malicious but not quite as powerful.</source>
+        <target state="translated">Use: Thugs are everywhere, sometimes accompanied by guards who are equally malicious but not quite as powerful.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="368c4920cdd6887b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A thug has currency equivalent to an inexpensive item in addition to weapons, shields, and light armor. One thug in a group might have a cypher.</source>
+        <target state="translated">Loot: A thug has currency equivalent to an inexpensive item in addition to weapons, shields, and light armor. One thug in a group might have a cypher.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a724b8850a9abac6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: Another thug, hidden until just the right moment, appears and takes a shot with a ranged weapon before joining the fray.</source>
+        <target state="translated">GM intrusion: Another thug, hidden until just the right moment, appears and takes a shot with a ranged weapon before joining the fray.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

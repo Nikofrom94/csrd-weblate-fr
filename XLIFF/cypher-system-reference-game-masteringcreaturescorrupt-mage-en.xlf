@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="038fc5a0f32bff4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CORRUPT MAGE #lvl7 (21) #Creature #Core #Fantasy</source>
+        <target state="translated">CORRUPT MAGE #lvl7 (21) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5af8327834202b9e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients.</source>
+        <target state="translated">Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b613755de5eb331c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Magical knowledge at all costs</source>
+        <target state="translated">Motive: Magical knowledge at all costs</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="94da325b9d31d027" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Almost anywhere, usually with fleshbeast minions</source>
+        <target state="translated">Environment: Almost anywhere, usually with fleshbeast minions</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7700491325543c6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fleshbeast: level 4, attacks as level 5; health 15; Armor 1</source>
+        <target state="translated">Fleshbeast: level 4, attacks as level 5; health 15; Armor 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0b9d7ba5a1abae3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 35</source>
+        <target state="translated">Health: 35</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3495fce03666f20e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 7 points</source>
+        <target state="translated">Damage Inflicted: 7 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="38cf93ca4f937941" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: All tasks related to knowledge of arcane lore, demons, and altering bodies as level 8</source>
+        <target state="translated">Modifications: All tasks related to knowledge of arcane lore, demons, and altering bodies as level 8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="786e15c2fa773b34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Corrupt mages blast opponents with beams of energy that blister, slash, and rot flesh, attacking up to three creatures as an action. Many of them have given themselves long claws and teeth that they can use to make up to three melee attacks per action.</source>
+        <target state="translated">Combat: Corrupt mages blast opponents with beams of energy that blister, slash, and rot flesh, attacking up to three creatures as an action. Many of them have given themselves long claws and teeth that they can use to make up to three melee attacks per action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d55ad62080e057c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A corrupt mage knows many spells, such as the following:</source>
+        <target state="translated">A corrupt mage knows many spells, such as the following:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3b2bf38ec9d6f31" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: Covers a creature with ugly scales, granting them +3 to Armor for an hour.</source>
+        <target state="translated">Armor: Covers a creature with ugly scales, granting them +3 to Armor for an hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c9f1760b308808d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Madness: Wracks the brain of one creature within short range for one hour, reducing them to a babbling catatonic state in which they can’t recognize friend or foe. If disturbed or harmed, the creature is likely to lash out with lethal force at what it perceives as its tormentors.</source>
+        <target state="translated">Madness: Wracks the brain of one creature within short range for one hour, reducing them to a babbling catatonic state in which they can’t recognize friend or foe. If disturbed or harmed, the creature is likely to lash out with lethal force at what it perceives as its tormentors.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9c1b1b584aecca3f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Organ Request: Extracts a handful of internal organs from an opponent within short range, moving the creature one step down the damage track if it fails a Might defense roll.</source>
+        <target state="translated">Organ Request: Extracts a handful of internal organs from an opponent within short range, moving the creature one step down the damage track if it fails a Might defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="722162e12017ff5c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Polymorph: Transforms one foe within short range into a tiny, helpless creature such as a cockroach, fish, or snail for one hour.</source>
+        <target state="translated">Polymorph: Transforms one foe within short range into a tiny, helpless creature such as a cockroach, fish, or snail for one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ecc1b6ee4cfa7cf5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Summon Demon: Summons a demon to serve the mage for one hour.</source>
+        <target state="translated">Summon Demon: Summons a demon to serve the mage for one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ebf67344c64e32b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Teleport: Moves the mage up to 100 miles (160 km) away, or less far if they bring additional creatures with them.</source>
+        <target state="translated">Teleport: Moves the mage up to 100 miles (160 km) away, or less far if they bring additional creatures with them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc45fd6939b3bc70" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Twist Flesh: Reshapes the flesh of a creature within close range, turning it into a hideous monstrosity for one hour. The transformed creature’s actions are hindered, but its physical attacks inflict +3 points of damage. The mage’s control over the creature is limited to indicating which target it should attack.</source>
+        <target state="translated">Twist Flesh: Reshapes the flesh of a creature within close range, turning it into a hideous monstrosity for one hour. The transformed creature’s actions are hindered, but its physical attacks inflict +3 points of damage. The mage’s control over the creature is limited to indicating which target it should attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16a39f1452ad0638" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A corrupt mage usually has several cyphers useful in combat and perhaps an artifact as well.</source>
+        <target state="translated">A corrupt mage usually has several cyphers useful in combat and perhaps an artifact as well.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bd0963419b8c59fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Corrupt mages generally can’t be trusted and see other creatures as things to experiment on and vivisect. They might negotiate with someone who brings them a rare specimen or spell. Many are mentally disturbed by their research and self-alterations and may fluctuate between calm clarity, obsession, paranoia, and rage.</source>
+        <target state="translated">Interaction: Corrupt mages generally can’t be trusted and see other creatures as things to experiment on and vivisect. They might negotiate with someone who brings them a rare specimen or spell. Many are mentally disturbed by their research and self-alterations and may fluctuate between calm clarity, obsession, paranoia, and rage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3b9bb097154c181" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: The strange hybrid monsters emerging from the forest are said to be the creations of a corrupt mage. A corrupt mage in a calm state presents themselves as a neutral or benevolent wizard seeking assistance on a task.</source>
+        <target state="translated">Use: The strange hybrid monsters emerging from the forest are said to be the creations of a corrupt mage. A corrupt mage in a calm state presents themselves as a neutral or benevolent wizard seeking assistance on a task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9dc7a745c6939cca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A corrupt mage has 1d6 cyphers and perhaps a wizardly artifact.</source>
+        <target state="translated">Loot: A corrupt mage has 1d6 cyphers and perhaps a wizardly artifact.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cbb9a2588620d65" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusions:A desperate or dyingcorrupt mage transformstheir own body intoseveral new fleshbeasts,which retain fragmentsof the mage’s intelligenceand immediately attack.The mage’s attack spellis incredibly painful,stunning the characterfor one round if they faila Might defense roll.</source>
+        <target state="translated">GM intrusions:A desperate or dyingcorrupt mage transformstheir own body intoseveral new fleshbeasts,which retain fragmentsof the mage’s intelligenceand immediately attack.The mage’s attack spellis incredibly painful,stunning the characterfor one round if they faila Might defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

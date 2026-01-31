@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9f25da4c6fe834bd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shepherds the Community #Focus #SupportFocus #Core</source>
+        <target state="translated">Shepherds the Community #Focus #SupportFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="37c97e17df30831a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You keep the place where you live safe from all danger.</source>
+        <target state="translated">You keep the place where you live safe from all danger.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="493423d8ae4e1ce4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Community Knowledge</source>
+        <target state="translated">Tier 1: Community Knowledge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c8bef2761b5547b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Community Activist</source>
+        <target state="translated">Tier 1: Community Activist</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a5b5e1130f9f0659" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Skill With Attacks</source>
+        <target state="translated">Tier 2: Skill With Attacks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ab724bf22f82dbb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Shepherd’s Fury or Skill With Defense</source>
+        <target state="translated">Tier 3: Shepherd’s Fury or Skill With Defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="63cac4c63bf06bab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Greater Enhanced Potential</source>
+        <target state="translated">Tier 4: Greater Enhanced Potential</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea331166154d0e45" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Evasion</source>
+        <target state="translated">Tier 5: Evasion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f39c693a23a18d8e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Greater Skill With Attacks or Protective Wall</source>
+        <target state="translated">Tier 6: Greater Skill With Attacks or Protective Wall</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56c4b52b0292958b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: People in the community misunderstand the character’s motives. Rivals try to oust the character.</source>
+        <target state="translated">GM Intrusions: People in the community misunderstand the character’s motives. Rivals try to oust the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

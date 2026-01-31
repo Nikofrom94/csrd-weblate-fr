@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ebee86650d726836" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ENDURING SHIELD #Cypher #Subtle #Core</source>
+        <target state="translated">ENDURING SHIELD #Cypher #Subtle #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="20da1571bfac5b6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 4</source>
+        <target state="translated">Level: 1d6 + 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cbfedbd47ffe23bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: For the next day, the user has an asset to Speed defense rolls.</source>
+        <target state="translated">Effect: For the next day, the user has an asset to Speed defense rolls.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="61c2d301d96c01d0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Graceful #Descriptor #Core</source>
+        <target state="translated">Graceful #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="540eda3fc126c92a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have a perfect sense of balance, moving and speaking with grace and beauty. You’re quick, lithe, flexible, and dexterous. Your body is perfectly suited to dance, and you use that advantage in combat to dodge blows. You might wear garments that enhance your agile movement and sense of style.</source>
+        <target state="translated">You have a perfect sense of balance, moving and speaking with grace and beauty. You’re quick, lithe, flexible, and dexterous. Your body is perfectly suited to dance, and you use that advantage in combat to dodge blows. You might wear garments that enhance your agile movement and sense of style.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c45d55b0629859d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Agile: +2 to your Speed Pool.</source>
+        <target state="translated">Agile: +2 to your Speed Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7bb6cd82d8ddb92d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving balance and careful movement.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving balance and careful movement.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="01b2fbfe53ec680d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving physical performing arts.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving physical performing arts.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="def1ade917dd29d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all Speed defense tasks.</source>
+        <target state="translated">Skill: You’re trained in all Speed defense tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fcc185de42d536b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Against your better judgment, you joined the other PCs because you saw that they were in danger.</source>
+        <target state="translated">Against your better judgment, you joined the other PCs because you saw that they were in danger.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="971d24e3addec4de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs convinced you that joining the group would be in your best interests.</source>
+        <target state="translated">One of the other PCs convinced you that joining the group would be in your best interests.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73cd813958c4fcf4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re afraid of what might happen if the other PCs fail.</source>
+        <target state="translated">You’re afraid of what might happen if the other PCs fail.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0c4b4386930567aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There is reward involved, and you need the money.</source>
+        <target state="translated">There is reward involved, and you need the money.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

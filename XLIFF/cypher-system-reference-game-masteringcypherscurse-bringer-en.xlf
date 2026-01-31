@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f6659790197df5b5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CURSE BRINGER #Cypher #Manifest #Core</source>
+        <target state="translated">CURSE BRINGER #Cypher #Manifest #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d72bd7c32d9934da" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: The cypher can be activated when given to an individual who doesn’t realize its significance. The next time the victim attempts an important task when the cypher is in their possession, the task is hindered by three steps.</source>
+        <target state="translated">Effect: The cypher can be activated when given to an individual who doesn’t realize its significance. The next time the victim attempts an important task when the cypher is in their possession, the task is hindered by three steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

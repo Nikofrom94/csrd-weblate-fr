@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a0775cfc2fa3921d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Salvage and Comfort (2 Intellect points) #Ability #InformationAbility #TaskAbility #Low #Core</source>
+        <target state="translated">Salvage and Comfort (2 Intellect points) #Ability #InformationAbility #TaskAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db6fdd7ad3619e34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re familiar with open space. If you spend an hour using your spacecraft’s sensors and make a difficulty 3 Intellect roll, you can find salvage in the form of abandoned spacecraft, drifting motes of matter that were once inhabited, or a place to hide from pursuit in what most people would otherwise assume to be empty space (such as in a nebula, an asteroid field, or the shadow of a moon). Salvage you turn up includes enough food and water for you and several others, as well as the possibility of weapons, clothing, technological artifacts, survivors, or other usable items. In other contexts, this ability counts as training in tasks related to perception.</source>
+        <target state="translated">You’re familiar with open space. If you spend an hour using your spacecraft’s sensors and make a difficulty 3 Intellect roll, you can find salvage in the form of abandoned spacecraft, drifting motes of matter that were once inhabited, or a place to hide from pursuit in what most people would otherwise assume to be empty space (such as in a nebula, an asteroid field, or the shadow of a moon). Salvage you turn up includes enough food and water for you and several others, as well as the possibility of weapons, clothing, technological artifacts, survivors, or other usable items. In other contexts, this ability counts as training in tasks related to perception.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bd8e6ef0f20abad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, one hour to complete.</source>
+        <target state="translated">Action to initiate, one hour to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

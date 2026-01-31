@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2a67f5f2bbfe2b06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wild Camouflage (4 Intellect points) #Ability #TransformAbility #High #Core</source>
+        <target state="translated">Wild Camouflage (4 Intellect points) #Ability #TransformAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1b28850f12551bba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>By drawing your clothing about you just so and using various tricks and your deep knowledge of your surroundings, you become invisible in the wilderness for ten minutes. While you are invisible, this asset eases your stealth and Speed defense tasks by two steps. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position.</source>
+        <target state="translated">By drawing your clothing about you just so and using various tricks and your deep knowledge of your surroundings, you become invisible in the wilderness for ten minutes. While you are invisible, this asset eases your stealth and Speed defense tasks by two steps. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8effbd3f4e9ebed6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate or reinitiate.</source>
+        <target state="translated">Action to initiate or reinitiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

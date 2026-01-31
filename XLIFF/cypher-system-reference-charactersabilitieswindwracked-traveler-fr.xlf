@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="01e9a91a2e553c09" weblate-flags="md-text, safe-html, strict-same">
+        <source>Windwracked Traveler (4+ Intellect points) #Ability #MovementAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1106dcfa485fca2a" weblate-flags="md-text, safe-html, strict-same">
+        <source>You condense a wide wing of dark matter that can carry you through the air for a period of up to one hour. For each level of Effort applied, you can add one hour to the duration or carry one additional creature of your size or smaller. You must touch the additional creatures for them to be tucked under your wing. They must remain relatively still while the wing lasts or they will fall. In terms of overland movement, you fly at about 20 miles (32 km) per hour and are not affected by terrain.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

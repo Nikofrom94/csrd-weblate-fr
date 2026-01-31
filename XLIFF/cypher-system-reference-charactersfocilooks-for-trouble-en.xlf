@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4b83d754f79a6f25" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Looks for Trouble #Focus #StrikerFocus #Core</source>
+        <target state="translated">Looks for Trouble #Focus #StrikerFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d71e3dc6189139c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a scrapper and love a good fight.</source>
+        <target state="translated">You’re a scrapper and love a good fight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0987d4298f934aef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Fists of Fury]{1}</source>
+        <target state="translated">Tier 1: [Fists of Fury]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="434447963f7b5d4b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Wound Tender]{1}</source>
+        <target state="translated">Tier 1: [Wound Tender]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="333b8a0c00e1abb4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Protector]{1}</source>
+        <target state="translated">Tier 2: [Protector]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e84c27e0f20358d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Straightforward]{1}</source>
+        <target state="translated">Tier 2: [Straightforward]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a035d9b29ee7ef1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Skill With Attacks]{1} or [Greater Enhanced Potential]{2}</source>
+        <target state="translated">Tier 3: [Skill With Attacks]{1} or [Greater Enhanced Potential]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ced03dd0298d6b13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Knock Out]{1}</source>
+        <target state="translated">Tier 4: [Knock Out]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca57bf1aa487085d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Mastery With Attacks]{1}</source>
+        <target state="translated">Tier 5: [Mastery With Attacks]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="82a8e7a3f86e4407" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Greater Enhanced Might]{1} or [Lethal Damage]{2}</source>
+        <target state="translated">Tier 6: [Greater Enhanced Might]{1} or [Lethal Damage]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1e936e927248301d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.</source>
+        <target state="translated">GM Intrusions: Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

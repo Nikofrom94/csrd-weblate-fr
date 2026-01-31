@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="0f52605f0166990f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Absorb Pure Energy #Ability #ProtectionAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5f1f3f0361a8cc24" weblate-flags="md-text, safe-html, strict-same">
+        <source>When you use [Absorb Kinetic Energy]{1}, you can also absorb and store energy from attacks made with pure energy (focused light, radiation, transdimensional, psychic, etc.) or from conduits that direct energy, if you can make direct contact. This ability does not change how many points of energy you can store. If you also have [Improved Absorb Kinetic Energy]{2}, you can absorb 2 points of damage from other energy sources as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1d938494a5e8a63c" weblate-flags="md-text, safe-html, strict-same">
+        <source>DRAGON #lvl7 (21) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ebe5c7994cfd3e31" weblate-flags="md-text, safe-html, strict-same">
+        <source>Dragons are exceptionally territorial, vain, and greedy. Apex predators, dragons must eat large meals on a regular basis. They prefer virgins, though they will settle for whoever, or whatever—such as horses or wild pigs—is available in a pinch. They love games of all sorts, especially when they get to consume the loser. Drawn to wealth and magic, dragons accumulate hoards of golden treasure. A dragon’s hoard is not only an end in itself, but part of a never-ending contest between dragons of a certain age to see which one can accumulate the largest trove.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="099aa29fadf3d6d6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Self-aggrandizement, hungers for flesh, treasure collection</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04c1ca93ac102c0d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Dragons thrive where wilderness meets the civilized frontier.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ad92d949b527d75" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 45</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="77814172134cc214" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 10 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="21031c9d541540c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f8ed7a8c8e25f67" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short; long while flying</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc4b915759fe3c95" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception and riddles as level 8; Speed defense as level 6 due to size</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a12b1bd2019c3f30" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: A dragon can bite one target or claw two opponents in immediate range as a single action. When bitten, targets are also immobilized until they succeed on a Might defense roll to break free (or the dragon drops them).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a4ee135ae0463694" weblate-flags="md-text, safe-html, strict-same">
+        <source>Most dragons have one or more additional magical abilities they can bring to bear in combat, including the following.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5efa39f2961fc155" weblate-flags="md-text, safe-html, strict-same">
+        <source>Captivate: A dragon with this ability can psychically mesmerize a nondragon target in immediate range who fails an Intellect defense roll. A captivated target does the dragon’s verbal bidding for one or more hours. Each time the target is confronted by a third party about its mental condition, the target is allowed another Intellect defense roll to break the effect.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df0a89dc33d214a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Change Shape: A dragon with this ability can take the form of a human or similar humanoid as its action, or return to its regular shape. When so changed, the dragon’s disguise is nearly impenetrable without special knowledge. As a human, the dragon is a level 5 creature.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3759236210638b6c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fiery Breath: A dragon can breathe a stream of fire up to long range, doing 7 points of damage to all targets within immediate range of each other. Targets who succeed on a Speed defense roll to avoid the full effect of the fire still take 3 points of damage. This ability cannot be used in consecutive rounds.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="03f5cabf524b880a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Like the many hues of dragon scales, dragon personalities run the gamut from beastly thug to refined connoisseur. Some dragons lie with every smoky breath, others consider the least bit of dishonesty a personal failing, and most fall somewhere in between. All of them can be flattered and even charmed by someone with courtly manners and grace.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7b6c96334523ae8d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A dragon confronts the PCs, challenging them to a riddle game. If the characters win, they get a cypher. If the dragon wins, the PCs owe it a favor to be specified later . . . unless the dragon is hungry now.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e43da14fd4f6d3db" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: A dragon’s hoard might contain 2d6 cyphers, hard currency equivalent to 1d6 exorbitant items, and possibly a few artifacts (but a hoard is usually well guarded).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3ae4d7146377f0bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The dragon breathes fire while the character is caught in its mouth, which automatically inflicts maximum fire damage on them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

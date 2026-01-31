@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a6697a551423c5d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EFFICACY BOOST (MAJOR) #Cypher #Core</source>
+        <target state="translated">EFFICACY BOOST (MAJOR) #Cypher #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53379dc3da033f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 1</source>
+        <target state="translated">Level: 1d6 + 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="45075a9ba24833ff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: This cypher boosts an ability that requires a skill roll. The use of the ability is eased by two steps. This kind of cypher might be appropriate only in superhero campaigns, at least with any regularity.)</source>
+        <target state="translated">Effect: This cypher boosts an ability that requires a skill roll. The use of the ability is eased by two steps. This kind of cypher might be appropriate only in superhero campaigns, at least with any regularity.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

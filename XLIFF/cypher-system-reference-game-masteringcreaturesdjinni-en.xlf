@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6a1ca032f3c055a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DJINNI #lvl7 (21) #Creature #Core #Fantasy</source>
+        <target state="translated">DJINNI #lvl7 (21) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6249611c5eb71786" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.</source>
+        <target state="translated">Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69f7a5c856066988" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Unpredictable</source>
+        <target state="translated">Motive: Unpredictable</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c7bc09b8df153fee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Almost anywhere</source>
+        <target state="translated">Environment: Almost anywhere</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0b9d7ba5a1abae3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 35</source>
+        <target state="translated">Health: 35</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fb3d9153f1ca437a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 9 points</source>
+        <target state="translated">Damage Inflicted: 9 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca329a0cb0f68a8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when flying</source>
+        <target state="translated">Movement: Short; long when flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fb240f40b31b1d27" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Knowledge of Arabian history as level 8</source>
+        <target state="translated">Modifications: Knowledge of Arabian history as level 8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="08157bb2a542fe71" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: With a touch, a djinni can warp a victim’s flesh, inflicting damage. Djinn can also use an action to send out a magitech “EMP burst” that renders all artifacts, machines, and lesser magic devices within short range inoperable for one minute. (If the item is part of a character’s equipment, they can prevent this outcome by succeeding on a Speed defense roll.) Instead of disabling all devices in range, a djinni can instead take control of one item within range for one minute, if applicable.</source>
+        <target state="translated">Combat: With a touch, a djinni can warp a victim’s flesh, inflicting damage. Djinn can also use an action to send out a magitech “EMP burst” that renders all artifacts, machines, and lesser magic devices within short range inoperable for one minute. (If the item is part of a character’s equipment, they can prevent this outcome by succeeding on a Speed defense roll.) Instead of disabling all devices in range, a djinni can instead take control of one item within range for one minute, if applicable.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="657ec688540a7e43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A djinni can transform into a being of smoke and flame as its action. While in this form, it has +10 to Armor but can’t attack foes. It gains the ability to fly a long distance each round and retains the ability to communicate normally. The first time each day that a djinni returns to physical form after having become smoke, it regains 25 points of health.</source>
+        <target state="translated">A djinni can transform into a being of smoke and flame as its action. While in this form, it has +10 to Armor but can’t attack foes. It gains the ability to fly a long distance each round and retains the ability to communicate normally. The first time each day that a djinni returns to physical form after having become smoke, it regains 25 points of health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="98c900d7476d1d18" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some djinn have the ability to grant wishes, and a few are beholden to do so thanks to an ancient, unexplained agreement with other djinn. Those who grant wishes twist them against the asker, especially if a wish is poorly worded or there are multiple ways to interpret it. The level of the effect granted is no greater than level 7, as determined by the GM, who can modify the effect of the wish accordingly. (The larger the wish, the more likely the GM will limit its effect.)</source>
+        <target state="translated">Some djinn have the ability to grant wishes, and a few are beholden to do so thanks to an ancient, unexplained agreement with other djinn. Those who grant wishes twist them against the asker, especially if a wish is poorly worded or there are multiple ways to interpret it. The level of the effect granted is no greater than level 7, as determined by the GM, who can modify the effect of the wish accordingly. (The larger the wish, the more likely the GM will limit its effect.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="59b327dd3fc0c9ce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: When a djinni interacts with characters, it’s narcissistic, certain in its own immense power, and unlikely to let slights pass. That said, low-tier characters could negotiate with one peacefully because even djinn have needs and desires.</source>
+        <target state="translated">Interaction: When a djinni interacts with characters, it’s narcissistic, certain in its own immense power, and unlikely to let slights pass. That said, low-tier characters could negotiate with one peacefully because even djinn have needs and desires.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e2f34d4ae7a4b13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Agents of a foreign power retrieved a magic lamp from an ancient Arabian ruin. The PCs’ job is to determine whether there is reason for alarm.</source>
+        <target state="translated">Use: Agents of a foreign power retrieved a magic lamp from an ancient Arabian ruin. The PCs’ job is to determine whether there is reason for alarm.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c06d19f6a6a27b03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: Most djinn carry a couple of cyphers, and some have a magic artifact useful in combat.</source>
+        <target state="translated">Loot: Most djinn carry a couple of cyphers, and some have a magic artifact useful in combat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b4f1d9fde1ff50e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: When the character is touched by a djinni, instead of taking damage, the character is turned to smoke and fire and sent whirling off in a random direction. They lose their next turn and return to normal almost 300 feet (90 m) from where they started.</source>
+        <target state="translated">GM intrusion: When the character is touched by a djinni, instead of taking damage, the character is turned to smoke and fire and sent whirling off in a random direction. They lose their next turn and return to normal almost 300 feet (90 m) from where they started.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

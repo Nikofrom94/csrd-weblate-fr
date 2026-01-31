@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="7f4d1ab1a911ed2f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Colossal #Ability #TransformAbility #High #Core</source>
+        <target state="translated">Colossal #Ability #TransformAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c311bb6cfb7531f4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use [Enlarge]{1}, you can choose to grow up to a base height of 60 feet (18 m). When you do, you add 5 more temporary points to your Might Pool (plus any from [Gargantuan]{2} and [Bigger]{3}), and you deal an additional 2 points of damage with melee attacks (plus any from your Huge ability). For each level of Effort you apply to increase your height further, your total height increases by 10 feet (3 m), and you add 1 more point to your Might Pool. Thus, the first time you use [Enlarge]{4} after a ten-hour recovery roll, if you apply two levels of Effort, your base height is 80 feet (24 m), and you add a total of 17 temporary points to your Might Pool.</source>
+        <target state="translated">When you use [Enlarge]{1}, you can choose to grow up to a base height of 60 feet (18 m). When you do, you add 5 more temporary points to your Might Pool (plus any from [Gargantuan]{2} and [Bigger]{3}), and you deal an additional 2 points of damage with melee attacks (plus any from your Huge ability). For each level of Effort you apply to increase your height further, your total height increases by 10 feet (3 m), and you add 1 more point to your Might Pool. Thus, the first time you use [Enlarge]{4} after a ten-hour recovery roll, if you apply two levels of Effort, your base height is 80 feet (24 m), and you add a total of 17 temporary points to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

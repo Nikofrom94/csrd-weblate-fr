@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ae5ae20e8e53ede9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Unicorn #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target state="translated">Unicorn #lvl4 (12) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce49379920a9bb20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 15</source>
+        <target state="translated">Health: 15</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1fafbb133fb4701a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target state="translated">Armor: 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fbaf2404b0734028" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Might defense, perception, and attacks as level 5</source>
+        <target state="translated">Modifications: Might defense, perception, and attacks as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ed048bcd25d829e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat:</source>
+        <target state="translated">Combat:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23a553a8b18f2fad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>makes two attacks as its action;</source>
+        <target state="translated">makes two attacks as its action;</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7ba720a1c7b5f6c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>once per hour can teleport up to 1 mile;</source>
+        <target state="translated">once per hour can teleport up to 1 mile;</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="84bba2f116c79796" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4</source>
+        <target state="translated">once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

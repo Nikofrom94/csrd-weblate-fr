@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="41496ab217b9908d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Informer #Ability #SocialAbility #Mid #Core</source>
+        <target state="translated">Informer #Ability #SocialAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="376279aa8ebded09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain an informer within an allied community. They act as your secret (or known) informer. If something of note happens in your informer’s location, they will use whatever means they have available to tell you about it.</source>
+        <target state="translated">You gain an informer within an allied community. They act as your secret (or known) informer. If something of note happens in your informer’s location, they will use whatever means they have available to tell you about it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="6c61861316e0e852" weblate-flags="md-text, safe-html, strict-same">
+        <source>Entertains #Focus #SupportFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d2dc4b95512399b3" weblate-flags="md-text, safe-html, strict-same">
+        <source>You perform, mostly for the benefit of others.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="498b3e177142d5f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Levity]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bcb75698c1a3c722" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Inspiring Ease]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fb7c52bf2e30d686" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Knowledge Skills]{1} or [Greater Enhanced Potential]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b9c641e8f14d5c9c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Calm]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="907b7b0eb2de732e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Able Assistance]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4d0ad84364732e9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Master Entertainer]{1} or [Vindictive Performance]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f714b600d65504ba" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The audience is annoyed or offended. Musical instruments break. Paints dry in their pots. The words to a poem or song are forgotten.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

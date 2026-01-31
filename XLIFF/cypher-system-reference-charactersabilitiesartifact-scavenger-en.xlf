@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="205d5efd4dea98b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Artifact Scavenger (6 Intellect points + 2 XP) #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Artifact Scavenger (6 Intellect points + 2 XP) #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="79cf457019788acb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’ve developed a sixth sense for searching for the most valuable items in the wasteland. If you spend the time required to succeed on two scavenging tasks, you can exchange all the results you would otherwise obtain for a chance to gain an artifact of the GM’s choosing if you succeed on a difficulty 6 Intellect task. You can use this ability at most once per day, and never within the same general area.</source>
+        <target state="translated">You’ve developed a sixth sense for searching for the most valuable items in the wasteland. If you spend the time required to succeed on two scavenging tasks, you can exchange all the results you would otherwise obtain for a chance to gain an artifact of the GM’s choosing if you succeed on a difficulty 6 Intellect task. You can use this ability at most once per day, and never within the same general area.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5111729eb3bb037a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, several hours to complete.</source>
+        <target state="translated">Action to initiate, several hours to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

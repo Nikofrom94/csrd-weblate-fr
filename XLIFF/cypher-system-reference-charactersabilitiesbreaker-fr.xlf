@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="17bdd7e5d500d879" weblate-flags="md-text, safe-html, strict-same">
+        <source>Breaker #Ability #TaskAbility #Low #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ce5208b2c0e1c1c" weblate-flags="md-text, safe-html, strict-same">
+        <source>You are trained in tasks related to damaging objects with the goal of breaking, piercing, or demolishing them. It is a Might action to damage an object, and on a success, the object moves one step down the object damage track. If the Might roll exceeds the difficulty by two steps, the object instead moves two steps down the object damage track. If the Might roll exceeds the difficulty by four steps, the object moves three steps down the object damage track and is immediately destroyed. Brittle material reduces the effective level of the object, while hard material like wood or stone adds 1 to the effective level or 2 for very hard objects like those made of metal.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

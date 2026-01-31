@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="92180d4c127667ee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Teach Trick (5+ Intellect points) #Ability #SupportFocus #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c3c35885d46bcf5d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You spend an hour instructing someone on how to perform a type ability that you know. The ability must be no higher than fourth tier. For one hour after you teach them, the student can perform that ability as if it were natural for them. They must pay the Might, Speed, or Intellect cost (if any) to use that ability. The student must be able to understand your instructions. In addition to the normal options for using Effort, you can choose to use Effort to increase how long the student can use the ability or to teach additional students at the same time; each level of Effort used in this way increases the duration by one hour or the number of students by one. One hour to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d3c45d7c7af206b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action; hour to complete.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

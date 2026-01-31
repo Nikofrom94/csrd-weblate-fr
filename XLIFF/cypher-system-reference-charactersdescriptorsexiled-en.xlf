@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1cccf431c28ac062" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Exiled #Descriptor #Core</source>
+        <target state="translated">Exiled #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="74c7714201dadf3b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have walked a long and lonely road, leaving your home and your life behind. You might have committed a heinous crime, something so awful that your people forced you out, and if you dare return, you face death. You might have been accused of a crime you didn’t commit and now must pay the price for someone else’s wicked deed. Your exile might be the result of a social gaffe—perhaps you shamed your family or a friend, or you embarrassed yourself in front of your peers, an authority, or someone you respect. Whatever the reason, you have left your old life behind and now strive to make a new one.</source>
+        <target state="translated">You have walked a long and lonely road, leaving your home and your life behind. You might have committed a heinous crime, something so awful that your people forced you out, and if you dare return, you face death. You might have been accused of a crime you didn’t commit and now must pay the price for someone else’s wicked deed. Your exile might be the result of a social gaffe—perhaps you shamed your family or a friend, or you embarrassed yourself in front of your peers, an authority, or someone you respect. Whatever the reason, you have left your old life behind and now strive to make a new one.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a001d6ebea512676" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Self-Reliant: +2 to your Might Pool.</source>
+        <target state="translated">Self-Reliant: +2 to your Might Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="338c4478fd16ff3b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loner: You gain no benefit when you get help with a task from another character who is trained or specialized in that task.</source>
+        <target state="translated">Loner: You gain no benefit when you get help with a task from another character who is trained or specialized in that task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="878abb838b2340f9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving sneaking.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving sneaking.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04ad8ed73eceadbf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving foraging, hunting, and finding safe places to rest or hide.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving foraging, hunting, and finding safe places to rest or hide.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="405ebce4b9114ac4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Living on your own for as long as you have makes you slow to trust others and awkward in social situations. Any task involving social interaction is hindered.</source>
+        <target state="translated">Inability: Living on your own for as long as you have makes you slow to trust others and awkward in social situations. Any task involving social interaction is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="82225b478b7d7e70" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You have a memento from your past—an old picture, a locket with a few strands of hair inside, or a lighter given to you by someone important. You keep the object close at hand and pull it out to help you remember better times.</source>
+        <target state="translated">Additional Equipment: You have a memento from your past—an old picture, a locket with a few strands of hair inside, or a lighter given to you by someone important. You keep the object close at hand and pull it out to help you remember better times.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25e590aaf1718c04" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The other PCs earned your trust by helping you when you needed it. You accompany them to repay them.</source>
+        <target state="translated">The other PCs earned your trust by helping you when you needed it. You accompany them to repay them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c6490e0bbb5cfc7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>While exploring on your own, you discovered something strange. When you traveled to a settlement, the PCs were the only ones who believed you, and they have accompanied you to help you deal with the problem.</source>
+        <target state="translated">While exploring on your own, you discovered something strange. When you traveled to a settlement, the PCs were the only ones who believed you, and they have accompanied you to help you deal with the problem.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4073ad65c3ec5833" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs reminds you of someone you used to know.</source>
+        <target state="translated">One of the other PCs reminds you of someone you used to know.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ad43501a794173e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have grown weary of your isolation. Joining the other PCs gives you a chance to belong.</source>
+        <target state="translated">You have grown weary of your isolation. Joining the other PCs gives you a chance to belong.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

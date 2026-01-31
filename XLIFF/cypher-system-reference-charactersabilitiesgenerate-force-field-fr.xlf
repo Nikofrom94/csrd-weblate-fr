@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c39a492640d7dd62" weblate-flags="md-text, safe-html, strict-same">
+        <source>Generate Force Field (9+ Intellect points) #Ability #EnvironmentAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d96b76b63679ac0" weblate-flags="md-text, safe-html, strict-same">
+        <source>You create six planes of solid force (level 8), each 30 feet (9 m) to a side, which persist for one hour. The planes must be contiguous, and they retain the position that you choose when initiating this ability. For instance, you could arrange the planes linearly, creating a wall 180 feet (55 m) long, or you could create a closed cube. The planes conform to the space available. Each additional level of Effort you apply increases the level of the barrier by one (to a maximum of level 10) or increases the number of hours it remains by one.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

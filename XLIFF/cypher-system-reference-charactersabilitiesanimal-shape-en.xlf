@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="96abc91591fd6104" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Animal Shape (3+ Intellect points) #Ability #Core #Fantasy</source>
+        <target state="translated">Animal Shape (3+ Intellect points) #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="21bd7f4cf9b7d422" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You change into an animal as small as a rat or up to your own size (such as a large dog or small bear) for ten minutes. Each time you transform, you can take a different animal shape. Your equipment becomes part of the transformation, rendering it unusable unless it has a passive effect, such as armor. In this form your stats remain the same as your normal form, but you can move and attack according to your animal shape (attacks from most animals this size are medium weapons, which you can use without penalty). Tasks requiring hands (such as using door handles or pushing buttons) are hindered when in animal form. You cannot speak but can still use abilities that don’t rely on human speech. You gain two minor abilities associated with the creature you become (see the Animal Form Minor Abilities table at the end of the Character Abilities section of this document). For example, if you transform into a bat, you become trained in perception and can fly up to a long distance each round. If you transform into an octopus, you are trained in stealth and can breathe underwater. If you apply a level of Effort when you use this ability, you can either become a talking animal or take a hybrid shape. The talking animal shape looks exactly like a normal animal, but you can still talk and use any abilities that rely on human speech. The hybrid shape is like your normal form but with animalistic features, even if that animal is something much smaller than you (such as a bat or rat). In this hybrid form you can speak, use all of your abilities, make attacks like an animal, and perform tasks using hands without being hindered. Anyone who sees you clearly in this hybrid form would never mistake you for a mere animal.</source>
+        <target state="translated">You change into an animal as small as a rat or up to your own size (such as a large dog or small bear) for ten minutes. Each time you transform, you can take a different animal shape. Your equipment becomes part of the transformation, rendering it unusable unless it has a passive effect, such as armor. In this form your stats remain the same as your normal form, but you can move and attack according to your animal shape (attacks from most animals this size are medium weapons, which you can use without penalty). Tasks requiring hands (such as using door handles or pushing buttons) are hindered when in animal form. You cannot speak but can still use abilities that don’t rely on human speech. You gain two minor abilities associated with the creature you become (see the Animal Form Minor Abilities table at the end of the Character Abilities section of this document). For example, if you transform into a bat, you become trained in perception and can fly up to a long distance each round. If you transform into an octopus, you are trained in stealth and can breathe underwater. If you apply a level of Effort when you use this ability, you can either become a talking animal or take a hybrid shape. The talking animal shape looks exactly like a normal animal, but you can still talk and use any abilities that rely on human speech. The hybrid shape is like your normal form but with animalistic features, even if that animal is something much smaller than you (such as a bat or rat). In this hybrid form you can speak, use all of your abilities, make attacks like an animal, and perform tasks using hands without being hindered. Anyone who sees you clearly in this hybrid form would never mistake you for a mere animal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e99923889cfc123c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>“Similar” is a broad term. Lions are similar to tigers and leopards, hawks are similar to ravens and swans, dogs are similar to wolves and foxes, and so on.</source>
+        <target state="translated">“Similar” is a broad term. Lions are similar to tigers and leopards, hawks are similar to ravens and swans, dogs are similar to wolves and foxes, and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="98f60b491c1527e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Even if your animal shape has multiple attack types (such as claws and bite), you can attack only once per round unless you have some other ability that lets you make additional attacks on your turn.</source>
+        <target state="translated">Even if your animal shape has multiple attack types (such as claws and bite), you can attack only once per round unless you have some other ability that lets you make additional attacks on your turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f516306bfc9473ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Animal Shape variant: If your character concept is that you always take the same animal form instead of being able to choose from multiple kinds of animals, double the duration of the Animal Shape ability (to twenty minutes per use). The GM may allow characters with this restriction to learn additional animal forms by spending 4 XP as a long-term benefit.</source>
+        <target state="translated">Animal Shape variant: If your character concept is that you always take the same animal form instead of being able to choose from multiple kinds of animals, double the duration of the Animal Shape ability (to twenty minutes per use). The GM may allow characters with this restriction to learn additional animal forms by spending 4 XP as a long-term benefit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fbaedc0ad694cd5a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ANIMAL FORM MINOR ABILITIES TABLE Use the following as examples or suggestions of what a character gains when in the shape of an animal. If an animal shape lists two skills, the character chooses which one they want each time they take that shape.</source>
+        <target state="translated">ANIMAL FORM MINOR ABILITIES TABLE Use the following as examples or suggestions of what a character gains when in the shape of an animal. If an animal shape lists two skills, the character chooses which one they want each time they take that shape.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="85d80f0dbe96c453" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Animal</source>
+        <target state="translated">Animal</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="13e947908efb8488" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill Training</source>
+        <target state="translated">Skill Training</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d2b7ff8584e93c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Other Abilities</source>
+        <target state="translated">Other Abilities</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf83c58860c12599" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ape</source>
+        <target state="translated">Ape</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Climbing</source>
+        <target state="translated">Climbing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ffb7f442cffa6584" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hands</source>
+        <target state="translated">Hands</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4715a522f3490897" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Badger</source>
+        <target state="translated">Badger</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scent</source>
+        <target state="translated">Scent</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e622dce8d4d1fce1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bat</source>
+        <target state="translated">Bat</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Perception</source>
+        <target state="translated">Perception</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flying</source>
+        <target state="translated">Flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b75079fa6ba8389e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bear</source>
+        <target state="translated">Bear</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="54c77771ca20c98e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bird</source>
+        <target state="translated">Bird</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a42a5b24c8d3d31f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Boar</source>
+        <target state="translated">Boar</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Might defense</source>
+        <target state="translated">Might defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e97ba354d65c107f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cat</source>
+        <target state="translated">Cat</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Climbing or stealth</source>
+        <target state="translated">Climbing or stealth</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Small</source>
+        <target state="translated">Small</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bde9ba0f668d206f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Constrictor snake</source>
+        <target state="translated">Constrictor snake</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Constrict</source>
+        <target state="translated">Constrict</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="26b4eb3905ba6879" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Crocodile</source>
+        <target state="translated">Crocodile</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stealth or swimming</source>
+        <target state="translated">Stealth or swimming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="876c6908c7147d86" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Deinonychus</source>
+        <target state="translated">Deinonychus</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fast</source>
+        <target state="translated">Fast</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3d356be311af166" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Dolphin</source>
+        <target state="translated">Dolphin</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d819a6a37c4b719" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Perception or swimming</source>
+        <target state="translated">Perception or swimming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55d7da392be4ccbe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fish</source>
+        <target state="translated">Fish</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Aquatic</source>
+        <target state="translated">Aquatic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f80ac21543bb8ca3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Frog</source>
+        <target state="translated">Frog</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9858fb0c7e833cf6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Jumping or stealth</source>
+        <target state="translated">Jumping or stealth</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1eabd9b03c58f2fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Horse</source>
+        <target state="translated">Horse</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ce8841573b4e3f15" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Leopard</source>
+        <target state="translated">Leopard</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c9e94f855b4d58a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lizard</source>
+        <target state="translated">Lizard</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17c2ed6d7f2bc372" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Octopus</source>
+        <target state="translated">Octopus</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d21e5cf04549a12c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stealth</source>
+        <target state="translated">Stealth</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d807100b4c6304e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shark</source>
+        <target state="translated">Shark</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29a73848a9d7b57e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Swimming</source>
+        <target state="translated">Swimming</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6d86d13cffe04748" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Turtle</source>
+        <target state="translated">Turtle</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e97b53ad099e38e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor</source>
+        <target state="translated">Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe79b4e192020c57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Venomous snake</source>
+        <target state="translated">Venomous snake</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32dd7d1901c70256" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Venom</source>
+        <target state="translated">Venom</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="30e081eccc8db2a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wolf</source>
+        <target state="translated">Wolf</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9575463dcd336b93" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.</source>
+        <target state="translated">Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a48489b570623a88" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: The animal has a thick hide or shell, granting +1 to Armor.</source>
+        <target state="translated">Armor: The animal has a thick hide or shell, granting +1 to Armor.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="744d654789041994" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.</source>
+        <target state="translated">Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="849cd4dc9ef8c0b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fast: The animal can move a long distance on its turn instead of a short distance.</source>
+        <target state="translated">Fast: The animal can move a long distance on its turn instead of a short distance.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8b12c8c9cf30d74" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Flying: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.</source>
+        <target state="translated">Flying: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9398c9879cd01262" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hands: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).</source>
+        <target state="translated">Hands: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e7d647dec301b02" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Scent: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.</source>
+        <target state="translated">Scent: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="62881363e01485d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Small: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.</source>
+        <target state="translated">Small: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f072dac9f36acf83" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Venom: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.</source>
+        <target state="translated">Venom: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="777a2097e9c402b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to change or revert.</source>
+        <target state="translated">Action to change or revert.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

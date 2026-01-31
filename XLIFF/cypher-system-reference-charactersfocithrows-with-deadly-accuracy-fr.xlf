@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="35daa400e56ac462" weblate-flags="md-text, safe-html, strict-same">
+        <source>Throws With Deadly Accuracy #Focus #StrikerFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7dc65f6b0a96215" weblate-flags="md-text, safe-html, strict-same">
+        <source>Everything that leaves your hand goes exactly where you’d like it to go and at the range and speed to make the perfect impact.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e0df9e2309e6e445" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Precision</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a4261205c0e66fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Careful Aim</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="580e047d94d3aaae" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Quick Throw or Skill With Defense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a9c5b96410a1c715" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Everything Is a Weapon</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="968f46253a282edc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Specialized Throwing</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c2ba8ce76a0f2140" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Whirlwind of Throws</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="abba6a8ee6768bff" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Lethal Damage or Mastery With Defense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5ed64f5d89992d39" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

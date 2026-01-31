@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5c3fe1a8a3590861" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spray (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core</source>
+        <target state="translated">Spray (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2e55783d3634e15" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow or submachine gun), you can spray multiple shots around your target to increase the chance of hitting. This ability uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). You are trained in making this attack. If the attack is successful, it deals 1 less point of damage than normal. You can also use this ability on multiple thrown weapons (stones, shuriken, daggers, and so on) if you‘re carrying them on your person or they are all within reach.</source>
+        <target state="translated">If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow or submachine gun), you can spray multiple shots around your target to increase the chance of hitting. This ability uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). You are trained in making this attack. If the attack is successful, it deals 1 less point of damage than normal. You can also use this ability on multiple thrown weapons (stones, shuriken, daggers, and so on) if you‘re carrying them on your person or they are all within reach.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

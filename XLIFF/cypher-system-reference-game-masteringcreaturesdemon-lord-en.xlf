@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2e1cb55c1721f49b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DEMON LORD #lvl9 (27) #Creature #Core #Fantasy</source>
+        <target state="translated">DEMON LORD #lvl9 (27) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3d72fc2fe654d2a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring.</source>
+        <target state="translated">Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da5fd9133426c9bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Power, conquest, souls</source>
+        <target state="translated">Motive: Power, conquest, souls</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc057877d7764ef1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Any hell dimension, sometimes called by mortal magic</source>
+        <target state="translated">Environment: Any hell dimension, sometimes called by mortal magic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="43d96ed4a06bf20d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 100</source>
+        <target state="translated">Health: 100</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a09126280ba2f06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 12 points</source>
+        <target state="translated">Damage Inflicted: 12 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e54e268d6c170603" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 5</source>
+        <target state="translated">Armor: 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca329a0cb0f68a8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short; long when flying</source>
+        <target state="translated">Movement: Short; long when flying</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="562224f12f1e4ff3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: History and magical knowledge as level 10</source>
+        <target state="translated">Modifications: History and magical knowledge as level 10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="58581f9179a3f594" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: A demon lord attacks with a bolt of evil energy or fire up to a long distance away, inflicting 12 points of damage on one target or 9 points of damage on all targets within short range of the primary target. Targets caught in the area attack who succeed on a Speed defense roll still suffer 5 points of damage. A demon lord can make melee attacks on all targets within immediate range as an action.</source>
+        <target state="translated">Combat: A demon lord attacks with a bolt of evil energy or fire up to a long distance away, inflicting 12 points of damage on one target or 9 points of damage on all targets within short range of the primary target. Targets caught in the area attack who succeed on a Speed defense roll still suffer 5 points of damage. A demon lord can make melee attacks on all targets within immediate range as an action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a39ab4c8c08cce8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>They can also call on a variety of other magical abilities that mimic the effect of any cypher of level 5 or lower—usually destructive, painful, and transformative effects.</source>
+        <target state="translated">They can also call on a variety of other magical abilities that mimic the effect of any cypher of level 5 or lower—usually destructive, painful, and transformative effects.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b0012411def2d7f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A demon lord automatically regains 3 points of health per round. They typically have the following abilities:</source>
+        <target state="translated">A demon lord automatically regains 3 points of health per round. They typically have the following abilities:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9d4b838234035d2d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Change Shape: The demon lord can take the form of a human or similar humanoid as its action, or return to its regular shape. When so changed, its disguise is nearly impenetrable without special knowledge. As a human, the demon lord is a level 7 creature.</source>
+        <target state="translated">Change Shape: The demon lord can take the form of a human or similar humanoid as its action, or return to its regular shape. When so changed, its disguise is nearly impenetrable without special knowledge. As a human, the demon lord is a level 7 creature.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7cbf2df47cda4bd3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Possession: The demon lord can possess a creature and still use its own abilities.</source>
+        <target state="translated">Possession: The demon lord can possess a creature and still use its own abilities.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2a040117ea3ea92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Summon Demon: Summon a demon or devil to serve it for one day.</source>
+        <target state="translated">Summon Demon: Summon a demon or devil to serve it for one day.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe200a4fda4230d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Wish: The demon lord can grant a mortal a wish (up to level 9) in exchange for an appropriate payment or service, but the wish is often twisted or has hidden consequences.</source>
+        <target state="translated">Wish: The demon lord can grant a mortal a wish (up to level 9) in exchange for an appropriate payment or service, but the wish is often twisted or has hidden consequences.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7850625bd5119509" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Demon lords are willing to bargain with mortals if it leads to the mortal’s corruption or advances the demon’s agenda in some way. They sometimes respond to flattery or bribes of powerful souls or magic items.</source>
+        <target state="translated">Interaction: Demon lords are willing to bargain with mortals if it leads to the mortal’s corruption or advances the demon’s agenda in some way. They sometimes respond to flattery or bribes of powerful souls or magic items.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61dcba7ee4bd68f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A mad cult wants to summon a demon lord in order to end the world. A mysterious stranger offers aid in exchange for a favor to be named later.</source>
+        <target state="translated">Use: A mad cult wants to summon a demon lord in order to end the world. A mysterious stranger offers aid in exchange for a favor to be named later.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5818e598c37ac8a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.</source>
+        <target state="translated">Loot: A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="41b9d4b8ea9c24f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusions:The demon lord offersthe character somethingso tempting (an artifact,immortality, and soon) that they lose theirnext action and mustmake an Intellectdefense roll to resisttrying to bargain for it.</source>
+        <target state="translated">GM intrusions:The demon lord offersthe character somethingso tempting (an artifact,immortality, and soon) that they lose theirnext action and mustmake an Intellectdefense roll to resisttrying to bargain for it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a3efa72534ddd87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The demon lord createsa portal and retreatsto its own dimension;the portal remainsopen for one round</source>
+        <target state="translated">The demon lord createsa portal and retreatsto its own dimension;the portal remainsopen for one round</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

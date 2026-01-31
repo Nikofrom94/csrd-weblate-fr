@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f614df323a19d76b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mind for Might #Ability #MetaAbility #Low #Core</source>
+        <target state="translated">Mind for Might #Ability #MetaAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a774f7b7e5d0d955" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When performing a task that would normally require spending points from your Intellect Pool, you can spend points from your Might Pool instead, and vice versa.</source>
+        <target state="translated">When performing a task that would normally require spending points from your Intellect Pool, you can spend points from your Might Pool instead, and vice versa.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

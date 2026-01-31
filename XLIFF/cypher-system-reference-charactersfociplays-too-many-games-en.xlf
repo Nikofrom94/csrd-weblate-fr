@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d1384f546b75bf3f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Plays Too Many Games #Focus #Core</source>
+        <target state="translated">Plays Too Many Games #Focus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4c13ab13139d3cc3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.</source>
+        <target state="translated">Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bf2fcfcaf7b30c66" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Game Lessons</source>
+        <target state="translated">Tier 1: Game Lessons</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a2f3d5b553a620e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Gamer</source>
+        <target state="translated">Tier 1: Gamer</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="93668fabe7062cf6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Zero Dark Eyes</source>
+        <target state="translated">Tier 2: Zero Dark Eyes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2543921a779cdb86" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Resist Tricks</source>
+        <target state="translated">Tier 2: Resist Tricks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="845d3205b9378db6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Sniper’s Aim or Enhanced Speed Edge</source>
+        <target state="translated">Tier 3: Sniper’s Aim or Enhanced Speed Edge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="295fb6a8f11bac6e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Mind Games</source>
+        <target state="translated">Tier 4: Mind Games</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2bde28d5f8c1b3f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Enhanced Intellect</source>
+        <target state="translated">Tier 4: Enhanced Intellect</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="77928036fa1f582b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Gamer’s Fortitude</source>
+        <target state="translated">Tier 5: Gamer’s Fortitude</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="74e716e9a962cca2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Mind Surge or Gaming God</source>
+        <target state="translated">Tier 6: Mind Surge or Gaming God</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1723abf44756950b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.</source>
+        <target state="translated">GM Intrusions: Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

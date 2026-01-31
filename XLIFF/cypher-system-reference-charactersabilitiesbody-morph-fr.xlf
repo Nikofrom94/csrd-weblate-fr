@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="1c4a65797d77e2f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Body Morph (3+ Intellect points) #Ability #Core #SuperHeroes</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="239576932c256d5d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You alter your facial and bodily features and coloration for one hour, hiding your identity or impersonating someone. If you apply a level of Effort, you can imitate a specific person accurately enough to fool someone who knows them well or has observed them closely (including fingerprints and voice prints, but not their retina print or DNA). You have an asset in all tasks involving disguise (this is in addition to the asset from [Face Morph]{1}). You must apply a separate level of Effort to be able to impersonate a different species (such as a human morphing into a humanoid alien).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="7f563d02c33d59f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Exists in Two Places at Once #Focus #AllyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cbd8127abdd43d8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>You exist in two places at once.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4e6a369731beb372" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Duplicate]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6172b08e69bcd57" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Share Senses]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b217241831b087e5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Superior Duplicate]{1} or [Resilient Duplicate]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5c1d3f6feb4a4d1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Damage Transference]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7a5f375f0e1d621" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Coordinated Effort]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6634ce4dd47c5f53" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Multiplicity]{1} or [Resilient Duplicate]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="084f740d9bfd42d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, or confusion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

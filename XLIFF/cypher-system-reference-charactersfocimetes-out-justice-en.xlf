@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3660dbc9c7714df1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Metes Out Justice #Focus #SupportFocus #StrikerFocus #Core</source>
+        <target state="translated">Metes Out Justice #Focus #SupportFocus #StrikerFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f30afca5ea02d4de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You right wrongs, protect the innocent, and punish the guilty.</source>
+        <target state="translated">You right wrongs, protect the innocent, and punish the guilty.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8811c948df66b298" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Make Judgment</source>
+        <target state="translated">Tier 1: Make Judgment</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b9f0c9307567a58" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Designation</source>
+        <target state="translated">Tier 1: Designation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="83239d29f6d19e2a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Defend the Innocent</source>
+        <target state="translated">Tier 2: Defend the Innocent</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="603b41afc7e4a8a5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Improved Designation</source>
+        <target state="translated">Tier 2: Improved Designation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4825b9c2d4c5638c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Defend All the Innocent or Punish the Guilty</source>
+        <target state="translated">Tier 3: Defend All the Innocent or Punish the Guilty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="883465159ab84dde" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Find the Guilty</source>
+        <target state="translated">Tier 4: Find the Guilty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc2bb5ea1bbeec31" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Greater Designation</source>
+        <target state="translated">Tier 4: Greater Designation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8a3dcc6e35f201d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Punish All the Guilty</source>
+        <target state="translated">Tier 5: Punish All the Guilty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e8912a5d7d7ac84b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Damn the Guilty or Inspire the Innocent</source>
+        <target state="translated">Tier 6: Damn the Guilty or Inspire the Innocent</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ebbf2909224132b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.</source>
+        <target state="translated">GM Intrusions: Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

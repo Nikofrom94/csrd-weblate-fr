@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9480ed73372b0d3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Players can try anything they can think of, although that doesn’t mean anything is possible. The GM sets the difficulty—that’s their primary role in the game. Still, guided by the bounds of logic, players and GMs will find all manner of actions and options that aren’t covered by a rule. That’s a good thing.</source>
+        <target state="translated">Players can try anything they can think of, although that doesn’t mean anything is possible. The GM sets the difficulty—that’s their primary role in the game. Still, guided by the bounds of logic, players and GMs will find all manner of actions and options that aren’t covered by a rule. That’s a good thing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8c7ccefb3c08969" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Players should not feel constrained by the game mechanics when taking actions. Skills are not required to attempt an action. Someone who’s never picked a lock can still try. The GM might hinder the task, but the character can still attempt the action.</source>
+        <target state="translated">Players should not feel constrained by the game mechanics when taking actions. Skills are not required to attempt an action. Someone who’s never picked a lock can still try. The GM might hinder the task, but the character can still attempt the action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f44aaea36d0ab85f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Thus, players and GMs can return to the beginning of this chapter and look at the most basic expression of the rules. A player wants to take an action. The GM decides, on a scale of 1 to 10, how difficult that task is and what stat it uses. The player determines whether they have anything that might modify the difficulty and considers whether to apply Effort. Once the final determination is made, they roll to see if their character succeeds. It’s as easy as that.</source>
+        <target state="translated">Thus, players and GMs can return to the beginning of this chapter and look at the most basic expression of the rules. A player wants to take an action. The GM decides, on a scale of 1 to 10, how difficult that task is and what stat it uses. The player determines whether they have anything that might modify the difficulty and considers whether to apply Effort. Once the final determination is made, they roll to see if their character succeeds. It’s as easy as that.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="839bfdc6c5790ac4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>As further guidance, the following are some of the more common actions a player might take.</source>
+        <target state="translated">As further guidance, the following are some of the more common actions a player might take.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4abe864925fd236f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That’s why there is a “do something else” action. PCs are not pieces on a game board—they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.)</source>
+        <target state="translated">(Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That’s why there is a “do something else” action. PCs are not pieces on a game board—they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3463358489fcdb42" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CLIMBING</source>
+        <target state="translated">CLIMBING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="986ab8287ed2b632" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties.</source>
+        <target state="translated">When a character climbs, the GM sets a difficulty based on the surface being climbed. Climbing is like moving through difficult terrain: the move roll is hindered and the movement is half speed. Unusual circumstances, such as climbing while under fire, pose additional step penalties.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="71f7c9ea3c99ba2e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CLIMBING Difficulty</source>
+        <target state="translated">CLIMBING Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficulty</source>
+        <target state="translated">Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b33ff5cfc32d4dba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Surface</source>
+        <target state="translated">Surface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>2</source>
+        <target state="translated">2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="03050075ece306ca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Surface with lots of handholds</source>
+        <target state="translated">Surface with lots of handholds</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>3</source>
+        <target state="translated">3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2cd3477d166bae4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stone wall or similar surface (a few handholds)</source>
+        <target state="translated">Stone wall or similar surface (a few handholds)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>4</source>
+        <target state="translated">4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d4489bbe24816e40" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Crumbling or slippery surface</source>
+        <target state="translated">Crumbling or slippery surface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>5</source>
+        <target state="translated">5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cab3c9e7d3a91a38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smooth stone wall or similar surface</source>
+        <target state="translated">Smooth stone wall or similar surface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>6</source>
+        <target state="translated">6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8d3c78c7f4183bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Metal wall or similar surface</source>
+        <target state="translated">Metal wall or similar surface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>8</source>
+        <target state="translated">8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f94db3b59ae62b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Smooth, horizontal surface (climber is upside down)</source>
+        <target state="translated">Smooth, horizontal surface (climber is upside down)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":17" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>10</source>
+        <target state="translated">10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f5d0ab73a0d893ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Glass wall or similar surface</source>
+        <target state="translated">Glass wall or similar surface</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7155c2e665b20a34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Helping</source>
+        <target state="translated">Helping</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0bbc91a33422b55a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you use your action to help someone with a task, you ease the task. If you have an inability in a task, your help has no effect. If you use your action to help someone with a task that you are trained or specialized in, the task is eased by two steps. Help is considered an asset, and someone receiving help usually can’t gain more than two assets on a single task if that help is provided by another character.</source>
+        <target state="translated">If you use your action to help someone with a task, you ease the task. If you have an inability in a task, your help has no effect. If you use your action to help someone with a task that you are trained or specialized in, the task is eased by two steps. Help is considered an asset, and someone receiving help usually can’t gain more than two assets on a single task if that help is provided by another character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0537a8b0088b0a2c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For example, if Scott is trying to climb a steep incline and Sarah (who is trained in climbing) spends her turn helping him, Scott’s task is eased by two steps.</source>
+        <target state="translated">For example, if Scott is trying to climb a steep incline and Sarah (who is trained in climbing) spends her turn helping him, Scott’s task is eased by two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c091a6a8c7894e44" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes you can help by performing a task that complements what another person is attempting. If your complementary action succeeds, you ease the other person’s task. For example, if Scott tries to persuade a ship captain to let him on board, Sarah could try to supplement Scott’s words with a flattering lie about the captain (a deception action), a display of knowledge about the region where the ship is headed (a geography action), or a direct threat to the captain (an intimidation action). If Sarah’s roll is a success, Scott’s persuasion task is eased.</source>
+        <target state="translated">Sometimes you can help by performing a task that complements what another person is attempting. If your complementary action succeeds, you ease the other person’s task. For example, if Scott tries to persuade a ship captain to let him on board, Sarah could try to supplement Scott’s words with a flattering lie about the captain (a deception action), a display of knowledge about the region where the ship is headed (a geography action), or a direct threat to the captain (an intimidation action). If Sarah’s roll is a success, Scott’s persuasion task is eased.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="99472c20c4609566" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distraction</source>
+        <target state="translated">Distraction</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="48151fec45c0b4b6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When a character uses their turn to distract a foe, that foe’s attacks are hindered for one round. Multiple characters distracting a foe have no greater effect than a single character doing so—a foe is either distracted or not. A distraction might be yelling a challenge, firing a warning shot, or a similar activity that doesn’t harm the foe.</source>
+        <target state="translated">When a character uses their turn to distract a foe, that foe’s attacks are hindered for one round. Multiple characters distracting a foe have no greater effect than a single character doing so—a foe is either distracted or not. A distraction might be yelling a challenge, firing a warning shot, or a similar activity that doesn’t harm the foe.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f8bf510c7d27f614" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Draw the Attack</source>
+        <target state="translated">Draw the Attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b80eebad7cc85bc3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When an NPC attacks a character, another PC can prominently present themselves, shout taunts, and move to try to get the foe to attack them instead. In most cases, this action succeeds without a roll—the opponent attacks the prominent PC instead of their companions. In other cases, such as with intelligent or determined foes, the prominent character must succeed at an Intellect action to draw the attack. If that Intellect action is successful, the foe attacks the prominent character, whose defenses are hindered by two steps. Two characters attempting to draw an attack at the same time cancel each other out.</source>
+        <target state="translated">When an NPC attacks a character, another PC can prominently present themselves, shout taunts, and move to try to get the foe to attack them instead. In most cases, this action succeeds without a roll—the opponent attacks the prominent PC instead of their companions. In other cases, such as with intelligent or determined foes, the prominent character must succeed at an Intellect action to draw the attack. If that Intellect action is successful, the foe attacks the prominent character, whose defenses are hindered by two steps. Two characters attempting to draw an attack at the same time cancel each other out.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95da8b462db7eb6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Two characters attempting to draw an attack at the same time cancel each other out.)</source>
+        <target state="translated">(Two characters attempting to draw an attack at the same time cancel each other out.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="77940951adc861f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Take the Attack</source>
+        <target state="translated">Take the Attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="15fb2caa9c6bec8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.</source>
+        <target state="translated">A character can use their action to throw themselves in front of a foe’s successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ccd4368867942b6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CRAFTING, BUILDING, AND REPAIRING</source>
+        <target state="translated">CRAFTING, BUILDING, AND REPAIRING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="118f0bd4f041ea87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it.</source>
+        <target state="translated">Crafting is a tricky topic in the Cypher System because the same rules that govern building a spear also cover repairing a machine that can take you into hyperspace. Normally, the level of the item determines the difficulty of creating or repairing it as well as the time required. For cyphers, artifacts, other items that require specialized knowledge, or items unique to a world or species other than your own (such as a Martian tripod walker), add 5 to the item’s level to determine the difficulty of building or repairing it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1b3e284e579c3691" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.</source>
+        <target state="translated">Sometimes, if the item is artistic in nature, the GM will add to the difficulty and time required. For example, a crude wooden stool might be hammered together in an hour. A beautiful finished piece might take a week or longer and would require more skill on the part of the crafter.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b1b30d272d4748b1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.</source>
+        <target state="translated">The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b236c987377478cd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A level 0 object requires no skill to make and is easily found in most locations. Sling stones and firewood are level 0 items—producing them is routine. Making a torch from spare wood and oil-soaked cloth is simple, so it’s a level 1 object. Making an arrow or a spear is fairly standard but not simple, so it’s a level 2 object.</source>
+        <target state="translated">A level 0 object requires no skill to make and is easily found in most locations. Sling stones and firewood are level 0 items—producing them is routine. Making a torch from spare wood and oil-soaked cloth is simple, so it’s a level 1 object. Making an arrow or a spear is fairly standard but not simple, so it’s a level 2 object.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="42334544fcc02f09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Generally speaking, a device to be crafted requires materials equal to its level and all the levels below it. So a level 5 device requires level 5 material, level 4 material, level 3 material, level 2 material, and level 1 material (and, technically, level 0 material).</source>
+        <target state="translated">Generally speaking, a device to be crafted requires materials equal to its level and all the levels below it. So a level 5 device requires level 5 material, level 4 material, level 3 material, level 2 material, and level 1 material (and, technically, level 0 material).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8cc8509f0480efa6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM and players can gloss over much of the crafting details, if desired. Gathering all the materials to make a mundane item might not be worth playing out—but then again, it might be. For example, making a wooden spear in a forest isn’t very interesting, but what if the characters have to make a spear in a treeless desert? Finding the wreckage of something made of wood or forcing a PC to fashion a spear out of the bones of a large beast could be interesting situations.</source>
+        <target state="translated">The GM and players can gloss over much of the crafting details, if desired. Gathering all the materials to make a mundane item might not be worth playing out—but then again, it might be. For example, making a wooden spear in a forest isn’t very interesting, but what if the characters have to make a spear in a treeless desert? Finding the wreckage of something made of wood or forcing a PC to fashion a spear out of the bones of a large beast could be interesting situations.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cfe17962b348e5e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The time required to create an item is up to the GM, but the guidelines in the crafting table are a good starting point. Generally, repairing an item takes somewhere between half the creation time and the full creation time, depending on the item, the aspect that needs repairing, and the circumstances. For example, if creating an item takes one hour, repairing it takes thirty minutes to one hour.</source>
+        <target state="translated">The time required to create an item is up to the GM, but the guidelines in the crafting table are a good starting point. Generally, repairing an item takes somewhere between half the creation time and the full creation time, depending on the item, the aspect that needs repairing, and the circumstances. For example, if creating an item takes one hour, repairing it takes thirty minutes to one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="018bcadcfc77419c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes a GM will allow a rush job if the circumstances warrant it. This is different than using skill to reduce the time required. In this case, the quality of the item is affected. Let’s say that a character needs to create a tool that will cut through solid steel with a laser (a level 7 item), but they have to do it in one day. The GM might allow it, but the device might be extremely volatile, inflicting damage on the user, or it might work only once. The device is still considered a level 7 item to create in all other respects. Sometimes the GM will rule that reducing the time is not possible. For example, a single human can’t make a chainmail vest in one hour without some kind of machine to help.</source>
+        <target state="translated">Sometimes a GM will allow a rush job if the circumstances warrant it. This is different than using skill to reduce the time required. In this case, the quality of the item is affected. Let’s say that a character needs to create a tool that will cut through solid steel with a laser (a level 7 item), but they have to do it in one day. The GM might allow it, but the device might be extremely volatile, inflicting damage on the user, or it might work only once. The device is still considered a level 7 item to create in all other respects. Sometimes the GM will rule that reducing the time is not possible. For example, a single human can’t make a chainmail vest in one hour without some kind of machine to help.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="36ae9d106247bef4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Possible crafting skills include:</source>
+        <target state="translated">Possible crafting skills include:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="54b2f830375e7918" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armoring</source>
+        <target state="translated">Armoring</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0eeb81ef2dbbfae6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bowyering/fletching</source>
+        <target state="translated">Bowyering/fletching</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3984d3abf3bbf690" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Chemistry</source>
+        <target state="translated">Chemistry</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd77a3b31421ba1a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Computer science</source>
+        <target state="translated">Computer science</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac88a4c6ba7214e5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Electronics</source>
+        <target state="translated">Electronics</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ba7327a6749bd063" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Engines</source>
+        <target state="translated">Engines</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0b67788877c04eee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Genetic engineering</source>
+        <target state="translated">Genetic engineering</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8c5016f5172e245f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Glassblowing</source>
+        <target state="translated">Glassblowing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="86998f5fabe6d867" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Gunsmithing</source>
+        <target state="translated">Gunsmithing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ef7ce288381b3f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Leatherworking</source>
+        <target state="translated">Leatherworking</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d509c4080d18f29a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Metalworking</source>
+        <target state="translated">Metalworking</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6fe4dade0cb98f4e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Neural engineering</source>
+        <target state="translated">Neural engineering</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cb95f8433140dc57" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weaponsmithing</source>
+        <target state="translated">Weaponsmithing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0206c95f74bfeb78" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Woodcrafting</source>
+        <target state="translated">Woodcrafting</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c62178ba65bac4b9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters might try to make a cypher, an artifact, or an alien psionic starship do something other than its intended function. Sometimes, the GM will simply declare the task impossible. You can’t turn a vial of healing elixir into a two-way communicator. But most of the time, there is a chance of success.</source>
+        <target state="translated">Characters might try to make a cypher, an artifact, or an alien psionic starship do something other than its intended function. Sometimes, the GM will simply declare the task impossible. You can’t turn a vial of healing elixir into a two-way communicator. But most of the time, there is a chance of success.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3d6f78e1c4d5775" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>That said, tinkering with weird stuff is not easy. Obviously, the difficulty varies from situation to situation, but difficulties starting at 7 are not unreasonable. The time, tools, and training required would be similar to the time, tools, and training needed to repair a device. If the tinkering results in a long-term benefit for the character—such as creating an artifact that they can use—the GM should require them to spend XP to make it.</source>
+        <target state="translated">That said, tinkering with weird stuff is not easy. Obviously, the difficulty varies from situation to situation, but difficulties starting at 7 are not unreasonable. The time, tools, and training required would be similar to the time, tools, and training needed to repair a device. If the tinkering results in a long-term benefit for the character—such as creating an artifact that they can use—the GM should require them to spend XP to make it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7de5426e8945526" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Circumstances really matter. For example, sewing a dress by hand might take five times as long (or more) as using a sewing machine.)</source>
+        <target state="translated">(Circumstances really matter. For example, sewing a dress by hand might take five times as long (or more) as using a sewing machine.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c6d92029c555b26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.)</source>
+        <target state="translated">(The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b62111fe797b4205" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Obviously, what is considered “weird stuff ” will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn’t mean he could reverse-engineer a teleporter made in another dimension.)</source>
+        <target state="translated">(Obviously, what is considered “weird stuff ” will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn’t mean he could reverse-engineer a teleporter made in another dimension.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="255c28f20559fdce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Crafting Difficulty and Time</source>
+        <target state="translated">Crafting Difficulty and Time</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficulty</source>
+        <target state="translated">Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cf981f596bc0dbf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Craft</source>
+        <target state="translated">Craft</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17bdfce974e3379c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>General Time to Build</source>
+        <target state="translated">General Time to Build</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>0</source>
+        <target state="translated">0</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb34ea99a802b6b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Something extremely simple like tying a rope or finding an appropriately sized rock</source>
+        <target state="translated">Something extremely simple like tying a rope or finding an appropriately sized rock</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11bee7042c1535a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A few minutes at most</source>
+        <target state="translated">A few minutes at most</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>1</source>
+        <target state="translated">1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f55c276efdd167f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Torch</source>
+        <target state="translated">Torch</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60c958b447f63a6b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Five minutes</source>
+        <target state="translated">Five minutes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>2</source>
+        <target state="translated">2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f024738c317dd277" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spear, simple shelter, piece of furniture</source>
+        <target state="translated">Spear, simple shelter, piece of furniture</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1eeab3776e281026" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One hour</source>
+        <target state="translated">One hour</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>3</source>
+        <target state="translated">3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="258dff31dbd7af34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bow, door, basic article of clothing</source>
+        <target state="translated">Bow, door, basic article of clothing</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="75431892d1eaf101" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One day</source>
+        <target state="translated">One day</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>4</source>
+        <target state="translated">4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c375938ca80ca2c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sword, chainmail vest</source>
+        <target state="translated">Sword, chainmail vest</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c486d2d0bab49980" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One to two days</source>
+        <target state="translated">One to two days</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>5</source>
+        <target state="translated">5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea67d08feecf4683" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Common technological item (electric light), nice piece of jewelry or art object</source>
+        <target state="translated">Common technological item (electric light), nice piece of jewelry or art object</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c441bf9f788f350" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One week</source>
+        <target state="translated">One week</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>6</source>
+        <target state="translated">6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="685b9f8314812459" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Technological item (watch, transmitter), really nice piece of jewelry or art object, elegant craftwork</source>
+        <target state="translated">Technological item (watch, transmitter), really nice piece of jewelry or art object, elegant craftwork</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23113012e9484455" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One month</source>
+        <target state="translated">One month</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>7</source>
+        <target state="translated">7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b79aab4d37c8156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Technological item (computer), major work of art</source>
+        <target state="translated">Technological item (computer), major work of art</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a36441c26677df0f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One year</source>
+        <target state="translated">One year</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>8</source>
+        <target state="translated">8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Technological item (something from beyond Earth)</source>
+        <target state="translated">Technological item (something from beyond Earth)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Many years</source>
+        <target state="translated">Many years</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="77ded408bee56fd1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>9</source>
+        <target state="translated">9</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>10</source>
+        <target state="translated">10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c7fb1e1cb5b43fde" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GUARDING</source>
+        <target state="translated">GUARDING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3f25b0575efd65db" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a combat situation, a character can stand guard as their action. They do not make attacks, but all their defense tasks are eased. Further, if an NPC tries to get by them or take an action that they are guarding against, the character can attempt an eased Speed action based on the level of the NPC. Success means the NPC is prevented from taking the action; the NPC’s action that turn is wasted. This is useful for blocking a doorway, guarding a friend, and so forth.</source>
+        <target state="translated">In a combat situation, a character can stand guard as their action. They do not make attacks, but all their defense tasks are eased. Further, if an NPC tries to get by them or take an action that they are guarding against, the character can attempt an eased Speed action based on the level of the NPC. Success means the NPC is prevented from taking the action; the NPC’s action that turn is wasted. This is useful for blocking a doorway, guarding a friend, and so forth.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c93b443bdc7230d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.</source>
+        <target state="translated">If an NPC is standing guard, use the same procedure, but to get past the guard, the PC attempts a hindered Speed action against the NPC. For example, Diana is an NPC human with a level 3 bodyguard. The bodyguard uses their action to guard Diana. If a PC wants to attack Diana, the PC first must succeed at a difficulty 4 Speed task to get past the guard. If the PC succeeds, they can make their attack normally.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d1945e8b7acc158" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>HEALING</source>
+        <target state="translated">HEALING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="963c0c1c049265cc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9.</source>
+        <target state="translated">You can administer aid through bandaging and other succor, attempting to heal each patient once per day. This healing restores points to a stat Pool of your choice. Decide how many points you want to heal, and then make an Intellect action with a difficulty equal to that number. For example, if you want to heal someone for 3 points, that’s a difficulty 3 task with a target number of 9.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17d007e993996a5e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>INTERACTING WITH CREATURES</source>
+        <target state="translated">INTERACTING WITH CREATURES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="67967c219e6f7dfd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.</source>
+        <target state="translated">The level of the creature determines the target number, just as with combat. Thus, bribing a guard works much like punching them or affecting them with an ability. This is true of persuading someone, intimidating someone, calming a wild beast, or anything of the kind. Interaction is an Intellect task. Interacting usually requires a common language or some other way to communicate. Learning new languages is the same as learning a new skill.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8556e6d54711cf63" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>JUMPING</source>
+        <target state="translated">JUMPING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="564317918f53362a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Decide how far you want to jump, and that sets the difficulty of your Might roll. For a standing jump, subtract 4 from the distance in feet to determine the difficulty of the jump. For example, jumping 10 feet (3 m) has a difficulty of 6.</source>
+        <target state="translated">Decide how far you want to jump, and that sets the difficulty of your Might roll. For a standing jump, subtract 4 from the distance in feet to determine the difficulty of the jump. For example, jumping 10 feet (3 m) has a difficulty of 6.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3741e85eea0c38a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you run an immediate distance before jumping, it counts as an asset, easing the jump.</source>
+        <target state="translated">If you run an immediate distance before jumping, it counts as an asset, easing the jump.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7d7be402ca585c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you run a short distance before jumping, divide the jump distance (in feet) by 2 and then subtract 4 to determine the difficulty of the jump. Because you’re running an immediate distance (and then some), you also count your running as an asset. For example, jumping a distance of 20 feet (6 m) with a short running start has a difficulty of 5 (20 feet divided by 2 is 10, minus 4 is 6, minus 1 for running an immediate distance).</source>
+        <target state="translated">If you run a short distance before jumping, divide the jump distance (in feet) by 2 and then subtract 4 to determine the difficulty of the jump. Because you’re running an immediate distance (and then some), you also count your running as an asset. For example, jumping a distance of 20 feet (6 m) with a short running start has a difficulty of 5 (20 feet divided by 2 is 10, minus 4 is 6, minus 1 for running an immediate distance).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f385a5c0bbc33bb0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For a vertical jump, the distance you clear (in feet) is equal to the difficulty of the jumping task. If you run an immediate distance, it counts as an asset, easing the jump.</source>
+        <target state="translated">For a vertical jump, the distance you clear (in feet) is equal to the difficulty of the jumping task. If you run an immediate distance, it counts as an asset, easing the jump.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac1f1434085b1f62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(There’s nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines.)</source>
+        <target state="translated">(There’s nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b02c20b5e912e735" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>LOOKING OR LISTENING</source>
+        <target state="translated">LOOKING OR LISTENING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0f2eccd86ce161f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Generally, the GM will describe any sight or sound that’s not purposefully difficult to detect. But if you want to look for a hidden enemy, search for a secret panel, or listen for someone sneaking up on you, make an Intellect roll. If it’s a creature, its level determines the difficulty of your roll. If it’s something else, the GM determines the difficulty of your roll.</source>
+        <target state="translated">Generally, the GM will describe any sight or sound that’s not purposefully difficult to detect. But if you want to look for a hidden enemy, search for a secret panel, or listen for someone sneaking up on you, make an Intellect roll. If it’s a creature, its level determines the difficulty of your roll. If it’s something else, the GM determines the difficulty of your roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5727b45a03ba1588" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>MOVING A HEAVY OBJECT</source>
+        <target state="translated">MOVING A HEAVY OBJECT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="05c3ea791250b4a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can push or pull something very heavy and move it an immediate distance as your action.</source>
+        <target state="translated">You can push or pull something very heavy and move it an immediate distance as your action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fde1eb5ccdf9580e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.</source>
+        <target state="translated">The weight of the object determines the difficulty of the Might roll to move it; every 50 pounds (23 kg) hinders the task by one step. So moving something that weighs 150 pounds (68 kg) is difficulty 3, and moving something that weighs 400 pounds (180 kg) is difficulty 8. If you can ease the task to 0, you can move a heavy object up to a short distance as your action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="917597b35cd4f446" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>OPERATING OR DISABLING A DEVICE, OR PICKING A LOCK</source>
+        <target state="translated">OPERATING OR DISABLING A DEVICE, OR PICKING A LOCK</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25815fe1d063c6d2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.</source>
+        <target state="translated">As with figuring out a device, the level of the device usually determines the difficulty of the Intellect roll. Unless a device is very complex, the GM will often rule that once you figure it out, no roll is needed to operate it except under special circumstances. So if the PCs figure out how to use a hovercraft, they can operate it. If they are attacked, they might need to roll to ensure that they don’t crash the vehicle into a wall while trying to avoid being hit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe67e3d5dda37986" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who _is_ attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)</source>
+        <target state="translated">Unlike operating a device, disabling a device or picking a lock usually require rolls. These actions often involve special tools and assume that the character is not trying to destroy the device or lock. (A PC who _is_ attempting to destroy it probably should make a Might roll to smash it rather than a Speed or Intellect roll requiring patience and know-how.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a7930debc4f318f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>RIDING OR PILOTING</source>
+        <target state="translated">RIDING OR PILOTING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8834960b1a7b6f43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.</source>
+        <target state="translated">If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee9284ca40dc82b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>RIDING OR PILOTING Difficulty</source>
+        <target state="translated">RIDING OR PILOTING Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficulty</source>
+        <target state="translated">Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="75bd0fce4c1d8f81" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Maneuver</source>
+        <target state="translated">Maneuver</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>0</source>
+        <target state="translated">0</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73bd1b1e4e2a44f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Riding</source>
+        <target state="translated">Riding</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>1</source>
+        <target state="translated">1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b5704746d11455b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Staying on the mount (including a motorcycle or similar vehicle) in a battle or other difficult situation</source>
+        <target state="translated">Staying on the mount (including a motorcycle or similar vehicle) in a battle or other difficult situation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>3</source>
+        <target state="translated">3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5479bf30b8e60049" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Staying on a mount (including a motorcycle or similar vehicle) when you take damage</source>
+        <target state="translated">Staying on a mount (including a motorcycle or similar vehicle) when you take damage</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>4</source>
+        <target state="translated">4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="809e86b8c6f0e52f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mounting a moving steed</source>
+        <target state="translated">Mounting a moving steed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95050933f344bbfb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Making an abrupt turn with a vehicle while moving fast</source>
+        <target state="translated">Making an abrupt turn with a vehicle while moving fast</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="98f6e4597ef511fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Getting a vehicle to move twice as fast as normal for one round</source>
+        <target state="translated">Getting a vehicle to move twice as fast as normal for one round</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":156" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>5</source>
+        <target state="translated">5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c7d8fb20e3887d13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Coaxing a mount to move or jump twice as fast or far as normal for one round</source>
+        <target state="translated">Coaxing a mount to move or jump twice as fast or far as normal for one round</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e87d0fadb973049c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Making a long jump with a vehicle not intended to go airborne (like a car) and remaining in control</source>
+        <target state="translated">Making a long jump with a vehicle not intended to go airborne (like a car) and remaining in control</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="78d56e8f5ea6bdaa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SNEAKING</source>
+        <target state="translated">SNEAKING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2374f031774a86e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.</source>
+        <target state="translated">The difficulty of sneaking by a creature is determined by its level. Sneaking is a Speed roll. Moving at half speed eases the sneaking task. Appropriate camouflage or other gear may count as an asset and ease the task, as will dim lighting conditions and having plenty of things to hide behind.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ab4ecc9e9afc0f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SWIMMING</source>
+        <target state="translated">SWIMMING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d98d6f02456947a1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.</source>
+        <target state="translated">If you’re simply swimming from one place to another, such as across a calm river or lake, use the standard movement rules, noting the fact that your character is in deep water. However, sometimes, special circumstances require a Might roll to make progress while swimming, such as when trying to avoid a current or being dragged into a whirlpool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5be727e5003089d1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>UNDERSTANDING, IDENTIFYING, OR REMEMBERING</source>
+        <target state="translated">UNDERSTANDING, IDENTIFYING, OR REMEMBERING</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2573bf47fe944a87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.</source>
+        <target state="translated">When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficulty</source>
+        <target state="translated">Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a9e19051562c5c08" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Knowledge</source>
+        <target state="translated">Knowledge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>0</source>
+        <target state="translated">0</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16d42aa5128f0633" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Common knowledge</source>
+        <target state="translated">Common knowledge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>1</source>
+        <target state="translated">1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a465037d94cb96ba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Simple knowledge</source>
+        <target state="translated">Simple knowledge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>3</source>
+        <target state="translated">3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0f314a9e3125628b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Something a scholar probably knows</source>
+        <target state="translated">Something a scholar probably knows</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>5</source>
+        <target state="translated">5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e794cdde81c66d33" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Something even a scholar might not know</source>
+        <target state="translated">Something even a scholar might not know</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>7</source>
+        <target state="translated">7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfa4311881c7bd79" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Knowledge very few people possess</source>
+        <target state="translated">Knowledge very few people possess</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":179" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>10</source>
+        <target state="translated">10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7befaf2db560a556" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Completely lost knowledge</source>
+        <target state="translated">Completely lost knowledge</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25c6d75e92ae6fff" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>VEHICULAR MOVEMENT</source>
+        <target state="translated">VEHICULAR MOVEMENT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">188</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="80a10402d02c49b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.</source>
+        <target state="translated">Vehicles move just like creatures. Each has a movement rate, which indicates how far it can move in a round. Most vehicles require a driver, and when moving, they usually require that the driver spends every action controlling the movement. This is a routine task that rarely requires a roll. Any round not spent driving the vehicle hinders the task in the next round and precludes any change in speed or direction. In other words, driving down the road normally is difficulty 0. Spending an action to retrieve a backpack from the back seat means that in the following round, the driver must attempt a difficulty 1 task. If they instead use their action to pull a handgun from the backpack, in the next round the difficulty to drive will be 2, and so on. Failure results are based on the situation but might involve a collision or something similar.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2eb29626b04b48f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a vehicular chase, drivers attempt Speed actions just like in a regular chase, but the task may be based either on the level of the driver (modified by the level and movement rate of the vehicle) or on the level of the vehicle (modified by the level of the driver). So if a PC driving a typical car is chasing a level 3 NPC driving a level 5 sports car, the PC would make three chase rolls with a difficulty of 5. If the PC’s car is a souped-up custom vehicle, it might grant the PC an asset in the chase. If the PC is not in a car at all, but riding a bicycle, it might hinder the chase rolls by two or three steps, or the GM might simply rule that it’s impossible.</source>
+        <target state="translated">In a vehicular chase, drivers attempt Speed actions just like in a regular chase, but the task may be based either on the level of the driver (modified by the level and movement rate of the vehicle) or on the level of the vehicle (modified by the level of the driver). So if a PC driving a typical car is chasing a level 3 NPC driving a level 5 sports car, the PC would make three chase rolls with a difficulty of 5. If the PC’s car is a souped-up custom vehicle, it might grant the PC an asset in the chase. If the PC is not in a car at all, but riding a bicycle, it might hinder the chase rolls by two or three steps, or the GM might simply rule that it’s impossible.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">192</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd4e8ea78d0db7ae" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>VEHICULAR COMBAT</source>
+        <target state="translated">VEHICULAR COMBAT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abdcc2924acb1d9a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Much of the time, a fight between foes in cars, boats, or other vehicles is just like any other combat situation. The combatants probably have cover and are moving fast. Attacks to disable a vehicle or a portion of it are based on the level of the vehicle. If the vehicle is an armored car or a tank, all attacks are likely aimed at the vehicle, which has a level and probably an appropriate Armor rating, not unlike a creature.</source>
+        <target state="translated">Much of the time, a fight between foes in cars, boats, or other vehicles is just like any other combat situation. The combatants probably have cover and are moving fast. Attacks to disable a vehicle or a portion of it are based on the level of the vehicle. If the vehicle is an armored car or a tank, all attacks are likely aimed at the vehicle, which has a level and probably an appropriate Armor rating, not unlike a creature.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f07929577b8f2b74" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The only time this isn’t true is with battles where only vehicles and not characters are involved. Thus, if the PCs are in a shootout with bank robbers and both groups are in cars, use the standard rules. However, battles between starships of various kinds—from gigantic capital ships to single-pilot fighters—are a frequent occurrence in far-future science fiction settings. A submarine battle between two deep sea craft could be quite exciting. Characters in a modern-day game might find themselves in a tank fight. If PCs are involved in combat in which they are entirely enclosed in vehicles (so that it’s not really the characters fighting, but the vehicles), use the following quick and easy guidelines.</source>
+        <target state="translated">The only time this isn’t true is with battles where only vehicles and not characters are involved. Thus, if the PCs are in a shootout with bank robbers and both groups are in cars, use the standard rules. However, battles between starships of various kinds—from gigantic capital ships to single-pilot fighters—are a frequent occurrence in far-future science fiction settings. A submarine battle between two deep sea craft could be quite exciting. Characters in a modern-day game might find themselves in a tank fight. If PCs are involved in combat in which they are entirely enclosed in vehicles (so that it’s not really the characters fighting, but the vehicles), use the following quick and easy guidelines.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef59aed806a40f7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>On this scale, combat between vehicles isn’t like traditional combat. Don’t worry about health, Armor, or anything like that. Instead, just compare the levels of the vehicles involved. If the PCs’ vehicle has the higher level, the difference in levels is how many steps the PCs’ attack and defense rolls are eased. If the PCs’ vehicle has the lower level, their rolls are hindered. If the levels are the same, there is no modification.</source>
+        <target state="translated">On this scale, combat between vehicles isn’t like traditional combat. Don’t worry about health, Armor, or anything like that. Instead, just compare the levels of the vehicles involved. If the PCs’ vehicle has the higher level, the difference in levels is how many steps the PCs’ attack and defense rolls are eased. If the PCs’ vehicle has the lower level, their rolls are hindered. If the levels are the same, there is no modification.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b510ea31374d012" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>These attack and defense rolls are modified by skill and Effort, as usual. Some vehicles also have superior weapons, which ease the attack (since there is no “damage” amount to worry about), but this circumstance is probably uncommon in this abstract system and should not affect the difficulty by more than one or maybe two steps. Further, if two vehicles coordinate their attack against one vehicle, the attack is eased. If three or more vehicles coordinate, the attack is eased by two steps.</source>
+        <target state="translated">These attack and defense rolls are modified by skill and Effort, as usual. Some vehicles also have superior weapons, which ease the attack (since there is no “damage” amount to worry about), but this circumstance is probably uncommon in this abstract system and should not affect the difficulty by more than one or maybe two steps. Further, if two vehicles coordinate their attack against one vehicle, the attack is eased. If three or more vehicles coordinate, the attack is eased by two steps.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f896246576595454" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The attacker must try to target a specific system on or portion of an enemy vehicle. This hinders the attack based on the system or portion targeted.</source>
+        <target state="translated">The attacker must try to target a specific system on or portion of an enemy vehicle. This hinders the attack based on the system or portion targeted.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0fa422bbf8b38bfe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>That’s a lot of modifications. But it’s not really that hard. Let’s look at an example of a space battle. A PC in a small level 2 fighter attacks a level 4 frigate. Since the frigate is level 4, the difficulty of the attack starts at 4. But the attacking craft is weaker than the defender, so the attack is hindered equal to the difference in their levels (2). The fighter pilot must make a difficulty 6 attack on the frigate. However, the fighter is trying to swoop in and damage the frigate’s drive, which hinders the attack by another three steps, for a total difficulty of 9. If the fighter pilot is trained in space combat, they reduce the difficulty to 8, but it’s still impossible without help. So let’s say that two other PCs—also in level 2 fighters—join in and coordinate their attack. Three ships coordinating an attack on one target eases the task by two steps, resulting in a final difficulty of 6. Still, the attacking PC would be wise to use Effort.</source>
+        <target state="translated">That’s a lot of modifications. But it’s not really that hard. Let’s look at an example of a space battle. A PC in a small level 2 fighter attacks a level 4 frigate. Since the frigate is level 4, the difficulty of the attack starts at 4. But the attacking craft is weaker than the defender, so the attack is hindered equal to the difference in their levels (2). The fighter pilot must make a difficulty 6 attack on the frigate. However, the fighter is trying to swoop in and damage the frigate’s drive, which hinders the attack by another three steps, for a total difficulty of 9. If the fighter pilot is trained in space combat, they reduce the difficulty to 8, but it’s still impossible without help. So let’s say that two other PCs—also in level 2 fighters—join in and coordinate their attack. Three ships coordinating an attack on one target eases the task by two steps, resulting in a final difficulty of 6. Still, the attacking PC would be wise to use Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b834f983f954c4a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Then the frigate retaliates, and the PC needs to make a defense roll. The level difference between the ships (2) means the PC’s defense is hindered by two steps, so the difficulty of the PC’s defense roll starts out at 6. But the frigate tries to take out the fighter’s weapons, hindering their attack (easing the PC’s defense) by two steps. Thus, the PC needs to succeed at a difficulty 4 task or lose their main weapons systems.</source>
+        <target state="translated">Then the frigate retaliates, and the PC needs to make a defense roll. The level difference between the ships (2) means the PC’s defense is hindered by two steps, so the difficulty of the PC’s defense roll starts out at 6. But the frigate tries to take out the fighter’s weapons, hindering their attack (easing the PC’s defense) by two steps. Thus, the PC needs to succeed at a difficulty 4 task or lose their main weapons systems.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d21c6d6a69d6a897" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s important to remember that a failed attack doesn’t always mean a miss. The target ship might rock and reel from the hit, but the bulk of the damage was absorbed by the shields, so there’s no significant damage.</source>
+        <target state="translated">It’s important to remember that a failed attack doesn’t always mean a miss. The target ship might rock and reel from the hit, but the bulk of the damage was absorbed by the shields, so there’s no significant damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">210</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="153c010f58840b2a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they’re trying to defend.</source>
+        <target state="translated">This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they’re trying to defend.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35abcce8269a4d50" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(During a vehicular battle, particularly a space battle, there’s a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they’re all flavor, so they’re represented in the rules generally, rather than specifically.)</source>
+        <target state="translated">(During a vehicular battle, particularly a space battle, there’s a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they’re all flavor, so they’re represented in the rules generally, rather than specifically.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96f8990e86d558c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(For more details about vehicles, refer to the Genre chapter.)</source>
+        <target state="translated">(For more details about vehicles, refer to the Genre chapter.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69e909b7f99c4e03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.)</source>
+        <target state="translated">(Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="87a67fd3a5ca2ea8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Natural Crafter #Ability #CraftAbility #MetaAbility #Low #Core</source>
+        <target state="translated">Natural Crafter #Ability #CraftAbility #MetaAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3425740fa33500d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>All commonplace objects or structures you craft are effectively one level higher than an average example of that object or structure. For instance, if you craft a defensive wall that would normally be level 4, its effective level is 5.</source>
+        <target state="translated">All commonplace objects or structures you craft are effectively one level higher than an average example of that object or structure. For instance, if you craft a defensive wall that would normally be level 4, its effective level is 5.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

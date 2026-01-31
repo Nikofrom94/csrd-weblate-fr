@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8319aff6e604af09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Augment Cypher (2+ Intellect points) #Ability #MetaAbility #Low #Core</source>
+        <target state="translated">Augment Cypher (2+ Intellect points) #Ability #MetaAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c885adae61c58ad0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you activate a cypher, add +1 to its level. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher by an additional +1 (per level of Effort applied). You can’t increase the cypher’s level above 10.</source>
+        <target state="translated">When you activate a cypher, add +1 to its level. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher by an additional +1 (per level of Effort applied). You can’t increase the cypher’s level above 10.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

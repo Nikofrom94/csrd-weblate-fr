@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4b40157a125f2074" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Go Defensive (1 Intellect point) #Ability #ProtectionAbility #Low #Core</source>
+        <target state="translated">Go Defensive (1 Intellect point) #Ability #ProtectionAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="433adcdb042deff9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you wish, while in combat, you can enter a state of heightened awareness of threat. While in this state, you can’t use points from your Intellect Pool, but you gain +1 to your Speed Edge and gain two assets to Speed defense tasks. This effect lasts as long as you wish or until you attack a foe or no combat is taking place within range of your senses. Once the effect of this ability ends, you can’t enter it again for one minute.</source>
+        <target state="translated">When you wish, while in combat, you can enter a state of heightened awareness of threat. While in this state, you can’t use points from your Intellect Pool, but you gain +1 to your Speed Edge and gain two assets to Speed defense tasks. This effect lasts as long as you wish or until you attack a foe or no combat is taking place within range of your senses. Once the effect of this ability ends, you can’t enter it again for one minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

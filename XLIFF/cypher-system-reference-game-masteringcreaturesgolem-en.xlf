@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9e2d79da0fad6f92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GOLEM #lvl6 (18) #Creature #Core #Fantasy</source>
+        <target state="translated">GOLEM #lvl6 (18) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3bfc7eb0489f270" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Animate creatures of stone created by magic for a specific purpose, golems usually serve as guardians. However, they may also serve as soldiers, couriers, and banner-bearers. Golems that have accomplished their task may spend years without moving, like statuary posed in unexpected places—stained, eroded, and forlorn. But if disturbed, a golem rumbles back to movement and attempts to restart the last task assigned to it by its maker.</source>
+        <target state="translated">Animate creatures of stone created by magic for a specific purpose, golems usually serve as guardians. However, they may also serve as soldiers, couriers, and banner-bearers. Golems that have accomplished their task may spend years without moving, like statuary posed in unexpected places—stained, eroded, and forlorn. But if disturbed, a golem rumbles back to movement and attempts to restart the last task assigned to it by its maker.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28d11b6603abc80a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Seeks to fulfill the commands of its creator</source>
+        <target state="translated">Motive: Seeks to fulfill the commands of its creator</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb6da0a589990967" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere that needs a sturdy magical guardian</source>
+        <target state="translated">Environment: Anywhere that needs a sturdy magical guardian</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7702745d281c3dea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 30</source>
+        <target state="translated">Health: 30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0a9892b45e2c32c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 8 points</source>
+        <target state="translated">Damage Inflicted: 8 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e54e268d6c170603" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 5</source>
+        <target state="translated">Armor: 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d59ad5383e1d55db" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Intellect defense as level 2; Speed defense as level 4 due to slowness</source>
+        <target state="translated">Modifications: Intellect defense as level 2; Speed defense as level 4 due to slowness</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aa0842172a3c74ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Skilled with large two-handed weapons, golems inflict 2 additional points of damage (total of 8 points) when using them. Golems cannot be stunned or dazed. They are immune to most poisons and disease, and 2 of their 5 points of Armor protect against ambient damage (environmental damage, heat, cold, falling, and so on).</source>
+        <target state="translated">Combat: Skilled with large two-handed weapons, golems inflict 2 additional points of damage (total of 8 points) when using them. Golems cannot be stunned or dazed. They are immune to most poisons and disease, and 2 of their 5 points of Armor protect against ambient damage (environmental damage, heat, cold, falling, and so on).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2b2bf89e00c6345" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>On the other hand, golems are activated by light, even light as dim as a candle. In complete darkness, a golem is blind and suffers penalties to attack and defend normally. A golem subject to complete darkness may choose to freeze in place like a statue. When one does so, its Armor increases to 10 (and Armor against ambient damage increases to 5), but it can take no actions, including purely mental actions. Unless something can damage the golem through its Armor, it remains frozen indefinitely or until light returns.</source>
+        <target state="translated">On the other hand, golems are activated by light, even light as dim as a candle. In complete darkness, a golem is blind and suffers penalties to attack and defend normally. A golem subject to complete darkness may choose to freeze in place like a statue. When one does so, its Armor increases to 10 (and Armor against ambient damage increases to 5), but it can take no actions, including purely mental actions. Unless something can damage the golem through its Armor, it remains frozen indefinitely or until light returns.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0e553fbf7bc6a7a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Even if a golem is completely destroyed, the rubble of its form slowly reassembles over the course of three days, unless that rubble is ground to the finest gravel and spread widely.</source>
+        <target state="translated">Even if a golem is completely destroyed, the rubble of its form slowly reassembles over the course of three days, unless that rubble is ground to the finest gravel and spread widely.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a6940cad385d767" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Most golems can’t speak. Those that can are mournful, and a few have become cruel in their isolation, but at heart, all are lonely. Many are also tired of their stone existence, in which they can move but not really feel, and they wish for some sort of final end.</source>
+        <target state="translated">Interaction: Most golems can’t speak. Those that can are mournful, and a few have become cruel in their isolation, but at heart, all are lonely. Many are also tired of their stone existence, in which they can move but not really feel, and they wish for some sort of final end.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="182d97e6cb281bb8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: Powerful sorcerers sometimes create golems and press them into service with yet more spells. These golems prove to be tough bodyguards, but sometimes the futility of such service overcomes a golem and it turns on the sorcerer, breaking free of the binding spells in its rage over being denied the peace of death.</source>
+        <target state="translated">Use: Powerful sorcerers sometimes create golems and press them into service with yet more spells. These golems prove to be tough bodyguards, but sometimes the futility of such service overcomes a golem and it turns on the sorcerer, breaking free of the binding spells in its rage over being denied the peace of death.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="312079c9c36d132f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The character hit by the golem is also grabbed and headbutted for 6 additional points of damage. The victim must break or slip free, or else they remain in the golem’s grip.</source>
+        <target state="translated">GM intrusion: The character hit by the golem is also grabbed and headbutted for 6 additional points of damage. The victim must break or slip free, or else they remain in the golem’s grip.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

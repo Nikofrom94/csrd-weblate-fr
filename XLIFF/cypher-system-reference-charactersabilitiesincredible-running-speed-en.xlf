@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a19e793b2090a103" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Incredible Running Speed #Ability #MovementAbility #High #Core</source>
+        <target state="translated">Incredible Running Speed #Ability #MovementAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16098a9805064e1a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You move much farther than normal in a round. This means as a part of another action, you can move up to a long distance. As an action, you can move up to 200 feet (60 m), or up to 500 feet (150 m) as a Speed-based task with a difficulty of 4.</source>
+        <target state="translated">You move much farther than normal in a round. This means as a part of another action, you can move up to a long distance. As an action, you can move up to 200 feet (60 m), or up to 500 feet (150 m) as a Speed-based task with a difficulty of 4.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

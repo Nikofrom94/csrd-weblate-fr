@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="c79032f4d90a2de2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Bears a Halo of Fire #Focus #EnergyFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f084e801313e6c7" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can sheath your body in flames, which protects you and harms your foes.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="56741978cbbce384" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Shroud of Flame]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e4575dfe48a045d4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Hurl Flame]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="85235ec44b532a06" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Wings of Fire]{1} or [Fiery Hand of Doom]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="74d9e5bae1ce67df" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Flameblade]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7a7a9d3a6eb7659" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Fire Tendrils]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="20d1c8f5fbce2722" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Fire Servant]{1} or [Inferno Trail]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9632f4dab96c3a91" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Fire burns flammable material. Fire spreads out of control. Primitive creatures fear fire and often attack what they fear.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

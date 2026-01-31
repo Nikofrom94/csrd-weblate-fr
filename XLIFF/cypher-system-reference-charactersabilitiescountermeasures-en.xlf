@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="32836c6cb11d1fec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Countermeasures (4 Intellect points) #Ability #ProtectionAbility #Mid #Core</source>
+        <target state="translated">Countermeasures (4 Intellect points) #Ability #ProtectionAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f457bb09839be218" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You immediately end one ongoing effect (such as an effect created by a character ability) within immediate range. Alternatively, you can use this as a defense action to cancel any incoming ability targeted at you, or you can cancel any device or the effect of any device for 1d6 rounds. You must touch the effect or device to cancel it.</source>
+        <target state="translated">You immediately end one ongoing effect (such as an effect created by a character ability) within immediate range. Alternatively, you can use this as a defense action to cancel any incoming ability targeted at you, or you can cancel any device or the effect of any device for 1d6 rounds. You must touch the effect or device to cancel it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

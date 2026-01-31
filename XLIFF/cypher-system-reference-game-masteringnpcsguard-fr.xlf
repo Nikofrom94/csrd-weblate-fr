@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="500263e6150b07d3" weblate-flags="md-text, safe-html, strict-same">
+        <source>GUARD #lvl2 (6) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3c601f3aafa15e04" weblate-flags="md-text, safe-html, strict-same">
+        <source>Guards keep the peace but don’t usually show much initiative. Ultimately, they do as they’re ordered by their superiors, regardless of legality. A guard might be a star trooper dressed in intimidating armor, a mall security guard, a beat police officer, or a mafia goon.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86cf04c82445a4c5" weblate-flags="md-text, safe-html, strict-same">
+        <source>(When attacked, guards always call for the help of other guards, if possible.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dbcd246f5b54d54f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Keep the peace; follow orders</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0c7555022903464" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 8</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="04d2a5112eb75996" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 3 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b6f5d889d869d0a2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1 or 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="673d7a12abbf556e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception as level 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="347d38285f6046b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Guards are not often wily, but they understand strength in numbers. If two or more guards attack the same target with at least one melee attack in the same round, the target’s Speed defense roll against those attacks is hindered.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c2eaab3e70c802a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Interacting with a guard typically involves one issue: does the PC want to do something that the guard has been told to prevent? If so, the PC could have a difficult time.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4c83923e7d10fc62" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: To the PCs, guards can be allies, obstacles, or both. Guards who serve the public good have their own duties and aren’t interested in doing the characters’ work for them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="569d6c39302bd509" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: A guard has currency equivalent to an inexpensive item in addition to weapons, armor, and basic gear.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bdfd391469584160" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: 1d6 local citizens intervene on the guard’s behalf, calling for more guards or even fighting the guard’s foes.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

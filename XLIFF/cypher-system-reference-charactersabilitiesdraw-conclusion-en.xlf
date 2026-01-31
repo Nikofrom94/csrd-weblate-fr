@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="8403f0a00a9f77a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Draw Conclusion (3 Intellect points) #Ability #InformationAbility #Mid #Core</source>
+        <target state="translated">Draw Conclusion (3 Intellect points) #Ability #InformationAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fc8efaef84c7a0c4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>After careful observation and investigation (questioning one or more NPCs on a topic, searching an area or a file, and so on) lasting a few minutes, you can learn a pertinent fact. This ability is a difficulty 3 Intellect task. Each additional time you use this ability, the task is hindered by an additional step. The difficulty returns to 3 after you rest for ten hours.</source>
+        <target state="translated">After careful observation and investigation (questioning one or more NPCs on a topic, searching an area or a file, and so on) lasting a few minutes, you can learn a pertinent fact. This ability is a difficulty 3 Intellect task. Each additional time you use this ability, the task is hindered by an additional step. The difficulty returns to 3 after you rest for ten hours.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

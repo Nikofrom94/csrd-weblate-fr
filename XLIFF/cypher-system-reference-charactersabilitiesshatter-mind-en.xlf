@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4df3f772b6d1d29c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shatter Mind (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core</source>
+        <target state="translated">Shatter Mind (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3170e98884cdf621" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your words reverberate destructively in the brain of an intelligent level 1 target within short range that can hear and understand you. They destroy tissue, memories, and personality, triggering a vegetative state. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to shatter the mind of a level 5 target (four levels above the normal limit), you must apply four levels of Effort.</source>
+        <target state="translated">Your words reverberate destructively in the brain of an intelligent level 1 target within short range that can hear and understand you. They destroy tissue, memories, and personality, triggering a vegetative state. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to shatter the mind of a level 5 target (four levels above the normal limit), you must apply four levels of Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="137cdac8ab16a6f6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(The vegetative state created by Shatter Mind can be healed by advanced magic or science, or by a condition remover cypher that cures psychosis.)</source>
+        <target state="translated">(The vegetative state created by Shatter Mind can be healed by advanced magic or science, or by a condition remover cypher that cures psychosis.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="46b21f3c9e3b726a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tree Companion (5+ Intellect points) #Ability #Core #Fantasy</source>
+        <target state="translated">Tree Companion (5+ Intellect points) #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81e08ced55a893ce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You animate a tree of approximately your size or smaller, creating a level 3 creature with 1 Armor. The tree follows your verbal commands for one hour, after which it reverts to a normal tree (and roots itself where it stands). Unless the tree is killed by damage, you can animate it again when the ability duration expires, but any damage it has carries over to its newly animated state. In addition to the normal options for using Effort, you can choose to use Effort to affect more trees; each level of Effort used affects one additional tree.</source>
+        <target state="translated">You animate a tree of approximately your size or smaller, creating a level 3 creature with 1 Armor. The tree follows your verbal commands for one hour, after which it reverts to a normal tree (and roots itself where it stands). Unless the tree is killed by damage, you can animate it again when the ability duration expires, but any damage it has carries over to its newly animated state. In addition to the normal options for using Effort, you can choose to use Effort to affect more trees; each level of Effort used affects one additional tree.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

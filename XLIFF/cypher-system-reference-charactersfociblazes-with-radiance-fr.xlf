@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="2de3166a1668bd19" weblate-flags="md-text, safe-html, strict-same">
+        <source>Blazes With Radiance #Focus #EnvironmentFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3470d8914594e35d" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a9124e2975e5ba53" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Enlightened]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4f72f12a9f91fce0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Illuminating Touch]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="da681c34a819ead8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Dazzling Sunburst]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="be5d69bfef7dd199" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Burning Light]{1} or [Skill With Defense]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="100687c82e5b9211" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [[Sunlight]]</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a90425976e82e9b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Disappear]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="63bf7ac17922a13d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Living Light]{1} or [Defensive Field]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a3d9d2a57e1e05e" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Allies are accidentally dazzled or blinded. Bright flashes draw guards.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

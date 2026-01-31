@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="fc0376193357a85e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Setting Difficulty Ratings</source>
+        <target state="translated">Setting Difficulty Ratings</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f473afb0e6d3f00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM’s most important overall tasks are setting the stage and guiding the story created by the group (not the one created by the GM ahead of time). But setting difficulty is the most important mechanical task the GM has in the game. Although there are suggestions throughout this chapter for various difficulty ratings for certain actions, there is no master list of the difficulty for every action a PC can take. Instead, the Cypher System is designed with the “teach a person to fish” style of good game mastering in mind. (If you don’t know what that means, it comes from the old adage “Give a person a fish and they’ll eat for a day. Teach a person to fish and they’ll eat for a lifetime.” The idea is not to give GMs a ton of rules to memorize or reference, but to teach them how to make their own logical judgment calls.) Of course, most of the time, it’s not a matter of exact precision. If you say the difficulty is 3 and it “should” have been 4, the world’s not over.</source>
+        <target state="translated">The GM’s most important overall tasks are setting the stage and guiding the story created by the group (not the one created by the GM ahead of time). But setting difficulty is the most important mechanical task the GM has in the game. Although there are suggestions throughout this chapter for various difficulty ratings for certain actions, there is no master list of the difficulty for every action a PC can take. Instead, the Cypher System is designed with the “teach a person to fish” style of good game mastering in mind. (If you don’t know what that means, it comes from the old adage “Give a person a fish and they’ll eat for a day. Teach a person to fish and they’ll eat for a lifetime.” The idea is not to give GMs a ton of rules to memorize or reference, but to teach them how to make their own logical judgment calls.) Of course, most of the time, it’s not a matter of exact precision. If you say the difficulty is 3 and it “should” have been 4, the world’s not over.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7654dcc1d55fd9a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For the most part, it really is as simple as rating something on a scale of 1 to 10, 1 being incredibly easy and 10 being basically impossible. The guidelines in the Task Difficulty table should help put you in the right frame of mind for assigning difficulty to a task.</source>
+        <target state="translated">For the most part, it really is as simple as rating something on a scale of 1 to 10, 1 being incredibly easy and 10 being basically impossible. The guidelines in the Task Difficulty table should help put you in the right frame of mind for assigning difficulty to a task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="de53b41cf8570e6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For example, we make the distinction between something that most people can do and something that trained people can do. In this case, “normal” means someone with absolutely no training, talent, or experience—imagine your ne’er-do-well, slightly overweight uncle trying a task he’s never tried before. “Trained” means the person has some level of instruction or experience but is not necessarily a professional.</source>
+        <target state="translated">For example, we make the distinction between something that most people can do and something that trained people can do. In this case, “normal” means someone with absolutely no training, talent, or experience—imagine your ne’er-do-well, slightly overweight uncle trying a task he’s never tried before. “Trained” means the person has some level of instruction or experience but is not necessarily a professional.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="30725c200b34e677" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>With that in mind, think about the act of balance. With enough focus, most people can walk across a narrow bridge (like a fallen tree trunk). That suggests it is difficulty 2. However, walking across a narrow plank that’s only 3 inches (8 cm) wide? That’s probably more like difficulty 3. Now consider walking across a tightrope. That’s probably difficulty 5—a normal person can manage that only with a great deal of luck. Someone with some training can give it a go, but it’s still hard. Of course, a professional acrobat can do it easily. Consider, however, that the professional acrobat is specialized in the task, making it difficulty 3 for them. They probably are using Effort as well during their performance.</source>
+        <target state="translated">With that in mind, think about the act of balance. With enough focus, most people can walk across a narrow bridge (like a fallen tree trunk). That suggests it is difficulty 2. However, walking across a narrow plank that’s only 3 inches (8 cm) wide? That’s probably more like difficulty 3. Now consider walking across a tightrope. That’s probably difficulty 5—a normal person can manage that only with a great deal of luck. Someone with some training can give it a go, but it’s still hard. Of course, a professional acrobat can do it easily. Consider, however, that the professional acrobat is specialized in the task, making it difficulty 3 for them. They probably are using Effort as well during their performance.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="314b7f56ee7eac3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Let’s try another task. This time, consider how hard it might be to remember the name of the previous leader of the village where the character lives. The difficulty might be 0 or 1, depending on how long ago they were the leader and how well known they were. Let’s say it was thirty years ago and they were only mildly memorable, so it’s difficulty 1. Most people remember them, and with a little bit of effort, anyone can come up with their name. Now let’s consider the name of the leader’s daughter. That’s much harder. Assuming the daughter wasn’t famous in her own right, it’s probably difficulty 4. Even people who know a little about local history (that is to say, people who are trained in the subject) might not be able to remember it. But what about the name of the pet dog owned by the daughter’s spouse? That’s probably impossible. Who’s going to remember the name of an obscure person’s pet from thirty years ago? Basically no one. However, it’s not forbidden knowledge or a well-guarded secret, so it sounds like difficulty 7. Difficulty 7 is the rating that means “No one can do this, yet some people still do.” It’s not the stuff of legend, but it’s something you would assume people can’t do. When you think there’s no way you can get tickets for a sold-out concert, but somehow your friend manages to score a couple anyway, that’s difficulty 7. (See the next section for more on difficulties 7, 8, 9, and 10.)</source>
+        <target state="translated">Let’s try another task. This time, consider how hard it might be to remember the name of the previous leader of the village where the character lives. The difficulty might be 0 or 1, depending on how long ago they were the leader and how well known they were. Let’s say it was thirty years ago and they were only mildly memorable, so it’s difficulty 1. Most people remember them, and with a little bit of effort, anyone can come up with their name. Now let’s consider the name of the leader’s daughter. That’s much harder. Assuming the daughter wasn’t famous in her own right, it’s probably difficulty 4. Even people who know a little about local history (that is to say, people who are trained in the subject) might not be able to remember it. But what about the name of the pet dog owned by the daughter’s spouse? That’s probably impossible. Who’s going to remember the name of an obscure person’s pet from thirty years ago? Basically no one. However, it’s not forbidden knowledge or a well-guarded secret, so it sounds like difficulty 7. Difficulty 7 is the rating that means “No one can do this, yet some people still do.” It’s not the stuff of legend, but it’s something you would assume people can’t do. When you think there’s no way you can get tickets for a sold-out concert, but somehow your friend manages to score a couple anyway, that’s difficulty 7. (See the next section for more on difficulties 7, 8, 9, and 10.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ad9fd3470ae0c9d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you’re talking about a task, ideally the difficulty shouldn’t be based on the character performing the task. Things don’t get inherently easier or harder depending on who is doing them. However, the truth is, the character does play into it as a judgment call. If the task is breaking down a wooden door, an 8-foot-tall (2 m) automaton made of metal with nuclear-driven motors should be better at breaking it down than an average human would be, but the task rating should be the same for both. Let’s say that the automaton’s nature effectively gives it two levels of training in such tasks. Thus, if the door has a difficulty rating of 4, but the automaton is specialized and reduces the difficulty to 2, it has a target number of 6. The human has no such specialization, so the difficulty remains 4, and the person has a target number of 12. However, when you set the difficulty of breaking down the door, don’t try to take all those differences into account. The GM should consider only the human because the Task Difficulty table is based on the ideal of a “normal” person, a “trained” person, and so on. It’s humanocentric.</source>
+        <target state="translated">If you’re talking about a task, ideally the difficulty shouldn’t be based on the character performing the task. Things don’t get inherently easier or harder depending on who is doing them. However, the truth is, the character does play into it as a judgment call. If the task is breaking down a wooden door, an 8-foot-tall (2 m) automaton made of metal with nuclear-driven motors should be better at breaking it down than an average human would be, but the task rating should be the same for both. Let’s say that the automaton’s nature effectively gives it two levels of training in such tasks. Thus, if the door has a difficulty rating of 4, but the automaton is specialized and reduces the difficulty to 2, it has a target number of 6. The human has no such specialization, so the difficulty remains 4, and the person has a target number of 12. However, when you set the difficulty of breaking down the door, don’t try to take all those differences into account. The GM should consider only the human because the Task Difficulty table is based on the ideal of a “normal” person, a “trained” person, and so on. It’s humanocentric.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e8b6fbaa9ca374af" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Most characters probably are willing to use one or two levels of Effort on a task, and they might have an appropriate skill or asset to decrease the difficulty by a step. That means that a difficulty 4 task will often be treated as difficulty 2 or even 1, and those are easy rolls to make. Don’t hesitate, then, to pull out higher-level difficulties. The PCs can rise to the challenge, especially if they are experienced.</source>
+        <target state="translated">Most characters probably are willing to use one or two levels of Effort on a task, and they might have an appropriate skill or asset to decrease the difficulty by a step. That means that a difficulty 4 task will often be treated as difficulty 2 or even 1, and those are easy rolls to make. Don’t hesitate, then, to pull out higher-level difficulties. The PCs can rise to the challenge, especially if they are experienced.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="604cca1e17b3194f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The Impossible Difficulties</source>
+        <target state="translated">The Impossible Difficulties</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a87bc4dda50e9bc6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficulties 7, 8, 9, and 10 are all technically impossible. Their target numbers are 21, 24, 27, and 30, and you can’t roll those numbers on a d20 no matter how many times you try. Consider, however, all the ways that a character can reduce difficulty. If someone spends a little Effort or has some skill or help, it brings difficulty 7 (target number 21) into the range of possibility—difficulty 6 (target number 18). Now consider that they have specialization, use a lot of Effort, and have help. That might bring the difficulty down to 1 or even 0 (reducing it by two steps from training and specialization, three or four steps from Effort, and one step from the asset of assistance). That practically impossible task just became routine. A fourth-tier character can and will do this—not every time, due to the cost, but perhaps once per game session. You have to be ready for that. A well-prepared, motivated
+sixth-tier character can do that even with a difficulty 10 task. Again, they won’t do it often (they’d have to apply six levels of Effort, and even with an Edge of 6 that would cost 7 points from their Pool, and that’s assuming they’re specialized and have two levels of assets), but it can happen if they’re really prepared for the task (being specialized and maxed out in asset opportunities reduces the difficulty by four more steps). That’s why sixth-tier characters are at the top of their field, so to speak.</source>
+        <target state="translated">Difficulties 7, 8, 9, and 10 are all technically impossible. Their target numbers are 21, 24, 27, and 30, and you can’t roll those numbers on a d20 no matter how many times you try. Consider, however, all the ways that a character can reduce difficulty. If someone spends a little Effort or has some skill or help, it brings difficulty 7 (target number 21) into the range of possibility—difficulty 6 (target number 18). Now consider that they have specialization, use a lot of Effort, and have help. That might bring the difficulty down to 1 or even 0 (reducing it by two steps from training and specialization, three or four steps from Effort, and one step from the asset of assistance). That practically impossible task just became routine. A fourth-tier character can and will do this—not every time, due to the cost, but perhaps once per game session. You have to be ready for that. A well-prepared, motivated
+sixth-tier character can do that even with a difficulty 10 task. Again, they won’t do it often (they’d have to apply six levels of Effort, and even with an Edge of 6 that would cost 7 points from their Pool, and that’s assuming they’re specialized and have two levels of assets), but it can happen if they’re really prepared for the task (being specialized and maxed out in asset opportunities reduces the difficulty by four more steps). That’s why sixth-tier characters are at the top of their field, so to speak.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="34a98cf9fbf2fc6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>False Precision</source>
+        <target state="translated">False Precision</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b74eb88dd3438b03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One way to look at difficulty is that each step of difficulty is worth 3 on the die. That is to say, hinder the task by one step, and the target number rises by 3. Ease the task by one step, and the target number is lowered by 3. Those kinds of changes are big, meaty chunks. Difficulty, as a game mechanic, is not terribly precise. It’s measured in large portions. You never have a target number of 13 or 14, for example—it’s always 3, 6, 9, 12, 15, and so on. (Technically, this is not true. If a character adds 1 to a d20 roll for some reason, it changes a target number of 15 to 14. But this is not worth much discussion.)</source>
+        <target state="translated">One way to look at difficulty is that each step of difficulty is worth 3 on the die. That is to say, hinder the task by one step, and the target number rises by 3. Ease the task by one step, and the target number is lowered by 3. Those kinds of changes are big, meaty chunks. Difficulty, as a game mechanic, is not terribly precise. It’s measured in large portions. You never have a target number of 13 or 14, for example—it’s always 3, 6, 9, 12, 15, and so on. (Technically, this is not true. If a character adds 1 to a d20 roll for some reason, it changes a target number of 15 to 14. But this is not worth much discussion.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6094196f66b091f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Imprecision is good in this case. It would be false precision to say that one lock has a target number of 14 and another has a target number of 15. What false precision means in this context is that it would be a delusion to think we can be that exact. Can you really say that one lock is 5% easier to pick than another? And more important, even if you could, is the difference worth noting? It’s better to interact with the world in larger, more meaningful chunks than to try to parse things so carefully. If we tried to rate everything on a scale of 1 to 30 (using target numbers and not difficulty), we’d start to get lost in the proverbial weeds coming up with a meaningful distinction between something rated as an 8 and something rated as a 9 on that scale.</source>
+        <target state="translated">Imprecision is good in this case. It would be false precision to say that one lock has a target number of 14 and another has a target number of 15. What false precision means in this context is that it would be a delusion to think we can be that exact. Can you really say that one lock is 5% easier to pick than another? And more important, even if you could, is the difference worth noting? It’s better to interact with the world in larger, more meaningful chunks than to try to parse things so carefully. If we tried to rate everything on a scale of 1 to 30 (using target numbers and not difficulty), we’d start to get lost in the proverbial weeds coming up with a meaningful distinction between something rated as an 8 and something rated as a 9 on that scale.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25da8aef402e189a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Routine Actions</source>
+        <target state="translated">Routine Actions</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be834f067be0ec16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Don’t hesitate to make actions routine. Don’t call for die rolls when they’re not really needed. Sometimes GMs fall into the trap illustrated by this dialogue:</source>
+        <target state="translated">Don’t hesitate to make actions routine. Don’t call for die rolls when they’re not really needed. Sometimes GMs fall into the trap illustrated by this dialogue:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bc85662ab2dcb11f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM: What do you do?</source>
+        <target state="translated">GM: What do you do?</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="243e35007d2cbe42" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Player: I _________.</source>
+        <target state="translated">Player: I _________.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b25fa707438c7985" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM: Okay, give me a roll.</source>
+        <target state="translated">GM: Okay, give me a roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd5b57fb80bf9388" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>That’s not a good instinct—at least, not for the Cypher System. Players should roll when it’s interesting or exciting. Otherwise, they should just do what they do. If the PCs tie a rope around something and use it to climb down into a pit, you could ask for tying rolls, climbing rolls, and so on, but why? Just to see if they roll terribly? So the rope can come undone at the wrong time, or a character’s hand can slip? Most of the time, that makes players feel inadequate and isn’t a lot of fun. A rope coming undone in the middle of an exciting chase scene or a battle can be a great complication (and that’s what GM intrusions are for). A rope coming undone in the middle of a simple “getting from point A to point B” scene only slows down gameplay. The real fun—the real story—is down in the pit. So get the PCs down there.</source>
+        <target state="translated">That’s not a good instinct—at least, not for the Cypher System. Players should roll when it’s interesting or exciting. Otherwise, they should just do what they do. If the PCs tie a rope around something and use it to climb down into a pit, you could ask for tying rolls, climbing rolls, and so on, but why? Just to see if they roll terribly? So the rope can come undone at the wrong time, or a character’s hand can slip? Most of the time, that makes players feel inadequate and isn’t a lot of fun. A rope coming undone in the middle of an exciting chase scene or a battle can be a great complication (and that’s what GM intrusions are for). A rope coming undone in the middle of a simple “getting from point A to point B” scene only slows down gameplay. The real fun—the real story—is down in the pit. So get the PCs down there.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cec06dbabc2f6cd9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There are a million exceptions to this guideline, of course. If creatures are throwing poisoned darts at the PCs while they climb, that might make things more interesting and require a roll. If the pit is filled with acid and the PCs must climb halfway down, pull a lever, and come back up, that’s a situation where you should set difficulty and perhaps have a roll. If a PC is near death, carrying a fragile item of great importance, or something similar, climbing down the rope is tense, and a roll might add to the excitement. The important difference is that these kinds of complications have real consequences.</source>
+        <target state="translated">There are a million exceptions to this guideline, of course. If creatures are throwing poisoned darts at the PCs while they climb, that might make things more interesting and require a roll. If the pit is filled with acid and the PCs must climb halfway down, pull a lever, and come back up, that’s a situation where you should set difficulty and perhaps have a roll. If a PC is near death, carrying a fragile item of great importance, or something similar, climbing down the rope is tense, and a roll might add to the excitement. The important difference is that these kinds of complications have real consequences.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cb09028fa77215de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>On the flip side, don’t be afraid to use GM intrusion on routine actions if it makes things more interesting. Walking up to the king in his audience chamber in the middle of a ceremony only to trip on a rug? That could have huge ramifications for the character and the story.</source>
+        <target state="translated">On the flip side, don’t be afraid to use GM intrusion on routine actions if it makes things more interesting. Walking up to the king in his audience chamber in the middle of a ceremony only to trip on a rug? That could have huge ramifications for the character and the story.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ad640b5e78e42b69" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Other Ways to Judge Difficulty</source>
+        <target state="translated">Other Ways to Judge Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ab84733a3cf99137" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rating things on a scale of 1 to 10 is something that most people are very familiar with. You can also look at it as rating an object or creature on a similar scale, if that’s easier. In other words, if you don’t know how hard it would be to climb a particular cliff face, think of it as a creature the PCs have to fight. What level would the creature be? You could look in the Creatures chapter and say “I think this wall should be about as difficult to deal with as a demon. A demon is level 5, so the task of climbing the wall will be difficulty 5.” That’s a weird way to do it, perhaps, but it’s fairly straightforward. And if you’re the kind of GM who thinks in terms of “How tough will this fight be?” then maybe rating tasks as creatures or NPCs to fight isn’t so strange after all. It’s just another way to relate to them. The important thing is that they’re on the same scale. Similarly, if the PCs have to tackle a knowledge task—say, trying to determine if they know where a caravan is headed based on its tracks—you could rate the task in terms of an object. If you’re used to rating doors or other objects that the PCs have broken through recently, the knowledge task is just a different kind of barrier to bust through.</source>
+        <target state="translated">Rating things on a scale of 1 to 10 is something that most people are very familiar with. You can also look at it as rating an object or creature on a similar scale, if that’s easier. In other words, if you don’t know how hard it would be to climb a particular cliff face, think of it as a creature the PCs have to fight. What level would the creature be? You could look in the Creatures chapter and say “I think this wall should be about as difficult to deal with as a demon. A demon is level 5, so the task of climbing the wall will be difficulty 5.” That’s a weird way to do it, perhaps, but it’s fairly straightforward. And if you’re the kind of GM who thinks in terms of “How tough will this fight be?” then maybe rating tasks as creatures or NPCs to fight isn’t so strange after all. It’s just another way to relate to them. The important thing is that they’re on the same scale. Similarly, if the PCs have to tackle a knowledge task—say, trying to determine if they know where a caravan is headed based on its tracks—you could rate the task in terms of an object. If you’re used to rating doors or other objects that the PCs have broken through recently, the knowledge task is just a different kind of barrier to bust through.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0abc9013529ec050" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Everything in the Cypher System—characters, creatures, objects, tasks, and so on—has a level. It might be called a tier or a difficulty instead of a level, but ultimately it’s a numerical rating system used to compare things. Although you have to be careful about drawing too many correlations—a first-tier character isn’t easily compared to a difficulty 1 wall or a level 1 animal—the principle is the same. Everything can be rated and roughly compared to everything else in the world. (It works best to take PCs out of this equation. For example, you shouldn’t try to compare a PC’s tier to a wall’s level. Character tiers are mentioned here only for completeness.)</source>
+        <target state="translated">Everything in the Cypher System—characters, creatures, objects, tasks, and so on—has a level. It might be called a tier or a difficulty instead of a level, but ultimately it’s a numerical rating system used to compare things. Although you have to be careful about drawing too many correlations—a first-tier character isn’t easily compared to a difficulty 1 wall or a level 1 animal—the principle is the same. Everything can be rated and roughly compared to everything else in the world. (It works best to take PCs out of this equation. For example, you shouldn’t try to compare a PC’s tier to a wall’s level. Character tiers are mentioned here only for completeness.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd35e2289ced99d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Last, if your mind leans toward statistics, you can look at difficulty as a percentage chance. Every number on the d20 is a 5% increment. For example, you have a 5% chance of rolling a 1. You have a 10% chance of rolling a 1 or a 2. Thus, if you need to roll a 12 or higher, you have a 45% chance of success. (A d20 has nine numbers that are 12 or higher: 12, 13, 14, 15, 16, 17, 18, 19, and 20. And 9 × 5 equals 45.)</source>
+        <target state="translated">Last, if your mind leans toward statistics, you can look at difficulty as a percentage chance. Every number on the d20 is a 5% increment. For example, you have a 5% chance of rolling a 1. You have a 10% chance of rolling a 1 or a 2. Thus, if you need to roll a 12 or higher, you have a 45% chance of success. (A d20 has nine numbers that are 12 or higher: 12, 13, 14, 15, 16, 17, 18, 19, and 20. And 9 × 5 equals 45.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fb39943842b0d5e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For some people, it’s easier to think in terms of a percentage chance. A GM might think “She has about a 30% chance to know that fact about geography.” Each number on a d20 is a 5% increment, and it takes six increments to equal 30%, so there are six numbers that mean the PC succeeds: 15, 16, 17, 18, 19, and 20. Thus, since the player has to roll 15 or higher, that means the target number is 15. (And that means the task is level 5, but if you’ve already determined the target number, you likely don’t care about the level.)</source>
+        <target state="translated">For some people, it’s easier to think in terms of a percentage chance. A GM might think “She has about a 30% chance to know that fact about geography.” Each number on a d20 is a 5% increment, and it takes six increments to equal 30%, so there are six numbers that mean the PC succeeds: 15, 16, 17, 18, 19, and 20. Thus, since the player has to roll 15 or higher, that means the target number is 15. (And that means the task is level 5, but if you’ve already determined the target number, you likely don’t care about the level.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc708c2cf1621bb7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>ADVANTAGES TO THIS SYSTEM</source>
+        <target state="translated">ADVANTAGES TO THIS SYSTEM</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a57879b6b17de5b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM makes measured adjustments in large, uniform steps. That makes things faster than if players had to do arithmetic using a range of all numbers from 1 to 20.</source>
+        <target state="translated">The GM makes measured adjustments in large, uniform steps. That makes things faster than if players had to do arithmetic using a range of all numbers from 1 to 20.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73641ee849c8a1fd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You calculate a target number only once no matter how many times the PCs attempt the action. If you establish that the target number is 12, it’s 12 every time a PC tries that action. (On the other hand, if you had to add numbers to your die roll, you’d have to do it for every attempt.) Consider this fact in light of combat. Once a player knows that they need to roll a 12 or higher to hit a foe, combat moves very quickly.</source>
+        <target state="translated">You calculate a target number only once no matter how many times the PCs attempt the action. If you establish that the target number is 12, it’s 12 every time a PC tries that action. (On the other hand, if you had to add numbers to your die roll, you’d have to do it for every attempt.) Consider this fact in light of combat. Once a player knows that they need to roll a 12 or higher to hit a foe, combat moves very quickly.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dbe65ae5155f87f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If a PC can reduce the difficulty of an action to 0, no roll is needed. This means that an Olympic gymnast doesn’t roll a die to walk across a balance beam, but the average person does. The task is initially rated the same for both, but the difficulty is reduced for the gymnast. There’s no chance of failure.</source>
+        <target state="translated">If a PC can reduce the difficulty of an action to 0, no roll is needed. This means that an Olympic gymnast doesn’t roll a die to walk across a balance beam, but the average person does. The task is initially rated the same for both, but the difficulty is reduced for the gymnast. There’s no chance of failure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="37d26c80e65b1247" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.</source>
+        <target state="translated">This is how everything in the game works, whether it’s climbing a wall, sweet-talking a guard, or fighting a bioengineered horror.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="790a68183d88e2a8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to)—the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.</source>
+        <target state="translated">Perhaps most important, the system gives GMs the freedom to focus entirely on the flow of the game. The GM doesn’t use dice to determine what happens (unless you want to)—the players do. There aren’t a lot of different rules for different actions, so there is little to remember and very little to reference. The difficulty can be used as a narrative tool, with the challenges always meeting the expected logic of the game. All the GM’s mental space can be devoted to guiding the story.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="051c8bf0ef9ccd03" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion</source>
+        <target state="translated">GM Intrusion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a41c4b619769adcb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion is the main mechanic that the GM uses to inject drama and additional excitement into the game. It’s also a handy tool for resolving issues that affect the PCs but do not involve them. GM intrusion is a way to facilitate what goes on in the world outside the characters. Can the minotaur track the PCs’ movements through the maze? Will the fraying rope hold?</source>
+        <target state="translated">GM intrusion is the main mechanic that the GM uses to inject drama and additional excitement into the game. It’s also a handy tool for resolving issues that affect the PCs but do not involve them. GM intrusion is a way to facilitate what goes on in the world outside the characters. Can the minotaur track the PCs’ movements through the maze? Will the fraying rope hold?</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="769cea73fe5d4a0a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Since the players roll all the dice, GM intrusion is used to determine if and when something happens. For example, if the PCs are fighting a noble’s guards, and you (the GM) know that there are more guards nearby, you don’t need to roll dice to determine if the other guards hear the scuffle and intervene (unless you want to). You just decide when it would be best for the story—which is probably when it would be worst for the characters. In a way, GM intrusion replaces the GM’s die rolling.</source>
+        <target state="translated">Since the players roll all the dice, GM intrusion is used to determine if and when something happens. For example, if the PCs are fighting a noble’s guards, and you (the GM) know that there are more guards nearby, you don’t need to roll dice to determine if the other guards hear the scuffle and intervene (unless you want to). You just decide when it would be best for the story—which is probably when it would be worst for the characters. In a way, GM intrusion replaces the GM’s die rolling.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1e6d19d0a74b5556" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The mechanic is also one of the main ways that GMs award experience points to the PCs. This means that you use experience points as a narrative tool. Whenever it seems appropriate, you can introduce complications into the game that affect a specific player, but when you do so, you give that player 1 XP. The player can refuse the intrusion, but doing so costs them 1 XP. So by refusing an intrusion, the player does not get the experience point that the GM is offering, and they lose one that they already have. (This kind of refusal is likely to happen very rarely in your game, if ever. And, obviously, a player can’t refuse an intrusion if they have no XP to spend.)</source>
+        <target state="translated">The mechanic is also one of the main ways that GMs award experience points to the PCs. This means that you use experience points as a narrative tool. Whenever it seems appropriate, you can introduce complications into the game that affect a specific player, but when you do so, you give that player 1 XP. The player can refuse the intrusion, but doing so costs them 1 XP. So by refusing an intrusion, the player does not get the experience point that the GM is offering, and they lose one that they already have. (This kind of refusal is likely to happen very rarely in your game, if ever. And, obviously, a player can’t refuse an intrusion if they have no XP to spend.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1dc92befae01c3e6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Here’s how a GM intrusion might work in play. Say the PCs find a hidden console with some buttons. They learn the right order in which to press the buttons, and a section of the floor disappears. As the GM, you don’t ask the players specifically where their characters are standing. Instead, you give a player 1 XP and say “Unfortunately, you’re standing directly over this new hole in the floor.” If the player wanted, they could refuse the XP, spend one of their own, and say “I leap aside to safety.” Most likely, though, they’ll make the defense roll that you call for and let it play out.</source>
+        <target state="translated">Here’s how a GM intrusion might work in play. Say the PCs find a hidden console with some buttons. They learn the right order in which to press the buttons, and a section of the floor disappears. As the GM, you don’t ask the players specifically where their characters are standing. Instead, you give a player 1 XP and say “Unfortunately, you’re standing directly over this new hole in the floor.” If the player wanted, they could refuse the XP, spend one of their own, and say “I leap aside to safety.” Most likely, though, they’ll make the defense roll that you call for and let it play out.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="472e0a802b171411" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There are two ways for the GM to handle this kind of intrusion. You could say “You’re standing in the wrong place, so make a roll.” (It’s a Speed defense roll, of course.) Alternatively, you could say “You’re standing in the wrong place. The floor opens under your feet, and you fall down into the darkness.” In the first example, the PC has a chance to save themselves. In the second example, they don’t. Both are viable options. The distinction is based on any number of factors, including the situation, the characters involved, and the needs of the story. This might seem arbitrary or even capricious, but you’re the master of what the intrusion can and can’t do. RPG mechanics need consistency so players can make intelligent decisions based on how they understand the world to work. But they’ll never base their decisions on GM intrusions. They don’t know when intrusions will happen or what form they will take. GM intrusions are the unpredictable and strange twists of fate that affect a person’s life every day.</source>
+        <target state="translated">There are two ways for the GM to handle this kind of intrusion. You could say “You’re standing in the wrong place, so make a roll.” (It’s a Speed defense roll, of course.) Alternatively, you could say “You’re standing in the wrong place. The floor opens under your feet, and you fall down into the darkness.” In the first example, the PC has a chance to save themselves. In the second example, they don’t. Both are viable options. The distinction is based on any number of factors, including the situation, the characters involved, and the needs of the story. This might seem arbitrary or even capricious, but you’re the master of what the intrusion can and can’t do. RPG mechanics need consistency so players can make intelligent decisions based on how they understand the world to work. But they’ll never base their decisions on GM intrusions. They don’t know when intrusions will happen or what form they will take. GM intrusions are the unpredictable and strange twists of fate that affect a person’s life every day.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7017c5e751348b7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When player modifications (such as skill, Effort, and so on) determine that success is automatic, the GM can use GM intrusion to negate the automatic success. The player must roll for the action at its original difficulty level or target number 20, whichever is lower.</source>
+        <target state="translated">When player modifications (such as skill, Effort, and so on) determine that success is automatic, the GM can use GM intrusion to negate the automatic success. The player must roll for the action at its original difficulty level or target number 20, whichever is lower.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7ebc0206647c4736" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Remember, any time you give a player 1 XP for a GM intrusion, you’re actually giving them 2— one to keep and one to give to another player.)</source>
+        <target state="translated">(Remember, any time you give a player 1 XP for a GM intrusion, you’re actually giving them 2— one to keep and one to give to another player.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bd8d44b59354b2e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using GM Intrusion as a Narrative Tool</source>
+        <target state="translated">Using GM Intrusion as a Narrative Tool</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccb6213db690f42c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A GM can use this narrative tool to steer things. That doesn’t mean railroad the players or direct the action of the game with a heavy hand. GM intrusion doesn’t enable you to say “You’re all captured, so here’s your 1 XP.” Instead, the GM can direct things more subtly—gently, almost imperceptibly influencing events rather than forcing them. GM intrusion represents things going wrong. The bad guys planning well. Fortune not favoring the characters.</source>
+        <target state="translated">A GM can use this narrative tool to steer things. That doesn’t mean railroad the players or direct the action of the game with a heavy hand. GM intrusion doesn’t enable you to say “You’re all captured, so here’s your 1 XP.” Instead, the GM can direct things more subtly—gently, almost imperceptibly influencing events rather than forcing them. GM intrusion represents things going wrong. The bad guys planning well. Fortune not favoring the characters.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b52b55362359f153" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Consider this scenario: the GM plants an interesting adventure seed in a small village, but the PCs don’t stay there long enough to find it. So just outside the village, the PCs run afoul of a vicious viper that bites one of them. The GM uses intrusion to say that the poison from the snake will make the character debilitated unless they get a large dose of a specific antitoxin, which the group doesn’t have. Of course, they aren’t required to go back to the village where the GM’s interesting adventure can start, but it’s likely that they will, looking for the antitoxin.</source>
+        <target state="translated">Consider this scenario: the GM plants an interesting adventure seed in a small village, but the PCs don’t stay there long enough to find it. So just outside the village, the PCs run afoul of a vicious viper that bites one of them. The GM uses intrusion to say that the poison from the snake will make the character debilitated unless they get a large dose of a specific antitoxin, which the group doesn’t have. Of course, they aren’t required to go back to the village where the GM’s interesting adventure can start, but it’s likely that they will, looking for the antitoxin.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dd7afaf64e09a8fc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some players might find intrusion heavy-handed, but the XP softens the blow. And remember, they can refuse these narrative nudges. Intrusion is not meant to be a railroading tool—just a bit of a rudder. Not an inescapable track, but a nudge here and there.</source>
+        <target state="translated">Some players might find intrusion heavy-handed, but the XP softens the blow. And remember, they can refuse these narrative nudges. Intrusion is not meant to be a railroading tool—just a bit of a rudder. Not an inescapable track, but a nudge here and there.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e397a11f0498d82f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>What’s more, the GM doesn’t need to have a deliberate goal in mind. The complication you introduce could simply make things more interesting. You might not know where it will take the story, just that it will make the story better.</source>
+        <target state="translated">What’s more, the GM doesn’t need to have a deliberate goal in mind. The complication you introduce could simply make things more interesting. You might not know where it will take the story, just that it will make the story better.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4146ea4a64d2fa2f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This is wonderfully empowering to the GM—not in a “Ha ha, now I’ll trounce the PCs” way, but in an “I can control the narrative a little bit, steering it more toward the story I want to create rather than relying on the dice” sort of way. Consider that old classic plot development in which the PCs get captured and must escape from the bad guys. In heroic fiction, this is such a staple that it would almost seem strange if it didn’t happen. But in many roleplaying games, it’s a nearly impossible turn of events—the PCs usually have too many ways to get out of the bad guy’s clutches before they’re captured. The dice have to be wildly against them. It virtually never happens. With GM intrusion, it could happen (again, in the context of the larger encounter, not as a single intrusion that results in the entire group of PCs being captured with little explanation or chance to react).</source>
+        <target state="translated">This is wonderfully empowering to the GM—not in a “Ha ha, now I’ll trounce the PCs” way, but in an “I can control the narrative a little bit, steering it more toward the story I want to create rather than relying on the dice” sort of way. Consider that old classic plot development in which the PCs get captured and must escape from the bad guys. In heroic fiction, this is such a staple that it would almost seem strange if it didn’t happen. But in many roleplaying games, it’s a nearly impossible turn of events—the PCs usually have too many ways to get out of the bad guy’s clutches before they’re captured. The dice have to be wildly against them. It virtually never happens. With GM intrusion, it could happen (again, in the context of the larger encounter, not as a single intrusion that results in the entire group of PCs being captured with little explanation or chance to react).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="166c4b32badaae10" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For example, let’s say the PCs are surrounded by orcs. One character is badly injured—debilitated—and the rest are hurt. Some of the orcs produce a large weighted net. Rather than asking for a lot of rolls and figuring the mechanics for escape, you use intrusion and say that the net goes over the PCs who are still on their feet. The rest of the orcs point spears menacingly. This is a pretty strong cue to the players that surrender is a good (and possibly the only) option. Some players won’t take the hint, however, so another use of intrusion might allow the orcs to hit one of the trapped PCs on the head and render them unconscious while their friends struggle in the net. If the players still don’t surrender, it’s probably best to play out the rest of the encounter without more GM intrusions—using more would be heavy-handed by anyone’s measure—although it’s perfectly reasonable to rule that a character rendered debilitated is knocked unconscious, since the orcs are trying to take the PCs alive.</source>
+        <target state="translated">For example, let’s say the PCs are surrounded by orcs. One character is badly injured—debilitated—and the rest are hurt. Some of the orcs produce a large weighted net. Rather than asking for a lot of rolls and figuring the mechanics for escape, you use intrusion and say that the net goes over the PCs who are still on their feet. The rest of the orcs point spears menacingly. This is a pretty strong cue to the players that surrender is a good (and possibly the only) option. Some players won’t take the hint, however, so another use of intrusion might allow the orcs to hit one of the trapped PCs on the head and render them unconscious while their friends struggle in the net. If the players still don’t surrender, it’s probably best to play out the rest of the encounter without more GM intrusions—using more would be heavy-handed by anyone’s measure—although it’s perfectly reasonable to rule that a character rendered debilitated is knocked unconscious, since the orcs are trying to take the PCs alive.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb4722a0b20f864b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Remember that GM intrusions can occur at any time, not just during combat. Disrupting or changing a tense interaction with NPCs can have big repercussions.)</source>
+        <target state="translated">(Remember that GM intrusions can occur at any time, not just during combat. Disrupting or changing a tense interaction with NPCs can have big repercussions.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04968c375e74f0ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using GM Intrusion as a Resolution Mechanic</source>
+        <target state="translated">Using GM Intrusion as a Resolution Mechanic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2a3999261e1309d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This mechanic offers a way for the GM to determine how things happen in the game without leaving it all to random chance. Bad guys trying to smash down the door to the room where the PCs are holed up? You could roll a bunch of dice, compare the NPCs’ stats to the door’s stats, and so on, or you could wait until the most interesting time, have the bad guys break in, and award an experience point to the PC who tried their best to bar the door. The latter way is the Cypher System way. Intrusion is a task resolution tool for the GM. In other words, you don’t base things on stats but on narrative choice. (Frankly, a lot of great GMs over the years—even in the very early days of the hobby—have run their games this way. Sometimes they rolled dice or pretended to roll dice, but they were really manipulating things.) This method frees the GM from worrying about mechanics and looking up stats and allows them to focus on the story.</source>
+        <target state="translated">This mechanic offers a way for the GM to determine how things happen in the game without leaving it all to random chance. Bad guys trying to smash down the door to the room where the PCs are holed up? You could roll a bunch of dice, compare the NPCs’ stats to the door’s stats, and so on, or you could wait until the most interesting time, have the bad guys break in, and award an experience point to the PC who tried their best to bar the door. The latter way is the Cypher System way. Intrusion is a task resolution tool for the GM. In other words, you don’t base things on stats but on narrative choice. (Frankly, a lot of great GMs over the years—even in the very early days of the hobby—have run their games this way. Sometimes they rolled dice or pretended to roll dice, but they were really manipulating things.) This method frees the GM from worrying about mechanics and looking up stats and allows them to focus on the story.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4f8fb922b76b77a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This isn’t cheating—it’s the rules of the game. This rule simply replaces traditional dice rolling with good game mastering, logic, and intelligent storytelling. When a PC is climbing a burning rope, and everyone knows that it will break at some point, the game has a mechanism to ensure that it breaks at just the right time.</source>
+        <target state="translated">This isn’t cheating—it’s the rules of the game. This rule simply replaces traditional dice rolling with good game mastering, logic, and intelligent storytelling. When a PC is climbing a burning rope, and everyone knows that it will break at some point, the game has a mechanism to ensure that it breaks at just the right time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5faa01139b9dd206" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Variant: If you want more randomness in your game, or if you want your game to seem like more of a simulation, assign a flat percentage chance for whatever you’re trying to resolve. For example, each round, the star troopers have a 20% chance to blast through the door—or, if you want the risk to escalate, a cumulative 20% chance to blast through the door. By not using GM intrusion, this method robs the PCs of a few XP, but when they see you rolling dice, it might help with their immersion. Alternatively, you can pretend to roll dice but really use GM intrusion, though this method seriously robs the characters of XP.</source>
+        <target state="translated">Variant: If you want more randomness in your game, or if you want your game to seem like more of a simulation, assign a flat percentage chance for whatever you’re trying to resolve. For example, each round, the star troopers have a 20% chance to blast through the door—or, if you want the risk to escalate, a cumulative 20% chance to blast through the door. By not using GM intrusion, this method robs the PCs of a few XP, but when they see you rolling dice, it might help with their immersion. Alternatively, you can pretend to roll dice but really use GM intrusion, though this method seriously robs the characters of XP.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c32cb5d0d9648a4c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There’s a better way. Announce your intrusion, but say that there’s only a chance it will happen (state the percentage chance), and then roll the dice in plain view of everyone. If the intrusion occurs, award the XP as normal. This is likely the best of both worlds. However, it takes the narrative power out of your hands and gives it to the dice. Perhaps this method is best used only occasionally. If nothing else, it injects some variety and certainly some drama.</source>
+        <target state="translated">There’s a better way. Announce your intrusion, but say that there’s only a chance it will happen (state the percentage chance), and then roll the dice in plain view of everyone. If the intrusion occurs, award the XP as normal. This is likely the best of both worlds. However, it takes the narrative power out of your hands and gives it to the dice. Perhaps this method is best used only occasionally. If nothing else, it injects some variety and certainly some drama.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8e42341a6f7db39d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using (and Not Abusing) GM Intrusion</source>
+        <target state="translated">Using (and Not Abusing) GM Intrusion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d2966af669eec1f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Too much of a good thing will make the game seem utterly unpredictable—even capricious. The ideal is to use about four GM intrusions per game session, depending on the length of the session, or about one intrusion per hour of game play. This is in addition to any intrusions that are triggered by players rolling a 1.</source>
+        <target state="translated">Too much of a good thing will make the game seem utterly unpredictable—even capricious. The ideal is to use about four GM intrusions per game session, depending on the length of the session, or about one intrusion per hour of game play. This is in addition to any intrusions that are triggered by players rolling a 1.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87a17e6e16e7558d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Intrusion Through Player Rolls</source>
+        <target state="translated">Intrusion Through Player Rolls</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="477cfc64843b3f71" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When a PC rolls a 1, handle the GM intrusion the same way that you’d handle an intrusion you initiated. The intrusion could mean the PC fumbles or botches whatever they were trying to do, but it could mean something else. Consider these alternatives:</source>
+        <target state="translated">When a PC rolls a 1, handle the GM intrusion the same way that you’d handle an intrusion you initiated. The intrusion could mean the PC fumbles or botches whatever they were trying to do, but it could mean something else. Consider these alternatives:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe78a4c5b2f14896" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the PC’s foe is not as hurt as they thought. Give the foe 5 extra points of health.</source>
+        <target state="translated">In combat, the PC’s foe is not as hurt as they thought. Give the foe 5 extra points of health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0db6686a6584e2ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the PC drops their guard, and the foe gets a free attack.</source>
+        <target state="translated">In combat, the PC drops their guard, and the foe gets a free attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a3ff618fcc6c6dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, reinforcements for the PC’s foes show up.</source>
+        <target state="translated">In combat, reinforcements for the PC’s foes show up.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b403b55a8f57bcbe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat (or any stressful situation), an ally decides to flee.</source>
+        <target state="translated">In combat (or any stressful situation), an ally decides to flee.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d697f4d2b966f75c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat (or any stressful situation), an ally doesn’t like the PCs as much as they thought. The ally steals from them or betrays them.</source>
+        <target state="translated">In combat (or any stressful situation), an ally doesn’t like the PCs as much as they thought. The ally steals from them or betrays them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="02692e0a489f385d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Out of combat, the PC’s pack falls open, or the sole of their shoe tears open.</source>
+        <target state="translated">Out of combat, the PC’s pack falls open, or the sole of their shoe tears open.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="874afebf6537845c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Out of combat, it begins to rain heavily.</source>
+        <target state="translated">Out of combat, it begins to rain heavily.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="efcb7b80c60aa50c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Out of combat, a surprise foe appears, and the scene turns into a combat.</source>
+        <target state="translated">Out of combat, a surprise foe appears, and the scene turns into a combat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09217b109a6e0ff5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In an interaction, the GM introduces a surprising motive for the NPC. For example, the PCs are trying to bribe an official for information, and the official reveals that what they really want isn’t money but for someone to rescue their kidnapped son.</source>
+        <target state="translated">In an interaction, the GM introduces a surprising motive for the NPC. For example, the PCs are trying to bribe an official for information, and the official reveals that what they really want isn’t money but for someone to rescue their kidnapped son.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0522258a40ae0ee4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(This might not be true of your players, but many players rarely, if ever, spend XP to refuse an intrusion from the GM, though they regularly use XP to avoid an intrusion that comes from a bad roll. And there’s nothing wrong with that. Some GMs might want to forbid using an XP to reroll a 1, but there’s really no point—if you’ve got an idea for a good intrusion, you don’t need to wait until a player rolls a 1 to use it.)</source>
+        <target state="translated">(This might not be true of your players, but many players rarely, if ever, spend XP to refuse an intrusion from the GM, though they regularly use XP to avoid an intrusion that comes from a bad roll. And there’s nothing wrong with that. Some GMs might want to forbid using an XP to reroll a 1, but there’s really no point—if you’ve got an idea for a good intrusion, you don’t need to wait until a player rolls a 1 to use it.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8ad03636e073bcaf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusion That Affects the Group</source>
+        <target state="translated">GM Intrusion That Affects the Group</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5f56a9942e9e99f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The core of the idea behind GM intrusion is that the player being adversely affected gains an experience point. But what if the intrusion affects the whole group equally? What if the GM uses it to have an unstable device overload and explode, harming all the characters? In this case, if no PC is involved more than the others (for example, no single PC was frantically attempting to repair the device), you should give 1 XP to each character but not give any of them an extra XP to hand out to someone else.</source>
+        <target state="translated">The core of the idea behind GM intrusion is that the player being adversely affected gains an experience point. But what if the intrusion affects the whole group equally? What if the GM uses it to have an unstable device overload and explode, harming all the characters? In this case, if no PC is involved more than the others (for example, no single PC was frantically attempting to repair the device), you should give 1 XP to each character but not give any of them an extra XP to hand out to someone else.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6cf4786dfc6d260" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>However, this kind of group intrusion should be an exception, not the rule. GM intrusions are much more effective if they are more personal.</source>
+        <target state="translated">However, this kind of group intrusion should be an exception, not the rule. GM intrusions are much more effective if they are more personal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a46f6d0dba170de3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Example GM Intrusions</source>
+        <target state="translated">Example GM Intrusions</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b6d0320cb60ef5d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s not a good idea to use the same events as GM intrusions over and over (“Dolmar dropped his sword _again_?”). Below are a number of different intrusions you can use.</source>
+        <target state="translated">It’s not a good idea to use the same events as GM intrusions over and over (“Dolmar dropped his sword _again_?”). Below are a number of different intrusions you can use.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b9dd79f5bce7286" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bad Luck</source>
+        <target state="translated">Bad Luck</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29b1446d94bc3f4a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Through no fault of the characters, something happens that is bad or at least complicating. For example:</source>
+        <target state="translated">Through no fault of the characters, something happens that is bad or at least complicating. For example:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f28402af71b945d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The floorboard beneath the PC gives way.</source>
+        <target state="translated">The floorboard beneath the PC gives way.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16f16d28b88be60c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The boat lists to starboard at just the wrong moment.</source>
+        <target state="translated">The boat lists to starboard at just the wrong moment.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7bac714c3f08ff06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A gust of wind blows the papers out of the character’s hand.</source>
+        <target state="translated">A gust of wind blows the papers out of the character’s hand.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ffe83a83de3400d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The buckle of the PC’s pack snaps at an inopportune time.</source>
+        <target state="translated">The buckle of the PC’s pack snaps at an inopportune time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="99e906bb72aa76d4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPC that the characters need to speak with is home sick today.</source>
+        <target state="translated">The NPC that the characters need to speak with is home sick today.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a60b873e35138ed0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A device (cypher or artifact) malfunctions or gives the user a jolt.</source>
+        <target state="translated">A device (cypher or artifact) malfunctions or gives the user a jolt.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3cc1f2dc59de5c27" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An Unknown Complication Emerges</source>
+        <target state="translated">An Unknown Complication Emerges</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fb86c17a488b1184" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The situation was more complex (and therefore more interesting) than the PCs knew—perhaps even more than the GM knew, at least at the start. For example:</source>
+        <target state="translated">The situation was more complex (and therefore more interesting) than the PCs knew—perhaps even more than the GM knew, at least at the start. For example:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d48266d86e08f11f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A poisonous snake darts out from the tall grass and attacks.</source>
+        <target state="translated">A poisonous snake darts out from the tall grass and attacks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ce273cf356b1a69" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The box that holds the plans is trapped with a poison needle.</source>
+        <target state="translated">The box that holds the plans is trapped with a poison needle.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da374f42599685c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPC that the PCs need to befriend doesn’t speak their language.</source>
+        <target state="translated">The NPC that the PCs need to befriend doesn’t speak their language.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ed13af881970e94" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPC that the PCs try to bribe is allergic to the bottle of alcohol they offer.</source>
+        <target state="translated">The NPC that the PCs try to bribe is allergic to the bottle of alcohol they offer.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="58a99ee97a1e0fe6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PCs find the book they need, but the pages are so brittle that if they open it, it might crumble.</source>
+        <target state="translated">The PCs find the book they need, but the pages are so brittle that if they open it, it might crumble.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="83b204c7567cfa13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An Impending Complication Emerges</source>
+        <target state="translated">An Impending Complication Emerges</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="443b33b741a30340" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GMs can use this type of intrusion as a resolution mechanic to determine NPC success or failure. Rather than rolling dice to see how long it takes an NPC to rewire a damaged force field generator, it happens at a time of the GM’s choosing—ideally when it would be most interesting. For example:</source>
+        <target state="translated">GMs can use this type of intrusion as a resolution mechanic to determine NPC success or failure. Rather than rolling dice to see how long it takes an NPC to rewire a damaged force field generator, it happens at a time of the GM’s choosing—ideally when it would be most interesting. For example:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="674636a11ccdec92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The goblin reinforcements finally get through the locked door.</source>
+        <target state="translated">The goblin reinforcements finally get through the locked door.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2588464da80d2cfd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The ropes of the old rope bridge finally snap.</source>
+        <target state="translated">The ropes of the old rope bridge finally snap.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccf1d30c82bbd6bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The city guards show up.</source>
+        <target state="translated">The city guards show up.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be33ec174bd339bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The unstable ceiling collapses.</source>
+        <target state="translated">The unstable ceiling collapses.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="40767295535f6a37" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPC who holds a dagger to a character’s throat and says “Don’t move” cuts the PC when they do, in fact, move, putting them immediately at debilitated on the damage track.</source>
+        <target state="translated">The NPC who holds a dagger to a character’s throat and says “Don’t move” cuts the PC when they do, in fact, move, putting them immediately at debilitated on the damage track.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="752a7402164e5f0d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Opponent Luck or Skill</source>
+        <target state="translated">Opponent Luck or Skill</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="799d77dfe0ba4b3c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PCs aren’t the only ones with surprising tricks up their sleeves. For example:</source>
+        <target state="translated">The PCs aren’t the only ones with surprising tricks up their sleeves. For example:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6902a1d8cb9a980a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC’s opponent uses a lightning-fast maneuver to dodge all attacks.</source>
+        <target state="translated">The PC’s opponent uses a lightning-fast maneuver to dodge all attacks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5dd49cc077e9f47e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC’s opponent sees an opening and makes an additional, immediate attack.</source>
+        <target state="translated">The PC’s opponent sees an opening and makes an additional, immediate attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="72618800442eed7e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The NPC commander rallies their troops, who all deal 2 additional points of damage for one round.</source>
+        <target state="translated">The NPC commander rallies their troops, who all deal 2 additional points of damage for one round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ec4d47dc2d08802" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC’s opponent uses a cypher or similar device that produces just the right effect for the situation.</source>
+        <target state="translated">The PC’s opponent uses a cypher or similar device that produces just the right effect for the situation.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9b3d9a54256919d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A bit of the wall collapses in the middle of the fight, preventing the characters from chasing the fleeing NPC.</source>
+        <target state="translated">A bit of the wall collapses in the middle of the fight, preventing the characters from chasing the fleeing NPC.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e55ac02e0ac5cb1a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fumbles</source>
+        <target state="translated">Fumbles</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="37ae675c5f0a283a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Although you might not want every player roll of 1 to be a fumble, sometimes it could be just that. Alternatively, the GM could simply declare that a fumble has occurred. In either case, consider the following examples:</source>
+        <target state="translated">Although you might not want every player roll of 1 to be a fumble, sometimes it could be just that. Alternatively, the GM could simply declare that a fumble has occurred. In either case, consider the following examples:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4273dc9aeb49dd33" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the PC drops their weapon.</source>
+        <target state="translated">In combat, the PC drops their weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9e46c0bc0c9d25c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the PC misses and strikes the wall, breaking or damaging their weapon.</source>
+        <target state="translated">In combat, the PC misses and strikes the wall, breaking or damaging their weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e770ac071aea7a75" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the NPC hits the PC harder than usual, inflicting 2 additional points of damage.</source>
+        <target state="translated">In combat, the NPC hits the PC harder than usual, inflicting 2 additional points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1b6f439741772363" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat, the PC hits an ally by accident and inflicts regular damage.</source>
+        <target state="translated">In combat, the PC hits an ally by accident and inflicts regular damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7df530cb29f5452b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Out of combat, the PC drops or mishandles an important object or piece of equipment.</source>
+        <target state="translated">Out of combat, the PC drops or mishandles an important object or piece of equipment.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87658b2407b3a349" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In an interaction, the PC inadvertently or unknowingly says something offensive.</source>
+        <target state="translated">In an interaction, the PC inadvertently or unknowingly says something offensive.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b8598ee66d27d223" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Partial Success</source>
+        <target state="translated">Partial Success</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="028039b2ddc09b55" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion doesn’t have to mean that a PC has failed. For example:</source>
+        <target state="translated">GM intrusion doesn’t have to mean that a PC has failed. For example:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8d52f139ab728405" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC disables the explosive device before it goes off, but if someone doesn’t remain and hold the detonator, it will still explode.</source>
+        <target state="translated">The PC disables the explosive device before it goes off, but if someone doesn’t remain and hold the detonator, it will still explode.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">183</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ab1391d243799da4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC creates the antidote, but it will turn the imbiber’s flesh blue for the next few weeks.</source>
+        <target state="translated">The PC creates the antidote, but it will turn the imbiber’s flesh blue for the next few weeks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c33a2d658379b31b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PC jumps across the pit but accidentally knocks loose some stones from the edge, making the jump harder for their friend right behind them.</source>
+        <target state="translated">The PC jumps across the pit but accidentally knocks loose some stones from the edge, making the jump harder for their friend right behind them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf7a3e0960dd28a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PLAYER INTRUSIONS</source>
+        <target state="translated">PLAYER INTRUSIONS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="56f52ce1dc9273d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Player intrusions give the players a small bit of narrative control over the world. However, the world still remains in the GM’s purview. You can always overrule a player intrusion, or suggest a way to massage it so that it fits better into the setting. Still, because it is indeed narrative control, a player intrusion should always involve a small aspect of the world beyond the character. “I punch my foe really hard” is an expression of Effort or perhaps character ability. “My foe slips and falls backward off the ledge” is a player intrusion.</source>
+        <target state="translated">Player intrusions give the players a small bit of narrative control over the world. However, the world still remains in the GM’s purview. You can always overrule a player intrusion, or suggest a way to massage it so that it fits better into the setting. Still, because it is indeed narrative control, a player intrusion should always involve a small aspect of the world beyond the character. “I punch my foe really hard” is an expression of Effort or perhaps character ability. “My foe slips and falls backward off the ledge” is a player intrusion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f657cf139f3ecdaa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Player intrusions should never be as big as GM intrusions. They should not end an encounter, only (perhaps) provide the PC with the means to more easily end an encounter. They should not have a wide-reaching or even necessarily a long-term effect on the setting. A way to consider this might be that player intrusions can affect a single object (a floorboard snaps), feature (there’s a hidden shallow spot in the stream to ford), or NPC (the vendor is an old friend). But not more than that. A player intrusion can’t affect a whole village or even a whole tavern in that village. A rock can come loose, but a player intrusion can’t create a landslide.</source>
+        <target state="translated">Player intrusions should never be as big as GM intrusions. They should not end an encounter, only (perhaps) provide the PC with the means to more easily end an encounter. They should not have a wide-reaching or even necessarily a long-term effect on the setting. A way to consider this might be that player intrusions can affect a single object (a floorboard snaps), feature (there’s a hidden shallow spot in the stream to ford), or NPC (the vendor is an old friend). But not more than that. A player intrusion can’t affect a whole village or even a whole tavern in that village. A rock can come loose, but a player intrusion can’t create a landslide.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6dd8bd21603c0eda" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tying Actions to Stats</source>
+        <target state="translated">Tying Actions to Stats</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4289912af3eae73a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Although the decision is open to your discretion, when a PC takes an action, it should be fairly obvious which stat is tied to that action. Physical actions that involve brute force or endurance use Might. Physical actions that involve quickness, coordination, or agility use Speed. Actions that involve intelligence, education, insight, willpower, or charm use Intellect.</source>
+        <target state="translated">Although the decision is open to your discretion, when a PC takes an action, it should be fairly obvious which stat is tied to that action. Physical actions that involve brute force or endurance use Might. Physical actions that involve quickness, coordination, or agility use Speed. Actions that involve intelligence, education, insight, willpower, or charm use Intellect.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eeb18ce013bbf3a9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In rare instances, you could allow a PC to use a different stat for a task. For example, a character might try to break down a door by examining it closely for flaws and thus use Intellect rather than Might. This kind of change is a good thing because it encourages player creativity. Just don’t let it be abused by an exuberant or too-clever player. It’s well within your purview to decide that the door has no flaws, or to rule that the character’s attempt will take half an hour rather than one round. In other words, using a stat that is not the obvious choice should be the exception, not the rule.</source>
+        <target state="translated">In rare instances, you could allow a PC to use a different stat for a task. For example, a character might try to break down a door by examining it closely for flaws and thus use Intellect rather than Might. This kind of change is a good thing because it encourages player creativity. Just don’t let it be abused by an exuberant or too-clever player. It’s well within your purview to decide that the door has no flaws, or to rule that the character’s attempt will take half an hour rather than one round. In other words, using a stat that is not the obvious choice should be the exception, not the rule.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4b1b2d085d484cf7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers</source>
+        <target state="translated">Cyphers</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4598e13b4676101" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You should think of cyphers as character abilities, whether they’re subtle cyphers or manifest cyphers. This means that it is incumbent upon you to make sure that players always have plenty of cyphers to use. In the course of their travels, the PCs should find that cyphers are extremely common. And since the PCs are limited in the number of cyphers they can carry, they will use them liberally.</source>
+        <target state="translated">You should think of cyphers as character abilities, whether they’re subtle cyphers or manifest cyphers. This means that it is incumbent upon you to make sure that players always have plenty of cyphers to use. In the course of their travels, the PCs should find that cyphers are extremely common. And since the PCs are limited in the number of cyphers they can carry, they will use them liberally.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a2d3faee16f7984c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Manifest cyphers can be found by scavenging through old ruins. They can be found in the corpses of magical or technological foes. They can be found among the possessions of intelligent fallen opponents or the lairs of unintelligent creatures, either amid the bones of former meals or as shiny decorations in a nest. They can be found in villages, in the back of a merchant’s cart that sells junk and scavenged parts. They are offered as rewards by people who are grateful for the PCs’ help.</source>
+        <target state="translated">Manifest cyphers can be found by scavenging through old ruins. They can be found in the corpses of magical or technological foes. They can be found among the possessions of intelligent fallen opponents or the lairs of unintelligent creatures, either amid the bones of former meals or as shiny decorations in a nest. They can be found in villages, in the back of a merchant’s cart that sells junk and scavenged parts. They are offered as rewards by people who are grateful for the PCs’ help.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="faf579d2afcf103e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some adventures will offer more cyphers than others. Still, as a rule of thumb, in any given adventure, a character should use at least as many cyphers as they can carry. This means they should find that number of cyphers in that same amount of time (give or take). Thus, you can simply add up the number of cyphers the PCs can carry, and on average, they should find at least that many cyphers in a given adventure.</source>
+        <target state="translated">Some adventures will offer more cyphers than others. Still, as a rule of thumb, in any given adventure, a character should use at least as many cyphers as they can carry. This means they should find that number of cyphers in that same amount of time (give or take). Thus, you can simply add up the number of cyphers the PCs can carry, and on average, they should find at least that many cyphers in a given adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">205</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b54e2dfb18165ee8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If your players are typical, they will use combat-related cyphers liberally but hold onto their utility cyphers. A ray emitter or defensive shield will be used, but a suspensor belt or phasing module will linger longer on their character sheets.</source>
+        <target state="translated">If your players are typical, they will use combat-related cyphers liberally but hold onto their utility cyphers. A ray emitter or defensive shield will be used, but a suspensor belt or phasing module will linger longer on their character sheets.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="67d794bd91171368" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>As with everything else in the game, it’s intentionally very easy for the GM to create new cyphers. Just think of the effect and how to express it as a game advantage. Two kinds of cyphers exist when it comes to effect: those that allow the user to do something better, and those that allow the user to do something they couldn’t do otherwise.</source>
+        <target state="translated">As with everything else in the game, it’s intentionally very easy for the GM to create new cyphers. Just think of the effect and how to express it as a game advantage. Two kinds of cyphers exist when it comes to effect: those that allow the user to do something better, and those that allow the user to do something they couldn’t do otherwise.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e3a3cddc15425a0c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The first group includes everything that reduces the difficulty of a task (including defense tasks). The second group includes things that grant new abilities, such as flight, a new means of attack, the ability to see into the past, or any number of other powers.</source>
+        <target state="translated">The first group includes everything that reduces the difficulty of a task (including defense tasks). The second group includes things that grant new abilities, such as flight, a new means of attack, the ability to see into the past, or any number of other powers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c902af2cd50dde7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A few more important notes about devising new cyphers:</source>
+        <target state="translated">A few more important notes about devising new cyphers:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5297885f3c2797c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers should be single-use items. The PCs use them up and find new ones.</source>
+        <target state="translated">Cyphers should be single-use items. The PCs use them up and find new ones.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="742b57b43289aa31" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers should be potent. A minor ability isn’t worth the trouble. If an attack cypher isn’t as good as a regular weapon, why bother with it?</source>
+        <target state="translated">Cyphers should be potent. A minor ability isn’t worth the trouble. If an attack cypher isn’t as good as a regular weapon, why bother with it?</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="458efc3ae4c0bc8d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers shouldn’t have drawbacks.</source>
+        <target state="translated">Cyphers shouldn’t have drawbacks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="533be801722578e6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers should be temporary. Typically, a power is used once. Abilities or advantages that have a duration last from ten minutes to twenty-four hours (at most).</source>
+        <target state="translated">Cyphers should be temporary. Typically, a power is used once. Abilities or advantages that have a duration last from ten minutes to twenty-four hours (at most).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef0307d233bf085c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Manifest cyphers can take any form. Just make them appropriate to the genre.</source>
+        <target state="translated">Manifest cyphers can take any form. Just make them appropriate to the genre.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4062bc703cb142c0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Cyphers teach GMs to design different kinds of scenarios—ones in which the whole adventure isn’t wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.)</source>
+        <target state="translated">(Cyphers teach GMs to design different kinds of scenarios—ones in which the whole adventure isn’t wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">220</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f79a4f47bcae97f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(It’s all right if players think of cyphers (especially manifest cyphers) as equipment or treasure. You should choose points in the course of the story that are appropriate for awarding subtle cyphers, especially if the PCs aren’t at their full capacity.)</source>
+        <target state="translated">(It’s all right if players think of cyphers (especially manifest cyphers) as equipment or treasure. You should choose points in the course of the story that are appropriate for awarding subtle cyphers, especially if the PCs aren’t at their full capacity.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60bb46f7731dcf09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Artifacts</source>
+        <target state="translated">Artifacts</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69d638286de669ef" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In terms of the narrative, artifacts are a lot like cyphers, except that most are not one-use items. Mechanically, they serve a very different purpose. It’s assumed that characters are exploring with some cyphers at their disposal. Artifacts, however, are added abilities that make characters broader, deeper, and often more powerful. They aren’t assumed—they’re extra.</source>
+        <target state="translated">In terms of the narrative, artifacts are a lot like cyphers, except that most are not one-use items. Mechanically, they serve a very different purpose. It’s assumed that characters are exploring with some cyphers at their disposal. Artifacts, however, are added abilities that make characters broader, deeper, and often more powerful. They aren’t assumed—they’re extra.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a742b6e71a86d39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The powers granted by artifacts are more like the abilities gained from a character’s type or focus in that they change the way the PC is played overall. The difference between an artifact and a type or focus ability is that almost all artifacts are temporary. They last longer than cyphers do, but because they have a depletion roll, any use could be their last.</source>
+        <target state="translated">The powers granted by artifacts are more like the abilities gained from a character’s type or focus in that they change the way the PC is played overall. The difference between an artifact and a type or focus ability is that almost all artifacts are temporary. They last longer than cyphers do, but because they have a depletion roll, any use could be their last.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">228</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="35a91709f51480ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Like cyphers, then, artifacts are a way for the GM to play a role in the development of the characters. Although armor, weapons, and the like are fine, special capabilities—such as long-range communication or travel—can really change the way the PCs interact with the world and how they deal with challenges. Some of these abilities enable the actions you want the PCs to take. For example, if you want them to have an underwater adventure, provide them with artifacts (or cyphers) that allow them to breathe underwater.</source>
+        <target state="translated">Like cyphers, then, artifacts are a way for the GM to play a role in the development of the characters. Although armor, weapons, and the like are fine, special capabilities—such as long-range communication or travel—can really change the way the PCs interact with the world and how they deal with challenges. Some of these abilities enable the actions you want the PCs to take. For example, if you want them to have an underwater adventure, provide them with artifacts (or cyphers) that allow them to breathe underwater.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="892a9bb312c39bd6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Also like cyphers, artifacts are simple for the GM to create. The only difference with artifacts is that you give them a depletion roll, using any numbers on 1d6, 1d10, 1d20, or 1d100. If you want the artifact to be used only a few times, give it a depletion roll of 1 in 1d6, 1 or 2 in 1d10, or even 1 or 2 in 1d6. If you want the PCs to use it over and over, a depletion roll of 1 in 1d100 more or less means that they can use it freely without worrying too much.</source>
+        <target state="translated">Also like cyphers, artifacts are simple for the GM to create. The only difference with artifacts is that you give them a depletion roll, using any numbers on 1d6, 1d10, 1d20, or 1d100. If you want the artifact to be used only a few times, give it a depletion roll of 1 in 1d6, 1 or 2 in 1d10, or even 1 or 2 in 1d6. If you want the PCs to use it over and over, a depletion roll of 1 in 1d100 more or less means that they can use it freely without worrying too much.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae48e9a1b45163a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For examples of artifacts, see the Genres chapter.</source>
+        <target state="translated">For examples of artifacts, see the Genres chapter.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0787b799ccc1934b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(You may wish to forbid the use of XP to reroll artifact depletion rolls. That’s pretty reasonable.)</source>
+        <target state="translated">(You may wish to forbid the use of XP to reroll artifact depletion rolls. That’s pretty reasonable.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6cf48f0568eadbfb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skills and Other Abilities</source>
+        <target state="translated">Skills and Other Abilities</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f8084147d4c41794" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Sometimes, the rules speak directly to character creativity. For example, players can make up their own skills. It’s possible to have a skill called “tightrope walking” that grants a character a better chance to walk across a tightrope, and another skill called “balance” that gives a character a better chance to walk across a tightrope and perform other balance actions as well. This might seem unequal at first, but the point is to let players create precisely the characters they want. Should you let a character create a skill called “doing things” that makes them better at everything? Of course not. The GM is the final arbiter not only of logic but also of the spirit of the rules, and having one or two single skills that cover every contingency is clearly not in the spirit.</source>
+        <target state="translated">Sometimes, the rules speak directly to character creativity. For example, players can make up their own skills. It’s possible to have a skill called “tightrope walking” that grants a character a better chance to walk across a tightrope, and another skill called “balance” that gives a character a better chance to walk across a tightrope and perform other balance actions as well. This might seem unequal at first, but the point is to let players create precisely the characters they want. Should you let a character create a skill called “doing things” that makes them better at everything? Of course not. The GM is the final arbiter not only of logic but also of the spirit of the rules, and having one or two single skills that cover every contingency is clearly not in the spirit.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5618b5ec585613e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s important that players play the character they want. This concept is supported not only with the open-ended skill system but also with the ability to get an experience point advance to tailor a character further. Likewise, the GM should be open to allowing a player to make small modifications to refine their character. In many cases, particularly ones that don’t involve stat Pools, Armor, damage inflicted, or the costs of Effort or special abilities, the answer from the GM should probably be “Sure, why not?” If a PC ends up being really good at a particular skill—better than they “should” be—what’s the harm? If Dave can swim incredibly well, how does that hurt the game in terms of the play experience or the story that develops? It doesn’t. If Helen can pick practically any mundane lock she finds, why is that a bad thing? In fact, it’s probably good for the game—there’s likely something interesting on the other sides of those doors.</source>
+        <target state="translated">It’s important that players play the character they want. This concept is supported not only with the open-ended skill system but also with the ability to get an experience point advance to tailor a character further. Likewise, the GM should be open to allowing a player to make small modifications to refine their character. In many cases, particularly ones that don’t involve stat Pools, Armor, damage inflicted, or the costs of Effort or special abilities, the answer from the GM should probably be “Sure, why not?” If a PC ends up being really good at a particular skill—better than they “should” be—what’s the harm? If Dave can swim incredibly well, how does that hurt the game in terms of the play experience or the story that develops? It doesn’t. If Helen can pick practically any mundane lock she finds, why is that a bad thing? In fact, it’s probably good for the game—there’s likely something interesting on the other sides of those doors.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="24810dfd3325ab7e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a way, this is no different than adjudicating a not-so-straightforward solution to a challenge. Sometimes you have to say “No, that’s not possible.” But sometimes, if it makes sense, open yourself up to the possibility.</source>
+        <target state="translated">In a way, this is no different than adjudicating a not-so-straightforward solution to a challenge. Sometimes you have to say “No, that’s not possible.” But sometimes, if it makes sense, open yourself up to the possibility.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="204fcda4a4290607" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>NPCs and Death</source>
+        <target state="translated">NPCs and Death</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9926491972484add" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>As explained in the Rules of the Game chapter, NPCs have a health score rather than three stat Pools. When an NPC reaches 0 health, they are down. Whether that means dead, unconscious, or incapacitated depends on the circumstances as dictated by you and the players. Much of this can be based on logic. If the NPC is cut in half with a giant axe, they’re probably dead. If they’re mentally assaulted with a telepathic attack, they might be insane instead. If they’re hit over the head with a club, well, that’s your call.</source>
+        <target state="translated">As explained in the Rules of the Game chapter, NPCs have a health score rather than three stat Pools. When an NPC reaches 0 health, they are down. Whether that means dead, unconscious, or incapacitated depends on the circumstances as dictated by you and the players. Much of this can be based on logic. If the NPC is cut in half with a giant axe, they’re probably dead. If they’re mentally assaulted with a telepathic attack, they might be insane instead. If they’re hit over the head with a club, well, that’s your call.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28da3a7dd516df56" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It depends on the intentions of those who are fighting the NPC, too. PCs who want to knock out a foe rather than kill them can simply state that as their intention and describe their actions differently—using the flat of the blade, so to speak.</source>
+        <target state="translated">It depends on the intentions of those who are fighting the NPC, too. PCs who want to knock out a foe rather than kill them can simply state that as their intention and describe their actions differently—using the flat of the blade, so to speak.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8e82551d16b22fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Creatures</source>
+        <target state="translated">Creatures</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0e668df453152836" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Whenever possible, creatures should be handled like other NPCs. They don’t follow the same rules as the player characters. If anything, they should have greater latitude in doing things that don’t fit the normal mold. A many-armed beast should be able to attack multiple foes. A charging rhino-like animal ought to be able to move a considerable distance and attack as part of a single action.</source>
+        <target state="translated">Whenever possible, creatures should be handled like other NPCs. They don’t follow the same rules as the player characters. If anything, they should have greater latitude in doing things that don’t fit the normal mold. A many-armed beast should be able to attack multiple foes. A charging rhino-like animal ought to be able to move a considerable distance and attack as part of a single action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="847f2a5b21725551" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Consider creature size very carefully. For those that are quick and hard to hit, hinder attacks against them. Large, strong creatures should be easier to hit, so ease attacks against them. However, you should freely give the stagger ability to anything twice as large as a human. This means that if the creature strikes a foe, the target must make an immediate Might defense roll or lose its next turn.</source>
+        <target state="translated">Consider creature size very carefully. For those that are quick and hard to hit, hinder attacks against them. Large, strong creatures should be easier to hit, so ease attacks against them. However, you should freely give the stagger ability to anything twice as large as a human. This means that if the creature strikes a foe, the target must make an immediate Might defense roll or lose its next turn.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="38895060113004e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A creature’s level is a general indicator of its toughness, combining aspects of power, defense, intelligence, speed, and more into one rating. In theory, a small creature with amazing powers or extremely deadly venom could be high level, and a huge beast that isn’t very bright and isn’t much of a fighter could be low level. But these examples go against type. Generally, smaller creatures have less health and are less terrifying in combat than larger ones.</source>
+        <target state="translated">A creature’s level is a general indicator of its toughness, combining aspects of power, defense, intelligence, speed, and more into one rating. In theory, a small creature with amazing powers or extremely deadly venom could be high level, and a huge beast that isn’t very bright and isn’t much of a fighter could be low level. But these examples go against type. Generally, smaller creatures have less health and are less terrifying in combat than larger ones.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">258</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="70c917eb862429e1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The Cypher System has no system for building creatures. There is no rule that says a creature with a certain ability should be a given level, and there is no rule dictating how many abilities a creature of a given level should have. But keep the spirit of the system in mind. Lower-level creatures are less dangerous. A level 1 creature could be poisonous, but its venom should inflict a few points of damage at most. The venom of a level 6 creature, however, might knock a PC down a step on the damage track or put them into a coma if they fail a Might defense roll. A low-level creature might be able to fly, phase through objects, or teleport because these abilities make it more interesting but not necessarily more dangerous. The value of such abilities depends on the creature that uses them. In other words, a phasing rodent is not overly dangerous, but a phasing battle juggernaut is terrifying. Basic elements such as health, damage, and offensive or defensive powers (such as poison, paralysis, disintegration, immunity to attacks, and so on) need to be tied directly to level—higher-level creatures get better abilities and more of them.</source>
+        <target state="translated">The Cypher System has no system for building creatures. There is no rule that says a creature with a certain ability should be a given level, and there is no rule dictating how many abilities a creature of a given level should have. But keep the spirit of the system in mind. Lower-level creatures are less dangerous. A level 1 creature could be poisonous, but its venom should inflict a few points of damage at most. The venom of a level 6 creature, however, might knock a PC down a step on the damage track or put them into a coma if they fail a Might defense roll. A low-level creature might be able to fly, phase through objects, or teleport because these abilities make it more interesting but not necessarily more dangerous. The value of such abilities depends on the creature that uses them. In other words, a phasing rodent is not overly dangerous, but a phasing battle juggernaut is terrifying. Basic elements such as health, damage, and offensive or defensive powers (such as poison, paralysis, disintegration, immunity to attacks, and so on) need to be tied directly to level—higher-level creatures get better abilities and more of them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3e7581925ad1d26" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Balancing Encounters</source>
+        <target state="translated">Balancing Encounters</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95896635d25fe905" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In the Cypher System, there is no concept of a “balanced encounter.” There is no system for matching creatures of a particular level or tasks of a particular difficulty to characters of a particular tier. To some people, that might seem like a bad thing. But matching character builds to exacting challenges is not part of this game. It’s about story. So whatever you want to happen next in the story is a fine encounter as long as it’s fun. You’re not denying the characters XP if you make things too easy or too difficult, because that’s not how XP are earned. If things are too difficult for the PCs, they’ll have to flee, come up with a new strategy, or try something else entirely. The only thing you have to do to maintain “balance” is set difficulty within that encounter accurately and consistently.</source>
+        <target state="translated">In the Cypher System, there is no concept of a “balanced encounter.” There is no system for matching creatures of a particular level or tasks of a particular difficulty to characters of a particular tier. To some people, that might seem like a bad thing. But matching character builds to exacting challenges is not part of this game. It’s about story. So whatever you want to happen next in the story is a fine encounter as long as it’s fun. You’re not denying the characters XP if you make things too easy or too difficult, because that’s not how XP are earned. If things are too difficult for the PCs, they’ll have to flee, come up with a new strategy, or try something else entirely. The only thing you have to do to maintain “balance” is set difficulty within that encounter accurately and consistently.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">264</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8f0795342da01b29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In a game like the Cypher System, if everyone’s having fun, the game is balanced. Two things will unbalance the game in this context.</source>
+        <target state="translated">In a game like the Cypher System, if everyone’s having fun, the game is balanced. Two things will unbalance the game in this context.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">266</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5a8473b1e4d8090d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One or more PCs are far more interesting than the others. Note that it says “more interesting,” not “more powerful.” If my character can do all kinds of cool things but can’t destroy robots as efficiently as yours does, I still might have a whole lot of fun.</source>
+        <target state="translated">One or more PCs are far more interesting than the others. Note that it says “more interesting,” not “more powerful.” If my character can do all kinds of cool things but can’t destroy robots as efficiently as yours does, I still might have a whole lot of fun.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e933c8201a7d29c2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The challenges the PCs face are routinely too easy or too difficult.</source>
+        <target state="translated">The challenges the PCs face are routinely too easy or too difficult.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">270</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e88b4e1d927b0ba" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The first issue should be handled by the character creation rules. If there’s a problem, it might be that poor choices were made or a player isn’t taking full advantage of their options. If someone really doesn’t enjoy playing their character, allow them to alter the PC or—perhaps better—create a new one.</source>
+        <target state="translated">The first issue should be handled by the character creation rules. If there’s a problem, it might be that poor choices were made or a player isn’t taking full advantage of their options. If someone really doesn’t enjoy playing their character, allow them to alter the PC or—perhaps better—create a new one.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">272</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5dcffbeca5e388fa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The second issue is trickier. As previously stated, there is no formula that states that N number of level X NPCs are a good match for tier Y characters. However, when the game has four or five beginning characters, the following guidelines are generally true.</source>
+        <target state="translated">The second issue is trickier. As previously stated, there is no formula that states that N number of level X NPCs are a good match for tier Y characters. However, when the game has four or five beginning characters, the following guidelines are generally true.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">274</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="01ea92cd940dfd8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 1 opponents will be nothing but a nuisance, even in sizable numbers (twelve to sixteen).</source>
+        <target state="translated">Level 1 opponents will be nothing but a nuisance, even in sizable numbers (twelve to sixteen).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">275</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b67e3844f99747f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 2 opponents will not be a challenge unless in numbers of twelve or more.</source>
+        <target state="translated">Level 2 opponents will not be a challenge unless in numbers of twelve or more.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">276</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="051392d3019462f8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 3 opponents will be an interesting challenge in numbers of four to eight.</source>
+        <target state="translated">Level 3 opponents will be an interesting challenge in numbers of four to eight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="26f948ceeca2133d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level 4 opponents will be an interesting challenge in numbers of two or three.</source>
+        <target state="translated">Level 4 opponents will be an interesting challenge in numbers of two or three.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">278</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d8ef994f867c9ec5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single level 5 opponent might be an interesting challenge.</source>
+        <target state="translated">A single level 5 opponent might be an interesting challenge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">279</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e336c118da94ec95" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single level 6 opponent will be a serious challenge.</source>
+        <target state="translated">A single level 6 opponent will be a serious challenge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2aedba46dc038a19" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single level 7 or 8 opponent will likely win in a fight.</source>
+        <target state="translated">A single level 7 or 8 opponent will likely win in a fight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="36342dcda866feea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single level 9 or 10 opponent will win in a fight without breaking a sweat.</source>
+        <target state="translated">A single level 9 or 10 opponent will win in a fight without breaking a sweat.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11647e627c9fdf96" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>But it depends on the situation at hand. If the PCs are already worn down from prior encounters, or if they have the right cyphers, any of the expectations listed above can change. That’s why there is no system for balancing encounters. Just keep in mind that beginning characters are pretty hardy and probably have some interesting resources, so you aren’t likely to wipe out the group by accident. Character death is unlikely unless the PCs have already been through a number of other encounters and are worn down.</source>
+        <target state="translated">But it depends on the situation at hand. If the PCs are already worn down from prior encounters, or if they have the right cyphers, any of the expectations listed above can change. That’s why there is no system for balancing encounters. Just keep in mind that beginning characters are pretty hardy and probably have some interesting resources, so you aren’t likely to wipe out the group by accident. Character death is unlikely unless the PCs have already been through a number of other encounters and are worn down.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">284</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

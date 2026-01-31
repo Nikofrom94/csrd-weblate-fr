@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="4a12b9c820cfb05f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Defends the Gate #Focus #TankFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f605fd799915068f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Everyone wants you on their side when it comes to a fight because nothing gets by you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fc964473089778bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Fortified Position]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="41a1b61c40a2f19d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Rally to Me]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5ca0be9799abdee" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Mind for Might]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="37aa1bab194e5519" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Fortification Builder]{1} or [Divert Attacks]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5fa4be0c52d496a8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Greater Enhanced Might]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="966d9e7735dcf29c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Reinforcing Field]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a534867b550ff553" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Generate Force Field]{1} or [Stun Attack]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0dd6951087564cf2" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: A strategically important structure collapses. The enemy attacks from an unexpected direction.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

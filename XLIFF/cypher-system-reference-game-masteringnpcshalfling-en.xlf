@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="be4a6348fd1d235e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>HALFLING #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target state="translated">HALFLING #lvl3 (9) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e2c22d5870ca326d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions.</source>
+        <target state="translated">A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="caeddf8911edabb1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Defense, comfort</source>
+        <target state="translated">Motive: Defense, comfort</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ab94cf5f4bd1567" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 9</source>
+        <target state="translated">Health: 9</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="04d2a5112eb75996" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 3 points</source>
+        <target state="translated">Damage Inflicted: 3 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68309795e18ef830" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Armor: 0 or 1</source>
+        <target state="translated">Armor: 0 or 1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ef60538f8142837" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Intellect defense, pleasant social interactions, and stealth as level 4</source>
+        <target state="translated">Modifications: Intellect defense, pleasant social interactions, and stealth as level 4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f76ec0063049d943" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Halflings are remarkably skilled with knives, clubs, slings, and small bows. They prefer not to fight larger creatures head on; instead they stay at range, plan ambushes to quickly overwhelm opponents, or team up with a larger ally so they can attack a foe’s back and legs.</source>
+        <target state="translated">Combat: Halflings are remarkably skilled with knives, clubs, slings, and small bows. They prefer not to fight larger creatures head on; instead they stay at range, plan ambushes to quickly overwhelm opponents, or team up with a larger ally so they can attack a foe’s back and legs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e8d042cee7421c92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Halflings enjoy the company of larger folks as long as they aren’t mocked for their size. They’re brave and determined when they need to be, though some might complain about wanting to go home.</source>
+        <target state="translated">Interaction: Halflings enjoy the company of larger folks as long as they aren’t mocked for their size. They’re brave and determined when they need to be, though some might complain about wanting to go home.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55c1757509732232" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: A young halfling wants to have some adventures before settling down. The local thieves’ guild is said to employ halflings as lookouts and cutpurses, sometimes disguised as human children.</source>
+        <target state="translated">Use: A young halfling wants to have some adventures before settling down. The local thieves’ guild is said to employ halflings as lookouts and cutpurses, sometimes disguised as human children.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7ad26a0b46082743" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: In addition to their weapons (and perhaps some light armor) and food, a halfling might have an interesting cypher or two. Most carry several useful moderately priced items, or an expensive item such as an heirloom snuff box or a nice bag of tools.</source>
+        <target state="translated">Loot: In addition to their weapons (and perhaps some light armor) and food, a halfling might have an interesting cypher or two. Most carry several useful moderately priced items, or an expensive item such as an heirloom snuff box or a nice bag of tools.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="70f3d9b7d714ee7a" weblate-flags="md-text, safe-html, strict-same">
+        <source>DEEP ONE #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="94cf34f95da6a253" weblate-flags="md-text, safe-html, strict-same">
+        <source>Some deep ones dwell in coastal regions on land, usually in isolated villages where they might attempt to pass for human. They are able to breathe both air and water. Most, however, thrive in the ocean depths, in ancient underwater cities like “Cyclopean and many-columned Y’ha-nthlei.” Deep ones sometimes breed with insane humans to produce squamous offspring that eventually develop fully into deep ones well after maturity (or even middle age).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a7119bf5473c34a9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for flesh</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7536043ae093972" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Anywhere near a large body of salt water</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ce49379920a9bb20" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 15</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a616eaf82e71880" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c9ebe8c5fc40651" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1700b6c60264618b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short on land; long in the water</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="266647436b0932c0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Swims as level 6; perception as level 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8deaec06105ec588" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Deep ones attack with tooth and claw most often, although occasionally one might use a weapon. They usually give no quarter, nor ask for it. Their skin is subject to drying, and they take 1 extra point of damage (ignores Armor) from any attack that deals fire or heat damage. Because of this weakness, deep ones sometimes retreat from fire and fire attacks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1c7369f7ea9e1130" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Deep ones are a strange mix of utter alienness and the vestiges of lost humanity. They are foul and degenerate creatures by human standards, however. Many still retain the ability to speak human languages, but all speak their own slurred, unearthly tongue.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b50b2160b6863c17" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deep ones spend a great deal of time in the sincere adoration of their gods, Mother Hydra, Father Dagon, and Cthulhu. Their religion demands frequent blood sacrifices.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b330c4b58862b940" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: The PCs wander into a small coastal village where everyone seems standoffish and oddly distant. A few people appear to be sickly and malformed, perhaps from mutation or birth defects. Some of the villagers have squamous skin because they are transforming into deep ones. And, of course, true deep ones hide within the community as well.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b270397ccc4378ab" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: A few deep ones will have a cypher.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cd6138b61f14f612" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The deep one produces a net and throws it over the character. The only physical action the victim can take is to try to get free, as either a Might-based or a Speed-based action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

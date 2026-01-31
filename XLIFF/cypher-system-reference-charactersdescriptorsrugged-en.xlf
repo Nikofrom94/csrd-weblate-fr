@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a034d3a92157a703" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rugged #Descriptor #Core</source>
+        <target state="translated">Rugged #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eab9409aea6f0d5e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a nature lover accustomed to living rough, pitting your wits against the elements. Most likely, you’re a skilled hunter, gatherer, or naturalist. Years of living in the wild have left their mark with a worn countenance, wild hair, or scars. Your clothing is probably much less refined than the garments worn by city dwellers.</source>
+        <target state="translated">You’re a nature lover accustomed to living rough, pitting your wits against the elements. Most likely, you’re a skilled hunter, gatherer, or naturalist. Years of living in the wild have left their mark with a worn countenance, wild hair, or scars. Your clothing is probably much less refined than the garments worn by city dwellers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ff4d3c2b2ec75886" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving climbing, jumping, running, and swimming.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving climbing, jumping, running, and swimming.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2bc15d979a85b709" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving training, riding, or placating natural animals.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving training, riding, or placating natural animals.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18abdca304f7d002" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving identifying or using natural plants.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving identifying or using natural plants.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="44829f97acc65b7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: You have no social graces and prefer animals to people. Any task involving charm, persuasion, etiquette, or deception is hindered.</source>
+        <target state="translated">Inability: You have no social graces and prefer animals to people. Any task involving charm, persuasion, etiquette, or deception is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="488c5843be1564b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You carry an explorer’s pack with rope, two days’ rations, a bedroll, and other tools needed for outdoor survival.</source>
+        <target state="translated">Additional Equipment: You carry an explorer’s pack with rope, two days’ rations, a bedroll, and other tools needed for outdoor survival.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fcc185de42d536b2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Against your better judgment, you joined the other PCs because you saw that they were in danger.</source>
+        <target state="translated">Against your better judgment, you joined the other PCs because you saw that they were in danger.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="971d24e3addec4de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs convinced you that joining the group would be in your best interests.</source>
+        <target state="translated">One of the other PCs convinced you that joining the group would be in your best interests.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73cd813958c4fcf4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re afraid of what might happen if the other PCs fail.</source>
+        <target state="translated">You’re afraid of what might happen if the other PCs fail.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0c4b4386930567aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>There is reward involved, and you need the money.</source>
+        <target state="translated">There is reward involved, and you need the money.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

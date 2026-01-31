@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2f0d74c5e76096f7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Abides in Stone #Focus #TankFocus #Core</source>
+        <target state="translated">Abides in Stone #Focus #TankFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="179377229dc0a53a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.</source>
+        <target state="translated">Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="548bece547cfda8a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Golem Body]{1}</source>
+        <target state="translated">Tier 1: [Golem Body]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2c105d6c18d8d713" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Golem Healing]{1}</source>
+        <target state="translated">Tier 1: [Golem Healing]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7144fdb7ad355e9a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Golem Grip]{1}</source>
+        <target state="translated">Tier 2: [Golem Grip]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c443606676d4dcec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Trained Basher]{1}</source>
+        <target state="translated">Tier 3: [Trained Basher]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f251ab2de5d22f32" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Golem Stomp]{1} or [Weaponization]{2}</source>
+        <target state="translated">Tier 3: [Golem Stomp]{1} or [Weaponization]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee5c20ac36abdfa5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Deep Reserves]{1}</source>
+        <target state="translated">Tier 4: [Deep Reserves]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="009e08df7a2f433b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Specialized Basher]{1}</source>
+        <target state="translated">Tier 5: [Specialized Basher]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="697f677ccddb15aa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Still As a Statue]{1}</source>
+        <target state="translated">Tier 5: [Still As a Statue]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64ba6d90164ad2c8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Ultra Enhancement]{1} or [Mind Surge]{2}</source>
+        <target state="translated">Tier 6: [Ultra Enhancement]{1} or [Mind Surge]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0115174b3e85c1c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.</source>
+        <target state="translated">GM Intrusions: Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

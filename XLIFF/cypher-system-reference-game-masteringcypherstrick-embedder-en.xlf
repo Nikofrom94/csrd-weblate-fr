@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d1279727be56fd1f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TRICK EMBEDDER #Cypher #Fantastic #Core</source>
+        <target state="translated">TRICK EMBEDDER #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dabf9a2a857fd3e2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: A nonintelligent animal immediately and perfectly learns one trick (two tricks if the cypher is level 4 or higher) it is capable of physically performing (roll over, heel, spin, shake, go to an indicated place within long range, and so on). The trick must be designated when the cypher is activated.</source>
+        <target state="translated">Effect: A nonintelligent animal immediately and perfectly learns one trick (two tricks if the cypher is level 4 or higher) it is capable of physically performing (roll over, heel, spin, shake, go to an indicated place within long range, and so on). The trick must be designated when the cypher is activated.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

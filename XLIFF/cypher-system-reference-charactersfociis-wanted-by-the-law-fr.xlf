@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="606a5e899a542a53" weblate-flags="md-text, safe-html, strict-same">
+        <source>Is Wanted by the Law #Focus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6d5078f9a28b2c55" weblate-flags="md-text, safe-html, strict-same">
+        <source>“WANTED, DEAD OR ALIVE” posters (or their equivalent) have appeared featuring your face. It’s up to you whether it’s a mistake that snowballed out of control or you actually would kill someone just for looking at you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6abd81343c2f9f22" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Enhanced Speed]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e62e036ad75b558d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Danger Sense]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9aec98017bb62799" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Surprise Attack]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="651993a0386f06de" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Outlaw Reputation]{1} or [Successive Attack]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="eb40250df9e3ec65" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Fast Kill]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="899276aa872c120e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Band of Desperados]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fe76ece381042bd0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Not Dead Yet]{1} or [Lethal Damage]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="937bfbedd282fb84" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: Most people do not take well to discovering a wanted outlaw in their midst.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

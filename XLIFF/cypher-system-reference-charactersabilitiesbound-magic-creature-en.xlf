@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ed6da2f131304eea" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bound Magic Creature #Ability #CompanionAbility #Low #Core</source>
+        <target state="translated">Bound Magic Creature #Ability #CompanionAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9deb28242496f866" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have a level 3 magic ally bound to a physical object (perhaps a minor djinn bound to a lamp, a lesser demon bound to a coin, or a spirit bound to a mirror). The magic ally doesn’t yet have the full power that one of its kind could possess when mature. Normally, the ally remains quiescent in its bound object. When you use an action to manifest it, it appears next to you as a creature that can converse with you. The creature has its own personality determined by the GM and is a level higher than its base level for one area of knowledge (such as local history). The GM determines whether the magic ally has a long-term goal of its own.</source>
+        <target state="translated">You have a level 3 magic ally bound to a physical object (perhaps a minor djinn bound to a lamp, a lesser demon bound to a coin, or a spirit bound to a mirror). The magic ally doesn’t yet have the full power that one of its kind could possess when mature. Normally, the ally remains quiescent in its bound object. When you use an action to manifest it, it appears next to you as a creature that can converse with you. The creature has its own personality determined by the GM and is a level higher than its base level for one area of knowledge (such as local history). The GM determines whether the magic ally has a long-term goal of its own.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f80816be758b738" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Each time the magic ally becomes physically manifest, it remains so for up to one hour. During that period, it accompanies you and follows your instructions. The magic ally must remain an immediate distance from you; if it moves farther away, it is yanked back into its object at the end of your following turn and cannot return until after your next ten-hour recovery roll. It doesn’t attack creatures, but it can use its action to serve as an asset for any one attack you make on your turn. Otherwise, it can take actions on its own (though you’ll likely roll for it).</source>
+        <target state="translated">Each time the magic ally becomes physically manifest, it remains so for up to one hour. During that period, it accompanies you and follows your instructions. The magic ally must remain an immediate distance from you; if it moves farther away, it is yanked back into its object at the end of your following turn and cannot return until after your next ten-hour recovery roll. It doesn’t attack creatures, but it can use its action to serve as an asset for any one attack you make on your turn. Otherwise, it can take actions on its own (though you’ll likely roll for it).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c799fa77a2e7aa49" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If the creature is reduced to 0 health, it dissipates. It reforms in its object in 1d6 + 2 days.</source>
+        <target state="translated">If the creature is reduced to 0 health, it dissipates. It reforms in its object in 1d6 + 2 days.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="482c47a7c0d2c297" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you lose the bound object, you retain a sense of the direction in which it lies.</source>
+        <target state="translated">If you lose the bound object, you retain a sense of the direction in which it lies.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b83ef7c72d883205" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to manifest the magic creature.</source>
+        <target state="translated">Action to manifest the magic creature.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

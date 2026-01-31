@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="0204f77b61824f76" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat #Flavor #Core</source>
+        <target state="translated">Combat #Flavor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="697fe51e286e0fec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.</source>
+        <target state="translated">Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5117761a75630b35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FIRST-TIER COMBAT ABILITIES</source>
+        <target state="translated">FIRST-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e56674c0e79b1e5b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Danger Sense</source>
+        <target state="translated">Danger Sense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19de7ee089c7cb9c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Practiced in Armor</source>
+        <target state="translated">Practiced in Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fcda801659ae6623" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Practiced With Medium Weapons</source>
+        <target state="translated">Practiced With Medium Weapons</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="45a607f47fe0002e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SECOND-TIER COMBAT ABILITIES</source>
+        <target state="translated">SECOND-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="50db84c99342910a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bloodlust</source>
+        <target state="translated">Bloodlust</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="542379f93e5bfcab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat Prowess</source>
+        <target state="translated">Combat Prowess</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d3b0f8c47975eee8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trained Without Armor</source>
+        <target state="translated">Trained Without Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4bacd45b85d60a60" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>THIRD-TIER COMBAT ABILITIES</source>
+        <target state="translated">THIRD-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a42d500100a8ad1c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Practiced With All Weapons</source>
+        <target state="translated">Practiced With All Weapons</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1ce56df7356dc38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill With Attacks</source>
+        <target state="translated">Skill With Attacks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07b2e4c112fc6bbb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill With Defense</source>
+        <target state="translated">Skill With Defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ba853565a2f6dbec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Successive Attack</source>
+        <target state="translated">Successive Attack</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="115bfe2dbf58c731" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FOURTH-TIER COMBAT ABILITIES</source>
+        <target state="translated">FOURTH-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f1d618a2790f473" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Capable Warrior</source>
+        <target state="translated">Capable Warrior</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f0fb67df9924a592" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Deadly Aim</source>
+        <target state="translated">Deadly Aim</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="086bea12dece4b87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fury</source>
+        <target state="translated">Fury</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1b91feedb3943f36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Misdirect</source>
+        <target state="translated">Misdirect</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1568996817fb2d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Spray</source>
+        <target state="translated">Spray</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eba71ce9497ede97" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FIFTH-TIER COMBAT ABILITIES</source>
+        <target state="translated">FIFTH-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="870569bb4d694bf9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Experienced Defender</source>
+        <target state="translated">Experienced Defender</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b200ea822c83b5e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hard Target</source>
+        <target state="translated">Hard Target</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1a43ccce6b135407" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Parry</source>
+        <target state="translated">Parry</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c2e4232955eee84b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SIXTH-TIER COMBAT ABILITIES</source>
+        <target state="translated">SIXTH-TIER COMBAT ABILITIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4459243ced276ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Greater Skill With Attacks</source>
+        <target state="translated">Greater Skill With Attacks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="584f8a4048db05df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mastery in Armor</source>
+        <target state="translated">Mastery in Armor</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b7513436b2be974" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mastery With Defense</source>
+        <target state="translated">Mastery With Defense</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

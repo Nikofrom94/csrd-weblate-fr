@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b2d70288f4956191" weblate-flags="md-text, safe-html, strict-same">
+        <source>WEAPON ENHANCEMENT #Cypher #Fantastic #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ea0ea44d5addece9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="947acf8a38ca606e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Effect: Modifies a weapon’s attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="db4c10f55b1a19de" weblate-flags="md-text, safe-html, strict-same">
+        <source>01–10</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e76e698656262010" weblate-flags="md-text, safe-html, strict-same">
+        <source>Eases attack by one step</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="56343de7c46ac68f" weblate-flags="md-text, safe-html, strict-same">
+        <source>11–20</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="86c0828966c18a00" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus electrical damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7ff65fc7aff773cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>21–30</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bd902a6bf177f103" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus cold damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fba70be65bab37d8" weblate-flags="md-text, safe-html, strict-same">
+        <source>31–40</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a406910fb151532f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus poison damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ba6e720cfbceda2" weblate-flags="md-text, safe-html, strict-same">
+        <source>41–50</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3d35969cc28a377e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus acid damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="94a9e839eba00b39" weblate-flags="md-text, safe-html, strict-same">
+        <source>51–60</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="53788ec63cda3f50" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus fire damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="55f4329799449dea" weblate-flags="md-text, safe-html, strict-same">
+        <source>61–70</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fb3d517b8006ce70" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus sonic damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee167e5647490699" weblate-flags="md-text, safe-html, strict-same">
+        <source>71–80</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="98c4f2c8827796d0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Deals bonus psychic damage equal to cypher level</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ceae00e7d5aa7bce" weblate-flags="md-text, safe-html, strict-same">
+        <source>81–90</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bf4df52d22463f4f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Knockback (on 18–20 on successful attack roll, target knocked back 30 feet [9 m])</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9279b13a426c6521" weblate-flags="md-text, safe-html, strict-same">
+        <source>91–95</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7565a2c28dd3e79c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Holding (on 18–20 on successful attack roll, target can’t act on its {1}next turn)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f086e8b394241dc" weblate-flags="md-text, safe-html, strict-same">
+        <source>96–97</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0846f6809c002d90" weblate-flags="md-text, safe-html, strict-same">
+        <source>Eases attack by two steps</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4960374a3f3dfec4" weblate-flags="md-text, safe-html, strict-same">
+        <source>98</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e51127b476a646fd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Banishing (on 18–20 on successful attack roll, target is sent to {1}random location at least 100 miles [160 km] away)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c5ac1ca8e1ccd1ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>99</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d163c1f301c677d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Explodes, inflicting damage equal {1}to cypher level to all within immediate range</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8818cf9264fcc780" weblate-flags="md-text, safe-html, strict-same">
+        <source>00</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="480c5d9aaac0a500" weblate-flags="md-text, safe-html, strict-same">
+        <source>Heart-seeking (on 18–20 on successful attack roll, target is killed)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

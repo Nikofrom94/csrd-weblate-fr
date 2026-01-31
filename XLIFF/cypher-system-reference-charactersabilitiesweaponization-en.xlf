@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="718f81d817aa2655" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weaponization #Ability #MetaAbility #Mid #Core</source>
+        <target state="translated">Weaponization #Ability #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="75c4fd4e6e35a057" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One light or medium melee weapon of your choice is built into your body, and you are trained in using it. The weapon is concealed until you wish to use it.</source>
+        <target state="translated">One light or medium melee weapon of your choice is built into your body, and you are trained in using it. The weapon is concealed until you wish to use it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

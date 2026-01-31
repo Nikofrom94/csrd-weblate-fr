@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="45f92be5bbbabe92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Store Energy #Ability #CureAbility #MetaAbility #Mid #Core</source>
+        <target state="translated">Store Energy #Ability #CureAbility #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aae1769d2014516d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you drain energy with your focus abilities, you can store some of it for later in a Siphon Pool. You can spend points from your Siphon Pool as if they were from your Might or Speed Pool, or use an action to spend them to restore an equal number of points to your Might or Speed Pool. Your Siphon Pool can safely store up to 3 points; each point beyond that hinders all of your tasks.</source>
+        <target state="translated">When you drain energy with your focus abilities, you can store some of it for later in a Siphon Pool. You can spend points from your Siphon Pool as if they were from your Might or Speed Pool, or use an action to spend them to restore an equal number of points to your Might or Speed Pool. Your Siphon Pool can safely store up to 3 points; each point beyond that hinders all of your tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

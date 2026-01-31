@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="fdba0b5617939e54" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Willing Sacrifice #Ability #CureAbility #MetaAbility #Mid #Core</source>
+        <target state="translated">Willing Sacrifice #Ability #CureAbility #MetaAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e9258ea7fb74ce3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you take an attack meant for another character, you know how to take the attack in a way that minimizes its effect. The attack automatically strikes you, but instead of taking 1 additional point of damage, you take 1 less point of damage (to a minimum of 1 point). Additionally, you can take more than one attack in a given round provided that all the attacks were originally meant for one target.</source>
+        <target state="translated">When you take an attack meant for another character, you know how to take the attack in a way that minimizes its effect. The attack automatically strikes you, but instead of taking 1 additional point of damage, you take 1 less point of damage (to a minimum of 1 point). Additionally, you can take more than one attack in a given round provided that all the attacks were originally meant for one target.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95da8b462db7eb6c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Two characters attempting to draw an attack at the same time cancel each other out.)</source>
+        <target state="translated">(Two characters attempting to draw an attack at the same time cancel each other out.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

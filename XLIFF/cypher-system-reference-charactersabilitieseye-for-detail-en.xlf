@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="99377eb8661033ed" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Eye for Detail (2 Intellect points) #Ability #InformationAbility #Low #Core</source>
+        <target state="translated">Eye for Detail (2 Intellect points) #Ability #InformationAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a1d5ce2e3f8fbf9b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you spend five minutes or so thoroughly exploring an area no larger than a short distance in diameter, you can ask the GM one question about the area. The GM must answer you truthfully. You cannot use this more than one time per area per 24 hours.</source>
+        <target state="translated">When you spend five minutes or so thoroughly exploring an area no larger than a short distance in diameter, you can ask the GM one question about the area. The GM must answer you truthfully. You cannot use this more than one time per area per 24 hours.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a186bb490b6ac969" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, five minutes to complete.</source>
+        <target state="translated">Action to initiate, five minutes to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="770e3179bd08c767" weblate-flags="md-text, safe-html, strict-same">
+        <source>Awakens Dreams #Focus #EnvironmentFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="413da4da766fe7d4" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can pull images from dreams and bring them to life in the waking world.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7ceab636fc724428" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Dreamcraft]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ba9a368b6c80ccbf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Oneirochemy]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="364b1a6ceb219326" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Dream Thief]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1054fb292ad09ee7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Dream Becomes Reality]{1} or [Enhanced Intellect]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d42ef81dac932648" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Daydream]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cb5cd020fe9506fb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Nightmare]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d89dff04ebd2dcd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Chamber of Dreams]{1} or [Reactive Field]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9395204dd1645819" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: An unexpected sleepwalking episode puts the character into a dangerous situation. A nightmare breaks free of a dream.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

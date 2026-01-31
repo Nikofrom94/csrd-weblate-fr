@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3a684328df867592" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Crystalline Body #Ability #CureAbility #MetaAbility #ProtectionAbility #Low #Core</source>
+        <target state="translated">Crystalline Body #Ability #CureAbility #MetaAbility #ProtectionAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a69df1a99d7b0801" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You are composed of animate, translucent crystal the color of amber. Work with your GM to decide your exact form, though it is likely about the shape and size of a humanoid. Your crystal body grants you +2 to Armor and +4 to your Might Pool. However, you’re not quick and your Speed defense tasks are hindered. Certain conditions, like mundane diseases and poisons, do not affect you. Your crystalline body repairs itself more slowly than a body of living flesh would. You have only the one-round, one-hour, and ten-hour recovery rolls available each day; you do not have a ten-minute recovery roll available. Any ability you have that requires a ten-minute recovery roll instead requires a one-hour recovery roll.</source>
+        <target state="translated">You are composed of animate, translucent crystal the color of amber. Work with your GM to decide your exact form, though it is likely about the shape and size of a humanoid. Your crystal body grants you +2 to Armor and +4 to your Might Pool. However, you’re not quick and your Speed defense tasks are hindered. Certain conditions, like mundane diseases and poisons, do not affect you. Your crystalline body repairs itself more slowly than a body of living flesh would. You have only the one-round, one-hour, and ten-hour recovery rolls available each day; you do not have a ten-minute recovery roll available. Any ability you have that requires a ten-minute recovery roll instead requires a one-hour recovery roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

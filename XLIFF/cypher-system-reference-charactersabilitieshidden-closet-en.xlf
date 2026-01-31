@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="151199861b21a64c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Hidden Closet #Ability #EnvironmentAbility #Low #Core</source>
+        <target state="translated">Hidden Closet #Ability #EnvironmentAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b7d9b9e3c4dbf992" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The magic ally from your Bound Magic Creature ability can store items for you within its bound object, including extra sets of clothing, tools, food, and so on. The interior of the object is, in effect, a 10-foot (3 m) square pocket dimension that normally only the magic ally can access.</source>
+        <target state="translated">The magic ally from your Bound Magic Creature ability can store items for you within its bound object, including extra sets of clothing, tools, food, and so on. The interior of the object is, in effect, a 10-foot (3 m) square pocket dimension that normally only the magic ally can access.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

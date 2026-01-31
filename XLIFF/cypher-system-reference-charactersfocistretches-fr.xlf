@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="04b3f2db46f2e374" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stretches #Focus #Core #SuperHeroes</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="809b116271362932" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bc0b882e8dec42d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Contortionist</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5c0a6c5f7534a390" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: Far Step</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ff14704fed5f3c0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Elastic Grip</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b3fc6d28e8ca7a8d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: Safe Fall</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="849076829a82cfdc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: Bypass Barrier or Misdirect</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="47bb5229f6eaece0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: Resilience</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6ad8b2ad18dcfcec" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: Free to Move</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="76ab90f276300dae" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: Break the Ranks or Not Dead Yet</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6ffcd3499a1c8987" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: An attack or effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

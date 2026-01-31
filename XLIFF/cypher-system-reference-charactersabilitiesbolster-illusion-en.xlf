@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a0e72598bdf5039c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bolster Illusion (2+ Intellect points) #Ability #Core #SuperHeroes</source>
+        <target state="translated">Bolster Illusion (2+ Intellect points) #Ability #Core #SuperHeroes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c750936cc408721b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You give one of your visual illusions a limited physical reality that viewers can smell, taste, hear, and feel. This effect is bound to that illusion and acts appropriate to the illusion itself. For example, it can make the illusion of a brick wall feel like brick, the illusion of a person smell like perfume and able to open a door, and the illusion of a fireplace hot to the touch.</source>
+        <target state="translated">You give one of your visual illusions a limited physical reality that viewers can smell, taste, hear, and feel. This effect is bound to that illusion and acts appropriate to the illusion itself. For example, it can make the illusion of a brick wall feel like brick, the illusion of a person smell like perfume and able to open a door, and the illusion of a fireplace hot to the touch.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae78184ec5902c55" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The physical reality provided to your illusion is a level 1 effect with 3 health. If the illusion is used to make attacks, it inflicts only 1 point of damage (whether this is regular damage like an illusory punch or kick, or ambient damage like a falling brick wall or a fireplace’s flames). You can increase the level of the created effect by applying levels of Effort to this ability, each level of Effort increasing the effect’s level by 1.</source>
+        <target state="translated">The physical reality provided to your illusion is a level 1 effect with 3 health. If the illusion is used to make attacks, it inflicts only 1 point of damage (whether this is regular damage like an illusory punch or kick, or ambient damage like a falling brick wall or a fireplace’s flames). You can increase the level of the created effect by applying levels of Effort to this ability, each level of Effort increasing the effect’s level by 1.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3dd06e1414c847ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can activate this ability as part of the action to create an illusion (using whatever ability it is that you use to create illusions, such as Minor Illusion), or use a separate action to apply it to one of your existing illusions. The effect ends if the illusion is destroyed, you let the illusion lapse, the effect’s health is reduced to 0, or ten minutes pass.</source>
+        <target state="translated">You can activate this ability as part of the action to create an illusion (using whatever ability it is that you use to create illusions, such as Minor Illusion), or use a separate action to apply it to one of your existing illusions. The effect ends if the illusion is destroyed, you let the illusion lapse, the effect’s health is reduced to 0, or ten minutes pass.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

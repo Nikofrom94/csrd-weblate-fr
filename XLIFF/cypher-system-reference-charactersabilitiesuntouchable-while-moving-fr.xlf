@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="3d01d8446d3e394b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Untouchable While Moving (4 Intellect points) #Ability #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="01b835cc76ac431f" weblate-flags="md-text, safe-html, strict-same">
+        <source>You change your phase state for the next minute so that you can’t affect or be affected by normal matter or energy, as long as you move at least an immediate distance each round while phased. If you don’t move on your turn, the effect ends. While you are phased, only mental attacks and special transdimensional energies, devices, or abilities can affect you, but likewise you can’t attack, touch, or otherwise affect anything.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

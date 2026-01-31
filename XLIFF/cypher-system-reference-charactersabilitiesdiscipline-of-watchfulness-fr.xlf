@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="8305d3e2e6c33a77" weblate-flags="md-text, safe-html, strict-same">
+        <source>Discipline of Watchfulness (7 Intellect points) #Ability #MetaAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fd323ae7ff63cf1" weblate-flags="md-text, safe-html, strict-same">
+        <source>You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies can apply a free level of Effort to any initiative tasks they attempt. This benefit is ongoing while you remain in the allies’ company. It ends if you leave, but it resumes if you return to the allies’ company within 24 hours. If you leave the allies’ company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit. You must spend the Intellect point cost each 24 hours you wish to keep the benefit active.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

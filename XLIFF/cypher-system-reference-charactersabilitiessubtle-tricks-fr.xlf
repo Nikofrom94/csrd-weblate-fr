@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ac7588df42f6343d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Subtle Tricks #Ability #MetaAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3ca5a83bf80b25da" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can use your skills and special abilities in ways that don’t look like you’re doing anything. If the skill or ability would normally require an obvious movement, phrase, or other action by you, it instead seems to happen on its own. Instead of using your tools to pick a lock, the lock clicks open as you stand near it. Instead of manipulating a computer screen, the information you want appears on the screen when you look at it. Instead of bluffing your way past some guards, they step aside as you approach and let you through. This ability usually only works up to an immediate distance. You still must spend points and make rolls to use your skills and abilities with Subtle Tricks. Using a skill or ability in a subtle way hinders the task. This ability can’t be used to conceal your attack or defense rolls.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

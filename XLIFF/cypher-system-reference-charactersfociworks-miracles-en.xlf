@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="cb9fea8c9470e5d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Works Miracles #Focus #SupportFocus #Core</source>
+        <target state="translated">Works Miracles #Focus #SupportFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ab3026670fe258b9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can heal others with a touch, alter time to help others, and are generally beloved by everyone.</source>
+        <target state="translated">You can heal others with a touch, alter time to help others, and are generally beloved by everyone.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d6bac2cf65a225f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Healing Touch</source>
+        <target state="translated">Tier 1: Healing Touch</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="21fb05e8449344a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Alleviate</source>
+        <target state="translated">Tier 2: Alleviate</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c94d5480c4dbc3fe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Font of Healing or Miraculous Health</source>
+        <target state="translated">Tier 3: Font of Healing or Miraculous Health</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1a3c4d6cbdbac28e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Inspire Action</source>
+        <target state="translated">Tier 4: Inspire Action</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95b79fd77fc8cd4f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Undo</source>
+        <target state="translated">Tier 5: Undo</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f8ae29b38d926507" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Greater Healing Touch or Restore Life</source>
+        <target state="translated">Tier 6: Greater Healing Touch or Restore Life</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="28e06984be9c1e3b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.</source>
+        <target state="translated">GM Intrusions: Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

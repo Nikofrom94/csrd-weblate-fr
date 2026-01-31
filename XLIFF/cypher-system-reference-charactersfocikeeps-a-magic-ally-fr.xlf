@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="297c1fd00b65c885" weblate-flags="md-text, safe-html, strict-same">
+        <source>Keeps a Magic Ally #Focus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3f84c4f5c53f6738" weblate-flags="md-text, safe-html, strict-same">
+        <source>An allied magic creature bound to an object (such as a minor djinn in a lamp, or a ghost in a pipe) is your friend, protector, and weapon.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="83977638966cc8a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Bound Magic Creature]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c1e137aa5605844" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Object Bond]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e61428bb9f464c3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Hidden Closet]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97db32f5bfff2140" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Minor Wish]{1} or [Mount]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0de6c80c4e5d607e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Improved Object Bond]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="278211091c1ec685" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Moderate Wish]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="64ddba8443b913e0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Object Bond Mastery]{1} or [Trust to Luck]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="aee6740aabfc3a9f" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn’t do as asked. The creature says it’s leaving unless a task is performed for it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="47c8af6f88c6406b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GHOUL #lvl4 (12) #Creature #Core #Fantasy</source>
+        <target state="translated">GHOUL #lvl4 (12) #Creature #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="089351beae65e1d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ghouls spend almost as much time beneath the ground as corpses do, but ghouls are very much alive. Their bodies are hairless and so porcelain-smooth that their faces are sometimes mistaken for masks, albeit gore-smeared masks. Ghouls come to the surface at night to gather humanoid remains or steal those recently interred from their graves, though many prefer to eat from still-living victims.</source>
+        <target state="translated">Ghouls spend almost as much time beneath the ground as corpses do, but ghouls are very much alive. Their bodies are hairless and so porcelain-smooth that their faces are sometimes mistaken for masks, albeit gore-smeared masks. Ghouls come to the surface at night to gather humanoid remains or steal those recently interred from their graves, though many prefer to eat from still-living victims.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f239ba0afd767421" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Most ghouls are orgiastic eaters of human flesh, but a rare few ghoul populations are more refined. These wear clothes, have language and sophisticated customs, live in grand subterranean cities of their own design, and fight with milk-white blades of bone. These civilized ghouls claim to hold dominion over the remains of all humans, according to ancient custom, even if they only sometimes assert that privilege. They eat the dead in order to absorb residual memories left in the corpses.</source>
+        <target state="translated">Most ghouls are orgiastic eaters of human flesh, but a rare few ghoul populations are more refined. These wear clothes, have language and sophisticated customs, live in grand subterranean cities of their own design, and fight with milk-white blades of bone. These civilized ghouls claim to hold dominion over the remains of all humans, according to ancient custom, even if they only sometimes assert that privilege. They eat the dead in order to absorb residual memories left in the corpses.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ec539f78bfa87fc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Motive: Hunger for dead flesh; knowledge (in certain rare cases)</source>
+        <target state="translated">Motive: Hunger for dead flesh; knowledge (in certain rare cases)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ed0e2cd7a473bd39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Environment: Anywhere above ground at night, usually in groups of three or more, or in subterranean lairs</source>
+        <target state="translated">Environment: Anywhere above ground at night, usually in groups of three or more, or in subterranean lairs</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87c9a8a791257f16" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target state="translated">Health: 12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a616eaf82e71880" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Inflicted: 5 points</source>
+        <target state="translated">Damage Inflicted: 5 points</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0e4ba920766b255" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target state="translated">Movement: Short</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="22d7b1268a9c48ec" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Modifications: Two areas of knowledge as level 5</source>
+        <target state="translated">Modifications: Two areas of knowledge as level 5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e89a8b574955c845" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Combat: Ghoul saliva contains a paralytic agent. Ghoul bites (and weapons used by ghouls) inflict damage and, on a failed Might defense roll, render the target paralyzed for one minute. A paralyzed target can attempt a Might-based task each round to regain mobility, but for the next minute, attacks, defenses, and movement tasks are hindered.</source>
+        <target state="translated">Combat: Ghoul saliva contains a paralytic agent. Ghoul bites (and weapons used by ghouls) inflict damage and, on a failed Might defense roll, render the target paralyzed for one minute. A paralyzed target can attempt a Might-based task each round to regain mobility, but for the next minute, attacks, defenses, and movement tasks are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8fc391219637d2df" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Ghouls can see in the dark. They’re blind in full daylight, but civilized ghouls who travel to the surface carry lenses that cover their eyes, allowing them to see without penalty in full sunlight.</source>
+        <target state="translated">Ghouls can see in the dark. They’re blind in full daylight, but civilized ghouls who travel to the surface carry lenses that cover their eyes, allowing them to see without penalty in full sunlight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="990b1a24bd37ddd7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Interaction: Common ghouls can’t be negotiated with, though a rare civilized ghoul is an excellent linguist. These latter are willing to deal in return for the body of someone who was knowledgeable or who kept valuable secrets in life.</source>
+        <target state="translated">Interaction: Common ghouls can’t be negotiated with, though a rare civilized ghoul is an excellent linguist. These latter are willing to deal in return for the body of someone who was knowledgeable or who kept valuable secrets in life.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7e2d52c38b2e0ad2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Use: If a PC needs a piece of information not otherwise obtainable, a trip down into a ghoul city might be worthwhile, for the creatures are rumored to keep lightless libraries below the earth that store knowledge once known by humans.</source>
+        <target state="translated">Use: If a PC needs a piece of information not otherwise obtainable, a trip down into a ghoul city might be worthwhile, for the creatures are rumored to keep lightless libraries below the earth that store knowledge once known by humans.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9abb11e504fb4821" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Loot: If the PCs defeat a group of civilized ghouls, they might find a cypher and a few sets of black goggles that allow the wearer to look directly at the sun and see it as a pale circle.</source>
+        <target state="translated">Loot: If the PCs defeat a group of civilized ghouls, they might find a cypher and a few sets of black goggles that allow the wearer to look directly at the sun and see it as a pale circle.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ebffe380a85288d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM intrusion: The ghoul spits in the character’s eye, directly introducing the paralytic into the victim’s bloodstream. The victim’s Might defense roll to avoid becoming paralyzed is hindered.</source>
+        <target state="translated">GM intrusion: The ghoul spits in the character’s eye, directly introducing the paralytic into the victim’s bloodstream. The victim’s Might defense roll to avoid becoming paralyzed is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

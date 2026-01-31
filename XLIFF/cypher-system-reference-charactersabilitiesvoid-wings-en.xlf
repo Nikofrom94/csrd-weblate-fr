@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="6cbb9b1447589833" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Void Wings (3 Intellect points) #Ability #MovementAbility #Low #Core</source>
+        <target state="translated">Void Wings (3 Intellect points) #Ability #MovementAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8a1c21c1f029c931" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Swirling []{1}tter grasp you and lift you up, allowing you to fly for one round as quickly as you can move.</source>
+        <target state="translated">Swirling []{1}tter grasp you and lift you up, allowing you to fly for one round as quickly as you can move.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

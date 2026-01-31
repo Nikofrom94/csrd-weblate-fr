@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="734cd6654c7b8586" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Empathic #Descriptor #Core</source>
+        <target state="translated">Empathic #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3cf81f89895f57b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Other people are open books to you. You may have a knack for reading a person’s tells, those subtle movements that convey an individual’s mood and disposition. Or you may receive information in a more direct way, feeling a person’s emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.</source>
+        <target state="translated">Other people are open books to you. You may have a knack for reading a person’s tells, those subtle movements that convey an individual’s mood and disposition. Or you may receive information in a more direct way, feeling a person’s emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="54cc158cf986d77d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The constant bombardment of emotions from those around you likely takes a toll. You might move with the prevailing mood, swinging from giddy happiness to bitter sorrow with little warning. Or you might close yourself off and remain inscrutable to others out of a sense of self-preservation or an unconscious fear that everyone else might learn how you truly feel.</source>
+        <target state="translated">The constant bombardment of emotions from those around you likely takes a toll. You might move with the prevailing mood, swinging from giddy happiness to bitter sorrow with little warning. Or you might close yourself off and remain inscrutable to others out of a sense of self-preservation or an unconscious fear that everyone else might learn how you truly feel.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="728a71b5fd86282c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Open Mind: +4 to your Intellect Pool.</source>
+        <target state="translated">Open Mind: +4 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8fd7ac1184ac2669" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in tasks involving sensing other emotions, discerning dispositions, and getting a hunch about people around you.</source>
+        <target state="translated">Skill: You’re trained in tasks involving sensing other emotions, discerning dispositions, and getting a hunch about people around you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4859a39e45c0668d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You’re trained in all tasks involving social interaction, pleasant or otherwise.</source>
+        <target state="translated">Skill: You’re trained in all tasks involving social interaction, pleasant or otherwise.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="605c38990578c3d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Being so receptive to others’ thoughts and moods makes you vulnerable to anything that attacks your mind. Intellect defense rolls are hindered.</source>
+        <target state="translated">Inability: Being so receptive to others’ thoughts and moods makes you vulnerable to anything that attacks your mind. Intellect defense rolls are hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="26756d497d18df13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You sensed the commitment to the task the other PCs have and felt moved to help them.</source>
+        <target state="translated">You sensed the commitment to the task the other PCs have and felt moved to help them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29261ee480b32d20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You established a close bond with another PC and can’t bear to be parted from them.</source>
+        <target state="translated">You established a close bond with another PC and can’t bear to be parted from them.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1505ce7fd4ff2047" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You sensed something strange in one of the PCs and decided to join the group to see if you can sense it again and uncover the truth.</source>
+        <target state="translated">You sensed something strange in one of the PCs and decided to join the group to see if you can sense it again and uncover the truth.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="501599ffeea8b831" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You joined the PCs to escape an unpleasant relationship or negative environment.</source>
+        <target state="translated">You joined the PCs to escape an unpleasant relationship or negative environment.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

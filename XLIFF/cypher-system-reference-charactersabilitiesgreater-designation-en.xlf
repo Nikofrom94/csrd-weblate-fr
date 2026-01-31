@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="dc23c07c44eac9d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Greater Designation #Ability #Core</source>
+        <target state="translated">Greater Designation #Ability #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3761a11645bde9de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can assign an innocent or guilty label to all creatures within immediate range when you use Designation. The one label applies to all affected creatures. This lasts until you use Greater Designation again.</source>
+        <target state="translated">You can assign an innocent or guilty label to all creatures within immediate range when you use Designation. The one label applies to all affected creatures. This lasts until you use Greater Designation again.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

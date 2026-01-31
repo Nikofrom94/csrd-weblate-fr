@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="af369c59bb6a3466" weblate-flags="md-text, safe-html, strict-same">
+        <source>Impossible Walk (5+ Speed points) #Ability #MovementAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5b606483ba3c82ea" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can walk (or crawl or run) on steep inclines and horizontal surfaces (such as walls and cliffs) for the next minute as if they were flat ground. When using this ability, “down” for you is either the surface you are walking on or the normal orientation of gravity (your choice). If you apply one level of Effort, you can also walk on the ceiling or on a liquid or semi-liquid surface such as water, mud, quicksand, or even lava (although touching a dangerous surface like lava still harms you). If you apply two levels of Effort, you can also walk on air as if it were solid ground.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6012b99f17b0d6d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

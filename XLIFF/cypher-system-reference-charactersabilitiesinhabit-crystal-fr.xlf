@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="e7da3ca739990bce" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inhabit Crystal (4 Intellect points) #Ability #SensesAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c559244914d59d9" weblate-flags="md-text, safe-html, strict-same">
+        <source>You transfer your body and whatever you are carrying into a crystal at least the size of your index finger. While in the crystal, you are aware of what is going on around it, seeing and hearing through the crystal. You can even speak through the crystal and carry on conversations. You cannot take actions other than to exit the crystal. You remain within as long as you wish, but you are not in stasis and should exit to eat, drink, sleep, and so on as normal (breathing is not an issue). If the crystal is destroyed or takes major damage while you are within it, you immediately exit, cannot act for three rounds, and move two steps down the damage track.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ce8ad1fe21e2258" weblate-flags="md-text, safe-html, strict-same">
+        <source>(A character should specify where they place the crystal for the Inhabit Crystal ability before using it, even if it’s just on the ground at their feet.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9c3f02bf6e6b8e47" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to enter and exit.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

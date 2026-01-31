@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f4df55a3c509b391" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Learns Quickly #Focus #BasicFocus #Core</source>
+        <target state="translated">Learns Quickly #Focus #BasicFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7538b327a6e1492a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You deal with bad situations as they arise, learning new lessons each time.</source>
+        <target state="translated">You deal with bad situations as they arise, learning new lessons each time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a919d63ccd7470d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Enhanced Intellect]{1}</source>
+        <target state="translated">Tier 1: [Enhanced Intellect]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0567e97fa7510fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [There’s Your Problem]{1}</source>
+        <target state="translated">Tier 1: [There’s Your Problem]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e73d231aa7913f3d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Quick Study]{1}</source>
+        <target state="translated">Tier 2: [Quick Study]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c1dc03572a9e5efb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Hard to Distract]{1}</source>
+        <target state="translated">Tier 3: [Hard to Distract]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1aabe8d01c3de364" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Enhanced Intellect Edge]{1} or [Flex Skill]{2}</source>
+        <target state="translated">Tier 3: [Enhanced Intellect Edge]{1} or [Flex Skill]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9132a78c726b8e72" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Pay It Forward]{1}</source>
+        <target state="translated">Tier 4: [Pay It Forward]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0dc564f94df9267" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Enhanced Intellect]{1}</source>
+        <target state="translated">Tier 5: [Enhanced Intellect]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09f0d3fac4702d7d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Learned a Few Things]{1}</source>
+        <target state="translated">Tier 5: [Learned a Few Things]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="83d986fec975fd8e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Two Things at Once]{1} or [Skill With Defense]{2}</source>
+        <target state="translated">Tier 6: [Two Things at Once]{1} or [Skill With Defense]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b847a028de522fc0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Accidents and mistakes are great teachers.</source>
+        <target state="translated">GM Intrusions: Accidents and mistakes are great teachers.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

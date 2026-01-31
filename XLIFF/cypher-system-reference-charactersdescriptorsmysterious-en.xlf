@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1d7f99f95ec42967" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Mysterious #Descriptor #Core</source>
+        <target state="translated">Mysterious #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="279e5c0ebaac9960" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The dark figure lurking silently in the corner? That’s you. No one really knows where you came from or what your motives are—you play things close to the vest. Your manner perplexes and confounds others, but that doesn’t make you a poor friend or ally. You’re just good at keeping things to yourself, moving about unseen, and concealing your presence and identity.</source>
+        <target state="translated">The dark figure lurking silently in the corner? That’s you. No one really knows where you came from or what your motives are—you play things close to the vest. Your manner perplexes and confounds others, but that doesn’t make you a poor friend or ally. You’re just good at keeping things to yourself, moving about unseen, and concealing your presence and identity.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a30fd3703da6c9de" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in all stealth tasks.</source>
+        <target state="translated">Skill: You are trained in all stealth tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1edc3ce8414fd382" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in resisting interrogation or tricks to get you to talk.</source>
+        <target state="translated">Skill: You are trained in resisting interrogation or tricks to get you to talk.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ee0f3bb50d58eb4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Confounding: You pull talents and abilities seemingly out of nowhere. You can attempt one task in which you have no training as if you were trained, attempt a task that you are trained in as if specialized, or gain a free level of Effort with a task that you are specialized in. This ability refreshes every time you make a recovery roll, but the uses never accumulate.</source>
+        <target state="translated">Confounding: You pull talents and abilities seemingly out of nowhere. You can attempt one task in which you have no training as if you were trained, attempt a task that you are trained in as if specialized, or gain a free level of Effort with a task that you are specialized in. This ability refreshes every time you make a recovery roll, but the uses never accumulate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ac2f0359dd190c3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: People never know where they stand with you. Any task involving getting people to believe or trust you is hindered.</source>
+        <target state="translated">Inability: People never know where they stand with you. Any task involving getting people to believe or trust you is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ce301659b67da5e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You just showed up one day.</source>
+        <target state="translated">You just showed up one day.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0990ccd295cdffa6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You convinced one of the other PCs that you had invaluable skills.</source>
+        <target state="translated">You convinced one of the other PCs that you had invaluable skills.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d1e284b5382fa2d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Some equally mysterious figure told you where to be and when (but not why) to join the group.</source>
+        <target state="translated">Some equally mysterious figure told you where to be and when (but not why) to join the group.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="31cdebab8d48100b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Something—a feeling, a dream—told you where to be and when to join the group.</source>
+        <target state="translated">Something—a feeling, a dream—told you where to be and when to join the group.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

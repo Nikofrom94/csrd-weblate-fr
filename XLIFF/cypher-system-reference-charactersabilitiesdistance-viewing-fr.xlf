@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="8ab72ef17894cdb0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Distance Viewing (5 Intellect points) #Ability #SensesAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c709e4f700b70259" weblate-flags="md-text, safe-html, strict-same">
+        <source>You know that space and distance are illusions. You concentrate to create an invisible, immobile sensor at a location you have previously visited or viewed (at the GM’s discretion, you may have to succeed at an Intellect task if the location is warded). The sensor lasts for one hour. Once it is created, you can concentrate to see, hear, and smell through the sensor. It doesn’t grant you sensory capabilities beyond the norm.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="469a26cf5a7db032" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to create; action to check.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

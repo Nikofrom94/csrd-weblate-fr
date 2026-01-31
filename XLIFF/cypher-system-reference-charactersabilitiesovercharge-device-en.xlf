@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="36c7fed266f1a1e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Overcharge Device #Ability #MetaAbility #High #Core</source>
+        <target state="translated">Overcharge Device #Ability #MetaAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7ff939a411cfd2f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You infuse 1 point of energy gained from using [Absorb Energy]{1} or related ability into a device, such as an artifact, raising its effective level on its next use by three (to a maximum of 10).</source>
+        <target state="translated">You infuse 1 point of energy gained from using [Absorb Energy]{1} or related ability into a device, such as an artifact, raising its effective level on its next use by three (to a maximum of 10).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

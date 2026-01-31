@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="ffa0dd0795a20265" weblate-flags="md-text, safe-html, strict-same">
+        <source>Resonant Quake (7 Intellect points) #Ability #SpecialAttackAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bb3a23e8b0ea08e6" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can infuse the ground beneath you with a special vibration generated from your core. This creates a small quake whose epicenter you can select within a very long distance. Everyone within short range of the epicenter is subject to 8 points of damage (from shaking and being struck by toppling objects, crumbling walls, and so on). However, you are dazed for a round afterward yourself, during which time all your tasks are hindered. If you have the Move Mountains ability, both abilities cost 3 fewer Intellect points to use.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

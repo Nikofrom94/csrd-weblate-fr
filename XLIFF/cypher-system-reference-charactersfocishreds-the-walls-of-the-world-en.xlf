@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4a64aa88b7d288f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shreds the Walls of the World #Focus #MovementFocus #Core</source>
+        <target state="translated">Shreds the Walls of the World #Focus #MovementFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae8b682c7d9fd05b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.</source>
+        <target state="translated">Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b63d3dce9484af68" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Phase Sprint</source>
+        <target state="translated">Tier 1: Phase Sprint</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2edc8f766b26ab49" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Disrupting Touch</source>
+        <target state="translated">Tier 1: Disrupting Touch</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e4a3c10866327998" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Scratch Existence</source>
+        <target state="translated">Tier 2: Scratch Existence</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd278b3cbefd5e06" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Invisible Phasing or Walk Through Walls</source>
+        <target state="translated">Tier 3: Invisible Phasing or Walk Through Walls</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="26011fe29f7bee2c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Phase Detonation</source>
+        <target state="translated">Tier 4: Phase Detonation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f13f3a4821b69c8f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Very Long Sprinting</source>
+        <target state="translated">Tier 5: Very Long Sprinting</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4c87f4d0092a071f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Shred Existence or Untouchable While Moving</source>
+        <target state="translated">Tier 6: Shred Existence or Untouchable While Moving</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b838afadc93ef73" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.</source>
+        <target state="translated">GM Intrusions: Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

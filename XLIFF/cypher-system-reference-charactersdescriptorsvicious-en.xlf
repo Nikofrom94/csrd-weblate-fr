@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="48a181faf7f6a41f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Vicious #Descriptor #Core</source>
+        <target state="translated">Vicious #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="60ff36db5aa449e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You try to hide what’s inside, fold it into yourself when everything inside you screams to let go, make them pay, make them hurt, and make them bleed. Sometimes you succeed for your friends—smiling like they smile, laughing when they laugh, and sometimes even having other emotions of your own. But it’s always there, that feeling of frantic glee mixed with hate that sometimes leaps out of you when you confront a foe. Violence your friends can tolerate, but you sometimes worry they will also learn that you are cruel.</source>
+        <target state="translated">You try to hide what’s inside, fold it into yourself when everything inside you screams to let go, make them pay, make them hurt, and make them bleed. Sometimes you succeed for your friends—smiling like they smile, laughing when they laugh, and sometimes even having other emotions of your own. But it’s always there, that feeling of frantic glee mixed with hate that sometimes leaps out of you when you confront a foe. Violence your friends can tolerate, but you sometimes worry they will also learn that you are cruel.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ad60acbd39ae185a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in tracking creatures. If a creature has wronged you, the tracking task is eased.</source>
+        <target state="translated">Skill: You are trained in tracking creatures. If a creature has wronged you, the tracking task is eased.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac89b43f9da7d186" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Bloodthirsty: Once you begin fighting, you see only red. You inflict 2 additional points of damage with any attack.</source>
+        <target state="translated">Bloodthirsty: Once you begin fighting, you see only red. You inflict 2 additional points of damage with any attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eac62f0a8b42e4c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Berserk: Once you begin fighting, it’s hard for you to stop. In fact, it’s a difficulty 2 Intellect task to do so, even if your foe surrenders or you’ve run out of foes. If the latter occurs and you fail to stop, you attack the nearest ally within short range.</source>
+        <target state="translated">Berserk: Once you begin fighting, it’s hard for you to stop. In fact, it’s a difficulty 2 Intellect task to do so, even if your foe surrenders or you’ve run out of foes. If the latter occurs and you fail to stop, you attack the nearest ally within short range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="528973c5dedfbce3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Additional Equipment: You have a record that you use to list those who’ve wronged you.</source>
+        <target state="translated">Additional Equipment: You have a record that you use to list those who’ve wronged you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a8c6934cd74bcb5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Another PC saw you take down a mean drunk in a tavern, not realizing you were the one who started the fight.</source>
+        <target state="translated">Another PC saw you take down a mean drunk in a tavern, not realizing you were the one who started the fight.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="775fed16bb8c8c38" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You wanted to get away from a bad situation, so you went with the other PCs.</source>
+        <target state="translated">You wanted to get away from a bad situation, so you went with the other PCs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fdeda18c97246cca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You want to change, and you hope that being with the other PCs will help you calm yourself.</source>
+        <target state="translated">You want to change, and you hope that being with the other PCs will help you calm yourself.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="31081b2b8840a1b1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the other PCs asked you to come along, believing that your viciousness could be harnessed for the benefit of the mission.</source>
+        <target state="translated">One of the other PCs asked you to come along, believing that your viciousness could be harnessed for the benefit of the mission.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

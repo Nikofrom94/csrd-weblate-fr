@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="eccaa924a29861d0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.</source>
+        <target state="translated">Les règles du Cypher System sont essentiellement assez simples car tout le gameplay est basé sur peu de principes de base.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6978684b72d48434" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>This chapter provides a brief explanation of how to play the game, and it’s useful for learning the game. Once you understand the basic concepts, you’ll likely want to reference Rules of the Game for a more in-depth treatment.</source>
+        <target state="translated">Ce chapitre donne une brève explication de comment jouer, c'est une bonne entrée en matière pour comprendre ces mécanismes. Une fois que vous avez compris les concepts de base, vous pourrez aller consulter Les Règles du Jeux pour des informations plus détaillées.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="15cea8a5dd6e91a4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The Cypher System uses a twenty-sided die (1d20) to determine the results of most actions. Whenever a roll of any kind is called for and no die is specified, roll a d20.</source>
+        <target state="translated">Le Cypher System utilise un dé à 20 faces (`1d20`) pour déterminer le résultat de la plupart des actions. A chaque fois qu'un jet de dé de n'importe quel type est demandé et que le type de dé n'est pas spécifié, jeter un d20.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0294b74323ee158" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The game master sets a difficulty for any given task. There are ten degrees of difficulty. Thus, the difficulty of a task can be rated on a scale of 1 to 10.</source>
+        <target state="translated">La Meneuse définit une une difficulté pour une tâche donnée. Il y a 10 degrés de difficulté. Ainsi, la difficulté d'une tâche peut être évaluée sur une échelle de 1 à 10.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7dbc53df205a746b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Each difficulty has a target number associated with it. The target number is always three times the task’s difficulty, so a difficulty 1 task has a target number of 3, but a difficulty 4 task has a target number of 12. To succeed at the task, you must roll the target number or higher. See the Task Difficulty table for guidance in how this works.</source>
+        <target state="translated">Chaque diffidulté a un nombre seuil associé. Ce nombreseuil est toujours trois fois la difficulté de la tâche, ainsi une tâche de difficulté de 1 a un nombre seuil de 3, mais une tâche de difficulté de 4 a une nombre de seuil de 12. Pour réussir la tâche, vous devez obtenir un jet de dé égal ou supérieur. Consulter la table des Difficulté des Tâches pour voir comment cela fonctionne.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="be6673078914081b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Character skills, favorable circumstances, or excellent equipment can decrease the difficulty of a task. For example, if a character is trained in climbing, they turn a difficulty 6 climb into a difficulty 5 climb. This is called **easing the difficulty by one step** (or just **easing the difficulty**, which assumes it’s eased by one step). If they are specialized in climbing, they turn a difficulty 6 climb into a difficulty 4 climb. This is called **easing the difficulty by two steps**. Decreasing the difficulty of a task can also be called **easing a task**. Some situations increase, or **hinder**, the difficulty of a task. If a task is hindered, it increases the difficulty by one step.</source>
+        <target state="translated">Les compétences des personnages, des circonstances favorables ou un bon équipement peuvent diminuer la difficulté d'une tâche. Par exemple, si un personnage est entraîné en escalade, il transforme une tache d'escalade de difficulté 6 en une tache d'escalade de difficulté 5. Ceci est appelé *faciliter la difficulté d'un cran* (ou juste *faciliter la difficulté*, étant assumé qu'elle est facilitée d'un cran). Si il est spécialisé dans l'escalade, il transforme une tâche d'escalade de difficulté 6 en une tâche d'escalade de difficulté 4. Ceci est appelé *faciliter la difficulté de deux crans*. Diminuer la difficulté d'une tâche est aussi appelée *faciliter une tâche*. Certaines situations peuvent augmenter, ou *entraver*, la difficulté d'une tâche. Si une tâche est entravée, cela augmente la difficulté d'un cran.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e9ee2ce70c04b1cf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A skill is a category of knowledge, ability, or activity relating to a task, such as climbing, geography, or persuasiveness. A character who has a skill is better at completing related tasks than a character who lacks the skill. A character’s level of skill is either trained (reasonably skilled) or specialized (very skilled).</source>
+        <target state="translated">Une compétence est une catégorie de connaissance, de capacité ou d'activité relative à une tâche, telle que l'escalade, la géographie, ou la persuasion. Un personnage qui possède une compétence est meilleur pour accomplir une tâche associée qu'un personnage qui ne l'a pas. Le niveau de compétence d'un personnage est soit entrainé (raisonablement compétent) ou spécialisé (très compétent).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cb671c569045d30" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you are trained in a skill relating to a task, you ease the difficulty of that task by one step. If you are specialized, you ease the difficulty by two steps. A skill can never decrease a task’s difficulty by more than two steps.</source>
+        <target state="translated">Si vous êtes entraîné dans une compétence relative à une tâche, vous facilitez la difficulté de cette tâche d'un cran. Si vous êtes spécialisé, vous la facilitez de deux crans. Une compétence ne peut jamais diminuer la difficulté d'une tâche de plus de deux crans.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3199e56c6f974ccb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Anything else that reduces difficulty (help from an ally, a particular piece of equipment, or some other advantage) is referred to as an **asset**. Assets can never decrease a task’s difficulty by more than two steps.</source>
+        <target state="translated">Tout autre élement qui diminue la difficulté (de l'aide d'un allié, une pièce spécifique d'un équipement, ou d'autres avantages) est appelé un **atout**. Les atouts ne peuvent jamais diminuer la difficulté de plus de deux crans.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f68352f7f26431d9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can also decrease the difficulty of a given task by applying Effort. (Effort is described in more detail in the Rules of the Game chapter.)</source>
+        <target state="translated">Vous pouvez aussi diminuer la difficulté d'une tâche en appliquant de l'Effort. (L'Effort est décrit avec plus de précision dans le chapitre Les Règles du Jeu.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2896d50a6b3eaeab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>To sum up, three things can decrease a task’s difficulty: skills, assets, and Effort.</source>
+        <target state="translated">Pour résumer, trois choses peuvent diminuer la difficulté d'une tâche: les compétences, les atouts et l'Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eda2e2e4189c1fee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If you can ease a task so its difficulty is reduced to 0, you automatically succeed and don’t need to make a roll.</source>
+        <target state="translated">Si vous pouvez faciliter une tâche jusqu'à ce sa difficulté soir réduite à zéro, vous résussissez automatiquement et vous n'avez pas besoin de jeter un dé.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5341fe8c287f0d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>WHEN DO YOU ROLL?</source>
+        <target state="translated">WHEN DO YOU ROLL?</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1fea3862ecc43bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Any time your character attempts a task, the GM assigns a difficulty to that task, and you roll a d20 against the associated target number.</source>
+        <target state="translated">Any time your character attempts a task, the GM assigns a difficulty to that task, and you roll a d20 against the associated target number.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bb60a243fcb40052" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you jump from a burning vehicle, swing an axe at a mutant beast, swim across a raging river, identify a strange device, convince a merchant to give you a lower price, craft an object, use a power to control a foe’s mind, or use a blaster rifle to carve a hole in a wall, you make a d20 roll.</source>
+        <target state="translated">When you jump from a burning vehicle, swing an axe at a mutant beast, swim across a raging river, identify a strange device, convince a merchant to give you a lower price, craft an object, use a power to control a foe’s mind, or use a blaster rifle to carve a hole in a wall, you make a d20 roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4a166cfdb7a234bc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>However, if you attempt something that has a difficulty of 0, no roll is needed—you automatically succeed. Many actions have a difficulty of 0. Examples include walking across the room and opening a door, using a special ability to negate gravity so you can fly, using an ability to protect your friend from radiation, or activating a device (that you already understand) to erect a force field. These are all routine actions and don’t require rolls.</source>
+        <target state="translated">However, if you attempt something that has a difficulty of 0, no roll is needed—you automatically succeed. Many actions have a difficulty of 0. Examples include walking across the room and opening a door, using a special ability to negate gravity so you can fly, using an ability to protect your friend from radiation, or activating a device (that you already understand) to erect a force field. These are all routine actions and don’t require rolls.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d07aa2b570d683b4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using skill, assets, and Effort, you can ease the difficulty of potentially any task to 0 and thus negate the need for a roll. Walking across a narrow wooden beam is tricky for most people, but for an experienced gymnast, it’s routine. You can even ease the difficulty of an attack on a foe to 0 and succeed without rolling.</source>
+        <target state="translated">Using skill, assets, and Effort, you can ease the difficulty of potentially any task to 0 and thus negate the need for a roll. Walking across a narrow wooden beam is tricky for most people, but for an experienced gymnast, it’s routine. You can even ease the difficulty of an attack on a foe to 0 and succeed without rolling.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7a3da3cc1dbb9af5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls).</source>
+        <target state="translated">If there’s no roll, there’s no chance for failure. However, there’s also no chance for remarkable success (in the Cypher System, that usually means rolling a 19 or 20, which are called special rolls; the Rules of the Game chapter also discusses special rolls).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5bbf6bb6ad0f8d59" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>TASK DIFFICULTY</source>
+        <target state="translated">TASK DIFFICULTY</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68b2f817d8cb70fb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Task Difficulty</source>
+        <target state="translated">Task Difficulty</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f7f5c115cf553484" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Description</source>
+        <target state="translated">Description</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="29780f0508a75f8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Target No.</source>
+        <target state="translated">Target No.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2cb95807249c07ce" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Guidance</source>
+        <target state="translated">Guidance</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>0</source>
+        <target state="translated">0</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2e4fc7f94bd85e92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Routine</source>
+        <target state="translated">Routine</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="256c44047c353535" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Anyone can do this basically every time.</source>
+        <target state="translated">Anyone can do this basically every time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfbd4c12eb9e51b0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>1</source>
+        <target state="translated">1</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="964c510c6ebc69f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Simple</source>
+        <target state="translated">Simple</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>3</source>
+        <target state="translated">3</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4376c13adf9cec30" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Most people can do this most of the time.</source>
+        <target state="translated">Most people can do this most of the time.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="006009681cb2e26c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>2</source>
+        <target state="translated">2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="097dd7c16ffba21b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Standard</source>
+        <target state="translated">Standard</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>6</source>
+        <target state="translated">6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d83515d50325f14" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Typical task requiring focus, but most people can usually do this.</source>
+        <target state="translated">Typical task requiring focus, but most people can usually do this.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7eab58f29975870d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Demanding</source>
+        <target state="translated">Demanding</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id=":39" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>9</source>
+        <target state="translated">9</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4a80447ae89dc65e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Requires full attention; most people have a 50/50 chance to succeed.</source>
+        <target state="translated">Requires full attention; most people have a 50/50 chance to succeed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3174f6bcbef734ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>4</source>
+        <target state="translated">4</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e7dc050c72775622" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Difficult</source>
+        <target state="translated">Difficult</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="05ce2c3201034a35" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>12</source>
+        <target state="translated">12</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bbd9498576d1593d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Trained people have a 50/50 chance to succeed.</source>
+        <target state="translated">Trained people have a 50/50 chance to succeed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1214f1507fe8dc50" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>5</source>
+        <target state="translated">5</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfa535a913542ed1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Challenging</source>
+        <target state="translated">Challenging</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2b13ab1e55cea292" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>15</source>
+        <target state="translated">15</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="329f8e1ec5fb6486" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Even trained people often fail.</source>
+        <target state="translated">Even trained people often fail.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd27c9e07df75e8c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Intimidating</source>
+        <target state="translated">Intimidating</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="59e0afd113919755" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>18</source>
+        <target state="translated">18</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d512d41a492f6d91" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Normal people almost never succeed.</source>
+        <target state="translated">Normal people almost never succeed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="766a0fe2e87a5112" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>7</source>
+        <target state="translated">7</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="58b738b486d42d15" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Formidable</source>
+        <target state="translated">Formidable</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8665267e8b32947f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>21</source>
+        <target state="translated">21</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="31b86806153443a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Impossible without skills or great effort.</source>
+        <target state="translated">Impossible without skills or great effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="62ac44bfd909abd5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>8</source>
+        <target state="translated">8</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b9233af0d77b140f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heroic</source>
+        <target state="translated">Heroic</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c0b17578890134cd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>24</source>
+        <target state="translated">24</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fafa8f3b2a3c0076" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A task worthy of tales told for years afterward.</source>
+        <target state="translated">A task worthy of tales told for years afterward.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2a214d7ab82c451c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Immortal</source>
+        <target state="translated">Immortal</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="09114e11d4dd4f8d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>27</source>
+        <target state="translated">27</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="17422c677eb2ca97" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A task worthy of legends that last lifetimes.</source>
+        <target state="translated">A task worthy of legends that last lifetimes.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7cef57593256badd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>10</source>
+        <target state="translated">10</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7d33951460613d55" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Impossible</source>
+        <target state="translated">Impossible</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da8a72d792888d47" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>30</source>
+        <target state="translated">30</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="53f7f94d055e4210" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics).</source>
+        <target state="translated">A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="95dddd96f197762e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>COMBAT</source>
+        <target state="translated">COMBAT</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1f6cf0eedc01f335" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Making an attack in combat works the same way as any other roll: the GM assigns a difficulty to the task, and you roll a d20 against the associated target number.</source>
+        <target state="translated">Making an attack in combat works the same way as any other roll: the GM assigns a difficulty to the task, and you roll a d20 against the associated target number.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bca5b05139201c32" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The difficulty of your attack roll depends on how powerful your opponent is. Just as tasks have a difficulty from 1 to 10, creatures have a level from 1 to 10. Most of the time, the difficulty of your attack roll is the same as the creature’s level. For example, if you attack a level 2 bandit, it’s a level 2 task, so your target number is 6.</source>
+        <target state="translated">The difficulty of your attack roll depends on how powerful your opponent is. Just as tasks have a difficulty from 1 to 10, creatures have a level from 1 to 10. Most of the time, the difficulty of your attack roll is the same as the creature’s level. For example, if you attack a level 2 bandit, it’s a level 2 task, so your target number is 6.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cbd97c099b81403d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s worth noting that players make all die rolls. If a character attacks a creature, the player makes an attack roll. If a creature attacks a character, the player makes a defense roll.</source>
+        <target state="translated">It’s worth noting that players make all die rolls. If a character attacks a creature, the player makes an attack roll. If a creature attacks a character, the player makes a defense roll.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="677d0494d7761c62" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The damage dealt by an attack is not determined by a roll—it’s a flat number based on the weapon or attack used. For example, a spear always does 4 points of damage.</source>
+        <target state="translated">The damage dealt by an attack is not determined by a roll—it’s a flat number based on the weapon or attack used. For example, a spear always does 4 points of damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe8bcce958e30d68" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your Armor characteristic reduces the damage you take from attacks directed at you. You get Armor from wearing physical armor (such as a leather jacket in a modern game or chainmail in a fantasy setting) or from special abilities. Like weapon damage, Armor is a flat number, not a roll. If you’re attacked, subtract your Armor from the damage you take. For example, a leather jacket gives you +1 to Armor, meaning that you take 1 less point of damage from attacks. If a mugger hits you with a knife for 2 points of damage while you’re wearing a leather jacket, you take only 1 point of damage. If your Armor reduces the damage from an attack to 0, you take no damage from that attack.</source>
+        <target state="translated">Your Armor characteristic reduces the damage you take from attacks directed at you. You get Armor from wearing physical armor (such as a leather jacket in a modern game or chainmail in a fantasy setting) or from special abilities. Like weapon damage, Armor is a flat number, not a roll. If you’re attacked, subtract your Armor from the damage you take. For example, a leather jacket gives you +1 to Armor, meaning that you take 1 less point of damage from attacks. If a mugger hits you with a knife for 2 points of damage while you’re wearing a leather jacket, you take only 1 point of damage. If your Armor reduces the damage from an attack to 0, you take no damage from that attack.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="923895e26b8a4e0f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you see the word “Armor” capitalized in the game rules (other than in the name of a special ability), it refers to your Armor characteristic—the number you subtract from incoming damage. When you see the word “armor” with a lowercase “a,” it refers to any physical armor you might wear.</source>
+        <target state="translated">When you see the word “Armor” capitalized in the game rules (other than in the name of a special ability), it refers to your Armor characteristic—the number you subtract from incoming damage. When you see the word “armor” with a lowercase “a,” it refers to any physical armor you might wear.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3678f9ccc9f3018f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Typical physical weapons come in three categories: light, medium and heavy.</source>
+        <target state="translated">Typical physical weapons come in three categories: light, medium and heavy.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07bdd6644945652b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Light weapons inflict only 2 points of damage, but they ease attack rolls because they are fast and easy to use. Light weapons are punches, kicks, clubs, knives, handaxes, rapiers, small pistols, and so on. Weapons that are particularly small are light weapons.</source>
+        <target state="translated">Light weapons inflict only 2 points of damage, but they ease attack rolls because they are fast and easy to use. Light weapons are punches, kicks, clubs, knives, handaxes, rapiers, small pistols, and so on. Weapons that are particularly small are light weapons.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e0141fdacac5b6ca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Medium weapons inflict 4 points of damage. Medium weapons include swords, battleaxes, maces, crossbows, spears, pistols, blasters, and so on. Most weapons are medium. Anything that could be used in one hand (even if it’s often used in two hands, such as a quarterstaff or spear) is a medium weapon.</source>
+        <target state="translated">Medium weapons inflict 4 points of damage. Medium weapons include swords, battleaxes, maces, crossbows, spears, pistols, blasters, and so on. Most weapons are medium. Anything that could be used in one hand (even if it’s often used in two hands, such as a quarterstaff or spear) is a medium weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d9f3b2781ddd2b3e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, blaster rifles, and so on. Anything that must be used in two hands is a heavy weapon.</source>
+        <target state="translated">Heavy weapons inflict 6 points of damage, and you must use two hands to attack with them. Heavy weapons are huge swords, great hammers, massive axes, halberds, heavy crossbows, blaster rifles, and so on. Anything that must be used in two hands is a heavy weapon.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="11530fd5d320790d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>SPECIAL ROLLS</source>
+        <target state="translated">SPECIAL ROLLS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f2f8bdc8f25986d5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you also have a minor effect. In combat, a minor effect inflicts 3 additional points of damage with your attack, or, if you’d prefer a special result, you could decide instead that you knock the foe back, distract them, or something similar. When not in combat, a minor effect could mean that you perform the action with particular grace. For example, when jumping down from a ledge, you land smoothly on your feet, or when trying to persuade someone, you convince them that you’re smarter than you really are. In other words, you not only succeed but also go a bit further.</source>
+        <target state="translated">When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you also have a minor effect. In combat, a minor effect inflicts 3 additional points of damage with your attack, or, if you’d prefer a special result, you could decide instead that you knock the foe back, distract them, or something similar. When not in combat, a minor effect could mean that you perform the action with particular grace. For example, when jumping down from a ledge, you land smoothly on your feet, or when trying to persuade someone, you convince them that you’re smarter than you really are. In other words, you not only succeed but also go a bit further.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2fe71e067db31910" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you roll a natural 20 (the d20 shows “20”) and the roll is a success, you also have a major effect. This is similar to a minor effect, but the results are more remarkable. In combat, a major effect inflicts 4 additional points of damage with your attack, but again, you can choose instead to introduce a dramatic event such as knocking down your foe, stunning them, or taking an extra action. Outside of combat, a major effect means that something beneficial happens based on the circumstance. For example, when climbing up a cliff wall, you make the ascent twice as fast. When a roll grants you a major effect, you can choose to use a minor effect instead if you prefer.</source>
+        <target state="translated">When you roll a natural 20 (the d20 shows “20”) and the roll is a success, you also have a major effect. This is similar to a minor effect, but the results are more remarkable. In combat, a major effect inflicts 4 additional points of damage with your attack, but again, you can choose instead to introduce a dramatic event such as knocking down your foe, stunning them, or taking an extra action. Outside of combat, a major effect means that something beneficial happens based on the circumstance. For example, when climbing up a cliff wall, you make the ascent twice as fast. When a roll grants you a major effect, you can choose to use a minor effect instead if you prefer.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c00962155ed6a23" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In combat (and only in combat), if you roll a natural 17 or 18 on your attack roll, you add 1 or 2 additional points of damage, respectively. Neither roll has any special effect options—just the extra damage.</source>
+        <target state="translated">In combat (and only in combat), if you roll a natural 17 or 18 on your attack roll, you add 1 or 2 additional points of damage, respectively. Neither roll has any special effect options—just the extra damage.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="97077f7dee4f9792" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.)</source>
+        <target state="translated">(For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5b69cefdcc83f2c6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.</source>
+        <target state="translated">Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b3cded5b849ea5f1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GLOSSARY</source>
+        <target state="translated">GLOSSARY</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fd26186cd358a002" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Game master (GM)</source>
+        <target state="translated">Game master (GM)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ca19e80b63437857" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The player who doesn’t run a character, but instead guides the flow of the story and runs all the NPCs.</source>
+        <target state="translated">The player who doesn’t run a character, but instead guides the flow of the story and runs all the NPCs.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e091c0a51606847e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Nonplayer character (NPC)</source>
+        <target state="translated">Nonplayer character (NPC)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e56d967964a6dc8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters run by the GM. Think of them as the minor characters in the story, or the villains or opponents. This includes any kind of creature as well as people.</source>
+        <target state="translated">Characters run by the GM. Think of them as the minor characters in the story, or the villains or opponents. This includes any kind of creature as well as people.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="78450b398ff1dfa6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Party</source>
+        <target state="translated">Party</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cf26bf54e1fff29" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A group of player characters (and perhaps some NPC allies).</source>
+        <target state="translated">A group of player characters (and perhaps some NPC allies).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a39a05460b9ec80d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Player character (PC)</source>
+        <target state="translated">Player character (PC)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe0f0e6840416b6f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character run by a player rather than the GM. Think of the PCs as the main characters in the story.</source>
+        <target state="translated">A character run by a player rather than the GM. Think of the PCs as the main characters in the story.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8856fd41947f1576" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Player</source>
+        <target state="translated">Player</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="61a771fdfc86110f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The players who run characters in the game.</source>
+        <target state="translated">The players who run characters in the game.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e5f87243f1957b9d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Session</source>
+        <target state="translated">Session</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="37e9fa7a18228498" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single play experience. Usually lasts a few hours. Sometimes one adventure can be accomplished in a session. More often, one adventure is multiple sessions.</source>
+        <target state="translated">A single play experience. Usually lasts a few hours. Sometimes one adventure can be accomplished in a session. More often, one adventure is multiple sessions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dabc84635ff4016e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Adventure</source>
+        <target state="translated">Adventure</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b64df9951d778d7a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A single portion of the campaign with a beginning and an end. Usually defined at the beginning by a goal put forth by the PCs and at the end by whether or not they achieve that goal.</source>
+        <target state="translated">A single portion of the campaign with a beginning and an end. Usually defined at the beginning by a goal put forth by the PCs and at the end by whether or not they achieve that goal.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d6024afa4d18366e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Campaign</source>
+        <target state="translated">Campaign</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="19db70b953bf67e0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A series of sessions strung together with an overarching story (or linked stories) with the same player characters. Often, but not always, a campaign involves a number of adventures.</source>
+        <target state="translated">A series of sessions strung together with an overarching story (or linked stories) with the same player characters. Often, but not always, a campaign involves a number of adventures.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eb94d70c07813c54" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Character</source>
+        <target state="translated">Character</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="00ce537979ff052d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Anything that can act in the game. Although this includes PCs and human NPCs, it also technically includes creatures, aliens, mutants, automatons, animate plants, and so on. The word “creature” is usually synonymous.</source>
+        <target state="translated">Anything that can act in the game. Although this includes PCs and human NPCs, it also technically includes creatures, aliens, mutants, automatons, animate plants, and so on. The word “creature” is usually synonymous.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8719c030a5b7d504" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>RANGE AND SPEED</source>
+        <target state="translated">RANGE AND SPEED</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b44c2f2854d5d707" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distance is simplified into four categories: immediate, short, long, and very long.</source>
+        <target state="translated">Distance is simplified into four categories: immediate, short, long, and very long.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="834d4d2797eb782e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Immediate distance from a character is within reach or within a few steps. If a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m).</source>
+        <target state="translated">Immediate distance from a character is within reach or within a few steps. If a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81f8e668df551169" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so.</source>
+        <target state="translated">Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f86dd1e90f2cee43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Long distance is anything greater than short distance but less than 100 feet (30 m) or so.</source>
+        <target state="translated">Long distance is anything greater than short distance but less than 100 feet (30 m) or so.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25bb9fca76a9daf1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Very long distance is anything greater than long distance but less than 500 feet (150 m) or so. Beyond that range, distances are always specified—1,000 feet (300 m), a mile (1.5 km), and so on.</source>
+        <target state="translated">Very long distance is anything greater than long distance but less than 500 feet (150 m) or so. Beyond that range, distances are always specified—1,000 feet (300 m), a mile (1.5 km), and so on.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ccc1309f8496ba92" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The idea is that it’s not necessary to measure precise distances. Immediate distance is right there, practically next to the character. Short distance is nearby. Long distance is farther off. Very long distance is really far off.</source>
+        <target state="translated">The idea is that it’s not necessary to measure precise distances. Immediate distance is right there, practically next to the character. Short distance is nearby. Long distance is farther off. Very long distance is really far off.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d8890d7bfbd7a371" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>All weapons and special abilities use these terms for ranges. For example, all melee weapons have immediate range—they are close-combat weapons, and you can use them to attack anyone within immediate distance. A thrown knife (and most other thrown weapons) has short range. A bow has long range. An Adept’s Onslaught ability also has short range.</source>
+        <target state="translated">All weapons and special abilities use these terms for ranges. For example, all melee weapons have immediate range—they are close-combat weapons, and you can use them to attack anyone within immediate distance. A thrown knife (and most other thrown weapons) has short range. A bow has long range. An Adept’s Onslaught ability also has short range.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="502bde75beb9b04e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character can move an immediate distance as part of another action. In other words, they can take a few steps over to the control panel and activate a switch. They can lunge across a small room to attack a foe. They can open a door and step through.</source>
+        <target state="translated">A character can move an immediate distance as part of another action. In other words, they can take a few steps over to the control panel and activate a switch. They can lunge across a small room to attack a foe. They can open a door and step through.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="16532eaec0eb3f80" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character can move a short distance as their entire action for a turn. They can also try to move a long distance as their entire action, but the player might have to roll to see if the character slips, trips, or stumbles as the result of moving so far so quickly.</source>
+        <target state="translated">A character can move a short distance as their entire action for a turn. They can also try to move a long distance as their entire action, but the player might have to roll to see if the character slips, trips, or stumbles as the result of moving so far so quickly.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b1c48754e2035d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>For example, if the PCs are fighting a group of cultists, any character can likely attack any cultist in the general melee—they’re all within immediate range. Exact positions aren’t important. Creatures in a fight are always moving, shifting, and jostling, anyway. However, if one cultist stayed back to fire a pistol, a character might have to use their entire action to move the short distance required to attack that foe. It doesn’t matter if the cultist is 20 feet (6 m) or 40 feet (12 m) away—it’s simply considered short distance. It does matter if the cultist is more than 50 feet (15 m) away because that distance would require a long or very long move.</source>
+        <target state="translated">For example, if the PCs are fighting a group of cultists, any character can likely attack any cultist in the general melee—they’re all within immediate range. Exact positions aren’t important. Creatures in a fight are always moving, shifting, and jostling, anyway. However, if one cultist stayed back to fire a pistol, a character might have to use their entire action to move the short distance required to attack that foe. It doesn’t matter if the cultist is 20 feet (6 m) or 40 feet (12 m) away—it’s simply considered short distance. It does matter if the cultist is more than 50 feet (15 m) away because that distance would require a long or very long move.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e26380db3f15d454" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Many rules in this system avoid the cumbersome need for precision. Does it really matter if the ghost is 13 feet away from you or 18? Probably not. That kind of needless specificity only slows things down and draws away from, rather than contributes to, the story.)</source>
+        <target state="translated">(Many rules in this system avoid the cumbersome need for precision. Does it really matter if the ghost is 13 feet away from you or 18? Probably not. That kind of needless specificity only slows things down and draws away from, rather than contributes to, the story.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ef935139750678f2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>EXPERIENCE POINTS</source>
+        <target state="translated">EXPERIENCE POINTS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6caa494360fdbde0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Experience points (XP) are rewards given to players when the GM intrudes on the story (this is called GM intrusion) with a new and unexpected challenge. For example, in the middle of combat, the GM might inform the player that they drop their weapon. However, to intrude in this manner, the GM must award the player 2 XP. The rewarded player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a funny joke, performed an action that saved a life, and so on).</source>
+        <target state="translated">Experience points (XP) are rewards given to players when the GM intrudes on the story (this is called GM intrusion) with a new and unexpected challenge. For example, in the middle of combat, the GM might inform the player that they drop their weapon. However, to intrude in this manner, the GM must award the player 2 XP. The rewarded player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a funny joke, performed an action that saved a life, and so on).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1e657b2fdce406ab" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Alternatively, the player can refuse the GM intrusion. If they do so, they don’t get the 2 XP from the GM, and they must also spend 1 XP that they already have. If the player has no XP to spend, they can’t refuse the intrusion.</source>
+        <target state="translated">Alternatively, the player can refuse the GM intrusion. If they do so, they don’t get the 2 XP from the GM, and they must also spend 1 XP that they already have. If the player has no XP to spend, they can’t refuse the intrusion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0ea927075f68eecd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The GM can also give players XP between sessions as a reward for making discoveries during an adventure. Discoveries are interesting facts, wondrous secrets, powerful artifacts, answers to mysteries, or solutions to problems (such as where the kidnappers are keeping their victim or how the PCs repair the starship). You don’t earn XP for killing foes or overcoming standard challenges in the course of play. Discovery is the soul of the Cypher System.</source>
+        <target state="translated">The GM can also give players XP between sessions as a reward for making discoveries during an adventure. Discoveries are interesting facts, wondrous secrets, powerful artifacts, answers to mysteries, or solutions to problems (such as where the kidnappers are keeping their victim or how the PCs repair the starship). You don’t earn XP for killing foes or overcoming standard challenges in the course of play. Discovery is the soul of the Cypher System.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0a34f928a2a98d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.</source>
+        <target state="translated">Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="006382b61556b897" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>CYPHERS</source>
+        <target state="translated">CYPHERS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="81ee48ed21164347" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.</source>
+        <target state="translated">Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dabfa9c4c4f7453c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Characters will find new cyphers frequently in the course of play, so players shouldn’t hesitate to use their cypher abilities. Because cyphers are always different, the characters will always have new special powers to try.</source>
+        <target state="translated">Characters will find new cyphers frequently in the course of play, so players shouldn’t hesitate to use their cypher abilities. Because cyphers are always different, the characters will always have new special powers to try.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9f8ced7a34489427" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>OTHER DICE</source>
+        <target state="translated">OTHER DICE</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5ec71a916d12640c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll need to roll a number between 1 and 100 (often called a d100 or d% roll), which you can do by rolling a d20 twice, using the last digit of the first roll as the “tens” place and the last digit of the second roll as the “ones” place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a d10 (a ten-sided die), you can use it instead of the d20 to roll numbers between 1 and 100.</source>
+        <target state="translated">In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll need to roll a number between 1 and 100 (often called a d100 or d% roll), which you can do by rolling a d20 twice, using the last digit of the first roll as the “tens” place and the last digit of the second roll as the “ones” place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a d10 (a ten-sided die), you can use it instead of the d20 to roll numbers between 1 and 100.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="71ac7b7b2d713ef5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(A d6 is used most often for recovery rolls and to determine the level of cyphers.)</source>
+        <target state="translated">(A d6 is used most often for recovery rolls and to determine the level of cyphers.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

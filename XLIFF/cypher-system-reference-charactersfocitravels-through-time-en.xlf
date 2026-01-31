@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="693eb52da14c9fd1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Travels Through Time #Focus #MovementFocus #Core</source>
+        <target state="translated">Travels Through Time #Focus #MovementFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="27550c978dc4c40a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can see through time, try to reach through it, and eventually even travel through it.</source>
+        <target state="translated">You can see through time, try to reach through it, and eventually even travel through it.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec393936dd958791" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM’s setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.)</source>
+        <target state="translated">(Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM’s setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="aa2e6bf96144fbe5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Anticipation</source>
+        <target state="translated">Tier 1: Anticipation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a1d875277eea059c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: See History</source>
+        <target state="translated">Tier 2: See History</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f81ee7432ab1980c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Temporal Acceleration or Time Loop</source>
+        <target state="translated">Tier 3: Temporal Acceleration or Time Loop</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da99b38ff8c90ddc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Temporal Dislocation</source>
+        <target state="translated">Tier 4: Temporal Dislocation</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b1d0dd54e05da1e4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Time Doppelganger</source>
+        <target state="translated">Tier 5: Time Doppelganger</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="494c8efd1e37300d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Call Through Time or Time Travel</source>
+        <target state="translated">Tier 6: Call Through Time or Time Travel</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="51100b1207bacef9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Paradoxes are created. Others remember past events differently.</source>
+        <target state="translated">GM Intrusions: Paradoxes are created. Others remember past events differently.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

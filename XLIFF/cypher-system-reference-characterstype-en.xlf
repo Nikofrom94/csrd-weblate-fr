@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d473ed93ea2a8891" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective* *noun* who *verbs*.”</source>
+        <target state="translated">Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective* *noun* who *verbs*.”</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9754604ac36a834d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(In some roleplaying games, your character type might be called your character class.)</source>
+        <target state="translated">(In some roleplaying games, your character type might be called your character class.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0bc9659206b77cf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can choose from four character types: **Warrior**, **Adept**, **Explorer**, and **Speaker**. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)</source>
+        <target state="translated">You can choose from four character types: **Warrior**, **Adept**, **Explorer**, and **Speaker**. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="69ff73002fb3c302" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.</source>
+        <target state="translated">Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b9287217e5971bf" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).</source>
+        <target state="translated">To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="278819f561ecd3c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Finally, more fundamental options for further customization are provided at the end of this chapter.</source>
+        <target state="translated">Finally, more fundamental options for further customization are provided at the end of this chapter.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="99c48e556910241e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>PLAYER INTRUSION</source>
+        <target state="translated">PLAYER INTRUSION</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3d5704d38a6e5f05" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.</source>
+        <target state="translated">A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc19702eb3aaab69" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.</source>
+        <target state="translated">A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="feb9fabec32ee7cc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.</source>
+        <target state="translated">Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6c539368c3c5790b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Player intrusions should be limited to no more than one per player per session.)</source>
+        <target state="translated">(Player intrusions should be limited to no more than one per player per session.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8c0925316358ecc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DEFENSE TASKS</source>
+        <target state="translated">DEFENSE TASKS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d6e1e6aa23c4acd0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.</source>
+        <target state="translated">Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cc90e8c4e708be5f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Might defense: Used for resisting poison, disease, and anything else that can be overcome with strength and health.</source>
+        <target state="translated">Might defense: Used for resisting poison, disease, and anything else that can be overcome with strength and health.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ef35cc61ae44dee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Speed defense: Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.</source>
+        <target state="translated">Speed defense: Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c75c331d9bdff575" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Intellect defense: Used for fending off mental attacks or anything that might affect or influence one’s mind.</source>
+        <target state="translated">Intellect defense: Used for fending off mental attacks or anything that might affect or influence one’s mind.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6eaffb9c78f76cb5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FURTHER CUSTOMIZATION</source>
+        <target state="translated">FURTHER CUSTOMIZATION</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a3bd40e5f24293d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.</source>
+        <target state="translated">The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7676b69f00dd9c21" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>MODIFYING TYPE ASPECTS</source>
+        <target state="translated">MODIFYING TYPE ASPECTS</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee58ae02bc34b1e8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.</source>
+        <target state="translated">The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1d5c305671e1b600" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Stat Pools: Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.</source>
+        <target state="translated">Stat Pools: Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="023f279320c59433" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Edge: A player can start with an Edge of 1 in whichever stat they wish.</source>
+        <target state="translated">Edge: A player can start with an Edge of 1 in whichever stat they wish.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="03d48f22774b0388" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cypher Use: If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.</source>
+        <target state="translated">Cypher Use: If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d9c34449bc9d5d52" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weapons: Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.</source>
+        <target state="translated">Weapons: Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e81d29e6fd6d0cd3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>DRAWBACKS AND PENALTIES</source>
+        <target state="translated">DRAWBACKS AND PENALTIES</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac2c73c4087d8396" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.</source>
+        <target state="translated">In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="97a81a07464232c1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Weakness: A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.</source>
+        <target state="translated">Weakness: A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c70c2b33224cf77" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).</source>
+        <target state="translated">Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="924bece1d054e6dc" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inabilities: Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game).</source>
+        <target state="translated">Inabilities: Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

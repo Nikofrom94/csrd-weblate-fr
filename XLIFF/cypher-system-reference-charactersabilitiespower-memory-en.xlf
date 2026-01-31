@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="eda2ac5fc58eba5d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Power Memory #Ability #Core</source>
+        <target state="translated">Power Memory #Ability #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eab0747a05d490a3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you use [Copy Power]{1}, you only need to have seen the ability used within the past day (instead of the past hour), and using Effort extends how long ago your copying can reach to one day per level of Effort (instead of one hour per level).</source>
+        <target state="translated">When you use [Copy Power]{1}, you only need to have seen the ability used within the past day (instead of the past hour), and using Effort extends how long ago your copying can reach to one day per level of Effort (instead of one hour per level).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

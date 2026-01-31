@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d93ee1d6fa3c1a43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can wait to react to another character’s action.</source>
+        <target state="translated">You can wait to react to another character’s action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73a03e07bfd117bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You decide what action will trigger your action, and if the triggering action happens, you get to take your action first (unless going first wouldn’t make sense, like attacking a foe before they come into view). For example, if an orc threatens you with a halberd, on your turn you can decide to wait, stating “If it stabs at me, I’m going to slash it with my sword.” On the orc’s turn, it stabs, so you make your sword attack before that happens.</source>
+        <target state="translated">You decide what action will trigger your action, and if the triggering action happens, you get to take your action first (unless going first wouldn’t make sense, like attacking a foe before they come into view). For example, if an orc threatens you with a halberd, on your turn you can decide to wait, stating “If it stabs at me, I’m going to slash it with my sword.” On the orc’s turn, it stabs, so you make your sword attack before that happens.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f171e2e45e3503d3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Waiting is also a good way to deal with a ranged attacker who rises from behind cover, fires an attack, and ducks back down. You could say “I wait to see them pop up from behind cover and then I shoot them.”</source>
+        <target state="translated">Waiting is also a good way to deal with a ranged attacker who rises from behind cover, fires an attack, and ducks back down. You could say “I wait to see them pop up from behind cover and then I shoot them.”</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bbff893f69ae6719" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Waiting is also a useful tool for cooperative actions (see below).)</source>
+        <target state="translated">(Waiting is also a useful tool for cooperative actions (see below).)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

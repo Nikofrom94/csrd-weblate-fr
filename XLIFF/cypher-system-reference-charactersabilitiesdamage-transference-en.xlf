@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="ca7635d57ac5e624" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Damage Transference #Ability #CureAbility #Mid #Core</source>
+        <target state="translated">Damage Transference #Ability #CureAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d458ed544a54e25" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>When you or your duplicate (from the [Duplicate]{1} ability) would take damage, you can transfer 1 point of damage from one to the other provided that you and your duplicate are within 1 mile (1.5 km) of each other.</source>
+        <target state="translated">When you or your duplicate (from the [Duplicate]{1} ability) would take damage, you can transfer 1 point of damage from one to the other provided that you and your duplicate are within 1 mile (1.5 km) of each other.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="92d6d0b7e8112bb6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Psychokinetic Attack (5 Intellect points) #Ability #SpecialAttackAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5458434964416324" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can use this attack in one of two ways. The first is to pick up a heavy object and hurl it at someone within short range. This attack is an Intellect action, and if successful, it deals 6 points of damage to the target and to the hurled object (which could be another foe, although that would require two rolls—one roll to grab the first foe and another roll to hit the second foe with the first). The second way is to unleash a shattering burst of power that works only against an inanimate object no larger than half your size. Make an Intellect roll to instantly destroy the object; the task is eased by three steps compared to breaking it with brute strength.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

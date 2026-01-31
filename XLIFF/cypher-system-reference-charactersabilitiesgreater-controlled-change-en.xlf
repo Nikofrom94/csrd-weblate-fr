@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="443bd0821918f852" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Greater Controlled Change #Ability #TransformAbility #Mid #Core</source>
+        <target state="translated">Greater Controlled Change #Ability #TransformAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fc73be8f0abc5623" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>It’s easier to change into and out of the shape granted by your [Beast Form]{1} ability. Transforming either way is now a difficulty 2 Intellect task.</source>
+        <target state="translated">It’s easier to change into and out of the shape granted by your [Beast Form]{1} ability. Transforming either way is now a difficulty 2 Intellect task.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

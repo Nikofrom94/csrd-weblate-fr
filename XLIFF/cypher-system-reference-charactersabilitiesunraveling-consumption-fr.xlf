@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="9c42c2d082122baf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Unraveling Consumption #Ability #CureAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d29c3ab27491566" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can drain energy from a living creature by touching it and concentrating for a minute or more. Each minute you spend in contact with and concentrating on the creature deals it 1 point of damage (ignores Armor) and restores 1 point to your Might or Speed Pool. Because of the extended contact required for this ability, normally you can use it only on a willing or helpless creature. If the creature takes enough damage to knock it unconscious or kill it, it crumbles into ash, dust, or some other inert material.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6b83fc3d4aef4212" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

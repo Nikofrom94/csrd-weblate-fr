@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="d66c7d6c36613fe7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Restorative Bloom (5 Might points) #Ability #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f5a2f7289a0da259" weblate-flags="md-text, safe-html, strict-same">
+        <source>When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="741f6049b490a4b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to produce, action to eat.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

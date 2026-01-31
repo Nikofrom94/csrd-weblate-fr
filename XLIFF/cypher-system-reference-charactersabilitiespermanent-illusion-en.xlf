@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="06bf0848db879cfb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Permanent Illusion (9 Intellect points) #Ability #EnvironmentAbility #High #Core</source>
+        <target state="translated">Permanent Illusion (9 Intellect points) #Ability #EnvironmentAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="74aafc825dd1bcbd" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>An illusion (or portion of an illusion) that you create using [Minor Illusion]{1} or related ability that fits within a 10-foot (3 m) cube becomes permanent. You can permanently end the illusion as an action, but others must expend exceptional ingenuity to prevent the illusion from regenerating even if it has apparently been dispersed.</source>
+        <target state="translated">An illusion (or portion of an illusion) that you create using [Minor Illusion]{1} or related ability that fits within a 10-foot (3 m) cube becomes permanent. You can permanently end the illusion as an action, but others must expend exceptional ingenuity to prevent the illusion from regenerating even if it has apparently been dispersed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

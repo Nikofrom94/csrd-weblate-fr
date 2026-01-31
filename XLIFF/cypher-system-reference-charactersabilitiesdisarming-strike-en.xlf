@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="73f75c00313dd760" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Disarming Strike (3 Speed points) #Ability #MetaAbility #SpecialAttackAbility #Mid #Core</source>
+        <target state="translated">Disarming Strike (3 Speed points) #Ability #MetaAbility #SpecialAttackAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6db57c1ed025b05a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your attack inflicts 1 point less damage and disarms your foe so that their weapon is now 10 feet (3 m) away on the ground. (If your chosen weapon is a whip, you can instead deposit the disarmed weapon into your hands; if your chosen weapon is a bow or other ranged weapon that fires physical rounds, you can instead “nail” the disarmed weapon to a nearby object or structure. Choosing to do either of these hinders your attack.)</source>
+        <target state="translated">Your attack inflicts 1 point less damage and disarms your foe so that their weapon is now 10 feet (3 m) away on the ground. (If your chosen weapon is a whip, you can instead deposit the disarmed weapon into your hands; if your chosen weapon is a bow or other ranged weapon that fires physical rounds, you can instead “nail” the disarmed weapon to a nearby object or structure. Choosing to do either of these hinders your attack.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

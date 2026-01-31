@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="48b8f577554cb260" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Incredible Feat of Science (12 Intellect points) #Ability #Core</source>
+        <target state="translated">Incredible Feat of Science (12 Intellect points) #Ability #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea1ebdf70e6f7173" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You do something amazing in the lab. This takes parts and materials equivalent to three expensive items. Possible incredible feats include:</source>
+        <target state="translated">You do something amazing in the lab. This takes parts and materials equivalent to three expensive items. Possible incredible feats include:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abcae05afd1ac962" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Reanimate and command a dead body for one hour.</source>
+        <target state="translated">Reanimate and command a dead body for one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee864fbb1c2658c5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Create an engine that runs on perpetual motion.</source>
+        <target state="translated">Create an engine that runs on perpetual motion.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="18f9446a3ec524b7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Create a teleportation gate that remains open for one minute.</source>
+        <target state="translated">Create a teleportation gate that remains open for one minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bf562450406a7efe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Transmute one substance into another substance.</source>
+        <target state="translated">Transmute one substance into another substance.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6aa3d030b77bd1b9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Cure one person with an incurable disease or condition.</source>
+        <target state="translated">Cure one person with an incurable disease or condition.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1909330579480565" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Create a weapon designed to hurt something that can’t otherwise be hurt.</source>
+        <target state="translated">Create a weapon designed to hurt something that can’t otherwise be hurt.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b17d69ff718acc44" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Create a defense designed to protect against something that can’t otherwise be stopped.</source>
+        <target state="translated">Create a defense designed to protect against something that can’t otherwise be stopped.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ac6425bcbbddc1a6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate; a full day of work to complete.</source>
+        <target state="translated">Action to initiate; a full day of work to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

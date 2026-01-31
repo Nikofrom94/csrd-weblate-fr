@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4649a24250553dd7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Controls Beasts #Focus #AllyFocus #Core</source>
+        <target state="translated">Controls Beasts #Focus #AllyFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68149c712ac54d52" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your ability to communicate and lead beasts is uncanny.</source>
+        <target state="translated">Your ability to communicate and lead beasts is uncanny.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d9c22c666abd31f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Beast Companion]{1}</source>
+        <target state="translated">Tier 1: [Beast Companion]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0db0ef36f17db627" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Soothe the Savage]{1}</source>
+        <target state="translated">Tier 2: [Soothe the Savage]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="32657237933a9e34" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Communication]{1}</source>
+        <target state="translated">Tier 2: [Communication]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3c7d16e77da6d8f0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Mount]{1} or [Stronger Together]{2}</source>
+        <target state="translated">Tier 3: [Mount]{1} or [Stronger Together]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87ed07c02b209b71" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Beast Eyes]{1}</source>
+        <target state="translated">Tier 4: [Beast Eyes]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a16e3785843e17d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Improved Companion]{1}</source>
+        <target state="translated">Tier 4: [Improved Companion]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a817e19d06af48c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Beast Call]{1}</source>
+        <target state="translated">Tier 5: [Beast Call]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="40a682b9bce6b387" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [As If One Creature]{1} or [Control the Savage]{2}</source>
+        <target state="translated">Tier 6: [As If One Creature]{1} or [Control the Savage]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a4ab19ac85ebaf20" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.</source>
+        <target state="translated">GM Intrusions: The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="66b50fb8b57a84ee" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Impart Understanding #Ability #MetaAbility #SupportAbility #High #Core</source>
+        <target state="translated">Impart Understanding #Ability #MetaAbility #SupportAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e50cdda0a6455400" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your Learning the Path ability works more effectively, allowing you to ease a task by two steps or to provide two assets to a friend’s task, instead of easing normally.</source>
+        <target state="translated">Your Learning the Path ability works more effectively, allowing you to ease a task by two steps or to provide two assets to a friend’s task, instead of easing normally.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

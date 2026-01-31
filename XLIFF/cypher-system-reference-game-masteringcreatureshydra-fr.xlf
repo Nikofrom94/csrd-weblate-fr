@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="b564dd22edf9b9eb" weblate-flags="md-text, safe-html, strict-same">
+        <source>HYDRA #lvl7 (21) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="114ea97b728ea9af" weblate-flags="md-text, safe-html, strict-same">
+        <source>This mythological reptile has five writhing serpent heads, each of which constantly exhales a venomous plume. Well over 20 feet (6 m) long from the tip of its longest head to its thrashing tail, the toxic beast’s most discomfiting feature is its magical ability to sprout new heads when it’s wounded. Some hydras dwell on land, others in water. Most seem to have been set as guardians of important places by higher powers, which is probably why they’re so difficult to kill.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="489bc1c7c58cc72e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for flesh, defend a location</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ececd54c425b5477" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Swamps, coasts, and forests</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4982451e4f6b172c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 24</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3495fce03666f20e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 7 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a4cf9d025bf3ac0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short when walking or swimming</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fbc43effc49b99e3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception as level 8 due to its many heads; Speed defense as level 5 due to size</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4a92f20731a4969f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Even approaching a hydra is dangerous; the air around it is poisoned by its venomous breath. Each round a creature is within immediate range of a hydra, they must succeed on a Might defense task or take 1 point of Speed damage (ignores Armor).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ab75143e8691e6cb" weblate-flags="md-text, safe-html, strict-same">
+        <source>All five of a hydra’s heads can simultaneously bite foes in immediate range. If three or more heads coordinate their attack, the heads make one attack as a single level 9 creature dealing 9 points of damage. A target bitten by the venomous hydra must also succeed on a Might defense task or take an additional 2 points of Speed damage (ignores Armor).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="416e0ef909658017" weblate-flags="md-text, safe-html, strict-same">
+        <source>Whenever the hydra takes 4 or more points of damage from a single attack, a healing pulse surges through the creature a round later. The pulse returns the health just subtracted due to the attack and triggers the immediate growth of two additional heads that sprout from the creature. (The same thing happens if one of the creature’s snakelike heads is decapitated.) The new heads are just as effective as the original ones in a fight. Fire, electrical, and other extreme energy attacks do not trigger the healing pulse and head genesis.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ebc9f70daf6cbb5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: A hydra is a cunning predator, but not intelligent. It can’t bargain or negotiate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9827f4ecd0a81e44" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: The PCs investigate an ancient ruin hoping to find artifacts of the gods. A hydra saw them enter and trails them through the crumbling structure at a considerable distance, waiting for them to take a rest or become otherwise distracted before attacking.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfd033902370b4d6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: Hydras sometimes collect cyphers and artifacts in their lair, or failing that, they guard something of value.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="261c0a9014a937e6" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: The character reacts poorly to the poison in the air or a bite and goes intonhelpless convulsions for one round if they fail a Might defense task.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

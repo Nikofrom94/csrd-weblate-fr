@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a6785f9cd98b8655" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Shrinks to Minute Size #Focus #Core #SuperHeroes</source>
+        <target state="translated">Shrinks to Minute Size #Focus #Core #SuperHeroes</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8b86b846addc3568" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You can shrink down to the size of a bug and, with enough experience, even smaller.</source>
+        <target state="translated">You can shrink down to the size of a bug and, with enough experience, even smaller.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dd7f4fe5d015df89" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Shrink</source>
+        <target state="translated">Tier 1: Shrink</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8aaf06d336a705db" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Beneath Notice</source>
+        <target state="translated">Tier 1: Beneath Notice</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a0a8232269b660d2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Smaller</source>
+        <target state="translated">Tier 2: Smaller</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0be34157e7b176f3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Advantages of Being Small</source>
+        <target state="translated">Tier 2: Advantages of Being Small</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="48bd2ca8fbb2ff8a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Enlarge or Quick Switch</source>
+        <target state="translated">Tier 3: Enlarge or Quick Switch</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f1f6678ce70a1305" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Small Flight</source>
+        <target state="translated">Tier 4: Small Flight</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="88b68ae8029f35c9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Shrink Others</source>
+        <target state="translated">Tier 5: Shrink Others</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c82ff442bbe9e860" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Bigger or Tiny</source>
+        <target state="translated">Tier 6: Bigger or Tiny</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="bf5c5255de61122b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.</source>
+        <target state="translated">GM Intrusions: A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e5cfdaa96232cdc5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.</source>
+        <target state="translated">A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

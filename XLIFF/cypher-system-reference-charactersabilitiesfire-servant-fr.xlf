@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="d83230c43a7b7415" weblate-flags="md-text, safe-html, strict-same">
+        <source>Fire Servant (6 Intellect points) #Ability #CompanionAbility #High #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ee3dfc2fd1218273" weblate-flags="md-text, safe-html, strict-same">
+        <source>While your [Shroud of Flame]{1} is active, you reach into your halo and produce an automaton of fire that is your general shape and size. It acts as you direct each round. Directing the servant is an action, and you can command it only when you are within long range of it. Without a command, the servant continues to follow your previous command. You can also give it a simple programmed action, such as “Wait here, and attack anyone who comes within short range until they’re dead.” The servant lasts for ten minutes, is a level 5 creature, and deals 1 extra point of damage from fire when it attacks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dbee5a5a88ae2634" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action to create; action to direct.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="58acfc973879a1e3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It’s the verb of the sentence “I am an *adjective* *noun* who *verbs*.”</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f1708264b7835e1f" weblate-flags="md-text, safe-html, strict-same">
+        <source>This chapter contains nearly a hundred sample foci, such as Bears a Halo of Fire, Would Rather Be Reading, and Pilots Starcraft. These foci can be chosen and used as presented by a player, or by the GM who adds them to a list of available foci for their players in their next campaign.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5bb40a2a58d61dbd" weblate-flags="md-text, safe-html, strict-same">
+        <source>In addition, the latter half of this chapter provides tools for the GM or an enterprising player to create their own custom foci that perfectly match the needs of a given game or campaign, as presented in Creating New Foci.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="52b83a93cdebc99b" weblate-flags="md-text, safe-html, strict-same">
+        <source>CHOOSING FOCI</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="545175d46e6fdbbb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Not all foci are appropriate for every genre. The Genre chapter provides guidance, but this section offers some broad generalizations. Obviously, the GM can include whatever foci are available in their setting. Foci end up being an important distinction in this case, because Commands Mental Powers, for example, makes it clear that psychic abilities exist in the setting, just as Howls at the Moon implies the existence of lycanthropes like werewolves, and Pilots Starcraft, of course, requires starships available to pilot.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d9e6eea97dca0568" weblate-flags="md-text, safe-html, strict-same">
+        <source>When a focus is chosen for a character, they get a special connection to one or more of their fellow PCs, a first-tier ability, and perhaps additional starting equipment: one or two pieces of equipment that might be required for the character to use their ability, or that might pair well with the focus. For instance, a character that can build things needs a set of tools. A character that’s constantly on fire needs a set of clothes that are immune to flame. A character that draws runes to cast spells needs writing implements. A character that slays monsters with a sword needs a sword. And so on. That said, many foci don’t require additional equipment.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4b7d8c0fecec2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Each focus also offers one or more suggestions—GM intrusions—for possible effects or consequences of really good or really bad die rolls.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fa0a2259fd168ccd" weblate-flags="md-text, safe-html, strict-same">
+        <source>A couple of foci presented in this chapter provide a “type swap option” that allows a player to swap an ability that would otherwise be gained from their type for the indicated ability instead. A player doesn’t have to make the swap; they merely have the option. For instance, the focus Loves the Void provides the option to gain the ability Have Spacesuit, Will Travel instead of a type ability.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="872dc6330dd196fa" weblate-flags="md-text, safe-html, strict-same">
+        <source>As a character progresses to a new tier, a focus grants more abilities. Each tier’s benefit is usually labeled Action or Enabler. If an ability is labeled Action, a character must take an action to use it. If an ability is labeled Enabler, it makes other actions better or gives some other benefit, but it’s not an action. An ability that allows a character to blast foes with lasers is an action. An ability that grants additional damage when an attack is made is an enabler. An enabler is used in the same turn as another action, and often as part of another action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2f0a6a31834e21c3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Each tier’s benefits are independent of and cumulative with benefits from other tiers (unless indicated otherwise). So if a first-tier ability grants +1 to Armor and a fourth-tier ability also grants +1 to Armor, when the character reaches fourth tier, a total of +2 to Armor is granted.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="99861edc3494175e" weblate-flags="md-text, safe-html, strict-same">
+        <source>At tier 3 and tier 6, the character is asked to choose one ability from the two options provided.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d24c29e895e498c9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Finally, you can choose whether you want to expand the story behind the focus (though that’s not mandatory).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cae5984dfe6fd762" weblate-flags="md-text, safe-html, strict-same">
+        <source>FOCUS CONNECTIONS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dbcab908436536d2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Choose a connection that goes well with the focus. If you’re a GM choosing (or creating) one or more foci for your players, choose up to four of the following connections.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a3a3b168795664fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. For reasons unknown to you, that character is completely immune to your focus abilities, whether you use them for help or for harm.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3edf435c169a5613" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You knew of that character years ago, but you don’t think they knew you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="89af29ab023f3a5f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You’re always trying to impress them, but you’re not sure why.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1168b75cb7f475bc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character has a habit that annoys you, but you’re otherwise quite impressed with their abilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="17043e1ad3ac9a72" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character shows potential in appreciating your particular paradigm, fighting style, or other focus-provided attribute. You would like to train them, but you’re not necessarily qualified to teach (that’s up to you), and they might not be interested (that’s up to them).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7e99cf62da296664" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. If they are within immediate range when you’re in a fight, sometimes they provide an asset, and sometimes they accidentally hinder your attack rolls (FIFTYPERCENT% chance either way, determined per fight).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2f51e2e369b29042" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You once saved their life, and they clearly feel indebted to you. You wish they didn’t; it’s just part of the job.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="372609bca8952066" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character recently mocked you in some fashion that really hurt your feelings. How you deal with this (if at all) is up to you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4b97a0750a9284be" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character knows you have suffered at the hands of robotic entities in the past. Whether you hate robots now is up to you, which may affect your relationship with the character if they are friendly with robots or have robotic parts.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="82c1b1d023fd1889" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character comes from the same place you do, and you knew each other as children.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9a1eefe6aeaf1f60" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. In the past, they taught you a few tricks to use in a fight.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="507839612aabf57f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character doesn’t seem to approve of your methods.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8bd97d15769d4bc6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Long ago, the two of you were on opposite sides of a fight. You won, though you “cheated” in their eyes (but from your perspective, all’s fair in a fight). They may be ready for a rematch, though that’s up to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7b276cb61c220772" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You are always trying to impress that character with your skill, wit, appearance, or bravado. Perhaps they are a rival, perhaps you need their respect, or perhaps you’re romantically interested in them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9debf6a88f96c7bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You fear that character is jealous of your abilities and worry that it might lead to problems.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="565645ff1fa567e0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You accidentally caught them in a trap you set, and they had to get free on their own.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9ac17264ab8a0bcc" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You were once hired to track down someone who was close to that character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="84382e5d33572c3c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick two PCs (preferably ones who are likely to get in the way of your attacks). When you miss with an attack and the GM rules that you struck someone other than your target, you hit one of these two characters.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c081acd99df4a3ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You’re not sure how or from where, but that character has a line on bottles of rare alcohol and can get them for you for half price.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ded59a3c64dacb35" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You recently had a possession go missing, and you’re becoming convinced that they took it. Whether or not they did is up to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fb7ea80f059e0fd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They always seem to know where you are, or at least in what direction you are in relation to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="10de526840905751" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Seeing you use your focus abilities seems to trigger an unpleasant memory in that character. That memory is up to the other PC, although they may not be able to consciously recall it.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="39456383aa424591" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Something about them interferes with your abilities. When they stand next to you, your focus abilities cost 1 additional point.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f29637637e6988a5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Something about them complements your abilities. When they stand next to you, the first focus ability you use in any 24-hour period costs 2 fewer points.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e90cafad2f42423e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You have known that character for a while, and they helped you gain control of your focus-related abilities.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e3bcd97e4efa8314" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Sometime in that character’s past, they had a devastating experience while attempting something that you do as a matter of course thanks to your focus. Whether they choose to tell you about it is up to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ff6d34812008b281" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Their occasional clumsiness and loud behavior irritate you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="4ca04bc6dc0c49a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. In the recent past, while practicing, you accidentally hit them with an attack, wounding them badly. It is up to them to decide whether they resent or forgive you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="df3fc99602487cb6" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They owe you a significant amount of money.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3c0cfbff3a712e6c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. In the recent past, while escaping a threat, you accidentally left that character to fend for themselves. They survived, but just barely. It is up to the player of that character to decide whether they resent you or have decided to forgive you.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fbc33578503f541f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Recently, they accidentally (or perhaps intentionally) put you in a position of danger. You’re fine now, but you’re wary around them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1079ab2e040a325b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. From your perspective, they seem nervous around a specific idea, person, or situation. You would like to teach them how to be more comfortable with their fears (if they will let you).</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ffb613b1305a051c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They called you a coward once.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="97de7882b3f91bde" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character always recognizes you or your handiwork, whether you’re in disguise or are long gone when they arrive on the scene.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1d394d2a893da3ca" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You inadvertently caused an accident that put them into a sleep so deep they didn’t wake for three days. Whether they forgive you or not is up to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="de8612998df957b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You are pretty sure you are related in some fashion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="11d33bfc2a2f40ac" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You accidentally learned something they were trying to keep a secret.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a992b18989c770ad" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They are especially sensitive to the use of your flashier focus abilities, and occasionally they become dazzled for a few rounds, which hinders their actions.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7850fc86dadbc5ce" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They appear to have a treasured item that was once yours, but that you lost in a game of chance years ago.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="918bf341be2cd1b7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. If it wasn’t for you, that character would have failed a past test of mental achievement.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d39bb5f7ccfbf69c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. Based on a couple of comments you’ve overheard, you suspect that they don’t hold your area of training or favorite hobby in the highest regard.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f84504121a994175" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC whose focus intertwines with yours. This odd connection affects them in some way. For example, if the character uses a weapon, your focus ability sometimes improves their attack in some fashion.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2968a66883baff0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They are deathly afraid of heights. You would like to teach them how to be more comfortable with their feet off the ground. They must decide whether or not to take you up on your offer.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f204f8d8bc849e9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They are skeptical of your claims about something momentous that happened in your past. They might even attempt to discredit you or discover the “secret” behind your story, though that’s up to them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c92f23f00c2bcd8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They have a knack for being able to recognize where your plans or schemes have a weak spot.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fbb2e5c1ee9fa690" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character’s face is so intriguing to you in a way you don’t understand that you sometimes find yourself sketching their likeness in the dirt or using some other medium you have access to.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d6bfa8cd1c0938d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. That character has an extra item of regular equipment you gave them, either something you made or an item you just wanted to give them. (They choose the item.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="05e03b196a21b715" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. They commissioned you to do a job for them. You’ve already been paid but haven’t yet completed the job.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a8d17128cc8c6e3f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. You worked together in the past, and the job ended badly.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="476a10413d11fbc4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Pick one other PC. While they stand next to you and use their action to concentrate on helping you, one of your focus ability’s ranges is doubled.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1378bc7ae5f127b8" weblate-flags="md-text, safe-html, strict-same">
+        <source>STORY BEHIND THE FOCUS</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0d20eec1c1e1d12f" weblate-flags="md-text, safe-html, strict-same">
+        <source>The foci in this book have been purposely stripped down to basics so they have the widest possible application across multiple genres. A single descriptive sentence or two summarizes each one. After you choose a focus, you have the option to expand its presentation by adding more story and description relevant to the world or to the character.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0d82349e57e026d7" weblate-flags="md-text, safe-html, strict-same">
+        <source>For instance, if you choose Operates Undercover, the summarizing description is “Under the guise of someone else, you seek to find answers the powerful do not want divulged.” If you choose Conducts Weird Science, the summary is “Your preternatural insight and ability make you a scientist capable of amazing feats.” These descriptions provide what you need to know to use the focus.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0277f9f5cf28a98" weblate-flags="md-text, safe-html, strict-same">
+        <source>However, if you wish (and *only* if you wish; there is no requirement to do so), you can add more to those descriptions in a fashion that’s relevant for your game. For example, if you choose both Operates Undercover and Conducts Weird Science for use in a modern genre such as horror, urban fantasy, espionage, or something similar, you might expand the descriptions as shown in the following examples.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="46d1e3e5918f732c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Operates Undercover: Espionage is not something you know anything about. At least, that’s what you want everyone to believe, because in truth, you’ve been trained as a spy or covert agent. You might work for a government or for yourself. You might be a police detective or a criminal. You could even be an investigative reporter.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b03ddde29cc9efe0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Regardless, you learn information that others attempt to keep secret. You collect rumors and whispers, stories and hard-won evidence, and you use that knowledge to aid your own endeavors and, if appropriate, provide your employers with the information they desire. Alternatively, you might sell what you have learned to those willing to pay a premium.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f34e6199ac8defc7" weblate-flags="md-text, safe-html, strict-same">
+        <source>You probably wear dark colors—black, charcoal grey, or midnight blue—to help blend into the shadows, unless the cover you’ve chosen requires you to look like someone else.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2ba16d774c37e2b0" weblate-flags="md-text, safe-html, strict-same">
+        <source>Conducts Weird Science: You could be a respected scientist, having been published in several peer-reviewed journals. Or you might be considered a crank by your contemporaries, pursuing fringe theories on what others consider to be scant evidence. Truth is, you have a particular gift for sifting the edges of what’s possible. You can find new insights and unlock odd phenomena with your experiments. Where others see a crackpot cornucopia, you sift the conspiracy theories for revelation. Whether you conduct your enquiries as a government contractor, a university researcher, a corporate scientist, or an indulger of curiosity in your own garage lab following your muse, you push the boundaries of what’s possible.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cfcb90121a7979c2" weblate-flags="md-text, safe-html, strict-same">
+        <source>You probably care more about your work than trivialities such as your appearance, polite or proper behavior, or social norms, but then again, an eccentric like you might turn the tables on that stereotype too.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a1f71535fb6c96af" weblate-flags="md-text, safe-html, strict-same">
+        <source>If you want to go even further, you could determine where a character’s focus abilities come from. Depending on the genre, they could derive those abilities from advanced and persistent training, via magical runes, through cybernetic parts, from their genetic heritage, or because of their access to advanced technology. For instance, a character might be able to blast targets with lightning because they got zapped by strange radiation or because they picked up a lightning gun. On the other hand, it might be because their intense training allowed them to learn lightning magic. The possibilities are nearly endless, and up to you to include or forgo. Because however a focus’s abilities were gained, it’s also enough that they just work.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="12891c916e9f176e" weblate-flags="md-text, safe-html, strict-same">
+        <source>CUSTOMIZING FOCI</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="78be55b0d397db5c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sometimes not everything about a focus is right for a character’s concept, or perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8430bfc8b4f583fe" weblate-flags="md-text, safe-html, strict-same">
+        <source>At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech
+devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dfd36c1c306e9537" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b0469adb5e090be2" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Combat Prowess]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="34aadc2600864fd8" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Enhanced Potential]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c4eba079336a4409" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 2</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b5c1e1f77df19c94" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lower-tier ability: choose any tier 1 replacement ability, above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bfe5084a39df94c3" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Skill With Defense]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="29572c18ab6108bd" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Practiced With All Weapons]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bce127d6362b4000" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Skill With Attacks]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7405bb06e663f44b" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 3</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1f2d554613f131cf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lower-tier ability: choose any tier 1 or 2 replacement ability, above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d274691bea9ebed8" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Incredible Health]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b16c1f18cfcd884" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Fusion Armor]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ae956e68e3beb86f" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="41bfa3532acb6541" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lower-tier ability: choose any tier 1, 2, or 3 replacement ability, above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="810d4f61732467f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Poison Resistance]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1959a7fd9cdef8cc" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Built-in Weaponry]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7cf2700f760cd1cd" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0dc378b41f29d122" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8f047cb16cb64dd1" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Adaptation]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9f0d2bee4fc45fbc" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Defensive Field]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d2352faddba09a96" weblate-flags="md-text, safe-html, strict-same">
+        <source>TIER 6</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ff0ac338e07c0d7c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Lower-tier ability: choose any tier 1, 2, 3, 4, or 5 replacement ability, above.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5415fa1c3dbe6814" weblate-flags="md-text, safe-html, strict-same">
+        <source>[Reactive Field]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

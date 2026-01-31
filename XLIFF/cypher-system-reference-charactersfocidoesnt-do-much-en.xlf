@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="4fd1de2b0a5e3c3a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Doesn’t Do Much #Focus #BasicFocus #Core</source>
+        <target state="translated">Doesn’t Do Much #Focus #BasicFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="55702a31c8f55bc8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a slacker, but you know a little about a lot of things.</source>
+        <target state="translated">You’re a slacker, but you know a little about a lot of things.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7c0be4f9fa37cd3f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Life Lessons]{1}</source>
+        <target state="translated">Tier 1: [Life Lessons]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="570877ebc4b12e01" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Totally Chill]{1}</source>
+        <target state="translated">Tier 2: [Totally Chill]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="abc3e5b7053edbb6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Skill With Attacks]{1} or [Improvise]{2}</source>
+        <target state="translated">Tier 3: [Skill With Attacks]{1} or [Improvise]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe9bff5d49cbee01" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Life Lessons]{1}</source>
+        <target state="translated">Tier 4: [Life Lessons]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8dd5a92c73fd5af2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Greater Skill With Defense]{1}</source>
+        <target state="translated">Tier 4: [Greater Skill With Defense]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e1c9e8d58ca40940" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Greater Enhanced Potential]{1}</source>
+        <target state="translated">Tier 5: [Greater Enhanced Potential]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64277d2257ca5c71" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Drawing on Life’s Experiences]{1} or [Quick Wits]{2}</source>
+        <target state="translated">Tier 6: [Drawing on Life’s Experiences]{1} or [Quick Wits]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07137eceb0d0ac4d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.</source>
+        <target state="translated">GM Intrusions: New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

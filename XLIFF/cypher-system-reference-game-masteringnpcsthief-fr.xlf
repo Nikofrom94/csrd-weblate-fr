@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="eeb8b5b00fd55315" weblate-flags="md-text, safe-html, strict-same">
+        <source>THIEF #lvl4 (12) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction #PostApo</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dbdd9c20eccdef52" weblate-flags="md-text, safe-html, strict-same">
+        <source>A thief takes things that don’t belong to them—preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="316e62f9b635e2e7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Greed, curiosity, risk</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="87c9a8a791257f16" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 12</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1fafbb133fb4701a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Armor: 1</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c0e4ba920766b255" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="33d472ed92522781" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Balancing, climbing, perception, pickpocketing, and stealth as level 5</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1de8746385d05da3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Thieves prefer small concealable weapons—knives, batons, and so on—so they can quickly make themselves look like an innocent bystander. Their goal is to escape, not kill, so they often rely on tricks like caltrops, spilled oil, and smoke pellets to distract or delay foes and give themselves an opportunity to get away. They aren’t above using poison, typically a sleep poison that knocks out a foe for ten minutes on a failed Might defense task.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2e4b450be257da7f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Thieves run a broad range of personalities—nervous, arrogant, quietly confident, sarcastic, and more. They like to know the risks and rewards of what they’ll be doing, and they don’t like surprises.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d65d538e39566f98" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A cocky thief steals an item from a character and returns it to prove their skills are up to the task. A gang of pickpockets targets a character’s jewelry or cyphers.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ba5e658d411fad29" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: Thieves usually carry light tools, a few small weapons, miscellaneous equipment for creating a distraction, and a cypher they plan to use or sell.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

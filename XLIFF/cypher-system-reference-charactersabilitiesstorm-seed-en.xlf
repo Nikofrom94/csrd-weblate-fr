@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="1b486b32f35bc2b3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Storm Seed (3 Intellect points) #Ability #EnvironmentAbility #Mid #Core</source>
+        <target state="translated">Storm Seed (3 Intellect points) #Ability #EnvironmentAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="25054c3a34896728" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>If outside or in a large-enough enclosed space, you can seed a natural storm of a kind common to the area. Doing so requires at least an hour’s concentration as you use your connection to the air (whether this is due to nanobots, elemental spirits, magic, or some other source) to initiate proper conditions, though it could take longer if the GM feels there are additional obstacles at play. Once the storm begins, it lasts for about ten minutes. Once during that period, you can create a more dramatic and specific effect appropriate to that kind of storm, such as a lightning strike, a squall of giant hailstones, the brief touchdown of a twister, a single gust of hurricane-force winds, and so on. These effects must occur within long range of your location. You must spend your turn concentrating to create the effect, which occurs a round later. The effect inflicts 6 points of damage, after which the storm begins to disperse.</source>
+        <target state="translated">If outside or in a large-enough enclosed space, you can seed a natural storm of a kind common to the area. Doing so requires at least an hour’s concentration as you use your connection to the air (whether this is due to nanobots, elemental spirits, magic, or some other source) to initiate proper conditions, though it could take longer if the GM feels there are additional obstacles at play. Once the storm begins, it lasts for about ten minutes. Once during that period, you can create a more dramatic and specific effect appropriate to that kind of storm, such as a lightning strike, a squall of giant hailstones, the brief touchdown of a twister, a single gust of hurricane-force winds, and so on. These effects must occur within long range of your location. You must spend your turn concentrating to create the effect, which occurs a round later. The effect inflicts 6 points of damage, after which the storm begins to disperse.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="696b3564b6b8f7fe" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Storm Seed usually calls thunderstorms, but in an area where stranger weather is common, a Storm Seed could call that instead. For instance, some settings have particular kinds of magical weather.)</source>
+        <target state="translated">(Storm Seed usually calls thunderstorms, but in an area where stranger weather is common, a Storm Seed could call that instead. For instance, some settings have particular kinds of magical weather.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fbff6d882c01315e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate, an hour or more to complete.</source>
+        <target state="translated">Action to initiate, an hour or more to complete.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

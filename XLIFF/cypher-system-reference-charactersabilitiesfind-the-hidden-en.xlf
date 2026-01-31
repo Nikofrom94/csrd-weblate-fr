@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9fde84a9854b6d79" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Find the Hidden (4+ Intellect points) #Ability #InformationAbility #Mid #Core</source>
+        <target state="translated">Find the Hidden (4+ Intellect points) #Ability #InformationAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e241a7d6d50846bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You see the traceries of objects as they move through space and time. You can sense the distance and direction of any specific inanimate object that you once touched. This takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take. If you use at least two levels of Effort, once you have established the distance and direction, you remain in contact with the object for one hour per level of Effort used. Thus, if it moves, you are aware of its new position.</source>
+        <target state="translated">You see the traceries of objects as they move through space and time. You can sense the distance and direction of any specific inanimate object that you once touched. This takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take. If you use at least two levels of Effort, once you have established the distance and direction, you remain in contact with the object for one hour per level of Effort used. Thus, if it moves, you are aware of its new position.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4eeb97bc7954e1ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate; action each round to concentrate.</source>
+        <target state="translated">Action to initiate; action each round to concentrate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

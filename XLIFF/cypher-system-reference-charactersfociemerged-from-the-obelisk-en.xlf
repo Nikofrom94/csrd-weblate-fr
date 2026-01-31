@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="15feb912501cfc87" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Emerged From the Obelisk #Focus #IrregularFocus #Core</source>
+        <target state="translated">Emerged From the Obelisk #Focus #IrregularFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="52b6a78e8fefed8e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.</source>
+        <target state="translated">Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1ff3ddaa609bc863" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Crystalline Body]{1}</source>
+        <target state="translated">Tier 1: [Crystalline Body]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="337dd3e6411ea4d1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Hover]{1}</source>
+        <target state="translated">Tier 2: [Hover]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d5ad7e495077a696" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Inhabit Crystal]{1} or [Immovable]{2}</source>
+        <target state="translated">Tier 3: [Inhabit Crystal]{1} or [Immovable]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="692b5c42668c93f5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Crystal Lens]{1}</source>
+        <target state="translated">Tier 4: [Crystal Lens]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="08621d9b43ed8cb8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Resonant Frequency]{1}</source>
+        <target state="translated">Tier 5: [Resonant Frequency]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="393dc103e57babad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Resonant Quake]{1} or [Return to the Obelisk]{2}</source>
+        <target state="translated">Tier 6: [Resonant Quake]{1} or [Return to the Obelisk]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d7ed5c7386424aa1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Cyphers and artifacts react unexpectedly in the character’s hands.</source>
+        <target state="translated">GM Intrusions: Cyphers and artifacts react unexpectedly in the character’s hands.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

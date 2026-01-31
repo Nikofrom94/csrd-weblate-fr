@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="9c84b4a855f862ca" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defensive Augmentation #Ability #ProtectionAbility #High #Core</source>
+        <target state="translated">Defensive Augmentation #Ability #ProtectionAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="664eecf1b36c98ac" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks.</source>
+        <target state="translated">By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

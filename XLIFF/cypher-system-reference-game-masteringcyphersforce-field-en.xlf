@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3f1614031d89a4c0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>FORCE FIELD #Cypher #Fantastic #Core</source>
+        <target state="translated">FORCE FIELD #Cypher #Fantastic #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="07de18fa0e62b8a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6</source>
+        <target state="translated">Level: 1d6</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c18e8654aa0346e3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: For the next day, the user is surrounded by a powerful force field, granting them +1 to Armor (+2 to Armor if the cypher level is 5 or higher).</source>
+        <target state="translated">Effect: For the next day, the user is surrounded by a powerful force field, granting them +1 to Armor (+2 to Armor if the cypher level is 5 or higher).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1e161bf6082898eb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>(Some force walls, shields, and cubes are transparent. Others are translucent. A few are opaque.)</source>
+        <target state="translated">(Some force walls, shields, and cubes are transparent. Others are translucent. A few are opaque.)</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

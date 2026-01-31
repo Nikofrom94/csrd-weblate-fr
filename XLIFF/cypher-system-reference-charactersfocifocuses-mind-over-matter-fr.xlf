@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="bee2247645a2ad23" weblate-flags="md-text, safe-html, strict-same">
+        <source>Focuses Mind Over Matter #Focus #EnvironmentFocus #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c01e65616ea649a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>You can telekinetically move objects with your mind without physically touching them.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="747a21d47b7ccc8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 1: [Divert Attacks]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2b00840adf67790a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 2: [Telekinesis]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2f51dc7289f2fa64" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 3: [Cloak of Opportunity]{1} or [Enhance Strength]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7044d581e0344847" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 4: [Apportation]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dd42917cb6067419" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 5: [Psychokinetic Attack]{1}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="8c565a5551b67826" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tier 6: [Improved Apportation]{1} or [Reshape]{2}</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="01273a844ee1fc22" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM Intrusions: One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="67de7fe2d3ed690b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Living Off the Land #Ability #CureAbility #Low #Core</source>
+        <target state="translated">Living Off the Land #Ability #CureAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da13618745502ab3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Given an hour or so, you can always find edible food and potable water in the wilderness. You can even find enough for a small group of people, if need be. Further, since you’re so hardy and have gained resistance over time, you are trained in resisting the effects of natural poisons (such as those from plants or living creatures). You’re also immune to natural diseases.</source>
+        <target state="translated">Given an hour or so, you can always find edible food and potable water in the wilderness. You can even find enough for a small group of people, if need be. Further, since you’re so hardy and have gained resistance over time, you are trained in resisting the effects of natural poisons (such as those from plants or living creatures). You’re also immune to natural diseases.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

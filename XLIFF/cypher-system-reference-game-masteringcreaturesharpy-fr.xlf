@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="d71bd4982cd2f521" weblate-flags="md-text, safe-html, strict-same">
+        <source>HARPY #lvl3 (9) #Creature #Core #Fantasy</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b7f7078d4393da5e" weblate-flags="md-text, safe-html, strict-same">
+        <source>A harpy is a hideous, filthy creature with the body of a large vulture and the neck and head of an ugly human. Their breath reeks of decay, their wings and talons drip with an unpleasant oil, and their eyes shed acrid tears. They love to torment people and lure them to their deaths.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="76560ff62570607f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Motive: Hungers for flesh, causing anguish</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2a8233d529780617" weblate-flags="md-text, safe-html, strict-same">
+        <source>Environment: Coastline, forest, and mountains</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1ab94cf5f4bd1567" weblate-flags="md-text, safe-html, strict-same">
+        <source>Health: 9</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6f830ed1ea6b1fcf" weblate-flags="md-text, safe-html, strict-same">
+        <source>Damage Inflicted: 4 points</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ca329a0cb0f68a8c" weblate-flags="md-text, safe-html, strict-same">
+        <source>Movement: Short; long when flying</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fd2a8421ce002307" weblate-flags="md-text, safe-html, strict-same">
+        <source>Modifications: Perception and Speed defense as level 4</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f5324b57ce7bb4d5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Combat: Harpies are fast and strong, capable of carrying off a light adult human. They attack with their long talons.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="3410d8eab6c8f036" weblate-flags="md-text, safe-html, strict-same">
+        <source>Anything a harpy touches becomes fouled with their smelly fluids, and one harpy energetically flapping their wings is enough to contaminate an immediate area. Their fluids are repulsive but not directly harmful, and the smell persists even after a casual washing. Any food touched by harpy filth is inedible to anyone but a harpy. Creatures with a sensitive sense of smell (such as dogs and wolves) are hindered when within a short distance of a harpy. It is common for a group of harpies to attack a campsite or festival, spread their stink over everything, and fly away with whatever food they can carry.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5b56006d86ef8f26" weblate-flags="md-text, safe-html, strict-same">
+        <source>A harpy can sing a weird, entrancing song that hypnotizes whoever hears it. Anyone within long range who hears the song must make an Intellect defense roll or stop whatever they are doing and attempt to approach the harpy. If the creature comes within an immediate distance of a singing harpy, they stand there dumbly even as the harpy attacks them. The creature can make another attempt to break free each round on its turn, and taking damage from anything other than a singing harpy allows them another attempt to break free. Five or more harpies can work together on the same song (treat as a level 5 effect). Harpies are cruel and have been known to lead an entranced creature into a pit, off a cliff, or over the railing of a ship.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7b37f9f0f3e43fdb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Interaction: Other than their singing, harpies do not usually speak with other creatures. They are more likely to jeer and screech at people like an angry bird than try to communicate.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e6cea80d66710a8f" weblate-flags="md-text, safe-html, strict-same">
+        <source>Use: A flock of harpies torments a village during its harvest festival, ruining the celebration and some of the food set aside for the winter. Sailors speak of a lonely island where an old, blind king starves because harpies steal or foul any food set out for him.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b9dc46f6b53a0be2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Loot: A harpy nest may have one or two cyphers or other valuables, but the items will smell disgusting unless carefully washed.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9d2c7e5a0fb594ff" weblate-flags="md-text, safe-html, strict-same">
+        <source>GM intrusion: A harpy snatches something a character is wearing or carrying on a failed Speed defense roll. The harpy throws away or flees with the stolen item</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

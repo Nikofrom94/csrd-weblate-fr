@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="d9c62ec6b9676e69" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Embrace the Night (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core</source>
+        <target state="translated">Embrace the Night (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2c3b7f45e2c1de13" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You fashion a truly horrifying facade of a creature from swirling ribbons of dark matter and launch it at your foes within long range. Each round, you can attack a target within long range using the creation as your weapon. When you attack, the creature inserts hair-fine tendrils of shadow into the target’s eyes and brain. The target takes 3 points of Intellect damage (ignores Armor) and is stunned for one round so that it loses its next turn. Alternatively, you can cause the creature to take other actions, as long as you are able to see it and mentally control it as your action. The creature disperses after about a minute.</source>
+        <target state="translated">You fashion a truly horrifying facade of a creature from swirling ribbons of dark matter and launch it at your foes within long range. Each round, you can attack a target within long range using the creation as your weapon. When you attack, the creature inserts hair-fine tendrils of shadow into the target’s eyes and brain. The target takes 3 points of Intellect damage (ignores Armor) and is stunned for one round so that it loses its next turn. Alternatively, you can cause the creature to take other actions, as long as you are able to see it and mentally control it as your action. The creature disperses after about a minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6b83fc3d4aef4212" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate.</source>
+        <target state="translated">Action to initiate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="5761e05cad3e70d6" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Command (3 Intellect points) #Ability #ControlAbility #Mid #Core</source>
+        <target state="translated">Command (3 Intellect points) #Ability #ControlAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b84fc9d32db8e157" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Through sheer force of will, you can issue a simple imperative command to a single living creature, who then attempts to carry out your command as its next action. The creature must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so “Commit suicide” won’t work, but “Flee” might. In addition, the command can require the creature to take only one action, so “Unlock the door” might work, but “Unlock the door and run through it” won’t. A commanded creature can still defend itself normally and return an attack if one is made on it. If you possess another ability that allows you to command a creature, you can target two creatures at once as your base effect if you use either ability.</source>
+        <target state="translated">Through sheer force of will, you can issue a simple imperative command to a single living creature, who then attempts to carry out your command as its next action. The creature must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so “Commit suicide” won’t work, but “Flee” might. In addition, the command can require the creature to take only one action, so “Unlock the door” might work, but “Unlock the door and run through it” won’t. A commanded creature can still defend itself normally and return an attack if one is made on it. If you possess another ability that allows you to command a creature, you can target two creatures at once as your base effect if you use either ability.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

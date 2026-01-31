@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="cde7cb9c3224255e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>INTELLECT BOOSTER #Cypher #Subtle #Core</source>
+        <target state="translated">INTELLECT BOOSTER #Cypher #Subtle #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ea0ea44d5addece9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Level: 1d6 + 2</source>
+        <target state="translated">Level: 1d6 + 2</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="da26b3d31df0c17f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Effect: Adds 1 to the user’s Intellect Edge for one hour (or 2 if the cypher is level 5 or higher).</source>
+        <target state="translated">Effect: Adds 1 to the user’s Intellect Edge for one hour (or 2 if the cypher is level 5 or higher).</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="0d4ab582665189ed" weblate-flags="md-text, safe-html, strict-same">
+        <source>Time Loop (4 Intellect points) #Ability #CompanionAbility #Mid #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b1588127c27a5236" weblate-flags="md-text, safe-html, strict-same">
+        <source>You call yourself from a few moments in the future to help you in the present. On the round you use this ability, your future self appears anywhere you choose within immediate range and takes an action. On the second round, you and your future self both take actions, and your future self’s action is eased. On the third round, you and your future self both disappear. On the fourth round, you catch up to your future self, reappear wherever your future self initially appeared in the first round, and can take your actions normally.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="219894db220c1873" weblate-flags="md-text, safe-html, strict-same">
+        <source>Your future self shares your stats, so any damage that either of you takes applies to the same stat Pools. If your future self is killed, you and your future self disappear in the third round (as normal) and you reappear, dead, in the fourth round. Neither you nor your future self can use Time Loop again until you reappear as your future self in the fourth round.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="5f54dbafb2fb79a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>(In effect, Time Loop lets “you” take an action on the round you use it, two actions on the second round, and zero actions on the third round, and then you’re back to normal after that.)</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2d90321fecf44a24" weblate-flags="md-text, safe-html, strict-same">
+        <source>Action.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="86f35c78265812a0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Guarded #Descriptor #Core</source>
+        <target state="translated">Guarded #Descriptor #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="843320051cf27f09" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You conceal your true nature behind a mask and are loath to let anyone see who you really are. Protecting yourself, physically and emotionally, is what you care about most, and you prefer to keep everyone else at a safe distance. You may be suspicious of everyone you meet, expecting the worst from people so you won’t be surprised when they prove you right. Or you might just be a bit reserved, careful about letting people through your gruff exterior to the person you really are.</source>
+        <target state="translated">You conceal your true nature behind a mask and are loath to let anyone see who you really are. Protecting yourself, physically and emotionally, is what you care about most, and you prefer to keep everyone else at a safe distance. You may be suspicious of everyone you meet, expecting the worst from people so you won’t be surprised when they prove you right. Or you might just be a bit reserved, careful about letting people through your gruff exterior to the person you really are.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d68e1877e6cdaaa" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>No one can be as reserved as you are and make many friends. Most likely, you have an abrasive personality and tend to be pessimistic in your outlook. You probably nurse an old hurt and find that the only way you can cope is to keep it and your personality locked down.</source>
+        <target state="translated">No one can be as reserved as you are and make many friends. Most likely, you have an abrasive personality and tend to be pessimistic in your outlook. You probably nurse an old hurt and find that the only way you can cope is to keep it and your personality locked down.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="535d070a3eaa0514" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You gain the following characteristics:</source>
+        <target state="translated">You gain the following characteristics:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e4c75ab44a2de583" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Suspicious: +2 to your Intellect Pool.</source>
+        <target state="translated">Suspicious: +2 to your Intellect Pool.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e91eff298dacda1b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in all Intellect defense tasks.</source>
+        <target state="translated">Skill: You are trained in all Intellect defense tasks.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="811cdbff4329409d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Skill: You are trained in all tasks involving discerning the truth, piercing disguises, and recognizing falsehoods and other deceptions.</source>
+        <target state="translated">Skill: You are trained in all tasks involving discerning the truth, piercing disguises, and recognizing falsehoods and other deceptions.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="247a84d3ec6618ae" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Inability: Your suspicious nature makes you unlikeable. Any task involving deception or persuasion is hindered.</source>
+        <target state="translated">Inability: Your suspicious nature makes you unlikeable. Any task involving deception or persuasion is hindered.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="76eeddc66bfda07e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</source>
+        <target state="translated">Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="a8e7dff4e40f8fad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>One of the PCs managed to overcome your defenses and befriend you.</source>
+        <target state="translated">One of the PCs managed to overcome your defenses and befriend you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73e51f3d14dbdf43" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You want to see what the PCs are up to, so you accompany them to catch them in the act of some wrongdoing.</source>
+        <target state="translated">You want to see what the PCs are up to, so you accompany them to catch them in the act of some wrongdoing.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96269006a722c293" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have made a few enemies and take up with the PCs for protection.</source>
+        <target state="translated">You have made a few enemies and take up with the PCs for protection.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="64918308b1cf62b5" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>The PCs are the only people who will put up with you.</source>
+        <target state="translated">The PCs are the only people who will put up with you.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

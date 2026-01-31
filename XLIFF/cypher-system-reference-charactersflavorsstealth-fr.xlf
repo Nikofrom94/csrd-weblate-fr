@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit xml:space="preserve" id="5e3692023be3deda" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stealth #Flavor #Core</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="6ed9dbad5c94ec67" weblate-flags="md-text, safe-html, strict-same">
+        <source>Characters with the stealth flavor are good at sneaking around, infiltrating places they don’t belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="639dc3a327502e72" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIRST-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="e56674c0e79b1e5b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Danger Sense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bbbe9e1beb2e88b1" weblate-flags="md-text, safe-html, strict-same">
+        <source>Goad</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="c6fe43c3758227c2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Legerdemain</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7632338fe0e6d375" weblate-flags="md-text, safe-html, strict-same">
+        <source>Opportunist</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="9dab68af6f8031d9" weblate-flags="md-text, safe-html, strict-same">
+        <source>Stealth Skills</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d3a68f1a24a93999" weblate-flags="md-text, safe-html, strict-same">
+        <source>SECOND-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="26eb3b00f041ff40" weblate-flags="md-text, safe-html, strict-same">
+        <source>Contortionist</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f5e90e57d7f3f448" weblate-flags="md-text, safe-html, strict-same">
+        <source>Find an Opening</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0c0d46042e6d4baa" weblate-flags="md-text, safe-html, strict-same">
+        <source>Get Away</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bc890802a7ffc735" weblate-flags="md-text, safe-html, strict-same">
+        <source>Sense Ambush</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="854e1ef999a297a3" weblate-flags="md-text, safe-html, strict-same">
+        <source>Surprise Attack</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="31d3baf8552e9319" weblate-flags="md-text, safe-html, strict-same">
+        <source>THIRD-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="422d574c8ed265a5" weblate-flags="md-text, safe-html, strict-same">
+        <source>Evanesce</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="06eb888cfe2affd9" weblate-flags="md-text, safe-html, strict-same">
+        <source>From the Shadows</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1c0078c336533929" weblate-flags="md-text, safe-html, strict-same">
+        <source>Gambler</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="b2f72fe2cad09061" weblate-flags="md-text, safe-html, strict-same">
+        <source>Inner Defense</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b91feedb3943f36" weblate-flags="md-text, safe-html, strict-same">
+        <source>Misdirect</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="706e7d177f08a8a4" weblate-flags="md-text, safe-html, strict-same">
+        <source>Run and Fight</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="55ba048f9fa85f65" weblate-flags="md-text, safe-html, strict-same">
+        <source>Seize the Moment</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1b4eb9e61cb9f61a" weblate-flags="md-text, safe-html, strict-same">
+        <source>FOURTH-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="33bca9b90df07482" weblate-flags="md-text, safe-html, strict-same">
+        <source>Ambusher</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="0cddbad713c1521d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Debilitating Strike</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="60075ac86a13b47d" weblate-flags="md-text, safe-html, strict-same">
+        <source>Outwit</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="a9560e39d1c7d671" weblate-flags="md-text, safe-html, strict-same">
+        <source>Preternatural Senses</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="37ee61f9a9cc8085" weblate-flags="md-text, safe-html, strict-same">
+        <source>Tumbling Moves</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="f289801f3fe3fcee" weblate-flags="md-text, safe-html, strict-same">
+        <source>FIFTH-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="d066e6608c650d40" weblate-flags="md-text, safe-html, strict-same">
+        <source>Assassin Strike</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="48b52030e1d3cb4a" weblate-flags="md-text, safe-html, strict-same">
+        <source>Mask</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="2429b07314832e8e" weblate-flags="md-text, safe-html, strict-same">
+        <source>Return to Sender</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="7fc91bf0a46d0f27" weblate-flags="md-text, safe-html, strict-same">
+        <source>Uncanny Luck</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="183db2c96a5a6cd2" weblate-flags="md-text, safe-html, strict-same">
+        <source>SIXTH-TIER STEALTH ABILITIES</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="bfff7b468e03e8f2" weblate-flags="md-text, safe-html, strict-same">
+        <source>Exploit Advantage</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="13db26e3393adecb" weblate-flags="md-text, safe-html, strict-same">
+        <source>Spring Away</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dad82f04b8cf9ac7" weblate-flags="md-text, safe-html, strict-same">
+        <source>Thief’s Luck</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="23e08b344e5e5c7b" weblate-flags="md-text, safe-html, strict-same">
+        <source>Twist of Fate</source>
+        <target></target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

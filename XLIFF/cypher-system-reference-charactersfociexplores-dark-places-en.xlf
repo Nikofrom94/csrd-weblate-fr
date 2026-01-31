@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f759b31f75063ba1" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Explores Dark Places #Focus #ExplorationFocus #Core</source>
+        <target state="translated">Explores Dark Places #Focus #ExplorationFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8680ff5164f337b8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re the archetypal treasure hunter, scavenger, and finder of lost things.</source>
+        <target state="translated">You’re the archetypal treasure hunter, scavenger, and finder of lost things.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1aca30041ad307cb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: [Superb Explorer]{1}</source>
+        <target state="translated">Tier 1: [Superb Explorer]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="465c16de021752a2" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Superb Infiltrator]{1}</source>
+        <target state="translated">Tier 2: [Superb Infiltrator]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2f47a7b2a18ac40f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: [Eyes Adjusted]{1}</source>
+        <target state="translated">Tier 2: [Eyes Adjusted]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8f982ca9161fa00" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: [Nightstrike]{1} or [Slippery Customer]{2}</source>
+        <target state="translated">Tier 3: [Nightstrike]{1} or [Slippery Customer]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f315b99b4ce0835e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: [Hard-Won Resilience]{1}</source>
+        <target state="translated">Tier 4: [Hard-Won Resilience]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d581c3ed36990e9" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: [Dark Explorer]{1}</source>
+        <target state="translated">Tier 5: [Dark Explorer]{1}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3ae2522b265a6f33" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: [Blinding Attack]{1} or [Embraced by Darkness]{2}</source>
+        <target state="translated">Tier 6: [Blinding Attack]{1} or [Embraced by Darkness]{2}</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3b6cc54659313fd4" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.</source>
+        <target state="translated">GM Intrusions: Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

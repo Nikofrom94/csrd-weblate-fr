@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="fc32d10ee5526e6e" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Got a Feeling (4 Intellect points) #Ability #InformationAbility #Mid #Core</source>
+        <target state="translated">Got a Feeling (4 Intellect points) #Ability #InformationAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="eabd3517c22423d8" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You have an uncanny intuition when it comes to finding things. While exploring, you can extend your senses up to 1 mile (1.5 km) in any direction and ask the GM a very simple, general question—usually a yes-or-no question—about that area, such as “Is there an orc encampment nearby?” or “Is there dark matter to be found in that rusted hulk?” If the answer you seek is not in the area, you receive no information.</source>
+        <target state="translated">You have an uncanny intuition when it comes to finding things. While exploring, you can extend your senses up to 1 mile (1.5 km) in any direction and ask the GM a very simple, general question—usually a yes-or-no question—about that area, such as “Is there an orc encampment nearby?” or “Is there dark matter to be found in that rusted hulk?” If the answer you seek is not in the area, you receive no information.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

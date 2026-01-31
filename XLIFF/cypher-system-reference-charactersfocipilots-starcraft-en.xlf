@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="a713769ff2902b24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Pilots Starcraft #Focus #ExplorationFocus #Core</source>
+        <target state="translated">Pilots Starcraft #Focus #ExplorationFocus #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c6939cefe8bf5a48" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You’re a crack starship pilot.</source>
+        <target state="translated">You’re a crack starship pilot.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ec0b633ec2ffd162" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Pilot</source>
+        <target state="translated">Tier 1: Pilot</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0018eb59ad72b18b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 1: Flex Lore</source>
+        <target state="translated">Tier 1: Flex Lore</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="49c9de13636fb594" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Salvage and Comfort</source>
+        <target state="translated">Tier 2: Salvage and Comfort</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ee8a4c9a931d392b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 2: Mentally Tough</source>
+        <target state="translated">Tier 2: Mentally Tough</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fe6a684981a3db07" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Expert Pilot</source>
+        <target state="translated">Tier 3: Expert Pilot</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1603f7873dfc190d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 3: Ship Footing or Machine Companion</source>
+        <target state="translated">Tier 3: Ship Footing or Machine Companion</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9bd228c0013d418d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Sensor Array</source>
+        <target state="translated">Tier 4: Sensor Array</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c099aa7fd1ab274c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 4: Enhanced Speed</source>
+        <target state="translated">Tier 4: Enhanced Speed</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3d9e914f936f58c7" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 5: Like the Back of Your Hand</source>
+        <target state="translated">Tier 5: Like the Back of Your Hand</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="724161dfeecca71c" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Incomparable Pilot</source>
+        <target state="translated">Tier 6: Incomparable Pilot</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="365829a12fec5bd3" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Tier 6: Remote Control or Skill With Attacks</source>
+        <target state="translated">Tier 6: Remote Control or Skill With Attacks</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3624ac1321591183" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>GM Intrusions: Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.</source>
+        <target state="translated">GM Intrusions: Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
