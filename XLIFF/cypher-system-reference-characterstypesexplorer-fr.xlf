@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" id="81edff91d8ac8f0e" weblate-flags="md-text, safe-html, strict-same">
         <source>Explorer #Type #Core</source>
-        <target></target>
+        <target>Explorateur #Type #Core</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">1</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e438e390ced603aa" weblate-flags="md-text, safe-html, strict-same">
         <source>Fantasy/Fairy tale: Explorer, adventurer, delver, mystery seeker</source>
-        <target></target>
+        <target>**Fantasy/Contes:** Explorateur, aventurier, fouilleur, chercheur de mystère</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">3</context>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="75489b183a12ea40" weblate-flags="md-text, safe-html, strict-same">
         <source>Modern/Horror/Romance: athlete, explorer, adventurer, drifter, detective, scholar, spelunker, trailblazer, investigative reporter</source>
-        <target></target>
+        <target>**Moderne/Horreur/Romance:** athlète, explorateur, aventurier, détective, érudit, spéléologue, pionnier, reporter d'investigation</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">4</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="a11bde07b3e5686c" weblate-flags="md-text, safe-html, strict-same">
         <source>Science fiction: Explorer, adventurer, wanderer, planetary specialist, xenobiologist</source>
-        <target></target>
+        <target>**Science fiction:** explorateur, aventurier, spécialiste planétaire, xénobiologiste, pilote</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">5</context>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="4088b6a1fc4ad255" weblate-flags="md-text, safe-html, strict-same">
         <source>Superhero/Post-Apocalyptic: adventurer, crimefighter</source>
-        <target></target>
+        <target>**Superhéro/Post-Apocalyptique:** aventurier, justicier</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">6</context>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="8f0e6401e29e3b03" weblate-flags="md-text, safe-html, strict-same">
         <source>You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.</source>
-        <target></target>
+        <target>Vous êtes une personne portée sur l'action et les capacités physiques, faisant face bravement à l'inconnu. Vous avez voyagé dans des endroits exotiques et dangereux et découvert de nouvelles choses. Cela signifie que vous êtes physique mais ayant aussi accumulé des connaissances.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">8</context>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="356948d39f5988f8" weblate-flags="md-text, safe-html, strict-same">
         <source>Individual Role: Although Explorers can be academics or well studied, they are first and foremost interested in action. They face grave dangers and terrible obstacles as a routine part of life.</source>
-        <target></target>
+        <target>**Rôle individuel:** Bien que les Explorateurs peuvent être érudits ou on fait des études, ils sont principalement interressé par l'action. ils affrontent des graves dangers et des tobstacles terribles comme faisant parti de la vie.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">10</context>
@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="6692999370fc9d80" weblate-flags="md-text, safe-html, strict-same">
         <source>Group Role: Explorers sometimes work alone, but far more often they operate in teams with other characters. The Explorer frequently leads the way, blazing the trail. However, they’re also likely to stop and investigate anything intriguing they stumble upon.</source>
-        <target></target>
+        <target>**Rôle en Groupe:** Les Explorateurs travaillent quelque fois seuls mais ils opérent souvent en équipe avec d'autres personnages. L'Explorateur montre souvent la voie, en suivant la piste. Toutefois, il s'arrêtent pour analyser n'importe quoi d'intriguant sur lequel ils ont trébuché.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">12</context>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="ac68867e8a553805" weblate-flags="md-text, safe-html, strict-same">
         <source>Societal Role: Not all Explorers are out traipsing through the wilderness or poking about an old ruin. Sometimes, an Explorer is a teacher, a scientist, a detective, or an investigative reporter. In any event, an Explorer bravely faces new challenges and gathers knowledge to share with others.</source>
-        <target></target>
+        <target>**Rôle en Société:** Tous les explorateurs ne sont pas en train de se promener dans la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur est un enseignant, un scientifique, un détective ou un journaliste d'investigation. Quoi qu'il en soit, un explorateur relève courageusement de nouveaux défis et rassemble des connaissances à partager avec les autres.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">14</context>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1b399a36ceacf5e0" weblate-flags="md-text, safe-html, strict-same">
         <source>Advanced Explorers: Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.</source>
-        <target></target>
+        <target>**Explorateur Avancé:** Les Explorateurs de rang supérieur ont plus de compétences, quelques capacités de combat, et un certain nombre de capacités qui leur permet de faire face au danger. En résumé, ils deviennent de plus en plus équilibrés, capables de relever n'importe quel défi.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">16</context>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="77264f4e0c66796c" weblate-flags="md-text, safe-html, strict-same">
         <source>EXPLORER PLAYER INTRUSIONS</source>
-        <target></target>
+        <target>Intrusions de Joueur d'Explorateurs</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">18</context>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="69e8bff766a4ab51" weblate-flags="md-text, safe-html, strict-same">
         <source>When playing an Explorer, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.</source>
-        <target></target>
+        <target>Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la Meneuse soit d'accord.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">20</context>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="ca4f2a5edb9385a2" weblate-flags="md-text, safe-html, strict-same">
         <source>Fortuitous Malfunction: A trap or a dangerous device malfunctions before it can affect you.</source>
-        <target></target>
+        <target>**Dysfonctionnement Opportun:** Un piège ou un objet dangereux dysfonctionne avant qu'il puisse vous affecter.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">22</context>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7a8cdbf6b21338c4" weblate-flags="md-text, safe-html, strict-same">
         <source>Serendipitous Landmark: Just when it seems like the path is lost (or you are), a trail marker, a landmark, or simply the way the terrain or corridor bends, rises, or falls away suggests to you the best path forward, at least from this point.</source>
-        <target></target>
+        <target>**Point d'Intérêt Idéal:** Juste au moment où il semble que la piste est perdue (ou que vous l'êtes), une marque de sentier, un point d'intérêt, ou simplement la façon qu'a le terrain ou le corridor de se courber, monte ou descend, vous suggère quel est le meilleur chemin à poursuivre, au moins à partir de ce point.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">24</context>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="48bef6f11f45b269" weblate-flags="md-text, safe-html, strict-same">
         <source>Weak Strain: The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.</source>
-        <target></target>
+        <target>**Faible Souche:** Le poison ou la maladie s'avère pas aussi affaiblissante ou mortelle qu'elle semblait à première vue, et n'inflige que la moitié des dommages qu'ils auraient causé sinon.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">26</context>
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="5468e8fdf6250245" weblate-flags="md-text, safe-html, strict-same">
         <source>EXPLORER STAT POOLS</source>
-        <target></target>
+        <target>Réserves pour Explorateur</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">28</context>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b7001c20bbbe74db" weblate-flags="md-text, safe-html, strict-same">
         <source>Stat</source>
-        <target></target>
+        <target>**Stat**</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1d2e0505d87c87c5" weblate-flags="md-text, safe-html, strict-same">
         <source>Pool Starting Value</source>
-        <target></target>
+        <target>**Réserve de Départ**</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="06d39510070cb158" weblate-flags="md-text, safe-html, strict-same">
         <source>Might</source>
-        <target></target>
+        <target>Puissance</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="06c7522b6a5d3e69" weblate-flags="md-text, safe-html, strict-same">
         <source>Speed</source>
-        <target></target>
+        <target>Célérité</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="72eeaaa15849051b" weblate-flags="md-text, safe-html, strict-same">
         <source>Intellect</source>
-        <target></target>
+        <target>Intellect</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">30</context>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="6c9ed52601ff3c95" weblate-flags="md-text, safe-html, strict-same">
         <source>You get 6 additional points to divide among your stat Pools however you wish.</source>
-        <target></target>
+        <target>Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">36</context>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="9bd765aee533916e" weblate-flags="md-text, safe-html, strict-same">
         <source>Explorer Background Connection</source>
-        <target></target>
+        <target>Relation avec l'histoire passée de l'Explorateur</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">38</context>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="0374e9611a8e02a3" weblate-flags="md-text, safe-html, strict-same">
         <source>Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.</source>
-        <target></target>
+        <target>Votre type vous aide à déterminer la relation que vous avez avec la campagne en cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour définir un fait spécifique à propos de votre histoire qui fournit un relation avec le reste du monde. Vous pouvez aussi créer votre propre histoire.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">40</context>
@@ -220,7 +220,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="dcd6345394fb7139" weblate-flags="md-text, safe-html, strict-same">
         <source>Background</source>
-        <target></target>
+        <target>Historique</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e04f528412c7984b" weblate-flags="md-text, safe-html, strict-same">
         <source>You were a star high school athlete. You’re still in great shape, but those were the glory days, man.</source>
-        <target></target>
+        <target>Vous étiez un athlète vedette du lycée. Vous êtes toujours en pleine forme, mais c'était les jours de gloire, mec.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="07446daba4ea5725" weblate-flags="md-text, safe-html, strict-same">
         <source>Your brother is the lead singer in a really popular band.</source>
-        <target></target>
+        <target>Votre frère est le chanteur d'un groupe très populaire. </target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="48a8dc6ecf253475" weblate-flags="md-text, safe-html, strict-same">
         <source>You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.</source>
-        <target></target>
+        <target>Vous avez fait un certain nombre de découvertes au cours de vos explorations, mais toutes les opportunités de les exploiter ne se sont pas encore concrétisées.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="bc34870d7ba368f5" weblate-flags="md-text, safe-html, strict-same">
         <source>You were a cop, but you gave it up after encountering corruption on the force.</source>
-        <target></target>
+        <target>Vous étiez flic, mais vous avez abandonné après avoir été confronté à la corruption au sein de la police.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="c70f4a061c87fed0" weblate-flags="md-text, safe-html, strict-same">
         <source>Your parents were missionaries, so you spent much of your young life traveling to exotic places.</source>
-        <target></target>
+        <target>Vos parents étaient missionnaires, vous avez donc passé une grande partie de votre jeune vie à voyager dans des endroits exotiques.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7f8e65b19d798025" weblate-flags="md-text, safe-html, strict-same">
         <source>You served in the military with honor.</source>
-        <target></target>
+        <target>Vous avez servi dans l'armée avec honneur.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="75777aba19ab596f" weblate-flags="md-text, safe-html, strict-same">
         <source>You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.</source>
-        <target></target>
+        <target>Vous avez reçu l'aide d'une organisation secrète qui a financé vos études. Maintenant, ils semblent vouloir beaucoup plus de votre part.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7d3ef84339b961de" weblate-flags="md-text, safe-html, strict-same">
         <source>You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.</source>
-        <target></target>
+        <target>Vous avez fréquenté une université prestigieuse grâce à une bourse d'études sportives, mais vous avez excellé en classe ainsi que sur le terrain.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="1ede3ca301126c69" weblate-flags="md-text, safe-html, strict-same">
         <source>Your best friend from your youth is now an influential member of the government.</source>
-        <target></target>
+        <target>Votre meilleur ami de jeunesse est désormais un membre influent du gouvernement.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="054c97f6cfddf146" weblate-flags="md-text, safe-html, strict-same">
         <source>You used to be a teacher. Your students remember you fondly.</source>
-        <target></target>
+        <target>Vous étiez enseignant. Vos élèves se souviennent de vous avec tendresse.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="98721575a4ea401d" weblate-flags="md-text, safe-html, strict-same">
         <source>You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.</source>
-        <target></target>
+        <target>Vous avez travaillé comme petit agent criminel jusqu'à ce que vous soyez arrêté et que vous passiez un certain temps en prison, après quoi vous avez essayé d'aller droit au but.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="0e0fc4ad9ae7b383" weblate-flags="md-text, safe-html, strict-same">
         <source>Your greatest discovery to date was stolen by your arch-rival.</source>
-        <target></target>
+        <target>Votre plus grande découverte à ce jour a été volée par votre principal rival.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b068a94ec3d17ea8" weblate-flags="md-text, safe-html, strict-same">
         <source>You belong to an exclusive organization of Explorers whose existence is not widely known.</source>
-        <target></target>
+        <target>Vous appartenez à une organisation exclusive d'explorateurs dont l'existence est peu connue.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="98158b215b688906" weblate-flags="md-text, safe-html, strict-same">
         <source>You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety.</source>
-        <target></target>
+        <target>Vous avez été kidnappé alors que vous étiez un petit enfant dans des circonstances mystérieuses, même si vous avez été retrouvé sain et sauf. L'affaire a encore une certaine notoriété.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -460,7 +460,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="c36cb09b80a1a314" weblate-flags="md-text, safe-html, strict-same">
         <source>When you were young, you were addicted to narcotics, and now you are a recovering addict.</source>
-        <target></target>
+        <target>Quand vous étiez jeune, vous étiez accro aux stupéfiants, et maintenant vous êtes un toxicomane en convalescence.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="177134f7b3e8822f" weblate-flags="md-text, safe-html, strict-same">
         <source>While exploring a remote location, you saw something strange you’ve never been able to explain.</source>
-        <target></target>
+        <target>En explorant un endroit éloigné, vous avez vu quelque chose d'étrange que vous n'avez jamais pu expliquer.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7bf2925cec544552" weblate-flags="md-text, safe-html, strict-same">
         <source>You own a small bar or restaurant.</source>
-        <target></target>
+        <target>Vous possédez un petit bar ou un restaurant.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="c118c751243a7a59" weblate-flags="md-text, safe-html, strict-same">
         <source>You published a book about some of your exploits and discoveries, and it has achieved some acclaim.</source>
-        <target></target>
+        <target>Vous avez publié un livre sur certains de vos exploits et découvertes, et il a reçu un certain succès.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="fdbb72a419077fa5" weblate-flags="md-text, safe-html, strict-same">
         <source>Your sister owns a store and gives you a hefty discount.</source>
-        <target></target>
+        <target>Votre sœur possède un magasin et vous offre une remise importante.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -540,7 +540,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="d119387a42990135" weblate-flags="md-text, safe-html, strict-same">
         <source>Your father is a high-ranking officer in the military with many connections.</source>
-        <target></target>
+        <target>Votre père est un officier militaire de haut rang avec de nombreuses relations.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">42</context>
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="93c0be2a3fc496b4" weblate-flags="md-text, safe-html, strict-same">
         <source>FIRST-TIER EXPLORER</source>
-        <target></target>
+        <target>Explorateur de Premier Rang</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">65</context>
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="dd35c49d643f4877" weblate-flags="md-text, safe-html, strict-same">
         <source>First-tier Explorers have the following abilities:</source>
-        <target></target>
+        <target>Explorateurs de Premier Rang ont les capacités suivantes:</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">67</context>
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="252b50ac392dfb2a" weblate-flags="md-text, safe-html, strict-same">
         <source>Effort: Your Effort is 1.</source>
-        <target></target>
+        <target>**Effort:** Votre Effort est de 1.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">68</context>
@@ -572,7 +572,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="a0e2aeb3559f2515" weblate-flags="md-text, safe-html, strict-same">
         <source>Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an Intellect Edge of 0.</source>
-        <target></target>
+        <target>**Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede Célérité de 0 et un Avantage d'Intellect de 0.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">69</context>
@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="88e8074a41e0ad7f" weblate-flags="md-text, safe-html, strict-same">
         <source>Cypher Use: You can bear two cyphers at a time.</source>
-        <target></target>
+        <target>**Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">70</context>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="2ccb61bbb0f016f7" weblate-flags="md-text, safe-html, strict-same">
         <source>Starting Equipment: Appropriate clothing and a weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.</source>
-        <target></target>
+        <target>**Equipment au départ:** Des vêtements appropriés et l'arme de votre choix, ainsi que deux objets chers, deux objets modérement chers, et jusqu'à quatre objets peu chers.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">71</context>
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="d32ee4a31343f9b7" weblate-flags="md-text, safe-html, strict-same">
         <source>Weapons: You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.</source>
-        <target></target>
+        <target>**Armes:** Vous pouvez utiliser des armes légères et moyennes sans pénalité. Vous avez une inaptitude pour les armes lourdes; vos attaques avec des armes lourdes sont attténuées.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">72</context>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="f28b4fd4840c1d0d" weblate-flags="md-text, safe-html, strict-same">
         <source>Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.</source>
-        <target></target>
+        <target>**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">74</context>
@@ -1228,7 +1228,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="b62483024d194889" weblate-flags="md-text, safe-html, strict-same">
         <source>EXPLORER EXAMPLE</source>
-        <target></target>
+        <target>Exemple d'Explorateur</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">163</context>
@@ -1236,7 +1236,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="05332db530061854" weblate-flags="md-text, safe-html, strict-same">
         <source>Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.</source>
-        <target></target>
+        <target>Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Célérité et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Célérité 11 et Intellect 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intellect sont de 0. Son personnage est assez complet jusqu'à présent.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">165</context>
@@ -1244,7 +1244,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="7ef6a2802c6c0c10" weblate-flags="md-text, safe-html, strict-same">
         <source>Sam immediately leaps in and starts choosing abilities. They pick Danger Sense and Surging Confidence, thinking those abilities will be generally useful. They also choose Practiced in Armor, reasoning that the character wears high-tech medium armor when exploring. Last, they choose Knowledge Skills and select geology and biology to help during interplanetary explorations.</source>
-        <target></target>
+        <target>Sam intervient immédiatement et commence à choisir des capacités. Il choisit Sens du Danger et Sursaut de confiance, pensant que ces capacités seront généralement utiles. Il choisit également Pratique des armures, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">167</context>
@@ -1252,7 +1252,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="3102d355cf6772c4" weblate-flags="md-text, safe-html, strict-same">
         <source>Sam’s Explorer can bear two cyphers, which in this setting involve nanotechnology. The GM decides that one is a nanite injector that grants a +1 bonus to Might Edge when used, and the other is a device that can create one simple handheld object the user wishes.</source>
-        <target></target>
+        <target>L'Explorateur de Sam peut porter deux cyphers, qui dans ce contexte impliquent la nanotechnologie. Le MJ décide que l'un est un injecteur de nanite qui accorde un bonus de +1 à Might Edge lorsqu'il est utilisé, et l'autre est un appareil capable de créer un objet simple, qui peut être porté, définit par le joueur.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">169</context>
@@ -1260,7 +1260,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e82aae8428e52444" weblate-flags="md-text, safe-html, strict-same">
         <source>Sam’s Explorer is not really geared toward fighting, but sometimes the universe is a dangerous place, so they note that they’re carrying a medium blaster as well.</source>
-        <target></target>
+        <target>L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univers est un endroit dangereux, alors il note qu'il porte également un blaster moyen.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">171</context>
@@ -1268,7 +1268,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="83ad8356cfd5e03d" weblate-flags="md-text, safe-html, strict-same">
         <source>Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They’re trained in Might defense but have an inability with initiative; however, it’s effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.</source>
-        <target></target>
+        <target>Sam a encore besoin d'un descripteur et d'un focus. En regardant le chapitre Descripteur, il choisit Endurant, ce qui augmente leur réserve de Puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de Puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">173</context>
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="027c18da3b7b38cc" weblate-flags="md-text, safe-html, strict-same">
         <source>For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They’re quite the capable Explorer.</source>
-        <target></target>
+        <target>Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">175</context>
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="e0e58e58dee22a2e" weblate-flags="md-text, safe-html, strict-same">
         <source>For their character arc, Sam chooses Enterprise. Exploring alien places sometimes turns up strange relics, and Sam figures they might be able to set up a service to reliably transport these items to responsible third parties, rather than allow them to fall into the hands of pirates and rich private collectors. For a small fee, of course.</source>
-        <target></target>
+        <target>Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux extraterrestres révèle parfois d'étranges reliques, et Sam pense qu'il pourrait peut-être mettre en place un service pour transporter de manière fiable ces objets vers des tiers responsables, plutôt que de les laisser tomber entre les mains de pirates et de riches collectionneurs privés. Pour une somme modique, bien sûr.</target>
         <context-group name="" purpose="location">
           <context context-type="sourcefile"></context>
           <context context-type="linenumber">177</context>
