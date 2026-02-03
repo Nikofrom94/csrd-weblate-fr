@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="2e3db76f5f171065" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Temporal Acceleration (5 Intellect points) #Ability #ProtectionAbility #TaskAbility #Mid #Core</source>
+        <target state="translated">Temporal Acceleration (5 Intellect points) #Ability #ProtectionAbility #TaskAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8f8b6b0a41f3ec1f" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>You or one willing creature you touch moves more quickly through time. The effect lasts for one minute. Everything moves more slowly for the affected character, while to all others, the character seems to move at preternatural speed. The character has an asset on all tasks until the effect ends. After the effect ends, the target is exhausted and disoriented by the experience, hindering all tasks for one hour.</source>
+        <target state="translated">You or one willing creature you touch moves more quickly through time. The effect lasts for one minute. Everything moves more slowly for the affected character, while to all others, the character seems to move at preternatural speed. The character has an asset on all tasks until the effect ends. After the effect ends, the target is exhausted and disoriented by the experience, hindering all tasks for one hour.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

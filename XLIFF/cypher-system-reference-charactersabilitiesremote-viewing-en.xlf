@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="b2347bfc69a8483a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Remote Viewing (6 Intellect points) #Ability #SensesAbility #Mid #Core</source>
+        <target state="translated">Remote Viewing (6 Intellect points) #Ability #SensesAbility #Mid #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="98096b7933deceb0" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distance is an illusion, as all space is one space. With great concentration, you can see another place. This ability can be used in one of two ways:</source>
+        <target state="translated">Distance is an illusion, as all space is one space. With great concentration, you can see another place. This ability can be used in one of two ways:</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c9d4f87a2363f0bb" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Distance and direction. Pick a spot a specific distance away and in a specific direction. You can see from that vantage point as if you had used the Sensor ability there, but only for one minute.</source>
+        <target state="translated">Distance and direction. Pick a spot a specific distance away and in a specific direction. You can see from that vantage point as if you had used the Sensor ability there, but only for one minute.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2e3ab8a6b74ced91" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Think of a place you have seen before, either conventionally or using the other application of this power. You can see from that vantage point as if you had used the Sensor ability there, but only for one or two rounds.</source>
+        <target state="translated">Think of a place you have seen before, either conventionally or using the other application of this power. You can see from that vantage point as if you had used the Sensor ability there, but only for one or two rounds.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="06df763cfb2e9899" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Either application takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take.</source>
+        <target state="translated">Either application takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4eeb97bc7954e1ad" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action to initiate; action each round to concentrate.</source>
+        <target state="translated">Action to initiate; action each round to concentrate.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

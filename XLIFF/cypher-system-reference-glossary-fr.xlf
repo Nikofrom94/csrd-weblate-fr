@@ -1,6 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="NoName" source-language="en" datatype="plaintext" target-language="fr">
-    <body/>
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f87a080f82ec0090" weblate-flags="terminology">
+        <source>Cypher System</source>
+        <target state="translated">Cypher System</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73877e88530946c8" weblate-flags="terminology">
+        <source>roll</source>
+        <target state="translated">jet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5317e70e75bdc871" weblate-flags="terminology">
+        <source>game master</source>
+        <target state="translated">maitre du jeu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f9dffb85ae5221da" weblate-flags="terminology">
+        <source>GM</source>
+        <target state="translated">MJ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5607542bff8931ee" weblate-flags="terminology">
+        <source>difficulty</source>
+        <target state="translated">difficulté</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dba1ba7cf99bde05" weblate-flags="terminology">
+        <source>task</source>
+        <target state="translated">tâche</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="271a6181abc00528" weblate-flags="terminology">
+        <source>target number</source>
+        <target state="translated">seuil de réussite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d7beb14c05236970" weblate-flags="terminology">
+        <source>skill</source>
+        <target state="translated">compétence</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="50371341bb7f6ab3" weblate-flags="terminology">
+        <source>trained</source>
+        <target state="translated">entrainé</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68ffd36e9fe05741" weblate-flags="terminology">
+        <source>specialized</source>
+        <target state="translated">spécialisé</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e675c258fa39281" weblate-flags="terminology">
+        <source>asset</source>
+        <target state="translated">atout</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a783016bb1333b3" weblate-flags="terminology">
+        <source>Effort</source>
+        <target state="translated">Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d46e9423d40dc24e" weblate-flags="terminology">
+        <source>make a roll</source>
+        <target state="translated">faire un jet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="673b3e84a27d21ae" weblate-flags="terminology">
+        <source>d20</source>
+        <target state="translated">d20</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e97b53ad099e38e0" weblate-flags="terminology">
+        <source>Armor</source>
+        <target state="translated">Armure</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="552b4b05dbe90376" weblate-flags="terminology">
+        <source>armor</source>
+        <target state="translated">armure</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87f9c9dbf6e52b45" weblate-flags="terminology">
+        <source>minor effect</source>
+        <target state="translated">effet mineur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db2622f171e7fbaf" weblate-flags="terminology">
+        <source>major effect</source>
+        <target state="translated">effet majeur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7edb01c5bc1a65e2" weblate-flags="terminology">
+        <source>NPC</source>
+        <target state="translated">PNJ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f6e5b091893ec2ee" weblate-flags="terminology">
+        <source>nonplayer character</source>
+        <target state="translated">personnage non joueur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e583a199b8c72211" weblate-flags="terminology">
+        <source>party</source>
+        <target state="translated">groupe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="589ac41f9d2fe329" weblate-flags="terminology">
+        <source>PC</source>
+        <target state="translated">PJ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a106d24fa208978" weblate-flags="terminology">
+        <source>player character</source>
+        <target state="translated">personnage joueur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfea6bb6051590df" weblate-flags="terminology">
+        <source>player</source>
+        <target state="translated">joueur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5b54ab5b02e765f8" weblate-flags="terminology">
+        <source>character</source>
+        <target state="translated">personnage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="226c59418c28e746" weblate-flags="terminology">
+        <source>easing the difficulty by one step</source>
+        <target state="translated">diminuer la difficulté d'un niveau</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2eeb496f9a89c3d" weblate-flags="terminology">
+        <source>easing the difficulty</source>
+        <target state="translated">diminuer la difficulté</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="229417e1c7490a40" weblate-flags="terminology">
+        <source>easing a task</source>
+        <target state="translated">faciliter une tâche</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d46966ccf78761b" weblate-flags="terminology">
+        <source>hinder</source>
+        <target state="translated">gêner</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23fa5f80122723c3" weblate-flags="terminology">
+        <source>XP</source>
+        <target state="translated">XP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ed671a862ea8d0b" weblate-flags="terminology">
+        <source>GM intrusion</source>
+        <target state="translated">intrusion de MJ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="792b856f29798b07" weblate-flags="terminology">
+        <source>character advancement</source>
+        <target state="translated">avancement de personnage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="026b0283de9220e3" weblate-flags="terminology">
+        <source>experience point</source>
+        <target state="translated">point d'expérience</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8489f174288ea4c" weblate-flags="terminology">
+        <source>cypher</source>
+        <target state="translated">cypher</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="130c81217c1740b7" weblate-flags="terminology">
+        <source>might</source>
+        <target state="translated">puissance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3dc1db322c23cb5" weblate-flags="terminology">
+        <source>speed</source>
+        <target state="translated">célérité</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ff7c46e5acc16bd" weblate-flags="terminology">
+        <source>intellect</source>
+        <target state="translated">intellect</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b82a10b8b496d62a" weblate-flags="terminology">
+        <source>action</source>
+        <target state="translated">action</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1295b842293a2d71" weblate-flags="terminology">
+        <source>apply Effort</source>
+        <target state="translated">mettre de l'Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3173db4c8d044493" weblate-flags="terminology">
+        <source>level of Effort</source>
+        <target state="translated">niveau d'Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="144219c7591df486" weblate-flags="terminology">
+        <source>free level of Effort</source>
+        <target state="translated">niveau d'Effort gratuit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d11bb2b73c1b8c9e" weblate-flags="terminology">
+        <source>defense roll</source>
+        <target state="translated">jet de défense</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0cb2177e6b9179a" weblate-flags="terminology">
+        <source>short distance</source>
+        <target state="translated">distance courte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cc500b1c85b115b" weblate-flags="terminology">
+        <source>immediate distance</source>
+        <target state="translated">distance immédiate</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf62d823c83a5a57" weblate-flags="terminology">
+        <source>long distance</source>
+        <target state="translated">distance longue</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8383bacf5dda6c20" weblate-flags="terminology">
+        <source>very long distance</source>
+        <target state="translated">distance très longue</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5602faa9377d0e67" weblate-flags="terminology">
+        <source>ability</source>
+        <target state="translated">aptitude</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cec3ec2afde6b1f" weblate-flags="terminology">
+        <source>special ability</source>
+        <target state="translated">aptitude spéciale</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a800a1b901bbd07" weblate-flags="terminology">
+        <source>round</source>
+        <target state="translated">round</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b159c9bf0eb370d0" weblate-flags="terminology">
+        <source>initiative</source>
+        <target state="translated">initiative</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b1de1c08e303ecc3" weblate-flags="terminology">
+        <source>pool</source>
+        <target state="translated">réserve</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f0bac7959efd8ba4" weblate-flags="terminology">
+        <source>damage</source>
+        <target state="translated">dégats</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96712c88a55078f4" weblate-flags="terminology">
+        <source>damage track</source>
+        <target state="translated">curseur de dégât</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6be6357628857eb" weblate-flags="terminology">
+        <source>hale</source>
+        <target state="translated">indemne</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="97a821389e91a915" weblate-flags="terminology">
+        <source>impaired</source>
+        <target state="translated">affaibli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7469d644904d2b04" weblate-flags="terminology">
+        <source>debilitated</source>
+        <target state="translated">neutralisé</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fccece608623edce" weblate-flags="terminology">
+        <source>dead</source>
+        <target state="translated">mort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e2a1fddad0e7327" weblate-flags="terminology">
+        <source>recovery roll</source>
+        <target state="translated">jet de guérison</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87367407d5cab9dd" weblate-flags="terminology">
+        <source>dazed</source>
+        <target state="translated">étourdi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a3284098b4d6786" weblate-flags="terminology">
+        <source>stunned</source>
+        <target state="translated">étourdi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9071e2b6efe12ecb" weblate-flags="terminology">
+        <source>dim light</source>
+        <target state="translated">faible lumière</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dd2b748581490f80" weblate-flags="terminology">
+        <source>very dim light</source>
+        <target state="translated">très faible lumière</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f571bad01f8bf29a" weblate-flags="terminology">
+        <source>intact</source>
+        <target state="translated">intact</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4baef310f3bf5893" weblate-flags="terminology">
+        <source>minor damage</source>
+        <target state="translated">dégât mineur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f4fb60c76788325" weblate-flags="terminology">
+        <source>major damage</source>
+        <target state="translated">dégât majeur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e48dc7cc24410e7e" weblate-flags="terminology">
+        <source>destroyed</source>
+        <target state="translated">détruit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="025365f334c5371a" weblate-flags="terminology">
+        <source>object damage track</source>
+        <target state="translated">curseur de dégât d'objet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db681bdb31c5512a" weblate-flags="terminology">
+        <source>follower</source>
+        <target state="translated">disciple</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b7e0977575c884b9" weblate-flags="terminology">
+        <source>modification</source>
+        <target state="translated">modification</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd2ac11f78698046" weblate-flags="terminology">
+        <source>exceptional follower</source>
+        <target state="translated">disciple exceptionnel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f1e58770698032d" weblate-flags="terminology">
+        <source>inability</source>
+        <target state="translated">inaptitude</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f80c765621d74eb3" weblate-flags="terminology">
+        <source>practiced</source>
+        <target state="translated">exercé</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae574026283371d2" weblate-flags="terminology">
+        <source>level</source>
+        <target state="translated">niveau</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc21fafac9d341e9" weblate-flags="terminology">
+        <source>stat</source>
+        <target state="translated">caractéristique</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="710bf142bab38422" weblate-flags="terminology">
+        <source>artifact</source>
+        <target state="translated">artefact</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d927f95d7499b0c" weblate-flags="terminology">
+        <source>player intrusion</source>
+        <target state="translated">intrusion de joueur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7953b5cf45e7b152" weblate-flags="terminology">
+        <source>creature</source>
+        <target state="translated">créature</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b8857c87ec9f863d" weblate-flags="terminology">
+        <source>descriptor</source>
+        <target state="translated">descripteur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ad58d5c3fc8a6f4" weblate-flags="terminology">
+        <source>focus</source>
+        <target state="translated">focus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ecef309d3567e88" weblate-flags="terminology">
+        <source>foci</source>
+        <target state="translated">focus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57ecc7357c0f92e9" weblate-flags="terminology">
+        <source>type</source>
+        <target state="translated">type</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66a4cb720b070c49" weblate-flags="terminology">
+        <source>flavor</source>
+        <target state="translated">saveur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0ea614fc7a412b4d" weblate-flags="terminology">
+        <source>tier</source>
+        <target state="translated">rang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e717eb41e8498647" weblate-flags="terminology">
+        <source>Edge</source>
+        <target state="translated">Avantage</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

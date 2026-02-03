@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f029811d3516898b" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Defuse Situation #Ability #ControlAbility #High #Core</source>
+        <target state="translated">Defuse Situation #Ability #ControlAbility #High #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfcecfeba263069a" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>During the course of an investigation, your questions sometimes elicit an angry or even violent response. Through dissembling, verbal distraction, or similar evasion, you prevent a living foe from attacking anyone or anything for one round.</source>
+        <target state="translated">During the course of an investigation, your questions sometimes elicit an angry or even violent response. Through dissembling, verbal distraction, or similar evasion, you prevent a living foe from attacking anyone or anything for one round.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d90321fecf44a24" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Action.</source>
+        <target state="translated">Action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

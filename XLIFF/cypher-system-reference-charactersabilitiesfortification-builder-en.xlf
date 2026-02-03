@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f5ab0330f94f9e36" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Fortification Builder #Ability #CraftAbility #Low #Core</source>
+        <target state="translated">Fortification Builder #Ability #CraftAbility #Low #Core</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f558786bedfa9f31" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Whenever you attempt a crafting task—or help in the crafting task—to build a wall or other fortification, you ease the crafting difficulty by two steps, to a minimum of difficulty 1.</source>
+        <target state="translated">Whenever you attempt a crafting task—or help in the crafting task—to build a wall or other fortification, you ease the crafting difficulty by two steps, to a minimum of difficulty 1.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

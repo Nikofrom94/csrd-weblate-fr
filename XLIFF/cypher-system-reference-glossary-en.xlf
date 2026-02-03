@@ -1,6 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
-    <body/>
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="f87a080f82ec0090" weblate-flags="read-only, terminology">
+        <source>Cypher System</source>
+        <target state="translated">Cypher System</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="73877e88530946c8" weblate-flags="read-only, terminology">
+        <source>roll</source>
+        <target state="translated">roll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5317e70e75bdc871" weblate-flags="read-only, terminology">
+        <source>game master</source>
+        <target state="translated">game master</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f9dffb85ae5221da" weblate-flags="read-only, terminology">
+        <source>GM</source>
+        <target state="translated">GM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5607542bff8931ee" weblate-flags="read-only, terminology">
+        <source>difficulty</source>
+        <target state="translated">difficulty</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dba1ba7cf99bde05" weblate-flags="read-only, terminology">
+        <source>task</source>
+        <target state="translated">task</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="271a6181abc00528" weblate-flags="read-only, terminology">
+        <source>target number</source>
+        <target state="translated">target number</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d7beb14c05236970" weblate-flags="read-only, terminology">
+        <source>skill</source>
+        <target state="translated">skill</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="50371341bb7f6ab3" weblate-flags="read-only, terminology">
+        <source>trained</source>
+        <target state="translated">trained</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="68ffd36e9fe05741" weblate-flags="read-only, terminology">
+        <source>specialized</source>
+        <target state="translated">specialized</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5e675c258fa39281" weblate-flags="read-only, terminology">
+        <source>asset</source>
+        <target state="translated">asset</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6a783016bb1333b3" weblate-flags="read-only, terminology">
+        <source>Effort</source>
+        <target state="translated">Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d46e9423d40dc24e" weblate-flags="read-only, terminology">
+        <source>make a roll</source>
+        <target state="translated">make a roll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="673b3e84a27d21ae" weblate-flags="read-only, terminology">
+        <source>d20</source>
+        <target state="translated">d20</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e97b53ad099e38e0" weblate-flags="read-only, terminology">
+        <source>Armor</source>
+        <target state="translated">Armor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="552b4b05dbe90376" weblate-flags="read-only, terminology">
+        <source>armor</source>
+        <target state="translated">armor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87f9c9dbf6e52b45" weblate-flags="read-only, terminology">
+        <source>minor effect</source>
+        <target state="translated">minor effect</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db2622f171e7fbaf" weblate-flags="read-only, terminology">
+        <source>major effect</source>
+        <target state="translated">major effect</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7edb01c5bc1a65e2" weblate-flags="read-only, terminology">
+        <source>NPC</source>
+        <target state="translated">NPC</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f6e5b091893ec2ee" weblate-flags="read-only, terminology">
+        <source>nonplayer character</source>
+        <target state="translated">nonplayer character</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e583a199b8c72211" weblate-flags="read-only, terminology">
+        <source>party</source>
+        <target state="translated">party</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="589ac41f9d2fe329" weblate-flags="read-only, terminology">
+        <source>PC</source>
+        <target state="translated">PC</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a106d24fa208978" weblate-flags="read-only, terminology">
+        <source>player character</source>
+        <target state="translated">player character</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dfea6bb6051590df" weblate-flags="read-only, terminology">
+        <source>player</source>
+        <target state="translated">player</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5b54ab5b02e765f8" weblate-flags="read-only, terminology">
+        <source>character</source>
+        <target state="translated">character</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="226c59418c28e746" weblate-flags="read-only, terminology">
+        <source>easing the difficulty by one step</source>
+        <target state="translated">easing the difficulty by one step</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b2eeb496f9a89c3d" weblate-flags="read-only, terminology">
+        <source>easing the difficulty</source>
+        <target state="translated">easing the difficulty</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="229417e1c7490a40" weblate-flags="read-only, terminology">
+        <source>easing a task</source>
+        <target state="translated">easing a task</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0d46966ccf78761b" weblate-flags="read-only, terminology">
+        <source>hinder</source>
+        <target state="translated">hinder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="23fa5f80122723c3" weblate-flags="read-only, terminology">
+        <source>XP</source>
+        <target state="translated">XP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="6ed671a862ea8d0b" weblate-flags="read-only, terminology">
+        <source>GM intrusion</source>
+        <target state="translated">GM intrusion</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="792b856f29798b07" weblate-flags="read-only, terminology">
+        <source>character advancement</source>
+        <target state="translated">character advancement</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="026b0283de9220e3" weblate-flags="read-only, terminology">
+        <source>experience point</source>
+        <target state="translated">experience point</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="c8489f174288ea4c" weblate-flags="read-only, terminology">
+        <source>cypher</source>
+        <target state="translated">cypher</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="130c81217c1740b7" weblate-flags="read-only, terminology">
+        <source>might</source>
+        <target state="translated">might</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f3dc1db322c23cb5" weblate-flags="read-only, terminology">
+        <source>speed</source>
+        <target state="translated">speed</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4ff7c46e5acc16bd" weblate-flags="read-only, terminology">
+        <source>intellect</source>
+        <target state="translated">intellect</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b82a10b8b496d62a" weblate-flags="read-only, terminology">
+        <source>action</source>
+        <target state="translated">action</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="1295b842293a2d71" weblate-flags="read-only, terminology">
+        <source>apply Effort</source>
+        <target state="translated">apply Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3173db4c8d044493" weblate-flags="read-only, terminology">
+        <source>level of Effort</source>
+        <target state="translated">level of Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="144219c7591df486" weblate-flags="read-only, terminology">
+        <source>free level of Effort</source>
+        <target state="translated">free level of Effort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="d11bb2b73c1b8c9e" weblate-flags="read-only, terminology">
+        <source>defense roll</source>
+        <target state="translated">defense roll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b0cb2177e6b9179a" weblate-flags="read-only, terminology">
+        <source>short distance</source>
+        <target state="translated">short distance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cc500b1c85b115b" weblate-flags="read-only, terminology">
+        <source>immediate distance</source>
+        <target state="translated">immediate distance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cf62d823c83a5a57" weblate-flags="read-only, terminology">
+        <source>long distance</source>
+        <target state="translated">long distance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="8383bacf5dda6c20" weblate-flags="read-only, terminology">
+        <source>very long distance</source>
+        <target state="translated">very long distance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5602faa9377d0e67" weblate-flags="read-only, terminology">
+        <source>ability</source>
+        <target state="translated">ability</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="5cec3ec2afde6b1f" weblate-flags="read-only, terminology">
+        <source>special ability</source>
+        <target state="translated">special ability</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9a800a1b901bbd07" weblate-flags="read-only, terminology">
+        <source>round</source>
+        <target state="translated">round</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b159c9bf0eb370d0" weblate-flags="read-only, terminology">
+        <source>initiative</source>
+        <target state="translated">initiative</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b1de1c08e303ecc3" weblate-flags="read-only, terminology">
+        <source>pool</source>
+        <target state="translated">pool</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f0bac7959efd8ba4" weblate-flags="read-only, terminology">
+        <source>damage</source>
+        <target state="translated">damage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="96712c88a55078f4" weblate-flags="read-only, terminology">
+        <source>damage track</source>
+        <target state="translated">damage track</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6be6357628857eb" weblate-flags="read-only, terminology">
+        <source>hale</source>
+        <target state="translated">hale</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="97a821389e91a915" weblate-flags="read-only, terminology">
+        <source>impaired</source>
+        <target state="translated">impaired</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7469d644904d2b04" weblate-flags="read-only, terminology">
+        <source>debilitated</source>
+        <target state="translated">debilitated</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="fccece608623edce" weblate-flags="read-only, terminology">
+        <source>dead</source>
+        <target state="translated">dead</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3e2a1fddad0e7327" weblate-flags="read-only, terminology">
+        <source>recovery roll</source>
+        <target state="translated">recovery roll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="87367407d5cab9dd" weblate-flags="read-only, terminology">
+        <source>dazed</source>
+        <target state="translated">dazed</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="3a3284098b4d6786" weblate-flags="read-only, terminology">
+        <source>stunned</source>
+        <target state="translated">stunned</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9071e2b6efe12ecb" weblate-flags="read-only, terminology">
+        <source>dim light</source>
+        <target state="translated">dim light</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dd2b748581490f80" weblate-flags="read-only, terminology">
+        <source>very dim light</source>
+        <target state="translated">very dim light</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f571bad01f8bf29a" weblate-flags="read-only, terminology">
+        <source>intact</source>
+        <target state="translated">intact</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="4baef310f3bf5893" weblate-flags="read-only, terminology">
+        <source>minor damage</source>
+        <target state="translated">minor damage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f4fb60c76788325" weblate-flags="read-only, terminology">
+        <source>major damage</source>
+        <target state="translated">major damage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e48dc7cc24410e7e" weblate-flags="read-only, terminology">
+        <source>destroyed</source>
+        <target state="translated">destroyed</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="025365f334c5371a" weblate-flags="read-only, terminology">
+        <source>object damage track</source>
+        <target state="translated">object damage track</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="db681bdb31c5512a" weblate-flags="read-only, terminology">
+        <source>follower</source>
+        <target state="translated">follower</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b7e0977575c884b9" weblate-flags="read-only, terminology">
+        <source>modification</source>
+        <target state="translated">modification</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="cd2ac11f78698046" weblate-flags="read-only, terminology">
+        <source>exceptional follower</source>
+        <target state="translated">exceptional follower</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7f1e58770698032d" weblate-flags="read-only, terminology">
+        <source>inability</source>
+        <target state="translated">inability</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="f80c765621d74eb3" weblate-flags="read-only, terminology">
+        <source>practiced</source>
+        <target state="translated">practiced</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ae574026283371d2" weblate-flags="read-only, terminology">
+        <source>level</source>
+        <target state="translated">level</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="dc21fafac9d341e9" weblate-flags="read-only, terminology">
+        <source>stat</source>
+        <target state="translated">stat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="710bf142bab38422" weblate-flags="read-only, terminology">
+        <source>artifact</source>
+        <target state="translated">artifact</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2d927f95d7499b0c" weblate-flags="read-only, terminology">
+        <source>player intrusion</source>
+        <target state="translated">player intrusion</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="7953b5cf45e7b152" weblate-flags="read-only, terminology">
+        <source>creature</source>
+        <target state="translated">creature</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="b8857c87ec9f863d" weblate-flags="read-only, terminology">
+        <source>descriptor</source>
+        <target state="translated">descriptor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="9ad58d5c3fc8a6f4" weblate-flags="read-only, terminology">
+        <source>focus</source>
+        <target state="translated">focus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="2ecef309d3567e88" weblate-flags="read-only, terminology">
+        <source>foci</source>
+        <target state="translated">foci</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="57ecc7357c0f92e9" weblate-flags="read-only, terminology">
+        <source>type</source>
+        <target state="translated">type</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="66a4cb720b070c49" weblate-flags="read-only, terminology">
+        <source>flavor</source>
+        <target state="translated">flavor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0ea614fc7a412b4d" weblate-flags="read-only, terminology">
+        <source>tier</source>
+        <target state="translated">tier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e717eb41e8498647" weblate-flags="read-only, terminology">
+        <source>Edge</source>
+        <target state="translated">Edge</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>
