@@ -1,0 +1,5 @@
+Réseau télépathique (0+ points d'Intellect) #Ability #InformationAbility #High #Core
+
+Lorsque vous le souhaitez, vous pouvez contacter jusqu'à dix créatures que vous connaissez, peu importe où elles se trouvent. Toutes les cibles doivent être disposées et capables de communiquer. Vous réussissez automatiquement à établir un réseau télépathique ; aucun rouleau n'est requis. Toutes les créatures du réseau sont liées et peuvent communiquer par télépathie entre elles. Ils peuvent également « entendre » tout ce qui se dit sur le réseau, s'ils le souhaitent. L'activation de cette capacité ne nécessite aucune action et ne coûte pas de points d'Intellect ; pour vous, c'est aussi simple que de parler à voix haute. Le réseau dure jusqu'à ce que vous choisissiez d'y mettre fin. Si vous dépensez 5 points d'Intellect, vous pouvez contacter vingt créatures à la fois, et pour chaque point d'Intellect dépensé au-dessus de ce chiffre, vous pouvez ajouter dix créatures supplémentaires au réseau. Ces réseaux plus larges durent dix minutes. Créer un réseau de vingt créatures ou plus nécessite une action pour établir le contact. .
+
+Facilitateur

@@ -1,0 +1,8 @@
+Rétrécir (1+ points de Puissance) #Ability #Low #Core
+
+vous (et vos vêtements ou votre costume) devenez beaucoup plus petit que votre taille normale. Vous mesurez 15 cm (6 pouces) et restez ainsi pendant environ une minute. Pendant ce temps, vous ajoutez 4 points à votre Speed ​​Pool et ajoutez +2 à votre Speed ​​Edge. Tant que vous êtes plus petit que la normale, vos jets de défense de Célérité sont allégés, votre Célérité de déplacement est d'un dixième de la normale et vos attaques infligent la moitié du montant normal de dégâts (divisez le total des dégâts par moitié après tous les bonus, efforts et autres modificateurs de dégâts. ). Vous pouvez reprendre votre taille normale dans le cadre d'une autre action.
+Lorsque les effets de Rétrécir prennent fin, votre Speed ​​Edge, votre Célérité de déplacement et vos dégâts reviennent à la normale, et vous soustrayez un nombre de points de votre Speed ​​Pool égal au nombre que vous avez gagné (si cela ramène la Pool à 0, soustrayez d'abord le débordement. depuis votre Réserve de Puissance puis, si nécessaire, depuis votre Réserve d'Intellect). Chaque fois que vous utilisez Rétrécir avant votre prochain jet de récupération de dix heures, vous devez appliquer un niveau d'Effort supplémentaire (un niveau d'Effort pour la deuxième utilisation, deux niveaux d'Effort pour la troisième utilisation, et ainsi de suite).
+
+Action à initier .
+
+L'augmentation du coût d'effort pour les utilisations répétées de Rétrécir entre des jets de récupération de dix heures s'applique uniquement aux nouvelles activations de Rétrécir, et non aux changements de taille multiples au cours d'une seule utilisation de Rétrécir activée par Changements Rapides.

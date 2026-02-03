@@ -1,0 +1,5 @@
+Habiter le cristal (4 points d'Intellect) #Ability #SensesAbility #Mid #Core
+
+Vous transférez votre corps et tout ce que vous transportez dans un cristal au moins de la taille de votre index. Lorsque vous êtes dans le cristal, vous êtes conscient de ce qui se passe autour de lui, voyant et entendant à travers le cristal. Vous pouvez même parler à travers le cristal et poursuivre des conversations. Vous ne pouvez pas entreprendre d'autres actions que quitter le cristal. Vous restez à l'intérieur aussi longtemps que vous le souhaitez, mais vous n'êtes pas en stase et devez sortir pour manger, boire, dormir, etc. normalement (la respiration n'est pas un problème). Si le cristal est détruit ou subit des dégâts importants alors que vous y êtes, vous sortez immédiatement, ne pouvez pas agir pendant trois tours et descendez de deux crans sur la piste des dégâts. Action d'entrer et de sortir. (Un personnage doit préciser où il place le cristal pour la capacité Habiter le cristal avant de l'utiliser, même s'il est juste sur le sol, à ses pieds.)
+
+

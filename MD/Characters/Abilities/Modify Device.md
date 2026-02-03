@@ -1,0 +1,5 @@
+Modifier l'appareil (4 points d'intelligence) #Ability #MetaAbility #Low #Core
+
+Vous truquez un équipement mécanique ou électrique pour le faire fonctionner au-dessus de ses spécifications nominales pendant une durée très limitée. Pour ce faire, vous devez utiliser des pièces de rechange équivalentes à un article coûteux, disposer d'un kit scientifique de terrain (ou d'un laboratoire permanent, si vous y avez accès) et réussir une tâche basée sur l'intellect de difficulté 3. Une fois terminée, l'utilisation de l'appareil facilite toutes les tâches effectuées conjointement avec l'appareil, jusqu'à ce que l'appareil tombe inévitablement en panne. Par exemple, vous pourriez overclocker un ordinateur pour faciliter les tâches de recherche qui l'utilisent, modifier une machine à expresso pour que chaque tasse de café préparée avec soit meilleure, modifier le moteur d'une voiture pour qu'elle aille plus vite (ou modifier sa direction pour qu'elle se comporte mieux). ), et ainsi de suite. Chaque utilisation de l'appareil modifié nécessite un jet d'épuisement de 1 à 5 sur un d20.
+
+Action à initier, une heure à réaliser.

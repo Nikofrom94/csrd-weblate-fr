@@ -1,0 +1,5 @@
+Artisanat des Rêves (1 point d'Intellect) #Ability #Low #Core
+
+vous extrayez une image d'un rêve dans le monde éveillé et la placez quelque part à longue portée. Le rêve dure jusqu'à une minute et peut être minuscule ou remplir une zone d'un diamètre immédiat. Même s'il paraît solide, le rêve est intangible. Le rêve (une scène, une créature ou un objet) est statique à moins que vous n'utilisiez votre action à chaque tour pour l'animer. Dans le cadre de cette animation, vous pouvez déplacer le rêve sur une courte distance à chaque tour, à condition qu'il reste à longue portée. Si vous animez le rêve, il peut émettre du son mais ne produit pas d'odeur. Une interaction physique directe ou une interaction soutenue avec le rêve le brise en une brume dispersante. Par exemple, attaquer le rêve le brise, tout comme la difficulté de préserver les apparences lorsqu'un PNJ se déplace dans une scène de rêve ou engage une conversation avec une créature de rêve pendant plus de deux rounds.
+
+Action à initier ; action à animer.

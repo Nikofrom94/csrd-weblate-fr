@@ -1,0 +1,5 @@
+Changement d'Identité (2+ points d'Intellect) #Ability #Low #Core
+
+Vous convainquez toutes les créatures intelligentes qui peuvent vous voir, vous entendre et vous comprendre que vous êtes quelqu'un ou quelque chose d'autre que ce que vous êtes réellement. Vous ne vous faites pas passer pour une personne spécifique connue de la victime. Au lieu de cela, vous convainquez la victime que vous êtes quelqu'un qu'elle ne connaît pas et qui appartient à une certaine catégorie de personnes. "Nous sommes du gouvernement." "Je ne suis qu'un simple agriculteur de la ville voisine." "Votre commandant m'a envoyé." Un déguisement n'est pas nécessaire, mais un bon déguisement sera presque certainement un atout pour le rôle impliqué. Si vous tentez de convaincre plusieurs créatures, le coût en Intellect augmente de 1 point par victime supplémentaire. Les créatures trompées le restent jusqu'à une heure, à moins que vos actions ou d'autres circonstances ne révèlent votre véritable identité plus tôt. 
+
+Action

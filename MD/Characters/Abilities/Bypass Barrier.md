@@ -1,0 +1,5 @@
+Contourner la barrière (6+ points d'Intellect) #Ability #MovementAbility #Mid #Core
+
+Vous franchissez une porte, un champ de force ou une autre barrière jusqu'à 3 pieds (1 m) d'épaisseur qui bloque votre chemin. En fonction de la barrière, cela peut impliquer de trouver un point faible que vous pouvez franchir, d'appuyer sur le bouton droit par chance, de simplement franchir, ou même des explications plus étranges comme toucher un espace mince entre les dimensions ou une interaction inattendue avec votre équipement. La difficulté de la tâche réside dans le niveau de la barrière. Cette capacité vous permet de passer seul, pas à quelqu'un d'autre, et le passage se ferme à la fin de votre tour (ce qui peut signifier que vous êtes piégé de l'autre côté). Vous disposez d'un atout dans toute tentative de vous en sortir à nouveau. En plus des options normales d'utilisation d'Effort, vous pouvez choisir d'utiliser Effort pour augmenter l'épaisseur maximale de la barrière, chaque niveau ajoutant 3 pieds (1 m). 
+
+Action

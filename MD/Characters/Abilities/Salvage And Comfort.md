@@ -1,0 +1,5 @@
+Récupération et confort (2 points d'Intellect) #Ability #Low #Core
+
+Vous êtes familier avec les espaces ouverts. Si vous passez une heure à utiliser les capteurs de votre vaisseau spatial et que vous effectuez un jet d'Intellect de difficulté 3, vous pouvez trouver des objets de récupération sous la forme d'un vaisseau spatial abandonné, de particules de matière à la dérive qui étaient autrefois habitées, ou d'un endroit où vous cacher des poursuites dans ce que la plupart des gens auraient autrement fait. supposons qu'il s'agit d'un espace vide (comme dans une nébuleuse, un champ d'astéroïdes ou l'ombre d'une lune). La récupération que vous obtenez comprend suffisamment de nourriture et d'eau pour vous et plusieurs autres, ainsi que la possibilité d'armes, de vêtements, d'artefacts technologiques, de survivants ou d'autres objets utilisables. Dans d'autres contextes, cette capacité compte comme un entraînement à des tâches liées à la perception.
+
+Action à initier, une heure à réaliser.

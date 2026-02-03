@@ -1,0 +1,5 @@
+Récupérer des souvenirs (3 points d'Intellect) #Ability #InformationAbility #Low #Core
+
+Vous touchez les restes d'une créature récemment tuée et effectuez un jet basé sur l'Intellect pour redonner vie à son esprit suffisamment longtemps pour en tirer des informations. Le MJ définit la difficulté en fonction du temps écoulé depuis la mort de la créature. Une créature morte depuis seulement quelques minutes est une tâche de difficulté 2, celle qui est morte depuis une heure est une tâche de difficulté 4 et celle qui est morte depuis quelques jours est une tâche de difficulté 9. Si vous réussissez, vous réveillez le cadavre, ce qui fait que sa tête s'anime et perçoit les choses comme si elle était vivante. Cela permet de communiquer pendant environ une minute, soit le temps qu'il faut à la créature pour se rendre compte qu'elle est morte. La créature est limitée à ce qu'elle a connu dans la vie, même si elle ne peut pas se souvenir de souvenirs mineurs, mais uniquement de grands événements importants pour elle. Lorsque l'effet prend fin, ou si vous échouez au jet, le cerveau de la créature se dissout en bouillie et ne peut plus être réveillé. 
+
+Action

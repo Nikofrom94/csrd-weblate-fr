@@ -1,0 +1,5 @@
+La mémoire devient une action (4+ points d'Intellect) #Ability #High #Core
+
+Vous pouvez dupliquer une capacité de personnage à une action, en l'exécutant comme si cela était naturel pour vous. Vous devez avoir vu la capacité utilisée au cours de la semaine dernière, elle doit être de troisième niveau ou inférieur, et il doit s'agir d'une capacité avec un coût en points. En plus du coût en points de La mémoire devient action, vous devez payer le coût en Puissance, Célérité ou Intellect de la capacité que vous copiez. Par exemple, si vous souhaitez copier l'attaque de fente d'un ami (qui coûte normalement 2 points de Puissance), vous paierez 4 points d'intelligence pour activer la mémoire devient action et 2 points de Puissance pour utiliser la fente. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour copier une capacité que vous avez vue il y a plus d'une semaine ; chaque niveau d'Effort utilisé de cette manière prolonge la période d'une semaine. .
+
+Facilitateur

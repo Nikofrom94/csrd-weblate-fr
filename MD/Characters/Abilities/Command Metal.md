@@ -1,0 +1,5 @@
+Commander le Métal (5 points d'Intellect) #Ability #High #Core
+
+Vous remodelez un objet métallique à votre guise. L'objet doit être à portée de vue et à courte portée, et sa masse ne peut pas être supérieure à la vôtre. Vous pouvez affecter plusieurs éléments à la fois tant que leur masse combinée se situe dans ces limites. Vous pouvez fusionner plusieurs éléments ensemble. Vous pouvez utiliser ce pouvoir pour détruire un objet métallique (comme la capacité Détruire le métal), ou vous pouvez le façonner dans une autre forme souhaitée (en gros, à moins que vous n'ayez les compétences de fabrication appropriées). Vous pouvez ensuite déplacer le nouvel objet n'importe où à portée. Par exemple, vous pouvez prendre quelques boucliers métalliques, les fusionner et utiliser la forme obtenue pour bloquer une porte. Vous pouvez utiliser cette capacité pour lancer une attaque (contraindre l'armure d'un ennemi, transformer un objet métallique en éclats que vous lancez sur le champ de bataille, etc.) contre une cible à courte portée. Quelle que soit la forme de l'attaque, il s'agit d'une action Intellect qui inflige 7 points de dégâts. 
+
+Action

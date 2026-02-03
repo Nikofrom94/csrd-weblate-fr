@@ -1,0 +1,5 @@
+Contrôle mental (6+ points d'Intellect) #Ability #ControlAbility #Mid #Core
+
+Vous contrôlez les actions d'une autre créature que vous touchez. Cet effet dure une minute. La cible doit être de niveau 2 ou inférieur. Une fois que vous avez établi le contrôle, vous maintenez un contact mental avec la cible et ressentez ce qu'elle ressent. Vous pouvez lui permettre d'agir librement ou annuler son contrôle au cas par cas. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau maximum de la cible ou augmenter la durée d'une minute. Ainsi, pour contrôler l'esprit d'une cible de niveau 5 (trois niveaux au-dessus de la limite normale) ou contrôler une cible pendant quatre minutes (trois minutes au-dessus de la durée normale), vous devez appliquer trois niveaux d'Effort. Lorsque la durée se termine, la créature ne se souvient pas d'avoir été contrôlée ou de quoi que ce soit qu'elle ait fait pendant qu'elle était sous votre commandement.
+
+Action à initier.

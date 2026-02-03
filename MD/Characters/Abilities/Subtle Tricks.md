@@ -1,0 +1,5 @@
+Astuces subtiles #Ability #MetaAbility #High #Core
+
+vous pouvez utiliser vos compétences et capacités spéciales d'une manière qui ne donne pas l'impression que vous faites quoi que ce soit. Si la compétence ou la capacité nécessite normalement un mouvement, une phrase ou une autre action évidente de votre part, elle semble se produire d'elle-même. Au lieu d'utiliser vos outils pour crocheter une serrure, la serrure s'ouvre lorsque vous vous tenez à proximité. Au lieu de manipuler un écran d'ordinateur, les informations souhaitées apparaissent sur l'écran lorsque vous le regardez. Au lieu de bluffer devant certains gardes, ils s'écartent à votre approche et vous laissent passer. Cette capacité ne fonctionne généralement que jusqu'à une distance immédiate. Vous devez toujours dépenser des points et effectuer des jets pour utiliser vos compétences et capacités avec Astuces subtiles. Utiliser une compétence ou une capacité de manière subtile entrave la tâche. Cette capacité ne peut pas être utilisée pour dissimuler vos jets d'attaque ou de défense. .
+
+Facilitateur

@@ -1,0 +1,5 @@
+En dehors de la réalité (6+ points d'Intellect) #Ability #High #Core
+
+Vous existez en dehors de tout jusqu'au début de votre prochain tour. Pour vous, quelques secondes s'écoulent pendant que vous êtes seul dans un vide frais. Pour tout le monde, vous semblez disparaître pendant quelques secondes et réapparaître au même endroit. Dans cet état irréel, vous pouvez utiliser des capacités ou des objets sur vous-même, mais vous ne pouvez pas percevoir, interagir avec ou affecter le reste du monde, et vice versa. Les effets temporels déjà sur vous (comme un poison qui inflige des dégâts à chaque tour) sont suspendus pendant que vous existez en dehors de la réalité, mais lorsque cette capacité prend fin, ils reprennent comme si aucun temps ne s'était écoulé. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la durée ; chaque niveau d'effort utilisé de cette manière ajoute un tour au temps que vous passez en dehors de la réalité. .
+
+Facilitateur

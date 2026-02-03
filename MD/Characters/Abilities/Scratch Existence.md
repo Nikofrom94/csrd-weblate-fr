@@ -1,0 +1,6 @@
+Rayer l'Existence (1+ points de Puissance) #Ability #SpecialAttackAbility #Low #Core
+
+vous pouvez choisir de passer en phase de manière à « rayer » la matière normale sur une longue séquence pendant que vous exécutez en utilisant Sprint de Phase. Cela vous déchire un peu aussi, comme le reflète le coût de la Puissance. Lorsque vous utilisez Sprint de Phase, vous infligez 2 points de dégâts (ignore l'armure) à une cible que vous sélectionnez lorsque vous passez à portée immédiate, sans déclencher Toucher perturbateur. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le nombre de cibles sur votre chemin que vous pouvez attaquer dans le cadre de la même action. Effectuez un jet d'attaque séparé pour chaque ennemi. Vous restez limité par la quantité d'Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes ces attaques.
+Alternativement, si vous appliquez l'Effort pour augmenter les dégâts plutôt que de faciliter la tâche, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort (au lieu de 3 points) ; la cible subit 1 point de dégâts même si vous échouez au jet d'attaque. .
+
+Facilitateur

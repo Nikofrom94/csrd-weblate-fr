@@ -1,0 +1,5 @@
+Commander aux bêtes (3+ points d'Intellect) #Ability #Mid #Core
+
+Vous pouvez commander une bête non hostile et non humaine (comme celle que vous avez calmée avec Apaiser la Bête Sauvage) jusqu'au niveau 3 à courte portée. Si vous réussissez, pendant la minute suivante, la bête suit vos ordres verbaux au mieux de sa compréhension et de ses capacités. Le MJ a le dernier mot sur ce qui compte comme une bête non humaine, mais à moins qu'une sorte de tromperie ne soit à l'œuvre, vous devez savoir si vous pouvez affecter une créature avant d'essayer d'utiliser cette capacité sur elle. Les extraterrestres, les entités extradimensionnelles, les créatures très intelligentes et les robots ne comptent jamais.En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau maximum de la cible. Ainsi, pour commander une bête de niveau 5 (deux niveaux au-dessus de la limite normale), vous devez appliquer deux niveaux d'Effort.
+
+Action à initier.

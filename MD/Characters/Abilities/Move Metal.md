@@ -1,0 +1,5 @@
+Déplacer le métal (1 point d'Intellect) #Ability #Low #Core
+
+Vous pouvez exercer une force sur des objets métalliques à courte portée pendant un round. Une fois activé, votre pouvoir a une réserve de Puissance effective de 10, un Avantage de Puissance de 1 et un effort de 2 (approximativement égal à la force d'un humain adulte en forme et capable), et vous pouvez l'utiliser pour déplacer des objets métalliques, pousser contre des objets métalliques, etc. Par exemple, au cours de votre ronde, vous pouvez soulever et tirer un objet métallique léger n'importe où à portée de vous ou déplacer un objet lourd (comme un meuble) d'environ 10 pieds (3 m). Ce pouvoir n'a pas le contrôle précis nécessaire pour manier une arme ou déplacer des objets avec beaucoup de Célérité, donc dans la plupart des situations, ce n'est pas un moyen d'attaque. Vous ne pouvez pas utiliser cette capacité sur votre propre corps. Le pouvoir dure une heure ou jusqu'à ce que sa réserve de Puissance soit épuisée, selon la première éventualité. 
+
+Action

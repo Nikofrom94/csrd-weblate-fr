@@ -1,0 +1,5 @@
+Contrôle des foules (6+ points d'Intellect) #Ability #ControlAbility #Mid #Core
+
+Vous contrôlez les actions d'un maximum de cinq créatures à courte portée. Cet effet dure une minute. Toutes les cibles doivent être de niveau 2 ou inférieur. Votre contrôle se limite à de simples commandes verbales telles que « Stop », « Fuyez », « Suivez ce garde », « Regardez là-bas » ou « Ecartez-vous de mon chemin ». Toutes les créatures affectées répondent à l'ordre, sauf si vous leur demandez spécifiquement le contraire. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau maximum des cibles ou affecter cinq personnes supplémentaires. Ainsi, pour contrôler un groupe qui a une cible de niveau 4 (deux niveaux au-dessus de la limite normale) ou un groupe de quinze personnes, vous devez appliquer deux niveaux d'Effort. Lorsque la capacité de contrôle des foules prend fin, les créatures se souviennent de vos ordres mais ne se souviennent pas d'avoir été contrôlées : vos ordres semblaient raisonnables à ce moment-là.
+
+Action à initier.

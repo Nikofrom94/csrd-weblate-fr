@@ -1,0 +1,5 @@
+Voir Historique (4 points d'Intellect) #Ability #InformationAbility #Low #Core
+
+Vous touchez un objet, lisez les échos subtils de son existence à travers le temps, posez au MJ une question sur le passé de l'objet et obtenez une réponse générale. Les réponses se présentent souvent sous la forme de brèves images ou de sensations plutôt que de réponses spécifiques dans une langue que vous connaissez. Le MJ attribue un niveau à la question, donc plus la réponse est obscure, plus la tâche est difficile. » Généralement, les connaissances que vous pourriez trouver en regardant ailleurs que votre position actuelle sont de niveau 1, et les connaissances obscures du passé sont de niveau 7. Après avoir utilisé cette capacité, vous disposez d'un atout pour identifier l'objet. Action. (« Obscur » est un terme relatif : un sage peut ne pas savoir comment un vampire a acquis un artefact spécifique, mais quelqu'un utilisant Voir l'historique sur cet artefact aurait plus de facilité à ressentir cet événement.)
+
+

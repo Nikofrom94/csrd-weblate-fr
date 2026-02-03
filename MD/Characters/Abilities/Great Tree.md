@@ -1,0 +1,5 @@
+Grand arbre #Ability #Fantasy #High #Core
+
+lorsque vous utilisez un Corps en bois,, vous pouvez atteindre jusqu'à 4 m de hauteur. Dans cette forme plus grande, vous ajoutez 7 points à votre Réserve de Puissance et +2 à votre Avantage de Puissance. Si vous choisissez de grandir, lorsque Corps en bois se termine, vous soustrayez 7 points de votre Réserve de Puissance (si cela ramène la réserve à 0, soustrayez d'abord le débordement de votre Réserve de Célérité puis, si nécessaire, de votre réserve d'intelligence). Lorsque vous utilisez Corps en bois que vous choisissiez ou non de grandir, au lieu de ressembler à une version en bois de vous-même normal, vous pouvez prendre l'apparence complète d'une créature humanoïde ou d'un arbre réel (y compris la croissance de branches supplémentaires, de feuillage supplémentaire , et ainsi de suite). Cela n'affecte aucune de vos capacités : sous forme d'arbre, vous pouvez utiliser des capacités de type, d'autres capacités de concentration, etc. En forme d'arbre, faire semblant d'être un arbre et se cacher parmi les arbres normaux est facilité par deux étapes. .
+
+Facilitateur

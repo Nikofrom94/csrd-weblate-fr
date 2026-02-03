@@ -1,0 +1,5 @@
+Percée scientifique étrange (5+ points d'Intellect) #Ability #MetaAbility #High #Core
+
+vos recherches mènent à une percée et vous confèrez à un objet une propriété vraiment étonnante, bien que vous ne puissiez utiliser l'objet qu'une seule fois. Pour ce faire, vous devez acheter des pièces de rechange équivalentes à un article coûteux, disposer d'un kit scientifique de terrain (ou d'un laboratoire permanent, si vous en avez accès) et réussir un jet basé sur l'Intellect de difficulté 4 pour créer un cypher manifeste aléatoire. jusqu'au niveau 2. Le MJ décide de la nature du cypher que vous créez. Tenter de créer un cypher spécifié entrave la tâche de deux étapes. La création d'un cypher ne vous permet pas de dépasser votre limite de cypher normale. En plus des options normales d'utilisation d'Effort, vous pouvez choisir d'utiliser Effort pour augmenter le niveau du cypher que vous créez ; chaque niveau d'effort augmente le niveau du cypherre et la difficulté de la tâche Intellect pour le créer.
+
+Action à initier, une heure à réaliser.

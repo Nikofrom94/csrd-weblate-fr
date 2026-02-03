@@ -1,0 +1,6 @@
+Sprint de Phase (1+ points de Célérité) #Ability #MovementAbility #Low #Core
+
+Vous pouvez courir sur une longue distance tant que vous n'effectuez aucune autre action. Durant votre action et jusqu'au début de votre prochain tour, vous êtes partiellement en phase, et certaines attaques vous traversent sans danger. En phase, vous gagnez un atout pour vos tâches de défense de Célérité, mais vous perdez tout avantage de l'armure que vous portez.
+Notez que certaines de vos autres capacités spéciales peuvent activer des actions spécifiques que vous pouvez entreprendre lors de l'utilisation de Sprint de Phase. Par exemple, lorsque vous utilisez Toucher perturbateur, vous pouvez effectuer une attaque tactile tout en vous déplaçant (bien que cela mette fin à votre mouvement). Action. (Vous n'êtes pas obligé de courir sur une longue ligne droite lorsque vous utilisez Sprint de Phase, mais vous pouvez à la place zigzaguer, courber ou même revenir à votre point de départ.) (D'autres capacités peuvent être utilisées avec Sprint de Phase pour débloquer des effets supplémentaires. , y compris Toucher perturbateur, Rayer l'Existence, Invisibilité de Phase et Détonation de phase. Ces capacités sont des outils additifs, obligeant l'utilisateur à dépenser des points pour les deux capacités, et parfois à partir de deux pools différents.)
+
+
