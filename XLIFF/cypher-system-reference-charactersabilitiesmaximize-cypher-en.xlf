@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="en">
+    <body>
+      <trans-unit xml:space="preserve" approved="no" id="3e24f65fe1121c80" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Maximize Cypher #Ability #Core #Fantasy</source>
+        <target state="translated">Maximize Cypher #Ability #Core #Fantasy</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="0c825a36ac3b9273" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Choose one subtle cypher you bear. Its level becomes the maximum level possible for that cypher. For example, a meditation aid has a level range of 1d6 + 2, so maximizing that cypher changes its level to 8. You can have only one maximized subtle cypher at a time. You can’t use this ability again until after you’ve taken a ten-hour recovery action.</source>
+        <target state="translated">Choose one subtle cypher you bear. Its level becomes the maximum level possible for that cypher. For example, a meditation aid has a level range of 1d6 + 2, so maximizing that cypher changes its level to 8. You can have only one maximized subtle cypher at a time. You can’t use this ability again until after you’ve taken a ten-hour recovery action.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="e6012b99f17b0d6d" weblate-flags="md-text, read-only, safe-html, strict-same">
+        <source>Enabler.</source>
+        <target state="translated">Enabler.</target>
+        <context-group name="" purpose="location">
+          <context context-type="sourcefile"></context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
