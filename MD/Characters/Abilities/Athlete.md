@@ -1,5 +1,5 @@
-Athlète #Ability #Low #Core
+Athlète #Ability #TaskAbility #Low #Core
 
-Vous êtes entraîné à porter, grimper, sauter et écraser. .
+Vous êtes entraîné à porter, grimper, sauter et écraser.
 
 Facilitateur

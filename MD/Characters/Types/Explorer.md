@@ -109,6 +109,7 @@ Choisissez quatre des capacités ci-dessous (ou du rang inférieur) pour l'ajout
 - [Coordination Main-Oeil](../Abilities/Hand%20To%20Eye.md)
 - [Curieux](../Abilities/Curious.md)
 - [Déjouer le Danger](../Abilities/Foil%20Danger.md)
+- [Défoncer](../Abilities/Wreck.md)
 - [Evasion](../Abilities/Escape.md)
 - [Instinct de Danger](../Abilities/Danger%20Instinct.md)
 - [Oeil pour les détails](../Abilities/Eye%20For%20Detail.md)
@@ -134,7 +135,7 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 # Explorateur de Quatrième Rang
 
-Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
+Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 - [Compétence d'expert](../Abilities/Expert%20Skill.md)
 - [Coureur](../Abilities/Runner.md)
 - [Dur comme du Bois](../Abilities/Tough%20As%20Nails.md)
@@ -181,6 +182,6 @@ L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univer
 
 Sam a encore besoin d'un descripteur et d'un focus. En regardant le chapitre Descripteur, il choisit Endurant, ce qui augmente leur réserve de Puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de Puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
 
-Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.
+Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. C'est un Explorateur tout à fait compétent.
 
 Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux extraterrestres révèle parfois d'étranges reliques, et Sam pense qu'il pourrait peut-être mettre en place un service pour transporter de manière fiable ces objets vers des tiers responsables, plutôt que de les laisser tomber entre les mains de pirates et de riches collectionneurs privés. Pour une somme modique, bien sûr.
